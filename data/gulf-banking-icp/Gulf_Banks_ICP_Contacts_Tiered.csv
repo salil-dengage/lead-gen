@@ -1,0 +1,1625 @@
+Tier,Persona_Type,First_Name,Title,Bank,Has_Email
+T1,Tier 1 - Economic Buyer,Samih,Acting Global Head of Retail Banking Group - Abu Dhabi Islamic Bank,ADIB - Abu Dhabi Islamic Bank,True
+T1,Tier 1 - Economic Buyer,Shihab,Deputy Head of Retail Banking,ADIB - Abu Dhabi Islamic Bank,False
+T1,Tier 1 - Economic Buyer,Amit,Global Head of Retail Banking / Chairman Adimac and ADIB Securities / Board Member ADIB Capital,ADIB - Abu Dhabi Islamic Bank,True
+T1,Tier 1 - Economic Buyer,Maher,Group Chief Customer Officer,ADIB - Abu Dhabi Islamic Bank,True
+T1,Tier 1 - Economic Buyer,Maher,Group Chief Customer Officer,ADIB - Abu Dhabi Islamic Bank,False
+T1,Tier 1 - Economic Buyer,Fernando,Group Chief Digital Officer,ADIB - Abu Dhabi Islamic Bank,True
+T1,Tier 1 - Economic Buyer,Lamia,"Group Head of Marketing, Communication, ESG and IR",ADIB - Abu Dhabi Islamic Bank,True
+T1,Tier 1 - Economic Buyer,Muhammad,Head of CRM,ADIB - Abu Dhabi Islamic Bank,True
+T1,Tier 1 - Economic Buyer,Khaled,Head of Cards Direct Sales,ADIB - Abu Dhabi Islamic Bank,False
+T1,Tier 1 - Economic Buyer,Eman,Head of Cards Product Development,ADIB - Abu Dhabi Islamic Bank,False
+T1,Tier 1 - Economic Buyer,Ma'en,Head of Customer Experience,ADIB - Abu Dhabi Islamic Bank,True
+T1,Tier 1 - Economic Buyer,Hiren,Head of Digital & Innovation,ADIB - Abu Dhabi Islamic Bank,True
+T1,Tier 1 - Economic Buyer,Alfonso,"Head of Digital Architecture, AVP",ADIB - Abu Dhabi Islamic Bank,True
+T1,Tier 1 - Economic Buyer,Nayab,"Head of Digital Delivery, Integration & Automation",ADIB - Abu Dhabi Islamic Bank,True
+T1,Tier 1 - Economic Buyer,Ahmad,Head of Digital Factory,ADIB - Abu Dhabi Islamic Bank,True
+T1,Tier 1 - Economic Buyer,Osama,Head of Digital Marketing,ADIB - Abu Dhabi Islamic Bank,True
+T1,Tier 1 - Economic Buyer,Ayat,Head of Digital Products,ADIB - Abu Dhabi Islamic Bank,True
+T1,Tier 1 - Economic Buyer,Daniel,Head of Digital Products & Design,ADIB - Abu Dhabi Islamic Bank,True
+T1,Tier 1 - Economic Buyer,Asif,Head of Digital and Integration Platform,ADIB - Abu Dhabi Islamic Bank,True
+T1,Tier 1 - Economic Buyer,Nidal,Head of Marketing & Business Development - SME,ADIB - Abu Dhabi Islamic Bank,False
+T1,Tier 1 - Economic Buyer,Ahmed,Head of Priority Banking Proposition & Segments,ADIB - Abu Dhabi Islamic Bank,False
+T1,Tier 1 - Economic Buyer,Kamran,Head of Retail Banking Platforms,ADIB - Abu Dhabi Islamic Bank,True
+T1,Tier 1 - Economic Buyer,Hind,Marketing Manager l Business Banking & Retail Banking Segments at ADIB BANK Dubai Head Office,ADIB - Abu Dhabi Islamic Bank,False
+T1,Tier 1 - Economic Buyer,Amr,SVP - Head of Digital Banking and Alternate Channels,ADIB - Abu Dhabi Islamic Bank,True
+T2,Tier 2 - Champion,Sai,Head of Analytics Centre of Excellence,ADIB - Abu Dhabi Islamic Bank,True
+T2,Tier 2 - Champion,Krishna,Head of Analytics and BI,ADIB - Abu Dhabi Islamic Bank,True
+T2,Tier 2 - Champion,Olla,Head of Basel Analytics and Capital Models,ADIB - Abu Dhabi Islamic Bank,False
+T2,Tier 2 - Champion,Muhammad,Head of Business Intelligence and Analytics,ADIB - Abu Dhabi Islamic Bank,True
+T2,Tier 2 - Champion,Karuppanchetty,Head of Business Planning and Analytics - Retail,ADIB - Abu Dhabi Islamic Bank,True
+T2,Tier 2 - Champion,Maher,Head of Channel – Contact Center,ADIB - Abu Dhabi Islamic Bank,False
+T2,Tier 2 - Champion,Amjad,Head of Contact Center,ADIB - Abu Dhabi Islamic Bank,True
+T2,Tier 2 - Champion,Shady,Head of Customer Service,ADIB - Abu Dhabi Islamic Bank,False
+T2,Tier 2 - Champion,Dareen,Head of Customer Service,ADIB - Abu Dhabi Islamic Bank,False
+T2,Tier 2 - Champion,Sally,Head of Customer Service,ADIB - Abu Dhabi Islamic Bank,True
+T2,Tier 2 - Champion,Alaa,Head of Customer Service,ADIB - Abu Dhabi Islamic Bank,False
+T2,Tier 2 - Champion,Bahy,Head of Customer Service,ADIB - Abu Dhabi Islamic Bank,False
+T2,Tier 2 - Champion,Grace,VP - Head of Corporate Communications & Public Affairs,ADIB - Abu Dhabi Islamic Bank,False
+T3,Tier 3 - Integration,Ismail,Chief Information Officer,ADIB - Abu Dhabi Islamic Bank,False
+T3,Tier 3 - Integration,Siraj,Chief Technology Officer,ADIB - Abu Dhabi Islamic Bank,True
+T3,Tier 3 - Integration,Manoj,Group Chief Information Officer,ADIB - Abu Dhabi Islamic Bank,False
+T3,Tier 3 - Integration,Nijanthan,Head of Data Engineering & AI,ADIB - Abu Dhabi Islamic Bank,True
+T3,Tier 3 - Integration,Mohammad,Head of Technology GRC,ADIB - Abu Dhabi Islamic Bank,True
+T3,Tier 3 - Integration,Ameen,Head of Technology and Cloud Operations,ADIB - Abu Dhabi Islamic Bank,True
+T1,Tier 1 - Economic Buyer,Ramy,"Deputy CEO - Retail, MSMEs and Digital Banking",ALEXBANK,True
+T1,Tier 1 - Economic Buyer,Ayman,Head of Affluent &Private Segment Development,ALEXBANK,True
+T1,Tier 1 - Economic Buyer,Mohamed,Head of Affluent Segment Proposition and Portfolio Unit,ALEXBANK,False
+T1,Tier 1 - Economic Buyer,Mariam,Head of Affluent and Private Clients Department,ALEXBANK,True
+T1,Tier 1 - Economic Buyer,Hanan,Head of CRM & Digital Analytics,ALEXBANK,True
+T1,Tier 1 - Economic Buyer,Ihab,Head of CRM and Digital Analytics,ALEXBANK,True
+T1,Tier 1 - Economic Buyer,Shaimaa,Head of Cards,ALEXBANK,False
+T1,Tier 1 - Economic Buyer,Mervat,Head of Cards Business,ALEXBANK,True
+T1,Tier 1 - Economic Buyer,Hoda,Head of Cards Product Development,ALEXBANK,True
+T1,Tier 1 - Economic Buyer,Ahmed,Head of Consumer Digital Banking Development,ALEXBANK,True
+T1,Tier 1 - Economic Buyer,Yassmin,Head of Customer Experience,ALEXBANK,False
+T1,Tier 1 - Economic Buyer,Basma,Head of Digital Channels Development,ALEXBANK,True
+T1,Tier 1 - Economic Buyer,Mohamed,Head of Digital Performance,ALEXBANK,True
+T1,Tier 1 - Economic Buyer,Karim,Head of Marketing Communications,ALEXBANK,True
+T2,Tier 2 - Champion,Ahmed,Deputy Manager Head of Customer Service,ALEXBANK,False
+T2,Tier 2 - Champion,Amr,Head of Contact Center,ALEXBANK,True
+T2,Tier 2 - Champion,Mohamed,Head of Customer Service,ALEXBANK,True
+T2,Tier 2 - Champion,Fatma,Head of Customer Service,ALEXBANK,True
+T2,Tier 2 - Champion,Kareem,Head of Customer Service,ALEXBANK,True
+T2,Tier 2 - Champion,Nourhan,Head of Customer Service,ALEXBANK,True
+T2,Tier 2 - Champion,Mahmoud,Head of Customer Service,ALEXBANK,True
+T2,Tier 2 - Champion,Marwan,Head of Customer Service,ALEXBANK,False
+T2,Tier 2 - Champion,Mohamed,Head of Customer Service,ALEXBANK,True
+T2,Tier 2 - Champion,Ahdab,Head of Customer Service,ALEXBANK,True
+T2,Tier 2 - Champion,Ahmed,Head of Customer Service,ALEXBANK,True
+T2,Tier 2 - Champion,Mohamed,Head of Customer Service,ALEXBANK,True
+T2,Tier 2 - Champion,Hesham,Head of Customer Service,ALEXBANK,True
+T2,Tier 2 - Champion,Mai,Head of Customer Service,ALEXBANK,True
+T2,Tier 2 - Champion,Ashraf,Head of Customer Service,ALEXBANK,True
+T2,Tier 2 - Champion,Lamiaa,Head of Customer Service,ALEXBANK,True
+T2,Tier 2 - Champion,Mohamed,Head of Customer Service,ALEXBANK,True
+T2,Tier 2 - Champion,Abbdallah,Head of Customer Service,ALEXBANK,True
+T2,Tier 2 - Champion,Muhammad,Head of Customer Service,ALEXBANK,True
+T2,Tier 2 - Champion,Mohamed,Head of Customer Service,ALEXBANK,True
+T2,Tier 2 - Champion,Omar,Head of Customer Service,ALEXBANK,True
+T2,Tier 2 - Champion,Aya,Head of Customer Service,ALEXBANK,True
+T2,Tier 2 - Champion,Merna,Head of Customer Service,ALEXBANK,True
+T2,Tier 2 - Champion,Mohamed,Head of Customer Service,ALEXBANK,True
+T2,Tier 2 - Champion,Dana,Head of Customer Service,ALEXBANK,True
+T2,Tier 2 - Champion,Bishoy,Head of Customer Service,ALEXBANK,True
+T2,Tier 2 - Champion,Joseph,Head of Customer Service,ALEXBANK,True
+T2,Tier 2 - Champion,Rehab,Head of Customer Service,ALEXBANK,True
+T2,Tier 2 - Champion,Mina,Head of Customer Service,ALEXBANK,True
+T2,Tier 2 - Champion,Tammam,Head of Customer Service,ALEXBANK,True
+T2,Tier 2 - Champion,Mohamed,Head of Customer Service,ALEXBANK,True
+T2,Tier 2 - Champion,Hossam,Head of Customer Service,ALEXBANK,True
+T2,Tier 2 - Champion,Mariem,Head of Customer Service,ALEXBANK,False
+T2,Tier 2 - Champion,Amr,Head of Customer Service,ALEXBANK,False
+T2,Tier 2 - Champion,Maha,Head of Customer Service,ALEXBANK,False
+T2,Tier 2 - Champion,Ahmed,Head of Customer Service,ALEXBANK,False
+T2,Tier 2 - Champion,Sammar,Head of Customer Service,ALEXBANK,False
+T2,Tier 2 - Champion,Peter,Head of Customer Service,ALEXBANK,False
+T2,Tier 2 - Champion,Mohammed,Head of Customer Service,ALEXBANK,True
+T2,Tier 2 - Champion,Mohamed,Head of Customer Service,ALEXBANK,True
+T2,Tier 2 - Champion,Radwa,Head of Customer Service,ALEXBANK,True
+T2,Tier 2 - Champion,Michael,Head of Customer Service,ALEXBANK,True
+T2,Tier 2 - Champion,Tarek,Head of Customer Service,ALEXBANK,False
+T2,Tier 2 - Champion,Mohamed,Head of Customer Service,ALEXBANK,True
+T2,Tier 2 - Champion,Abdelrahman,Head of Customer Service,ALEXBANK,True
+T2,Tier 2 - Champion,Mohamed,Head of Customer Service,ALEXBANK,True
+T2,Tier 2 - Champion,Basem,Head of Customer Service,ALEXBANK,True
+T2,Tier 2 - Champion,Hassan,Head of Customer Service,ALEXBANK,True
+T2,Tier 2 - Champion,Mohamed,Head of Customer Service,ALEXBANK,False
+T2,Tier 2 - Champion,Menna,Head of Customer Service,ALEXBANK,False
+T2,Tier 2 - Champion,Hisham,Head of Customer Service,ALEXBANK,False
+T2,Tier 2 - Champion,Dina,Head of Customer Service,ALEXBANK,True
+T2,Tier 2 - Champion,Adel,Head of Customer Service,ALEXBANK,False
+T2,Tier 2 - Champion,Nada,Head of Customer Service,ALEXBANK,False
+T2,Tier 2 - Champion,Mariam,Head of Customer Service,ALEXBANK,True
+T2,Tier 2 - Champion,Ahmed,Head of Customer Service,ALEXBANK,False
+T2,Tier 2 - Champion,Hossam,Head of Customer Service,ALEXBANK,False
+T2,Tier 2 - Champion,Hesham,Head of Customer Service,ALEXBANK,False
+T2,Tier 2 - Champion,Marina,Head of Customer Service,ALEXBANK,True
+T2,Tier 2 - Champion,Hisham,Head of Customer Service,ALEXBANK,False
+T2,Tier 2 - Champion,Motazbellah,Head of Customer Service,ALEXBANK,True
+T2,Tier 2 - Champion,Moataz,Head of Customer Service,ALEXBANK,True
+T2,Tier 2 - Champion,Waleed,Head of Customer Service,ALEXBANK,False
+T2,Tier 2 - Champion,Megahed,Head of Customer Service,ALEXBANK,True
+T2,Tier 2 - Champion,Mahmoud,Head of Customer Service,ALEXBANK,True
+T2,Tier 2 - Champion,Mohamed,Head of Customer Service,ALEXBANK,True
+T2,Tier 2 - Champion,Nadine,Head of Customer Service,ALEXBANK,False
+T2,Tier 2 - Champion,Amr,Head of Customer Service,ALEXBANK,False
+T2,Tier 2 - Champion,Abanob,Head of Customer Service,ALEXBANK,False
+T2,Tier 2 - Champion,Ahmed,Head of Customer Service,ALEXBANK,False
+T2,Tier 2 - Champion,Mohamed,Head of Customer Service,ALEXBANK,False
+T2,Tier 2 - Champion,Ahmed,Head of Customer Service,ALEXBANK,True
+T2,Tier 2 - Champion,Hossam,Head of Customer Service,ALEXBANK,False
+T2,Tier 2 - Champion,Sherif,Head of Customer Service,ALEXBANK,False
+T2,Tier 2 - Champion,Ahmed,Head of Customer Service,ALEXBANK,False
+T2,Tier 2 - Champion,Ahmed,Head of Customer Service,ALEXBANK,False
+T2,Tier 2 - Champion,Ayat,Head of Customer Service,ALEXBANK,False
+T2,Tier 2 - Champion,Radwa,Head of Customer Service Manger,ALEXBANK,True
+T2,Tier 2 - Champion,Ahmed,Head of Customer Service | Deputy Branch Manager,ALEXBANK,True
+T2,Tier 2 - Champion,Nermine,Head of External Communications,ALEXBANK,True
+T3,Tier 3 - Integration,Khaled,Head of IT (QA) and Production Control,ALEXBANK,False
+T3,Tier 3 - Integration,Sameh,Head of IT Hardware & Equipment Management,ALEXBANK,True
+T3,Tier 3 - Integration,Sherif,Head of IT Infrastructure & Telecommunication,ALEXBANK,False
+T3,Tier 3 - Integration,Sherif,Head of IT Operations Unit,ALEXBANK,True
+T3,Tier 3 - Integration,Mohamed,Head of IT Security,ALEXBANK,True
+T1,Tier 1 - Economic Buyer,Pedro,Chief Digital Officer (CDO),Abu Dhabi Commercial Bank,True
+T1,Tier 1 - Economic Buyer,Afif,Chief Marketing Officer,Abu Dhabi Commercial Bank,True
+T1,Tier 1 - Economic Buyer,Angelo,Executive Head of Cards,Abu Dhabi Commercial Bank,False
+T1,Tier 1 - Economic Buyer,Shailee,Head - Digital Business Banking,Abu Dhabi Commercial Bank,True
+T1,Tier 1 - Economic Buyer,Sudhir,Head - Retail Products and Marketing,Abu Dhabi Commercial Bank,True
+T1,Tier 1 - Economic Buyer,Aysegul,Head of Cards Portfolio,Abu Dhabi Commercial Bank,True
+T1,Tier 1 - Economic Buyer,Josh,Head of Digital CRM and Branch Transformation,Abu Dhabi Commercial Bank,True
+T1,Tier 1 - Economic Buyer,Akshatha,Head of Digital Transformation,Abu Dhabi Commercial Bank,True
+T1,Tier 1 - Economic Buyer,Taheni,Head of Marketing Services,Abu Dhabi Commercial Bank,False
+T1,Tier 1 - Economic Buyer,Ortac,Senior Head - Daily Banking Digital Tribe,Abu Dhabi Commercial Bank,True
+T2,Tier 2 - Champion,Dana,Acting Head - Marketing & Corporate Communication Al Hilal Bank,Abu Dhabi Commercial Bank,True
+T2,Tier 2 - Champion,Ahmed,Acting as Head of Customer Service,Abu Dhabi Commercial Bank,True
+T2,Tier 2 - Champion,Nihal,Deputy Manager Head of Customer Service,Abu Dhabi Commercial Bank,True
+T2,Tier 2 - Champion,Aziz,Head - Manpower and Data Analytics,Abu Dhabi Commercial Bank,True
+T2,Tier 2 - Champion,Fatima,Head Customer Experience and Research,Abu Dhabi Commercial Bank,True
+T2,Tier 2 - Champion,Mary,Head Customer Service,Abu Dhabi Commercial Bank,True
+T2,Tier 2 - Champion,Jerry,Head Portfolio Performance and Data Analytics,Abu Dhabi Commercial Bank,True
+T2,Tier 2 - Champion,Zeina,Head of Corporate Communications,Abu Dhabi Commercial Bank,True
+T2,Tier 2 - Champion,Mona,Head of Customer Service,Abu Dhabi Commercial Bank,True
+T2,Tier 2 - Champion,Nesma,Head of Customer Service,Abu Dhabi Commercial Bank,True
+T2,Tier 2 - Champion,Omar,Head of Customer Service,Abu Dhabi Commercial Bank,True
+T2,Tier 2 - Champion,Aya,Head of Customer Service,Abu Dhabi Commercial Bank,True
+T2,Tier 2 - Champion,Ahmed,Head of Customer Service,Abu Dhabi Commercial Bank,True
+T2,Tier 2 - Champion,Beshoy,Head of Customer Service,Abu Dhabi Commercial Bank,False
+T2,Tier 2 - Champion,Mostafa,Head of Customer Service,Abu Dhabi Commercial Bank,False
+T2,Tier 2 - Champion,Afolayan,Head of Group Service & Customer Experience Management,Abu Dhabi Commercial Bank,True
+T2,Tier 2 - Champion,Ismail,"Senior manager,Head of Al Hilal Digital Contact Centre ADCB Group",Abu Dhabi Commercial Bank,True
+T3,Tier 3 - Integration,Sean,Chief Information Officer,Abu Dhabi Commercial Bank,True
+T3,Tier 3 - Integration,Sewis,Head Enterprise Architecture,Abu Dhabi Commercial Bank,True
+T3,Tier 3 - Integration,Ghada,Head of IT Business Analysis,Abu Dhabi Commercial Bank,True
+T3,Tier 3 - Integration,Dhiraj,Head of Information Technology (Senior Manager),Abu Dhabi Commercial Bank,True
+T3,Tier 3 - Integration,Mangesh,Solution Chapter Head – Digital Platform,Abu Dhabi Commercial Bank,True
+T1,Tier 1 - Economic Buyer,Ines,Chief Marketing and Communications Officer,Abu Dhabi Commercial Bank - Egypt,True
+T1,Tier 1 - Economic Buyer,Mai,Head of Cards Business & Digital Lending,Abu Dhabi Commercial Bank - Egypt,False
+T1,Tier 1 - Economic Buyer,Mohamed,Head of Marketing Communications and Digital Marketing,Abu Dhabi Commercial Bank - Egypt,True
+T2,Tier 2 - Champion,Khaled,Head of Contact Center & Retention,Abu Dhabi Commercial Bank - Egypt,True
+T2,Tier 2 - Champion,Sherif,Head of Customer Service,Abu Dhabi Commercial Bank - Egypt,True
+T3,Tier 3 - Integration,Mohamed,Chief Information Officer,Abu Dhabi Commercial Bank - Egypt,True
+T3,Tier 3 - Integration,Amr,Executive Manager - Acting Head of IT Infrastructure and Network,Abu Dhabi Commercial Bank - Egypt,True
+T3,Tier 3 - Integration,Atef,Head of IT Platform & Storage Management,Abu Dhabi Commercial Bank - Egypt,False
+T3,Tier 3 - Integration,Mahmoud,Head of IT Security,Abu Dhabi Commercial Bank - Egypt,False
+T1,Tier 1 - Economic Buyer,Ahmed,Head of Cards - Issuing,Abu Dhabi Islamic Bank - Egypt,False
+T1,Tier 1 - Economic Buyer,Sherif,Head of Cards Business,Abu Dhabi Islamic Bank - Egypt,True
+T1,Tier 1 - Economic Buyer,Muhammad,Head of Cards Portfolio & Customer Life Cycle Unit,Abu Dhabi Islamic Bank - Egypt,False
+T1,Tier 1 - Economic Buyer,Georgina,Head of Customer Experience and Insights,Abu Dhabi Islamic Bank - Egypt,False
+T1,Tier 1 - Economic Buyer,Ahmed,Head of Digital,Abu Dhabi Islamic Bank - Egypt,True
+T1,Tier 1 - Economic Buyer,Kareem,Head of Digital Channels & Cards - IT,Abu Dhabi Islamic Bank - Egypt,False
+T1,Tier 1 - Economic Buyer,Mahmoud,Head of Marketing | Adicf,Abu Dhabi Islamic Bank - Egypt,False
+T1,Tier 1 - Economic Buyer,Mohamed,"Head of Marketing, PR & Corporate Communications",Abu Dhabi Islamic Bank - Egypt,False
+T1,Tier 1 - Economic Buyer,Marwa,Head of Segmentation Consumer Banking,Abu Dhabi Islamic Bank - Egypt,False
+T2,Tier 2 - Champion,Mohamed,Head Customer Service & Deputy Branch Manager,Abu Dhabi Islamic Bank - Egypt,True
+T2,Tier 2 - Champion,Rania,Head of Capacity Modeling & Data Analytics,Abu Dhabi Islamic Bank - Egypt,False
+T2,Tier 2 - Champion,Mohamed,Head of Customer Service,Abu Dhabi Islamic Bank - Egypt,True
+T2,Tier 2 - Champion,Mustafa,Head of Customer Service,Abu Dhabi Islamic Bank - Egypt,False
+T2,Tier 2 - Champion,Malak,Head of Customer Service,Abu Dhabi Islamic Bank - Egypt,False
+T2,Tier 2 - Champion,Ahmed,Head of Customer Service,Abu Dhabi Islamic Bank - Egypt,False
+T2,Tier 2 - Champion,Asma,Head of Customer Service,Abu Dhabi Islamic Bank - Egypt,False
+T2,Tier 2 - Champion,Abdelaziz,Head of Customer Service,Abu Dhabi Islamic Bank - Egypt,False
+T2,Tier 2 - Champion,Mohamed,Head of Customer Service,Abu Dhabi Islamic Bank - Egypt,False
+T2,Tier 2 - Champion,Yasser,Head of Customer Service,Abu Dhabi Islamic Bank - Egypt,False
+T2,Tier 2 - Champion,Alaa,Head of Customer Service,Abu Dhabi Islamic Bank - Egypt,False
+T2,Tier 2 - Champion,Sahar,Head of Customer Service,Abu Dhabi Islamic Bank - Egypt,False
+T1,Tier 1 - Economic Buyer,Karim,Head of Cards,Agricultural Bank of Egypt,False
+T1,Tier 1 - Economic Buyer,Omnia,Head of Cards Issuance,Agricultural Bank of Egypt,False
+T1,Tier 1 - Economic Buyer,Mohamed,"Head of Digital Banking, Alternative Channels & Digital Transformation at Agricultural Bank of Egypt",Agricultural Bank of Egypt,False
+T1,Tier 1 - Economic Buyer,Maged,Head of Digital Marketing,Agricultural Bank of Egypt,False
+T1,Tier 1 - Economic Buyer,Manal,Head of Marketing,Agricultural Bank of Egypt,False
+T1,Tier 1 - Economic Buyer,Ahmed,"Head of Retail Banking Sales, Delta Region",Agricultural Bank of Egypt,False
+T2,Tier 2 - Champion,Noha,Head of Corporate Communications & CSR,Agricultural Bank of Egypt,False
+T2,Tier 2 - Champion,Nancy,Head of Customer Service,Agricultural Bank of Egypt,False
+T2,Tier 2 - Champion,Ranya,Marketing Communications Sector Head,Agricultural Bank of Egypt,False
+T3,Tier 3 - Integration,Rasha,Head of IT Control,Agricultural Bank of Egypt,False
+T3,Tier 3 - Integration,Mohamed,Head of IT Operations,Agricultural Bank of Egypt,False
+T1,Tier 1 - Economic Buyer,Faten,Head of Marketing & Product Development,Ahli United Bank - Kuwait,False
+T1,Tier 1 - Economic Buyer,Amresh,Head of Products & Marketing,Ahli United Bank - Kuwait,True
+T1,Tier 1 - Economic Buyer,Fady,Head of Marketing and Corporate Communications,Ahlibank Qatar,True
+T1,Tier 1 - Economic Buyer,Ahmed,Head of Retail Banking,Ahlibank Qatar,False
+T1,Tier 1 - Economic Buyer,Naushad,AVP- Head of Cards Operations and Cash Management,Ajman Bank,True
+T1,Tier 1 - Economic Buyer,Ghulam,Head of Cards,Ajman Bank,True
+T1,Tier 1 - Economic Buyer,Faizal,Head of Consumer Banking,Ajman Bank,True
+T1,Tier 1 - Economic Buyer,Hassan,Head of Digital Banking,Ajman Bank,False
+T1,Tier 1 - Economic Buyer,Subhi,VP Head of Digital Transformation,Ajman Bank,True
+T2,Tier 2 - Champion,Osama,AVP | Head of Corporate Customer Service Dept,Ajman Bank,True
+T2,Tier 2 - Champion,Maryam,Head of Corporate Communication & Marketing,Ajman Bank,True
+T3,Tier 3 - Integration,Drjoseph,Chief Technology Officer,Ajman Bank,True
+T1,Tier 1 - Economic Buyer,Shaimaa,Head of Cards Acquisition and Wallets,Al Ahli Bank of Kuwait,False
+T1,Tier 1 - Economic Buyer,Ahmad,Head of Cards Products & Merchant Services,Al Ahli Bank of Kuwait,True
+T1,Tier 1 - Economic Buyer,Faisal,Head of Digital Assets - Executive Manager,Al Ahli Bank of Kuwait,True
+T1,Tier 1 - Economic Buyer,Sarah,"Head of Marketing, Corporate Communications, & Customer Experience",Al Ahli Bank of Kuwait,False
+T1,Tier 1 - Economic Buyer,Qaiss,Head of Products and Marketing,Al Ahli Bank of Kuwait,True
+T1,Tier 1 - Economic Buyer,Munirah,Head of Segments,Al Ahli Bank of Kuwait,False
+T2,Tier 2 - Champion,Hany,Customer Service Head & Acting Branch Manager,Al Ahli Bank of Kuwait,False
+T2,Tier 2 - Champion,Hussain,Head of Contact Center,Al Ahli Bank of Kuwait,False
+T2,Tier 2 - Champion,Bader,Head of Customer Retention Unit,Al Ahli Bank of Kuwait,False
+T2,Tier 2 - Champion,Sumaia,Head of Retail MIS Analytics,Al Ahli Bank of Kuwait,True
+T3,Tier 3 - Integration,Salem,Chief Information Officer,Al Ahli Bank of Kuwait,False
+T3,Tier 3 - Integration,Amir,Head of Information Technology,Al Ahli Bank of Kuwait,False
+T1,Tier 1 - Economic Buyer,Ahmed,"Acting Head of Cards, Wallet & Retention Business",Al Ahli Bank of Kuwait - Egypt,True
+T1,Tier 1 - Economic Buyer,Khaled,Deputy CEO - Consumer and Digital Banking Group Head,Al Ahli Bank of Kuwait - Egypt,False
+T1,Tier 1 - Economic Buyer,Ahmed,Head of Cards Portfolio & Campaigns Management and Merchant Alliances,Al Ahli Bank of Kuwait - Egypt,True
+T1,Tier 1 - Economic Buyer,Mohamed,Head of Cards and Wallets Operations,Al Ahli Bank of Kuwait - Egypt,True
+T1,Tier 1 - Economic Buyer,Ahmed,"Head of Digital Banking, Transformation & Alternative Channels",Al Ahli Bank of Kuwait - Egypt,True
+T1,Tier 1 - Economic Buyer,Haytham,Head of Digital Communication Department,Al Ahli Bank of Kuwait - Egypt,False
+T1,Tier 1 - Economic Buyer,Hala,"Head of Digital Communication, ATMs Channel and Retail Complaints Departments",Al Ahli Bank of Kuwait - Egypt,True
+T1,Tier 1 - Economic Buyer,Ahmed,Head of Digital Operations & Acquisition Retail Division,Al Ahli Bank of Kuwait - Egypt,False
+T1,Tier 1 - Economic Buyer,Amr,"Head of Digital Payments, Acquisition and Digital Operations",Al Ahli Bank of Kuwait - Egypt,True
+T1,Tier 1 - Economic Buyer,Yomna,Head of Marketing,Al Ahli Bank of Kuwait - Egypt,True
+T1,Tier 1 - Economic Buyer,Mohsen,Head of Segments,Al Ahli Bank of Kuwait - Egypt,False
+T1,Tier 1 - Economic Buyer,Iman,Senior Vice President - Head of Retail Banking Division,Al Ahli Bank of Kuwait - Egypt,True
+T2,Tier 2 - Champion,Maha,Head of Contact Center,Al Ahli Bank of Kuwait - Egypt,True
+T2,Tier 2 - Champion,Ayat,Head of Corporate Communications & CSR,Al Ahli Bank of Kuwait - Egypt,True
+T2,Tier 2 - Champion,Tamer,Head of Customer Service,Al Ahli Bank of Kuwait - Egypt,True
+T2,Tier 2 - Champion,Menna,Head of Customer Service,Al Ahli Bank of Kuwait - Egypt,True
+T2,Tier 2 - Champion,Sameh,Head of Customer Service,Al Ahli Bank of Kuwait - Egypt,True
+T2,Tier 2 - Champion,Kerelos,Head of Customer Service,Al Ahli Bank of Kuwait - Egypt,True
+T2,Tier 2 - Champion,Sherif,Head of Customer Service,Al Ahli Bank of Kuwait - Egypt,False
+T2,Tier 2 - Champion,Passant,Head of Customer Service,Al Ahli Bank of Kuwait - Egypt,False
+T2,Tier 2 - Champion,Heba,Head of Customer Service,Al Ahli Bank of Kuwait - Egypt,True
+T2,Tier 2 - Champion,Sayed,Head of Customer Service,Al Ahli Bank of Kuwait - Egypt,True
+T2,Tier 2 - Champion,Mohamed,Head of Customer Service,Al Ahli Bank of Kuwait - Egypt,False
+T2,Tier 2 - Champion,Ahmed,Head of Customer Service,Al Ahli Bank of Kuwait - Egypt,False
+T2,Tier 2 - Champion,Medhat,Head of Customer Service,Al Ahli Bank of Kuwait - Egypt,True
+T2,Tier 2 - Champion,Mohamed,Head of Data Management - Data Analytics & Reporting,Al Ahli Bank of Kuwait - Egypt,True
+T2,Tier 2 - Champion,Omayma,Head of Retention and Activation.Cards&wallet&attrition Business,Al Ahli Bank of Kuwait - Egypt,False
+T2,Tier 2 - Champion,Saadia,Sales & Customer Service Head,Al Ahli Bank of Kuwait - Egypt,False
+T3,Tier 3 - Integration,Mohsen,AVP - Head of IT Architecture,Al Ahli Bank of Kuwait - Egypt,True
+T3,Tier 3 - Integration,Mohamed,AVP - Head of IT Security Operations,Al Ahli Bank of Kuwait - Egypt,False
+T3,Tier 3 - Integration,Islam,Chief Information Officer,Al Ahli Bank of Kuwait - Egypt,True
+T3,Tier 3 - Integration,Ahmed,Head of IT Business Analysis,Al Ahli Bank of Kuwait - Egypt,True
+T3,Tier 3 - Integration,Mohamed,Head of IT Business Analysis,Al Ahli Bank of Kuwait - Egypt,True
+T3,Tier 3 - Integration,Karim,Head of IT Business Operations & Parametrization,Al Ahli Bank of Kuwait - Egypt,True
+T3,Tier 3 - Integration,Mohamed,Head of IT Business Solutions & Testing,Al Ahli Bank of Kuwait - Egypt,True
+T3,Tier 3 - Integration,Ahmed,Head of IT Infrastructure,Al Ahli Bank of Kuwait - Egypt,True
+T3,Tier 3 - Integration,Mohamed,Head of IT Infrastructure,Al Ahli Bank of Kuwait - Egypt,True
+T3,Tier 3 - Integration,Seif,Head of IT Infrastructure,Al Ahli Bank of Kuwait - Egypt,True
+T3,Tier 3 - Integration,Soha,VP- Deputy Chief Information Officer,Al Ahli Bank of Kuwait - Egypt,True
+T1,Tier 1 - Economic Buyer,Galal,Head of Cards,Al Baraka Bank Egypt,False
+T1,Tier 1 - Economic Buyer,Amr,Head of Digital Banking,Al Baraka Bank Egypt,True
+T1,Tier 1 - Economic Buyer,Sherif,Head of Marketing & Corporate Communication,Al Baraka Bank Egypt,True
+T1,Tier 1 - Economic Buyer,Sarah,Head of Marketing & Corporate Communication alBaraka Bank Egypt,Al Baraka Bank Egypt,True
+T1,Tier 1 - Economic Buyer,Ali,Head of Segments,Al Baraka Bank Egypt,False
+T2,Tier 2 - Champion,Ahmed,Customer Service Head,Al Baraka Bank Egypt,True
+T2,Tier 2 - Champion,Mhmd,Head Customer Service at Al Baraka Bank,Al Baraka Bank Egypt,False
+T2,Tier 2 - Champion,Dana,Head of Customer Service,Al Baraka Bank Egypt,False
+T2,Tier 2 - Champion,Maan,Head of Customer Service,Al Baraka Bank Egypt,True
+T2,Tier 2 - Champion,Mohamed,Head of Customer Service,Al Baraka Bank Egypt,True
+T2,Tier 2 - Champion,Mohamed,Head of Customer Service,Al Baraka Bank Egypt,False
+T2,Tier 2 - Champion,Merihan,Head of Customer Service,Al Baraka Bank Egypt,False
+T2,Tier 2 - Champion,Abdelrahman,Head of Customer Service,Al Baraka Bank Egypt,False
+T2,Tier 2 - Champion,Mohamed,Head of Customer Service,Al Baraka Bank Egypt,False
+T2,Tier 2 - Champion,Walaa,Head of Customer Service,Al Baraka Bank Egypt,False
+T2,Tier 2 - Champion,Hajar,Head of Customer Service,Al Baraka Bank Egypt,False
+T3,Tier 3 - Integration,Khaled,Chief Information Officer,Al Baraka Bank Egypt,True
+T3,Tier 3 - Integration,Ahmed,Chief Information Officer,Al Baraka Bank Egypt,False
+T3,Tier 3 - Integration,Karim,Deputy CIO / Chief Technology Officer,Al Baraka Bank Egypt,True
+T3,Tier 3 - Integration,Mahmoud,Head of IT Business Analysis,Al Baraka Bank Egypt,False
+T3,Tier 3 - Integration,Hesham,Head of Information Technology Operations,Al Baraka Bank Egypt,True
+T3,Tier 3 - Integration,Ezz,Section Head of IT Business Analysis and Change Management,Al Baraka Bank Egypt,False
+T1,Tier 1 - Economic Buyer,Aref,Chief Digital Officer,Al Hilal Bank,True
+T3,Tier 3 - Integration,Islam,Head of Information Technology,Al Hilal Bank,False
+T1,Tier 1 - Economic Buyer,Thomas,"Head of Digital Experience,Policy &Process Management",Al Maryah Community Bank,True
+T1,Tier 1 - Economic Buyer,Waseem,Head of Digital Wallet and Card Management Services,Al Maryah Community Bank,True
+T2,Tier 2 - Champion,Majd,Head of Business Intelligence,Al Maryah Community Bank,True
+T2,Tier 2 - Champion,Sahar,Head of Customer Engagement Centre,Al Maryah Community Bank,True
+T3,Tier 3 - Integration,Tarek,Chief Technology Officer | Founding Executive Team Member,Al Maryah Community Bank,True
+T3,Tier 3 - Integration,Shino,Head of Technology Delivery and IT Operations,Al Maryah Community Bank,True
+T1,Tier 1 - Economic Buyer,Mahmood,AVP - Head of Digital & Performance Marketing,Al Salam Bank,True
+T1,Tier 1 - Economic Buyer,Mahmood,Chief Marketing & Sustainability Officer,Al Salam Bank,True
+T1,Tier 1 - Economic Buyer,Karim,Head of Retail Banking,Al Salam Bank,True
+T2,Tier 2 - Champion,Ahmed,Head of Brand and Corporate Communications,Al Salam Bank,True
+T3,Tier 3 - Integration,Ahmed,Deputy Chief Technology Officer,Al Salam Bank,True
+T3,Tier 3 - Integration,Ali,Deputy Head of IT Architecture & AI Team,Al Salam Bank,True
+T1,Tier 1 - Economic Buyer,Dilip,Unit Head Digital Banking & Channels,AlRayan Bank Group,True
+T2,Tier 2 - Champion,Hamid,"Unit Head Data & Analytics, Group Transformation",AlRayan Bank Group,True
+T3,Tier 3 - Integration,Philip,Head of IT Application Development and Support,AlRayan Bank Group,True
+T3,Tier 3 - Integration,Rehman,Head of IT Infrastructure & Operations,AlRayan Bank Group,True
+T1,Tier 1 - Economic Buyer,Eng,Acting AGM-Head of Retail Banking Products & Segments,Alawwal Bank,False
+T1,Tier 1 - Economic Buyer,Adam,Deputy Head of Marketing & Corporate Communications,Alizz Islamic Bank,True
+T1,Tier 1 - Economic Buyer,Velimir,Head of Digital Transformation,Alizz Islamic Bank,True
+T1,Tier 1 - Economic Buyer,Lina,Head of Marketing and Corporate Communication,Alizz Islamic Bank,False
+T1,Tier 1 - Economic Buyer,Nadira,Unit Head Digital Banking,Alizz Islamic Bank,False
+T1,Tier 1 - Economic Buyer,Sultan,Chief Marketing Officer,Aljazira Bank | بنك الجزيرة,True
+T1,Tier 1 - Economic Buyer,Rayan,Head of Affluent Banking,Aljazira Bank | بنك الجزيرة,False
+T1,Tier 1 - Economic Buyer,Hazim,Head of Cards Processing and Services,Aljazira Bank | بنك الجزيرة,True
+T1,Tier 1 - Economic Buyer,Salman,Head of Cards and Payment Solutions - Information Technology,Aljazira Bank | بنك الجزيرة,False
+T1,Tier 1 - Economic Buyer,Mohammed,Head of Digital Delivery Excellence,Aljazira Bank | بنك الجزيرة,True
+T1,Tier 1 - Economic Buyer,Alain,Head of Digital Marketing,Aljazira Bank | بنك الجزيرة,False
+T1,Tier 1 - Economic Buyer,Nawaf,Head of Digital Payments,Aljazira Bank | بنك الجزيرة,True
+T1,Tier 1 - Economic Buyer,Kholoud,Head of Loyalty,Aljazira Bank | بنك الجزيرة,False
+T1,Tier 1 - Economic Buyer,Nawaf,Head of Marketing,Aljazira Bank | بنك الجزيرة,False
+T1,Tier 1 - Economic Buyer,Mohammed,Head of Retail Banking Group,Aljazira Bank | بنك الجزيرة,True
+T1,Tier 1 - Economic Buyer,Ahmad,VP - Head of Cards,Aljazira Bank | بنك الجزيرة,True
+T1,Tier 1 - Economic Buyer,Fahad,VP - Head of Digital Banking,Aljazira Bank | بنك الجزيرة,True
+T1,Tier 1 - Economic Buyer,Badr,VP Head of Customer Experience & Protection,Aljazira Bank | بنك الجزيرة,True
+T1,Tier 1 - Economic Buyer,Mohammad,"Vice President, Head of Digital Garage",Aljazira Bank | بنك الجزيرة,False
+T2,Tier 2 - Champion,Turki,Head of Contact Center and Self-Service,Aljazira Bank | بنك الجزيرة,False
+T2,Tier 2 - Champion,Abdulaziz,Head of Corporate Digital Channels,Aljazira Bank | بنك الجزيرة,True
+T2,Tier 2 - Champion,Mohammed,Head of HC and CS Systems and Business Analytics,Aljazira Bank | بنك الجزيرة,True
+T3,Tier 3 - Integration,Mohammed,Acting Head of IT Infrastructure,Aljazira Bank | بنك الجزيرة,True
+T3,Tier 3 - Integration,Abdullah,Head of IT Asset Management,Aljazira Bank | بنك الجزيرة,True
+T3,Tier 3 - Integration,Nedal,Head of IT Infrastructure - IT Group,Aljazira Bank | بنك الجزيرة,True
+T3,Tier 3 - Integration,Emad,Head of IT Quality,Aljazira Bank | بنك الجزيرة,True
+T3,Tier 3 - Integration,Mohannad,Head of IT Security,Aljazira Bank | بنك الجزيرة,True
+T3,Tier 3 - Integration,Khairi,Head of IT Service Support,Aljazira Bank | بنك الجزيرة,True
+T3,Tier 3 - Integration,Atif,Head of IT Systems Monitoring & Workload Automation Support,Aljazira Bank | بنك الجزيرة,False
+T3,Tier 3 - Integration,Mohammed,Head of Information Technology,Aljazira Bank | بنك الجزيرة,False
+T3,Tier 3 - Integration,Mahfooz,Head of Technology and Operations Performance,Aljazira Bank | بنك الجزيرة,True
+T3,Tier 3 - Integration,Mohanad,"Vice President, Head of IT Operation",Aljazira Bank | بنك الجزيرة,True
+T1,Tier 1 - Economic Buyer,Amr,Acting as Director of Marketing and Communication,Arab African International Bank,True
+T1,Tier 1 - Economic Buyer,Ahmed,Acting as Head of Consumer Banking Business Planning &Sales Performance,Arab African International Bank,True
+T1,Tier 1 - Economic Buyer,Mahmoud,Head of CRM & Automation,Arab African International Bank,True
+T1,Tier 1 - Economic Buyer,Mohamed,Head of Cards & Merchants Disputes Operations,Arab African International Bank,True
+T1,Tier 1 - Economic Buyer,Shady,"Head of Cards, Merchants Services and ATMs Centers",Arab African International Bank,True
+T1,Tier 1 - Economic Buyer,Alaa,Head of Digital,Arab African International Bank,True
+T1,Tier 1 - Economic Buyer,Omar,Head of Digital Factory | Digital Factory,Arab African International Bank,False
+T1,Tier 1 - Economic Buyer,Mostafa,Head of Digital Marketing,Arab African International Bank,False
+T1,Tier 1 - Economic Buyer,Ahmed,Head of Digital Products,Arab African International Bank,True
+T1,Tier 1 - Economic Buyer,Reda,Head of Digital Technology,Arab African International Bank,True
+T1,Tier 1 - Economic Buyer,Hosameldin,"Head of Loyalty, Campaigns and CVM, Consumer Banking",Arab African International Bank,True
+T1,Tier 1 - Economic Buyer,Mostafa,Transformation Marketing Head,Arab African International Bank,True
+T2,Tier 2 - Champion,Dina,Acting as Corporate Communications Head,Arab African International Bank,True
+T2,Tier 2 - Champion,Mohamed,Acting as Head of Customer Service,Arab African International Bank,True
+T2,Tier 2 - Champion,Abdelrhman,Acting as Head of Customer Service,Arab African International Bank,False
+T2,Tier 2 - Champion,Amir,Acting as Head of GTB Implementation & Digital Channels,Arab African International Bank,True
+T2,Tier 2 - Champion,Hytham,C I Banking Business Analytics Head,Arab African International Bank,False
+T2,Tier 2 - Champion,Ehab,Customer Service and Sales Head,Arab African International Bank,False
+T2,Tier 2 - Champion,Mohamed,"DBM, Head of Customer Service",Arab African International Bank,False
+T2,Tier 2 - Champion,Hany,Debuty Branch Manager - Head Customer Service - Damanhour Branch.,Arab African International Bank,False
+T2,Tier 2 - Champion,Ahmed,Deputy Branch Manager & Head Customer Service,Arab African International Bank,True
+T2,Tier 2 - Champion,Ahmed,HEAD of Call Center and Customer Experience,Arab African International Bank,True
+T2,Tier 2 - Champion,Loai,Head Customer Service,Arab African International Bank,False
+T2,Tier 2 - Champion,Mark,Head of Customer Segments & Value Management,Arab African International Bank,False
+T2,Tier 2 - Champion,Mohamed,Head of Customer Service,Arab African International Bank,True
+T2,Tier 2 - Champion,Mahmoud,Head of Customer Service,Arab African International Bank,True
+T2,Tier 2 - Champion,Hatem,Head of Customer Service,Arab African International Bank,True
+T2,Tier 2 - Champion,Mahmoud,Head of Customer Service,Arab African International Bank,True
+T2,Tier 2 - Champion,Mohamed,Head of Customer Service,Arab African International Bank,True
+T2,Tier 2 - Champion,Mohamed,Head of Customer Service,Arab African International Bank,True
+T2,Tier 2 - Champion,Mohamed,Head of Customer Service,Arab African International Bank,True
+T2,Tier 2 - Champion,Noura,Head of Customer Service,Arab African International Bank,False
+T2,Tier 2 - Champion,Tarik,Head of Customer Service,Arab African International Bank,False
+T2,Tier 2 - Champion,Sameh,Head of Customer Service,Arab African International Bank,False
+T2,Tier 2 - Champion,Eslam,Head of Customer Service,Arab African International Bank,False
+T2,Tier 2 - Champion,Dina,Head of Customer Service,Arab African International Bank,False
+T2,Tier 2 - Champion,Shady,Head of Customer Service,Arab African International Bank,False
+T2,Tier 2 - Champion,Yasmin,Head of Customer Service,Arab African International Bank,False
+T2,Tier 2 - Champion,Mostafa,Head of Customer Service,Arab African International Bank,False
+T2,Tier 2 - Champion,Mostafa,Head of Customer Service,Arab African International Bank,False
+T2,Tier 2 - Champion,Mohamed,Head of Customer Service,Arab African International Bank,False
+T2,Tier 2 - Champion,Azza,Head of Customer Service,Arab African International Bank,True
+T2,Tier 2 - Champion,Assem,Head of Customer Service,Arab African International Bank,True
+T2,Tier 2 - Champion,Nesma,Head of Customer Service,Arab African International Bank,True
+T2,Tier 2 - Champion,Alia,Head of Customer Service,Arab African International Bank,True
+T2,Tier 2 - Champion,Halla,Head of Customer Service,Arab African International Bank,False
+T2,Tier 2 - Champion,Mohamed,Head of Customer Service,Arab African International Bank,True
+T2,Tier 2 - Champion,Ahmed,Head of Customer Service,Arab African International Bank,True
+T2,Tier 2 - Champion,Ferjaoui,Head of Customer Service,Arab African International Bank,True
+T2,Tier 2 - Champion,Mohamed,Head of Customer Service,Arab African International Bank,False
+T2,Tier 2 - Champion,Wael,Head of Customer Service,Arab African International Bank,True
+T2,Tier 2 - Champion,Mahmoud,Head of Customer Service,Arab African International Bank,False
+T2,Tier 2 - Champion,Walaa,Head of Customer Service,Arab African International Bank,False
+T2,Tier 2 - Champion,Passant,Head of Customer Service,Arab African International Bank,False
+T2,Tier 2 - Champion,Mohamed,Head of Customer Service,Arab African International Bank,False
+T2,Tier 2 - Champion,Mohamed,Head of Customer Service,Arab African International Bank,False
+T2,Tier 2 - Champion,Fouad,Head of Customer Service,Arab African International Bank,False
+T2,Tier 2 - Champion,Ahmed,Head of Customer Service,Arab African International Bank,False
+T2,Tier 2 - Champion,Ahmed,Head of Customer Service,Arab African International Bank,True
+T2,Tier 2 - Champion,Emad,Head of Customer Service,Arab African International Bank,False
+T2,Tier 2 - Champion,Marian,Head of Customer Service,Arab African International Bank,True
+T2,Tier 2 - Champion,Heba,Head of Customer Service,Arab African International Bank,False
+T2,Tier 2 - Champion,Raed,Head of Customer Service & Sales,Arab African International Bank,False
+T2,Tier 2 - Champion,Mohsen,Head of Customer Service -Deputy Branch Manager,Arab African International Bank,False
+T2,Tier 2 - Champion,Mostafa,Head of Customer Service Department,Arab African International Bank,False
+T2,Tier 2 - Champion,Mohamed,Head of Customer Service and Deputy Manager,Arab African International Bank,True
+T2,Tier 2 - Champion,Aaib,Head of Customer Service and Deputy Manager,Arab African International Bank,True
+T2,Tier 2 - Champion,Hala,Head of Integrated Marketing Communication,Arab African International Bank,True
+T2,Tier 2 - Champion,Sherif,Head of Retail& Customer Service-Maadi Branch,Arab African International Bank,False
+T2,Tier 2 - Champion,Mohamed,Head of Self-Services and Digital Payments - at Digital Channels Arab African International Bank,Arab African International Bank,False
+T3,Tier 3 - Integration,Mohamed,Head of IT,Arab African International Bank,True
+T3,Tier 3 - Integration,Hussein,Head of IT Security,Arab African International Bank,True
+T3,Tier 3 - Integration,Nada,Senior CIO Office Manager - Head Office,Arab African International Bank,True
+T1,Tier 1 - Economic Buyer,Haitham,"General Manager, Head of Retail Banking Group",Arab International Bank,True
+T1,Tier 1 - Economic Buyer,Mohammed,Head of Digital Banking,Arab International Bank,False
+T1,Tier 1 - Economic Buyer,Abir,Head of Marketing,Arab International Bank,True
+T2,Tier 2 - Champion,Ghada,Head of Corporate Communications-mohandessin Branch,Arab International Bank,True
+T2,Tier 2 - Champion,Ahmed,Head of Customer Service,Arab International Bank,True
+T2,Tier 2 - Champion,Mohamed,Head of Customer Service,Arab International Bank,True
+T2,Tier 2 - Champion,Reem,Head of Customer Service,Arab International Bank,True
+T2,Tier 2 - Champion,Sara,Head of Customer Service,Arab International Bank,False
+T2,Tier 2 - Champion,Mohamed,"Head of Online Banking, Digital Banking",Arab International Bank,True
+T3,Tier 3 - Integration,Monsef,CIO,Arab International Bank,False
+T3,Tier 3 - Integration,Ashraf,Chief Information Officer,Arab International Bank,False
+T3,Tier 3 - Integration,Samy,Head of IT Business Analysis,Arab International Bank,True
+T1,Tier 1 - Economic Buyer,Aiedh,Acting Head of Retail Banking Group,Arab National Bank,True
+T1,Tier 1 - Economic Buyer,Hatim,Chief Customer Care Officer,Arab National Bank,True
+T1,Tier 1 - Economic Buyer,Lama,Chief Marketing & Customer Experience Officer,Arab National Bank,True
+T1,Tier 1 - Economic Buyer,Khalid,Head of Affluent Business Development,Arab National Bank,True
+T1,Tier 1 - Economic Buyer,Isa,Head of CRM - Retail Banking,Arab National Bank,False
+T1,Tier 1 - Economic Buyer,Ahmed,Head of Cards Operations,Arab National Bank,True
+T1,Tier 1 - Economic Buyer,Omar,Head of Cards and Retail Payments,Arab National Bank,True
+T1,Tier 1 - Economic Buyer,Abdulmalik,Head of Customer Experience,Arab National Bank,True
+T1,Tier 1 - Economic Buyer,Majed,Head of Customer Experience,Arab National Bank,True
+T1,Tier 1 - Economic Buyer,Faris,Head of Digital Banking,Arab National Bank,True
+T1,Tier 1 - Economic Buyer,Sara,Head of Marketing,Arab National Bank,True
+T1,Tier 1 - Economic Buyer,Khaled,Head of Sales & Marketing - Small & Medium Enterprises,Arab National Bank,True
+T2,Tier 2 - Champion,Abdullah,Head of Contact Center,Arab National Bank,True
+T2,Tier 2 - Champion,Munira,Head of Customer Care Complaints,Arab National Bank,False
+T2,Tier 2 - Champion,Masheal,Head of Data and Analytics,Arab National Bank,True
+T2,Tier 2 - Champion,Anas,Head of Retail Performance & Analytics,Arab National Bank,True
+T3,Tier 3 - Integration,Naif,Chief Information Officer,Arab National Bank,True
+T3,Tier 3 - Integration,Bashayer,Head of IT Strategy Management,Arab National Bank,True
+T3,Tier 3 - Integration,Alaa,Head of IT Telecoms/Network Department,Arab National Bank,True
+T3,Tier 3 - Integration,Hasin,Head of Information Technology Services,Arab National Bank,True
+T3,Tier 3 - Integration,Abdullah,Head of Integration & Architecture & SRE,Arab National Bank,True
+T1,Tier 1 - Economic Buyer,Ahmed,Head of Digital Banking and Innovation,Attijariwafa bank Egypt,True
+T1,Tier 1 - Economic Buyer,Ahmed,Head of Digital Products & Innovation,Attijariwafa bank Egypt,True
+T1,Tier 1 - Economic Buyer,Eman,Head of Marketing,Attijariwafa bank Egypt,False
+T1,Tier 1 - Economic Buyer,Shereen,Head of Segments,Attijariwafa bank Egypt,True
+T2,Tier 2 - Champion,Emad,Head of Commercial Customer Service,Attijariwafa bank Egypt,False
+T2,Tier 2 - Champion,Bassam,Head of Customer Service,Attijariwafa bank Egypt,False
+T3,Tier 3 - Integration,Ayman,CTO-Deputy CIO,Attijariwafa bank Egypt,True
+T3,Tier 3 - Integration,Wael,Head of Information Technology Quality Assurance & Control - VP,Attijariwafa bank Egypt,False
+T3,Tier 3 - Integration,Tarek,VP Head of IT Operations and Infrastructure,Attijariwafa bank Egypt,True
+T1,Tier 1 - Economic Buyer,Mohamed,Head of Marketing,BBK (Bank of Bahrain and Kuwait),True
+T2,Tier 2 - Champion,Ali,Head of Corporate Channels & Digital Payments,BBK (Bank of Bahrain and Kuwait),True
+T2,Tier 2 - Champion,Aisha,Head of Data and Analytics,BBK (Bank of Bahrain and Kuwait),True
+T3,Tier 3 - Integration,Mahmood,Executive Senior Manager - Head of IT Security,BBK (Bank of Bahrain and Kuwait),True
+T3,Tier 3 - Integration,Yaser,Head of IT Operation and Infrastructure,BBK (Bank of Bahrain and Kuwait),True
+T1,Tier 1 - Economic Buyer,Mohammed,Assosciate Director of Digital Banking,BSF,False
+T1,Tier 1 - Economic Buyer,Abdulaziz,Creative Marketing Director,BSF,False
+T1,Tier 1 - Economic Buyer,Abdulaziz,Director of Digital Banking Delivery,BSF,False
+T1,Tier 1 - Economic Buyer,Abdulkhaliq,Head of Marketing,BSF,False
+T1,Tier 1 - Economic Buyer,Mashhor,Head of Retail Banking,BSF,True
+T2,Tier 2 - Champion,Turki,Customer Care Group Head,BSF,False
+T2,Tier 2 - Champion,Hala,Head of Group Customer Experience,BSF,False
+T2,Tier 2 - Champion,Mamdouh,Head of Performance Marketing & MarTech,BSF,False
+T2,Tier 2 - Champion,Fahad,Head of Personalization,BSF,False
+T3,Tier 3 - Integration,Turki,Chief Information Officer,BSF,True
+T3,Tier 3 - Integration,Said,Chief Technology Officer,Bahrain Development Bank,True
+T3,Tier 3 - Integration,Alaa,Head of IT Service Management and Operations,Bahrain Development Bank,True
+T1,Tier 1 - Economic Buyer,Mahmood,Head of Corporate Digital Banking,Bahrain Islamic Bank - BisB,False
+T1,Tier 1 - Economic Buyer,Nasser,Head of Digital Banking,Bahrain Islamic Bank - BisB,False
+T2,Tier 2 - Champion,Khalid,Head of Customer Retention and Sales Growth,Bahrain Islamic Bank - BisB,True
+T3,Tier 3 - Integration,Hassan,Head of IT,Bahrain Islamic Bank - BisB,False
+T1,Tier 1 - Economic Buyer,Aziz,Executive Director - Marketing,Bank ABC,False
+T1,Tier 1 - Economic Buyer,Mohamed,Group Head of Retail Banking,Bank ABC,True
+T1,Tier 1 - Economic Buyer,Ahmed,"Head of ATMs, Digital Banking Dept.",Bank ABC,True
+T1,Tier 1 - Economic Buyer,Engy,Head of Marketing,Bank ABC,True
+T1,Tier 1 - Economic Buyer,Eman,Head of Retail & Digital Banking,Bank ABC,False
+T2,Tier 2 - Champion,Fatema,Group Head of Corporate Communications,Bank ABC,True
+T2,Tier 2 - Champion,Adel,Head of Contact Center and Tele-Sales,Bank ABC,False
+T2,Tier 2 - Champion,Hany,Head of Customer Service,Bank ABC,False
+T2,Tier 2 - Champion,Mahamed,Head of Customer Service,Bank ABC,False
+T2,Tier 2 - Champion,Mai,Head of Customer Service,Bank ABC,False
+T3,Tier 3 - Integration,Mohamed,Chief Information Officer - CIO,Bank ABC,True
+T3,Tier 3 - Integration,Raj,Group Head of IT Infrastructure,Bank ABC,True
+T3,Tier 3 - Integration,Ali,Group Head of IT Service Management,Bank ABC,True
+T3,Tier 3 - Integration,Ayman,HEAD of IT Operations and Delivery Channels,Bank ABC,True
+T3,Tier 3 - Integration,Ibrahim,Head of IT Infrastructure,Bank ABC,False
+T3,Tier 3 - Integration,Sahar,Vice President and Chief Information Officer at Bank ABC-Egypt,Bank ABC,True
+T1,Tier 1 - Economic Buyer,Rahul,Head - Digital Banking Products,Bank Muscat,True
+T1,Tier 1 - Economic Buyer,Krishna,Head of CRM Applications,Bank Muscat,False
+T1,Tier 1 - Economic Buyer,Amna,Head of Customer Experience- Personal Banking,Bank Muscat,True
+T1,Tier 1 - Economic Buyer,Dmitry,Head of Digital Banking | Growth & Transformation,Bank Muscat,True
+T1,Tier 1 - Economic Buyer,Tayssir,Head of Digital Channels - Meethaq,Bank Muscat,True
+T1,Tier 1 - Economic Buyer,Ganesh,Head of Digital Transformation,Bank Muscat,True
+T1,Tier 1 - Economic Buyer,Maryam,Head of Retail Marketing,Bank Muscat,True
+T1,Tier 1 - Economic Buyer,Yasir,Unit Head Merchant Operations Payment & Aquiring in Digital Banking Dept,Bank Muscat,True
+T2,Tier 2 - Champion,Ramith,Deputy Head - Digital Experience,Bank Muscat,True
+T2,Tier 2 - Champion,Gaurav,"Head - MSME Retail Enterprises, Retail Marketing & Business Intelligence Unit",Bank Muscat,True
+T2,Tier 2 - Champion,Sarah,Head - Product Development & Analytics,Bank Muscat,True
+T2,Tier 2 - Champion,Zuwaina,Head -Operation and Customer Retention,Bank Muscat,True
+T2,Tier 2 - Champion,Taimore,"Head Change, Projects & Digital Channels - Meethaq",Bank Muscat,True
+T2,Tier 2 - Champion,Ahmed,Head Contact Center,Bank Muscat,True
+T2,Tier 2 - Champion,Rashad,Head of Brand Communications,Bank Muscat,False
+T2,Tier 2 - Champion,Rahab,Head of Brand and Marketing Communications,Bank Muscat,True
+T2,Tier 2 - Champion,Daad,Head of Corporate Communications & CSR,Bank Muscat,True
+T2,Tier 2 - Champion,Hajir,Unit Head - Employee Communications & Culture,Bank Muscat,True
+T2,Tier 2 - Champion,Sara,Unit Head - Staff Digital Experience & Projects,Bank Muscat,True
+T2,Tier 2 - Champion,Taha,Unit Head – Performance Analytics & Operations | Business Intelligence Unit,Bank Muscat,False
+T3,Tier 3 - Integration,Yousuf,Head of IT Change Management,Bank Muscat,False
+T3,Tier 3 - Integration,Gopinathan,Head of IT Ent. Storage & Server Support,Bank Muscat,False
+T3,Tier 3 - Integration,Ahmed,Head of Information Technology,Bank Muscat,True
+T1,Tier 1 - Economic Buyer,Iman,"Deputy CEO Consumer Banking, Marketing & Financial Inclusion",Bank NXT,True
+T1,Tier 1 - Economic Buyer,Hazem,GM-Head of Segments and Wealth Management,Bank NXT,True
+T1,Tier 1 - Economic Buyer,Mohamed,Head of Cards Business,Bank NXT,True
+T1,Tier 1 - Economic Buyer,Amira,Head of Digital Banking,Bank NXT,False
+T1,Tier 1 - Economic Buyer,Karim,Head of Marketing and Corporate Branding,Bank NXT,False
+T1,Tier 1 - Economic Buyer,Magy,Head of Products Marketing,Bank NXT,False
+T2,Tier 2 - Champion,Mahmoud,Head of Customer Service,Bank NXT,True
+T2,Tier 2 - Champion,Mostafa,Head of Customer Service,Bank NXT,True
+T2,Tier 2 - Champion,Mohamed,Head of Customer Service,Bank NXT,True
+T2,Tier 2 - Champion,Ethar,Head of Customer Service,Bank NXT,False
+T2,Tier 2 - Champion,Mohamed,Head of Customer Service,Bank NXT,True
+T2,Tier 2 - Champion,Youssef,Head of Customer Service,Bank NXT,True
+T2,Tier 2 - Champion,Nahla,Head of Customer Service,Bank NXT,True
+T2,Tier 2 - Champion,Mohamed,Head of Customer Service,Bank NXT,True
+T2,Tier 2 - Champion,Engy,Head of Customer Service,Bank NXT,True
+T2,Tier 2 - Champion,Mahmoud,Head of Customer Service,Bank NXT,False
+T2,Tier 2 - Champion,Shereen,Senior Customer Service Head,Bank NXT,False
+T2,Tier 2 - Champion,Islam,Senior Customer Service Head,Bank NXT,False
+T3,Tier 3 - Integration,Ahmed,Chief Information & Digital Transformation Officer,Bank NXT,True
+T3,Tier 3 - Integration,Ahmed,Head of IT Security,Bank NXT,False
+T3,Tier 3 - Integration,Hatem,Head of It-operation,Bank NXT,False
+T1,Tier 1 - Economic Buyer,Ahmed,"Head of Marketing, Corporate Communciations and Sustainability",Bank Nizwa,True
+T1,Tier 1 - Economic Buyer,Amir,Chief Marketing and Corporate Communications Officer,Bank of Sharjah,True
+T1,Tier 1 - Economic Buyer,Nitin,Head of Cards,BankDhofar,True
+T1,Tier 1 - Economic Buyer,Sulaiman,Head of Customer Experience,BankDhofar,True
+T1,Tier 1 - Economic Buyer,Dharmendra,Head of Digital Channels and Payments,BankDhofar,True
+T1,Tier 1 - Economic Buyer,Sami,Head of Marketing and Corporate Communication,BankDhofar,True
+T1,Tier 1 - Economic Buyer,Sameer,Head of Retail and Corporate Digital Banking,BankDhofar,True
+T2,Tier 2 - Champion,Mohit,Deputy Head - Contact Center,BankDhofar,True
+T2,Tier 2 - Champion,Gautam,Head of Business Intelligence & Financial Information Systems,BankDhofar,True
+T2,Tier 2 - Champion,Saumil,Unit Head - Advanced Analytics,BankDhofar,True
+T2,Tier 2 - Champion,Sara,Unit Head - Business Marketing & Branding,BankDhofar,True
+T2,Tier 2 - Champion,Aqeel,Unit Head - Payments and Digital Channels Development,BankDhofar,True
+T3,Tier 3 - Integration,Deepesh,Head of IT,BankDhofar,False
+T3,Tier 3 - Integration,Girish,Head of Information Technology,BankDhofar,False
+T3,Tier 3 - Integration,Sameh,"Head of Information Technology, Dhofar Islamic",BankDhofar,False
+T1,Tier 1 - Economic Buyer,Salma,Deputy Head of Custody Marketing and Product Development | Banque Misr,Banque Misr,True
+T1,Tier 1 - Economic Buyer,Noha,Head of Cards,Banque Misr,True
+T1,Tier 1 - Economic Buyer,Ola,Head of Cards Business,Banque Misr,True
+T1,Tier 1 - Economic Buyer,Mohamed,Head of Cards Business Development,Banque Misr,True
+T1,Tier 1 - Economic Buyer,Moataz,"Head of Cards Business, Payments & E-channels",Banque Misr,True
+T1,Tier 1 - Economic Buyer,Amr,Head of Cards Partnerships,Banque Misr,True
+T1,Tier 1 - Economic Buyer,Salma,Head of Consumer Segments VP / Retail CRM/ CVM & Advanced Analytics/ Branch Transformation,Banque Misr,True
+T1,Tier 1 - Economic Buyer,Taher,Head of Digital,Banque Misr,True
+T1,Tier 1 - Economic Buyer,Mohamed,Head of Digital Marketing,Banque Misr,True
+T1,Tier 1 - Economic Buyer,Farida,Head of Digital Products | Digital Factory,Banque Misr,True
+T1,Tier 1 - Economic Buyer,Ismail,Head of Loyalty,Banque Misr,True
+T1,Tier 1 - Economic Buyer,Nehal,Head of Retail Banking Division and Government Initiatives,Banque Misr,True
+T2,Tier 2 - Champion,Mostafa,Customer Service Manager & Head of Microfinance Team,Banque Misr,True
+T2,Tier 2 - Champion,Sarah,"Deputy General Manager, Head of Customer & Analytics (CRM) & Senior Product Lead",Banque Misr,True
+T2,Tier 2 - Champion,Eslam,"Deputy General Manager- Head of Contact Center MIS, Performance Management & Business Development",Banque Misr,True
+T2,Tier 2 - Champion,Ahmed,GM Head of Contact Center & Alternative Channels,Banque Misr,True
+T2,Tier 2 - Champion,Aya,GTB Tribe lead|Transformation Office: Head of GTB Digital Products & E - Channels,Banque Misr,True
+T2,Tier 2 - Champion,Eihab,Head - Analytics Demand & Delivery | AI Tribe Lead,Banque Misr,True
+T2,Tier 2 - Champion,Dalia,Head of Business Intelligence and CVM,Banque Misr,True
+T2,Tier 2 - Champion,Youwanna,Head of Corporate Customer Service,Banque Misr,False
+T2,Tier 2 - Champion,Ahmed,Head of Corporate Digital Channels and Customer Engagement,Banque Misr,True
+T2,Tier 2 - Champion,Aliaa,Head of Customer Service,Banque Misr,True
+T2,Tier 2 - Champion,Karim,Head of Customer Service,Banque Misr,True
+T2,Tier 2 - Champion,Mohamed,Head of Customer Service,Banque Misr,True
+T2,Tier 2 - Champion,Mostafa,Head of Customer Service,Banque Misr,True
+T2,Tier 2 - Champion,Salma,Head of Customer Service,Banque Misr,True
+T2,Tier 2 - Champion,Mostafa,Head of Customer Service,Banque Misr,True
+T2,Tier 2 - Champion,Amr,Head of Customer Service,Banque Misr,True
+T2,Tier 2 - Champion,Amanious,Head of Customer Service,Banque Misr,True
+T2,Tier 2 - Champion,Yasmena,Head of Customer Service,Banque Misr,True
+T2,Tier 2 - Champion,Ahmed,Head of Customer Service,Banque Misr,True
+T2,Tier 2 - Champion,Dina,Head of Customer Service,Banque Misr,True
+T2,Tier 2 - Champion,Mayada,Head of Customer Service,Banque Misr,True
+T2,Tier 2 - Champion,Mai,Head of Customer Service,Banque Misr,True
+T2,Tier 2 - Champion,Nada,Head of Customer Service,Banque Misr,True
+T2,Tier 2 - Champion,Rabab,Head of Customer Service,Banque Misr,True
+T2,Tier 2 - Champion,Reem,Head of Customer Service Department,Banque Misr,False
+T2,Tier 2 - Champion,Gamal,Head of External Communications,Banque Misr,True
+T2,Tier 2 - Champion,Noha,Head of Retail Consumer Segments and Advanced Analytics,Banque Misr,True
+T2,Tier 2 - Champion,Suzan,Head of VIP Customer Service,Banque Misr,True
+T2,Tier 2 - Champion,Islam,"IT General Manager, Head of E-Channel l, Digital Payments and Cards Systems",Banque Misr,True
+T3,Tier 3 - Integration,Mohamed,CIO,Banque Misr,True
+T3,Tier 3 - Integration,Waleed,Chief Information Officer,Banque Misr,True
+T3,Tier 3 - Integration,Hossam,Chief Technology Officer,Banque Misr,True
+T3,Tier 3 - Integration,Hossam,Chief Technology Officer,Banque Misr,True
+T3,Tier 3 - Integration,Amr,DGM - Head of Data Engineering - EDWH - Data Strategy,Banque Misr,True
+T3,Tier 3 - Integration,Mohamed,Head of IT Change Management,Banque Misr,True
+T3,Tier 3 - Integration,Salah,Head of IT Endpoint Software Support,Banque Misr,True
+T3,Tier 3 - Integration,Amr,Head of IT Infrastructure Services - Systems Administration,Banque Misr,True
+T3,Tier 3 - Integration,Shereen,Head of IT Planning and Process Excellence,Banque Misr,True
+T3,Tier 3 - Integration,Nesreen,Head of IT Vendor Management,Banque Misr,True
+T3,Tier 3 - Integration,Bassam,Head of Information Technology,Banque Misr,True
+T3,Tier 3 - Integration,Ahmed,Head of Information Technology Operations,Banque Misr,True
+T3,Tier 3 - Integration,Nader,Head of Information Technology Quality Assurance,Banque Misr,True
+T3,Tier 3 - Integration,Mohamed,"SD GM, Head of ITSM",Banque Misr,True
+T3,Tier 3 - Integration,Mahmoud,Senior Manager - Deputy General Manager - Head of ITSM Service Assurance,Banque Misr,True
+T1,Tier 1 - Economic Buyer,Ahmed,AGM -Head of Cards Delivery Department -Card Centerr,Banque du Caire,True
+T1,Tier 1 - Economic Buyer,Marwa,General Maneger Head of Digital Banking Sector,Banque du Caire,True
+T1,Tier 1 - Economic Buyer,Hassan,Head of Cards Business Development,Banque du Caire,True
+T1,Tier 1 - Economic Buyer,Shereen,Head of Cards Operations,Banque du Caire,True
+T1,Tier 1 - Economic Buyer,Sameh,Head of Cards Portfolio and Campaigns,Banque du Caire,True
+T1,Tier 1 - Economic Buyer,Nayera,Head of Corporate Marketing,Banque du Caire,True
+T1,Tier 1 - Economic Buyer,Noura,Head of Customer Experience,Banque du Caire,True
+T1,Tier 1 - Economic Buyer,Amr,Head of Digital Marketing,Banque du Caire,True
+T1,Tier 1 - Economic Buyer,Mostafa,Head of Digital Marketing,Banque du Caire,True
+T1,Tier 1 - Economic Buyer,Jermin,Head of Digital and Implementation,Banque du Caire,True
+T1,Tier 1 - Economic Buyer,Karim,Head of Innovation and Digital Banking,Banque du Caire,True
+T1,Tier 1 - Economic Buyer,Sherif,Head of Marketing Communications,Banque du Caire,True
+T1,Tier 1 - Economic Buyer,Hala,Head of Retail & Corporate Marketing,Banque du Caire,True
+T1,Tier 1 - Economic Buyer,Mohamed,Head of Retail Banking and Microfinance,Banque du Caire,True
+T1,Tier 1 - Economic Buyer,Monica,Head of Retail Marketing,Banque du Caire,True
+T1,Tier 1 - Economic Buyer,Ahmed,Head of Segments and Payroll,Banque du Caire,True
+T2,Tier 2 - Champion,Amr,GM - Head of Budgeting Analytics & Decision Support Sector,Banque du Caire,True
+T2,Tier 2 - Champion,Heidi,"Head of Corporate Communications, Sustainability, and Sustainable Finance Group at Banque du Caire",Banque du Caire,True
+T2,Tier 2 - Champion,Hany,"Head of Creative Studio - Corporate Communications, Sustainability & Sustainable Finance Group",Banque du Caire,True
+T2,Tier 2 - Champion,Drmohamed,Head of Customer Care,Banque du Caire,True
+T2,Tier 2 - Champion,Hussien,Head of Customer Service,Banque du Caire,True
+T2,Tier 2 - Champion,Dina,Head of Customer Service,Banque du Caire,True
+T2,Tier 2 - Champion,Ahmed,Head of Customer Service,Banque du Caire,True
+T2,Tier 2 - Champion,Iman,Head of Customer Service,Banque du Caire,True
+T2,Tier 2 - Champion,Mina,Head of Customer Service,Banque du Caire,True
+T2,Tier 2 - Champion,Ahmed,Head of Data Management and Analytics,Banque du Caire,True
+T2,Tier 2 - Champion,Hossam,Head of Internal Communications- Employee Engagement- Employer Branding,Banque du Caire,True
+T3,Tier 3 - Integration,Amr,Head of Enterprise Architecture- General Manager,Banque du Caire,True
+T3,Tier 3 - Integration,Wael,Head of IT Infrastructure Division,Banque du Caire,True
+T3,Tier 3 - Integration,Mohamed,Head of IT Service Monitoring and Improvement at Banque Du Caire,Banque du Caire,True
+T1,Tier 1 - Economic Buyer,Osama,Acting Head of Digital Group at Boubyan Bank,Boubyan Bank,True
+T1,Tier 1 - Economic Buyer,Ali,Deputy Chief Digital Officer,Boubyan Bank,True
+T1,Tier 1 - Economic Buyer,Sami,Head of Digital Channels,Boubyan Bank,False
+T1,Tier 1 - Economic Buyer,Muhanad,Senior Manager - Head of Digital Marketing,Boubyan Bank,True
+T3,Tier 3 - Integration,Abdulla,Chief Information Officer,Boubyan Bank,True
+T3,Tier 3 - Integration,Ahmad,Deputy Chief Information Officer,Boubyan Bank,True
+T3,Tier 3 - Integration,Alaa,Head of Enterprise Architecture,Boubyan Bank,True
+T3,Tier 3 - Integration,Mohammed,Head of IT Vendor and Portfolio Management,Boubyan Bank,True
+T1,Tier 1 - Economic Buyer,Omar,DGM - Head of Digital Transformation,Burgan Bank,True
+T1,Tier 1 - Economic Buyer,Faisal,Executive Manager - Head of Digital Channels Development,Burgan Bank,True
+T1,Tier 1 - Economic Buyer,Sumeet,HEAD Digital Banking,Burgan Bank,True
+T1,Tier 1 - Economic Buyer,Shireen,Head of Segments,Burgan Bank,False
+T1,Tier 1 - Economic Buyer,Mohammed,Office Manager - Head of Digital Transformation,Burgan Bank,True
+T1,Tier 1 - Economic Buyer,Dhari,Unit Head - Digital & Content Marketing,Burgan Bank,False
+T2,Tier 2 - Champion,Rami,CRM & Business Intelligence - Unit Head,Burgan Bank,True
+T2,Tier 2 - Champion,Shoushanik,"Head, Business Intelligence",Burgan Bank,False
+T3,Tier 3 - Integration,Hossam,Chief Information Officer,Burgan Bank,False
+T3,Tier 3 - Integration,Murtaza,Head of Enterprise Architecture,Burgan Bank,True
+T1,Tier 1 - Economic Buyer,Enrique,Chief Digital & Transformation Officer,CIB Egypt,False
+T1,Tier 1 - Economic Buyer,Mohamed,Chief Digital Officer,CIB Egypt,False
+T1,Tier 1 - Economic Buyer,Amr,Head of Cards Business,CIB Egypt,True
+T1,Tier 1 - Economic Buyer,Yousri,Head of Consumer Digital Products & Channels - CIB,CIB Egypt,True
+T1,Tier 1 - Economic Buyer,Aya,Head of Digital Channels and Content Marketing,CIB Egypt,True
+T1,Tier 1 - Economic Buyer,Shaimaa,Head of Digital Marketing,CIB Egypt,True
+T1,Tier 1 - Economic Buyer,Hossam,Head of GTB Business Development / Global Transaction & Digital Banking,CIB Egypt,True
+T1,Tier 1 - Economic Buyer,Ramy,Head of Marketing,CIB Egypt,True
+T1,Tier 1 - Economic Buyer,Shahenda,Head of Marketing Cards and Segments,CIB Egypt,False
+T1,Tier 1 - Economic Buyer,Khaled,Head of Marketing Services,CIB Egypt,True
+T1,Tier 1 - Economic Buyer,Hassan,"Head of Marketing, Business Development, and Special Accounts | Direct Investment",CIB Egypt,False
+T1,Tier 1 - Economic Buyer,Mostafa,Head of Media & Performance Marketing,CIB Egypt,True
+T1,Tier 1 - Economic Buyer,Ramy,Head of Mortgage Business | Digital Bank Build (Strategic Mandate),CIB Egypt,False
+T1,Tier 1 - Economic Buyer,Mariam,Head of Premium Segments,CIB Egypt,True
+T1,Tier 1 - Economic Buyer,Mostafa,Merchandize Marketing Head,CIB Egypt,True
+T1,Tier 1 - Economic Buyer,Mohamed,"Retail, Digital Banking & SMEs Enterprise Performance Management Head",CIB Egypt,False
+T1,Tier 1 - Economic Buyer,Lamia,Segments & Products Marketing Group Head,CIB Egypt,False
+T1,Tier 1 - Economic Buyer,Karima,Segments & Products Marketing Head,CIB Egypt,True
+T1,Tier 1 - Economic Buyer,Sara,Segments and Products Marketing Head,CIB Egypt,False
+T2,Tier 2 - Champion,Mohamed,Acting as Customer Service Head,CIB Egypt,True
+T2,Tier 2 - Champion,Nermine,Contact Center Head,CIB Egypt,True
+T2,Tier 2 - Champion,Mina,Contact Center Operation Team Head,CIB Egypt,True
+T2,Tier 2 - Champion,Shady,Contact Center Operation Team Head At CIB,CIB Egypt,False
+T2,Tier 2 - Champion,Saeed,Contact Center Operations Head,CIB Egypt,True
+T2,Tier 2 - Champion,Amir,Contact Center Resource Planning Team Head,CIB Egypt,False
+T2,Tier 2 - Champion,Sandra,Customer Service & Sales Head,CIB Egypt,True
+T2,Tier 2 - Champion,Mohamed,Customer Service Head,CIB Egypt,True
+T2,Tier 2 - Champion,Mohamed,Customer Service Head,CIB Egypt,True
+T2,Tier 2 - Champion,Salah,Customer Service Head,CIB Egypt,True
+T2,Tier 2 - Champion,Bassem,Customer Service Head,CIB Egypt,False
+T2,Tier 2 - Champion,Ahmed,Customer Service Head at CIB Egypt,CIB Egypt,True
+T2,Tier 2 - Champion,Khaled,Digital Channels IT TEAM HEAD | RPA and Software Automation,CIB Egypt,True
+T2,Tier 2 - Champion,Mohamed,Head of CIB Brand & Corporate Communications,CIB Egypt,False
+T2,Tier 2 - Champion,Dina,Head of Customer Care,CIB Egypt,True
+T2,Tier 2 - Champion,Ahmed,Head of Customer Service,CIB Egypt,True
+T2,Tier 2 - Champion,Mageed,Head of Customer Service,CIB Egypt,True
+T2,Tier 2 - Champion,Ehab,Head of Customer Service,CIB Egypt,True
+T2,Tier 2 - Champion,Karim,Head of Customer Service,CIB Egypt,True
+T2,Tier 2 - Champion,Galal,Head of Customer Service,CIB Egypt,True
+T2,Tier 2 - Champion,Ahmed,Head of Customer Service,CIB Egypt,True
+T2,Tier 2 - Champion,Mohamed,Head of Customer Service,CIB Egypt,True
+T2,Tier 2 - Champion,Moustafa,Head of Customer Service,CIB Egypt,True
+T2,Tier 2 - Champion,Ekramy,Head of Customer Service,CIB Egypt,False
+T2,Tier 2 - Champion,Ahmed,Head of Customer Service,CIB Egypt,True
+T2,Tier 2 - Champion,Emad,Head of Customer Service,CIB Egypt,True
+T2,Tier 2 - Champion,Omar,Head of Customer Service,CIB Egypt,False
+T2,Tier 2 - Champion,Mahmoud,Head of Customer Service,CIB Egypt,False
+T2,Tier 2 - Champion,Romany,Head of Customer Service,CIB Egypt,False
+T2,Tier 2 - Champion,Rami,Head of Customer Service,CIB Egypt,False
+T2,Tier 2 - Champion,Rana,Head of Customer Service,CIB Egypt,False
+T2,Tier 2 - Champion,Aya,Head of Customer Service,CIB Egypt,False
+T2,Tier 2 - Champion,Christina,Head of Customer Service ( Sales & Service Officer ),CIB Egypt,False
+T2,Tier 2 - Champion,Mostafa,Head of Customer Service ( sso),CIB Egypt,True
+T2,Tier 2 - Champion,Khaled,Head of Customer Service (SSO),CIB Egypt,True
+T2,Tier 2 - Champion,Omar,Head of Customer Service (SSO),CIB Egypt,False
+T2,Tier 2 - Champion,Mostafa,Head of Customer Service - SSO,CIB Egypt,False
+T2,Tier 2 - Champion,Mahmoud,Head of Customer Service - Sales & Service Officer,CIB Egypt,True
+T2,Tier 2 - Champion,Ahmed,"Head of Internal Communications, Partnerships & Merchandize Marketing",CIB Egypt,True
+T2,Tier 2 - Champion,Abdallah,Products and Segments Marketing Head,CIB Egypt,True
+T2,Tier 2 - Champion,Michael,Sales & Service Officer ( Customer Service Head ),CIB Egypt,False
+T2,Tier 2 - Champion,Ahmed,Sales & Service Officer (Head of Customer Service),CIB Egypt,True
+T2,Tier 2 - Champion,Mohamed,Sales and Service Officer (Head of Customer Service),CIB Egypt,False
+T3,Tier 3 - Integration,Antar,Chief Information Officer (CIO),CIB Egypt,True
+T3,Tier 3 - Integration,Saurabh,"Chief Technology Officer, Digital Bank",CIB Egypt,True
+T3,Tier 3 - Integration,Adel,Deputy Chief Information Officer,CIB Egypt,False
+T3,Tier 3 - Integration,Tamer,Head of Enterprise Data Engineering,CIB Egypt,True
+T3,Tier 3 - Integration,Amr,Head of Financial Inclusion Digital Platforms,CIB Egypt,True
+T3,Tier 3 - Integration,Ahmed,Head of IT Center of Excellence,CIB Egypt,True
+T3,Tier 3 - Integration,Ehab,Head of IT Infrastructure & Security,CIB Egypt,True
+T3,Tier 3 - Integration,Ahmed,Head of IT Security,CIB Egypt,True
+T1,Tier 1 - Economic Buyer,Shamsa,Head of Customer Experience,Commercial Bank International,False
+T1,Tier 1 - Economic Buyer,Hassanain,Head of Retail Banking Group,Commercial Bank International,True
+T2,Tier 2 - Champion,Fida,Head of Corporate Communications & Marketing,Commercial Bank International,False
+T3,Tier 3 - Integration,Faris,CIO,Commercial Bank International,False
+T3,Tier 3 - Integration,Amina,Deputy Head of Technology,Commercial Bank International,True
+T1,Tier 1 - Economic Buyer,Chet,CMO,Commercial Bank of Dubai,False
+T1,Tier 1 - Economic Buyer,Othman,Chief Customer Officer,Commercial Bank of Dubai,True
+T1,Tier 1 - Economic Buyer,Vladislavs,Chief Digital Officer,Commercial Bank of Dubai,False
+T1,Tier 1 - Economic Buyer,Daniel,Head of Digital Design,Commercial Bank of Dubai,True
+T1,Tier 1 - Economic Buyer,Aiga,Head of Digital Marketing & Social Media,Commercial Bank of Dubai,False
+T2,Tier 2 - Champion,Benazir,"Head Brand, Marketing and Corporate Communications",Commercial Bank of Dubai,True
+T2,Tier 2 - Champion,Louai,Head of Contact Center,Commercial Bank of Dubai,False
+T2,Tier 2 - Champion,Amer,Head of Corporate Communications,Commercial Bank of Dubai,True
+T2,Tier 2 - Champion,Martins,Head of Open Finance and Digital Analytics,Commercial Bank of Dubai,False
+T2,Tier 2 - Champion,Abeer,Unit Head Customer Engagement at Commercial Bank of Dubai,Commercial Bank of Dubai,True
+T2,Tier 2 - Champion,Jyothi,"Unit Head – Business Intelligence Competency Center (BICC), Data Management",Commercial Bank of Dubai,True
+T3,Tier 3 - Integration,Thomas,Chief Technology & Services Officer | Digital Banking | Strategic Technology Planning & Delivery | Global Innovation Excellence | +25 Years of Success,Commercial Bank of Dubai,True
+T3,Tier 3 - Integration,Khali,HEAD of IT Department,Commercial Bank of Dubai,True
+T3,Tier 3 - Integration,Jamil,HEAD of IT Department,Commercial Bank of Dubai,True
+T3,Tier 3 - Integration,Samir,HEAD of IT Department,Commercial Bank of Dubai,True
+T3,Tier 3 - Integration,Amir,HEAD of IT Department,Commercial Bank of Dubai,True
+T3,Tier 3 - Integration,Malik,HEAD of IT Department,Commercial Bank of Dubai,True
+T3,Tier 3 - Integration,Adiba,Head of IT Department,Commercial Bank of Dubai,True
+T3,Tier 3 - Integration,Amir,Head of IT Department,Commercial Bank of Dubai,True
+T3,Tier 3 - Integration,Omar,Head of IT Security,Commercial Bank of Dubai,True
+T3,Tier 3 - Integration,Elah'e,Head of IT Strategy and Planning,Commercial Bank of Dubai,False
+T3,Tier 3 - Integration,Rahman,Head of IT Systems Support,Commercial Bank of Dubai,True
+T3,Tier 3 - Integration,Sasi,Head of Information Technology,Commercial Bank of Dubai,True
+T3,Tier 3 - Integration,Hanza,Head of Information Technology,Commercial Bank of Dubai,True
+T3,Tier 3 - Integration,Assem,Head of Information Technology,Commercial Bank of Dubai,True
+T1,Tier 1 - Economic Buyer,Mohammad,Head of Customer Experience Management Department (CXM),Commercial Bank of Kuwait,True
+T1,Tier 1 - Economic Buyer,Ramzi,Head of Marketing and Research,Commercial Bank of Kuwait,False
+T2,Tier 2 - Champion,Hammad,Executive Manager- Head of Performance & Analytics - Strategic Planning and Follow up Division,Commercial Bank of Kuwait,True
+T2,Tier 2 - Champion,Jamal,Head of Data Analytics,Commercial Bank of Kuwait,True
+T2,Tier 2 - Champion,Abduljalil,Sr. Manager-Head of VIP Customer Service,Commercial Bank of Kuwait,True
+T1,Tier 1 - Economic Buyer,Yasir,Head of Digital Channels,Crédit Agricole Egypt,False
+T1,Tier 1 - Economic Buyer,Fadi,Head of Digital Marketing & Innovation,Crédit Agricole Egypt,False
+T1,Tier 1 - Economic Buyer,Marian,"Head of Marketing, Development & Innovation",Crédit Agricole Egypt,True
+T2,Tier 2 - Champion,Youssry,Head of Archiving & Personalization Center.,Crédit Agricole Egypt,False
+T2,Tier 2 - Champion,Noha,Head of CVM & Digital Marketing,Crédit Agricole Egypt,True
+T2,Tier 2 - Champion,Mona,Head of CVM and Data Science,Crédit Agricole Egypt,True
+T2,Tier 2 - Champion,Yara,"Head of Customer Engagement, Cards Development & Segments",Crédit Agricole Egypt,True
+T2,Tier 2 - Champion,Mohab,Head of Customer Service,Crédit Agricole Egypt,True
+T2,Tier 2 - Champion,Mohamed,Head of Customer Service & Affluent Relationship Manager,Crédit Agricole Egypt,True
+T2,Tier 2 - Champion,Mostafa,Head of Relationship Excellence & Client Development | Segments - Customer Experience,Crédit Agricole Egypt,True
+T2,Tier 2 - Champion,Ghassan,Head of Operations and Contact Center Technology,D360 Bank,True
+T3,Tier 3 - Integration,Alejandro,Chief Technology Officer,D360 Bank,True
+T3,Tier 3 - Integration,Hamed,Head of IT Security,D360 Bank,True
+T1,Tier 1 - Economic Buyer,Edwin,AVP Head of Cards Life Cycle Management,DIB,True
+T1,Tier 1 - Economic Buyer,Amit,Assistant Vice President - Digital Banking,DIB,True
+T1,Tier 1 - Economic Buyer,Maitha,Chief Marketing Officer,DIB,True
+T1,Tier 1 - Economic Buyer,Sonik,"Head of Cards & Payments Products, Acquisitions & Strategic Partnerships",DIB,True
+T1,Tier 1 - Economic Buyer,Kunal,Head of Cards Acquisitions,DIB,True
+T1,Tier 1 - Economic Buyer,Mudasir,Head of Cards Portfolio,DIB,True
+T1,Tier 1 - Economic Buyer,Saurabh,Head of Cards Portfolio -Spends & Activation,DIB,True
+T1,Tier 1 - Economic Buyer,Ritesh,Head of Consumer Finance- Retail Banking and Wealth Management,DIB,True
+T1,Tier 1 - Economic Buyer,Rola,Head of Customer Experience Development Unit,DIB,True
+T1,Tier 1 - Economic Buyer,Millard,"Head of Customer Experience Excellence, Resolution & Assurance",DIB,False
+T1,Tier 1 - Economic Buyer,Nadeem,Head of Digital Payments Innovation & Operations,DIB,True
+T1,Tier 1 - Economic Buyer,Zafar,Head of Marketing Services,DIB,True
+T1,Tier 1 - Economic Buyer,Syed,"Head of Marketing Services, Social Media & Insights",DIB,True
+T1,Tier 1 - Economic Buyer,Ibrahim,"SVP, Head of Digital Platforms",DIB,True
+T1,Tier 1 - Economic Buyer,Mohammad,VP - Head of Digital Product,DIB,True
+T1,Tier 1 - Economic Buyer,Usama,VP Head of Cards Operations,DIB,True
+T2,Tier 2 - Champion,Anuj,AVP - Head of Advanced Analytics & AI,DIB,True
+T2,Tier 2 - Champion,Ritwik,AVP - Head of Internal Comms | Strategic Communications,DIB,True
+T2,Tier 2 - Champion,Syed,AVP- Head of Trade Customer Service Centre Dubai,DIB,True
+T2,Tier 2 - Champion,Muhammad,Head Advance Analytics,DIB,True
+T2,Tier 2 - Champion,Nitin,Head of Contact Center,DIB,True
+T2,Tier 2 - Champion,Parkar,Head of Data & Advance Analytics,DIB,True
+T2,Tier 2 - Champion,Mahvish,Head of Policy-Secured Lending and Portfolio Analytics,DIB,True
+T2,Tier 2 - Champion,Salman,Portfolio Head - Infra and Data Analytics Projects,DIB,True
+T2,Tier 2 - Champion,Reza,"SVP, Head of Business Planning & Analytics",DIB,True
+T2,Tier 2 - Champion,Kashif,"Senior Vice President, Head of Investor Relations & Strategic Communications",DIB,True
+T2,Tier 2 - Champion,Zahoor,VP - Head of Customer Engagement Technology @ DIB | Digital Transformation Leader,DIB,True
+T3,Tier 3 - Integration,Majid,AVP - Head of IT Service & Enterprise Data Operations,DIB,True
+T3,Tier 3 - Integration,Musabbah,CIO,DIB,True
+T3,Tier 3 - Integration,Nadeem,CIO,DIB,False
+T3,Tier 3 - Integration,Noman,Chief Information Officer,DIB,True
+T3,Tier 3 - Integration,Asim,Head of Enterprise Architecture,DIB,True
+T1,Tier 1 - Economic Buyer,Mohammed,"Chief Strategy, Corporate Performance & Marketing Officer",DOHA BANK,True
+T1,Tier 1 - Economic Buyer,Mustafa,Deputy Head of Marketing,DOHA BANK,False
+T1,Tier 1 - Economic Buyer,Alanoud,Head Marketing & PR,DOHA BANK,True
+T1,Tier 1 - Economic Buyer,Ozguer,Head of Digital Banking,DOHA BANK,True
+T1,Tier 1 - Economic Buyer,Karolina,Head of Marketing,DOHA BANK,True
+T1,Tier 1 - Economic Buyer,Moustafa,Head of Retail Banking,DOHA BANK,False
+T2,Tier 2 - Champion,Khalid,Head of Contact Center & Customer Service,DOHA BANK,False
+T2,Tier 2 - Champion,Ahmed,Sr.Customer Relation Officer & Acting Head of Customer Service,DOHA BANK,False
+T3,Tier 3 - Integration,Khaled,Head of IT Applications,DOHA BANK,True
+T3,Tier 3 - Integration,Hisham,Head of IT Infrastructure and Operations,DOHA BANK,False
+T1,Tier 1 - Economic Buyer,Bijoy,Head of Cards,Deem Finance,False
+T1,Tier 1 - Economic Buyer,Mazen,Head of Customer Value Management & Operations,Deem Finance,True
+T2,Tier 2 - Champion,Nidish,Head of Customer Service,Deem Finance,False
+T2,Tier 2 - Champion,Deepak,Head of Data Analytics & Engineering,Deem Finance,True
+T3,Tier 3 - Integration,Fozi,Head of Information Technology and Program Management Office,Deem Finance,True
+T1,Tier 1 - Economic Buyer,Talal,Chief Marketing & Communications Officer,Dukhan Bank,True
+T1,Tier 1 - Economic Buyer,Raed,Head of Strategy and Marketing,Dukhan Bank,True
+T3,Tier 3 - Integration,Bassem,Head of IT at First Finance Co. - Dukhan Bank Group,Dukhan Bank,True
+T3,Tier 3 - Integration,Aysha,Head of Information Technology,Dukhan Bank,True
+T1,Tier 1 - Economic Buyer,Montasser,Group Head of Retail and Digital Banking,EBANK,True
+T1,Tier 1 - Economic Buyer,Ahmed,Head of Cards,EBANK,True
+T1,Tier 1 - Economic Buyer,Bishoy,Head of Customer Experience and Retail Change Managment,EBANK,True
+T1,Tier 1 - Economic Buyer,Ashraf,Head of Digital Banking Channels,EBANK,True
+T1,Tier 1 - Economic Buyer,Kareem,Head of Digital Channels & Self Services,EBANK,True
+T1,Tier 1 - Economic Buyer,Ahmed,Head of Digital Innovation,EBANK,True
+T1,Tier 1 - Economic Buyer,Sara,Head of Digital Marketing,EBANK,True
+T1,Tier 1 - Economic Buyer,Omar,Head of Digital Presence,EBANK,True
+T1,Tier 1 - Economic Buyer,Karim,"Head of Liabilities, Retail Banking and Marketing",EBANK,False
+T1,Tier 1 - Economic Buyer,Sherif,Head of Products Development & Digital Banking,EBANK,True
+T2,Tier 2 - Champion,Marco,Head of Contact Center,EBANK,True
+T2,Tier 2 - Champion,Ghada,Head of Corporate Communications,EBANK,True
+T2,Tier 2 - Champion,Islam,Head of Customer Service,EBANK,False
+T2,Tier 2 - Champion,Hady,Head of Customer Service,EBANK,False
+T2,Tier 2 - Champion,Ahmed,Head of External Communication and Marketing - Corporate Communication and CSR Sector,EBANK,False
+T3,Tier 3 - Integration,Hany,Chief Information Officer,EBANK,True
+T3,Tier 3 - Integration,Mohamed,Head of IT Data Center Management (VP),EBANK,True
+T3,Tier 3 - Integration,Hassan,Head of IT Demand Management,EBANK,True
+T3,Tier 3 - Integration,Ehab,Head of IT Network and Communications,EBANK,False
+T1,Tier 1 - Economic Buyer,Nelly,"Chief Officer Marketing, Youth Segment Services & Financial Inclusion",EGBANK,True
+T1,Tier 1 - Economic Buyer,Rania,Digital Banking Channels Head,EGBANK,False
+T1,Tier 1 - Economic Buyer,Ahmed,Head of Cards Business,EGBANK,True
+T1,Tier 1 - Economic Buyer,Maged,Head of Digital,EGBANK,True
+T1,Tier 1 - Economic Buyer,Khadiga,Head of Marketing Communication,EGBANK,True
+T2,Tier 2 - Champion,Khaled,Customer Service Head,EGBANK,True
+T2,Tier 2 - Champion,Abanoub,Customer Service Head,EGBANK,False
+T2,Tier 2 - Champion,Marina,Customer Service Head,EGBANK,False
+T2,Tier 2 - Champion,Ali,Customer Service Head,EGBANK,False
+T2,Tier 2 - Champion,Nouran,Deputy Branch Manager & Head of Customer Service,EGBANK,False
+T2,Tier 2 - Champion,Ahmed,Head of Contact Center,EGBANK,True
+T2,Tier 2 - Champion,Hossam,Head of Customer Service,EGBANK,True
+T2,Tier 2 - Champion,Dina,Head of Customer Service,EGBANK,True
+T2,Tier 2 - Champion,Muhammad,Head of Customer Service,EGBANK,True
+T2,Tier 2 - Champion,Raghda,Head of Customer Service,EGBANK,True
+T2,Tier 2 - Champion,Ehab,Head of Customer Service,EGBANK,True
+T2,Tier 2 - Champion,Shereen,Head of Customer Service,EGBANK,False
+T2,Tier 2 - Champion,Mohamed,Head of Customer Service,EGBANK,True
+T2,Tier 2 - Champion,Shady,Head of Customer Service,EGBANK,True
+T2,Tier 2 - Champion,Yasser,Head of Customer Service,EGBANK,False
+T2,Tier 2 - Champion,Azza,Head of Customer Service,EGBANK,False
+T2,Tier 2 - Champion,Diana,Head of Customer Service,EGBANK,False
+T2,Tier 2 - Champion,Mohamed,Head of Customer Service,EGBANK,False
+T2,Tier 2 - Champion,Haytham,Head of Customer Service,EGBANK,False
+T2,Tier 2 - Champion,Mo'men,Head of Customer Service,EGBANK,False
+T2,Tier 2 - Champion,Bothina,Head of Customer Service,EGBANK,False
+T2,Tier 2 - Champion,Tarek,Head of Customer Service,EGBANK,False
+T2,Tier 2 - Champion,Mahmoud,Head of Customer Service,EGBANK,False
+T2,Tier 2 - Champion,Shaimaa,Head of Customer Service,EGBANK,True
+T2,Tier 2 - Champion,Adham,Head of Customer Service,EGBANK,False
+T2,Tier 2 - Champion,Mark,Head of Customer Service,EGBANK,False
+T2,Tier 2 - Champion,Taha,Head of Customer Service,EGBANK,False
+T2,Tier 2 - Champion,Batoul,Head of Customer Service,EGBANK,False
+T2,Tier 2 - Champion,Essam,Head of Retail Digital Products Innovation and Payments - Associate Director,EGBANK,True
+T2,Tier 2 - Champion,Marina,Retail Business Analytics & Planning Head,EGBANK,False
+T2,Tier 2 - Champion,Mohamed,Retail Customer Service Head,EGBANK,True
+T2,Tier 2 - Champion,Alyaa,✅ Commercial Service Head - Corporate Customer Service Department,EGBANK,True
+T3,Tier 3 - Integration,Rawan,CIO,EGBANK,True
+T3,Tier 3 - Integration,Yousef,Chief Information Officer,EGBANK,False
+T3,Tier 3 - Integration,Boules,"Chief Information Officer, Finance Graduate",EGBANK,True
+T1,Tier 1 - Economic Buyer,Ahmed,Head of Cards & Personal Banking,Emirates Islamic,True
+T1,Tier 1 - Economic Buyer,Zain,"Head of Digital Experience, Web Journeys & Open Finance",Emirates Islamic,True
+T1,Tier 1 - Economic Buyer,Khairl,Head of Marketing,Emirates Islamic,True
+T1,Tier 1 - Economic Buyer,Hassaan,"Head of Products, Digital & Personal Banking",Emirates Islamic,True
+T1,Tier 1 - Economic Buyer,Mohamed,Head of Retail Banking & Wealth Management,Emirates Islamic,True
+T2,Tier 2 - Champion,Veera,"Head - Product, Value Proposition and Digital Channels",Emirates Islamic,True
+T2,Tier 2 - Champion,Neeshu,Head of BI & Analytics,Emirates Islamic,True
+T2,Tier 2 - Champion,Husnain,"Head of RBWM Strategy, CLM & Analytics",Emirates Islamic,True
+T3,Tier 3 - Integration,Samir,CIO,Emirates Islamic,False
+T3,Tier 3 - Integration,Ahmed,Head of IT Dept,Emirates Islamic,False
+T3,Tier 3 - Integration,Mostafa,Senior Director - Head of Information Technology,Emirates Islamic,True
+T1,Tier 1 - Economic Buyer,Srwnaz,"AVP, Head of Digital Acquisition - Business Banking, Emirates NBD.",Emirates NBD,True
+T1,Tier 1 - Economic Buyer,Yomna,Business Marketing Head,Emirates NBD,True
+T1,Tier 1 - Economic Buyer,Rohit,"Chief Digital Officer & Group Head, Retail Products, Retail Banking & Wealth Management",Emirates NBD,True
+T1,Tier 1 - Economic Buyer,Carlos,"Digital Tribe Head, Wealth Management & Private Banking",Emirates NBD,True
+T1,Tier 1 - Economic Buyer,Aya,"Director of Marketing, PR and Corporate Communication",Emirates NBD,True
+T1,Tier 1 - Economic Buyer,Magesh,Executive Director - Head of Digital Products,Emirates NBD,True
+T1,Tier 1 - Economic Buyer,Shoaib,Group Head of Digital Products,Emirates NBD,True
+T1,Tier 1 - Economic Buyer,Sachin,Group Head of Marketing | Customer Intelligence & RBWM Strategy,Emirates NBD,True
+T1,Tier 1 - Economic Buyer,Aamir,Head of Business Marketing - Retail Banking,Emirates NBD,True
+T1,Tier 1 - Economic Buyer,Sameer,"Head of Business Marketing, Products",Emirates NBD,True
+T1,Tier 1 - Economic Buyer,Heba,Head of Cards Business ENBD,Emirates NBD,True
+T1,Tier 1 - Economic Buyer,Rayan,Head of Cards Portfolio,Emirates NBD,True
+T1,Tier 1 - Economic Buyer,Ahmed,Head of Cards Portfolio & Acquisition,Emirates NBD,False
+T1,Tier 1 - Economic Buyer,Muhammad,Head of Cards Portfolio and Payments,Emirates NBD,True
+T1,Tier 1 - Economic Buyer,Mai,Head of Corporate Marketing,Emirates NBD,True
+T1,Tier 1 - Economic Buyer,Olga,Head of Customer Experience and Journeys,Emirates NBD,True
+T1,Tier 1 - Economic Buyer,Murat,Head of Digital Analytics & Adoption,Emirates NBD,False
+T1,Tier 1 - Economic Buyer,Haitham,Head of Digital Banking,Emirates NBD,False
+T1,Tier 1 - Economic Buyer,Afnan,Head of Digital Channels,Emirates NBD,False
+T1,Tier 1 - Economic Buyer,Ritu,Head of Digital Experience and Operations,Emirates NBD,True
+T1,Tier 1 - Economic Buyer,Chitra,Head of Digital Innovation,Emirates NBD,True
+T1,Tier 1 - Economic Buyer,John,Head of Digital Learning,Emirates NBD,True
+T1,Tier 1 - Economic Buyer,Benjamin,Head of Digital Marketing & GenAI,Emirates NBD,True
+T1,Tier 1 - Economic Buyer,Vivek,Head of Digital Marketing & Social Media,Emirates NBD,False
+T1,Tier 1 - Economic Buyer,Ahmed,Head of Digital Operations & Self Services,Emirates NBD,False
+T1,Tier 1 - Economic Buyer,Ashirvad,Head of Digital Products,Emirates NBD,True
+T1,Tier 1 - Economic Buyer,Irfaan,Head of Digital Products Tribe Engineering - Onboarding and Branch Transformation,Emirates NBD,True
+T1,Tier 1 - Economic Buyer,Deepali,Head of Digital Products(IT) - EveryDay Banking,Emirates NBD,True
+T1,Tier 1 - Economic Buyer,Mahendar,"Head of Digital Products, Growth and Partnerships for Liv",Emirates NBD,False
+T1,Tier 1 - Economic Buyer,Anuradha,Head of Digital Resilience and Automation,Emirates NBD,True
+T1,Tier 1 - Economic Buyer,Arif,Head of Emirates Islamic Business Marketing,Emirates NBD,True
+T1,Tier 1 - Economic Buyer,Rajesh,"Head of Finance- Wealth, Private Banking & Digital",Emirates NBD,True
+T1,Tier 1 - Economic Buyer,Saleh,Head of Marketing & Corporate Communications KSA,Emirates NBD,True
+T1,Tier 1 - Economic Buyer,Faisal,Head of Marketing KSA,Emirates NBD,False
+T1,Tier 1 - Economic Buyer,Asad,Head of Products and Digital Banking,Emirates NBD,False
+T1,Tier 1 - Economic Buyer,Aju,Head of Retail Banking & Wealth Management Sales,Emirates NBD,True
+T1,Tier 1 - Economic Buyer,Mahmoud,Senior Director - Head of Customer Experience,Emirates NBD,False
+T1,Tier 1 - Economic Buyer,Jane,"Senior Vice President, Head of Cards",Emirates NBD,True
+T1,Tier 1 - Economic Buyer,Devavrat,VP Digital Banking,Emirates NBD,True
+T1,Tier 1 - Economic Buyer,Charu,"Vice President, Head of Digital Partnerships",Emirates NBD,True
+T2,Tier 2 - Champion,Guru,Group Head of Operations - Transformation and Analytics,Emirates NBD,False
+T2,Tier 2 - Champion,Mina,Head Customer Service 'I.B.Head',Emirates NBD,True
+T2,Tier 2 - Champion,Bashayer,Head of Brand,Emirates NBD,True
+T2,Tier 2 - Champion,Sara,Head of Co-Brand Products - Cards,Emirates NBD,True
+T2,Tier 2 - Champion,Ayed,Head of Contact Center,Emirates NBD,True
+T2,Tier 2 - Champion,Rania,Head of Contact Center Operations - PB- PRB,Emirates NBD,False
+T2,Tier 2 - Champion,Nawaf,Head of Customer Care,Emirates NBD,False
+T2,Tier 2 - Champion,Mohamed,Head of Customer Service,Emirates NBD,True
+T2,Tier 2 - Champion,Nick,"Head of Data and Analytics, GCOO Transformation",Emirates NBD,True
+T2,Tier 2 - Champion,Madiha,Head of ENBD RAK Contact Center Operations,Emirates NBD,False
+T2,Tier 2 - Champion,Pranay,"Head of Products, Advanced Analytics and AI",Emirates NBD,False
+T2,Tier 2 - Champion,Bandar,Head of Retention Unit,Emirates NBD,False
+T2,Tier 2 - Champion,Scott,Head: Multi Asset Investments & Analytics,Emirates NBD,True
+T2,Tier 2 - Champion,Gasser,Marketing Technology & Digital Acquisition Head,Emirates NBD,True
+T2,Tier 2 - Champion,Neeraj,"Senior Executive Vice President - Group Head - Strategy, Analytics & Venture Capital at Emirates NBD",Emirates NBD,True
+T2,Tier 2 - Champion,Gourab,"VP and Head - Analytics and Market Research, Retail Banking and Wealth Management",Emirates NBD,True
+T2,Tier 2 - Champion,Sandip,Vice President - Head of Group Capital Analytics,Emirates NBD,True
+T3,Tier 3 - Integration,Ahmed,Chief Information Officer,Emirates NBD,True
+T3,Tier 3 - Integration,Moncen,Executive Director - Head of IT Service Reliability Engineering (SRE),Emirates NBD,True
+T3,Tier 3 - Integration,Ali,Group Head of Technology Platforms,Emirates NBD,True
+T3,Tier 3 - Integration,Reejo,Head of API Banking & Open Banking,Emirates NBD,True
+T3,Tier 3 - Integration,Hayssam,Head of IT Applications & Developments,Emirates NBD,False
+T3,Tier 3 - Integration,Mohammed,Head of IT Business Management,Emirates NBD,False
+T3,Tier 3 - Integration,Marko,Head of IT Department.,Emirates NBD,False
+T3,Tier 3 - Integration,Mohamed,Head of IT Infrastructure,Emirates NBD,True
+T3,Tier 3 - Integration,Abdulaziz,Head of IT Projects & Platforms,Emirates NBD,True
+T3,Tier 3 - Integration,Hani,Head of Technology Finance,Emirates NBD,True
+T3,Tier 3 - Integration,Nishu,Senior Director - Head of Technology Regulations & Business Management,Emirates NBD,True
+T3,Tier 3 - Integration,Ajay,Vice President- Head of IT Service Management,Emirates NBD,False
+T1,Tier 1 - Economic Buyer,Abeer,Head of Private Banking Marketing,FGB,False
+T1,Tier 1 - Economic Buyer,Mahmoud,Acting Head of Marketing Department,Faisal Islamic Bank of Egypt,True
+T3,Tier 3 - Integration,Emad,Head of IT Security,Faisal Islamic Bank of Egypt,True
+T1,Tier 1 - Economic Buyer,Anand,Chief Marketing Officer,Finance House,False
+T1,Tier 1 - Economic Buyer,Emad,Head of Digital Financial Services,Finance House,True
+T3,Tier 3 - Integration,Snehal,"Head of Technology - Applications, BaaS & Enterprise Transformation",Finance House,True
+T1,Tier 1 - Economic Buyer,Haya,"AVP, Digital Banking",First Abu Dhabi Bank (FAB),True
+T1,Tier 1 - Economic Buyer,Hossam,Chief Customer Service Officer,First Abu Dhabi Bank (FAB),False
+T1,Tier 1 - Economic Buyer,Ashish,Head of Cards Acquisition and Payments,First Abu Dhabi Bank (FAB),False
+T1,Tier 1 - Economic Buyer,Min,Head of Consumer and Private Banking Operations,First Abu Dhabi Bank (FAB),True
+T1,Tier 1 - Economic Buyer,Alan,Head of Digital (Acting),First Abu Dhabi Bank (FAB),True
+T1,Tier 1 - Economic Buyer,Malith,"Head of Digital Acquisition for Consumer Banking - Accounts, Personal Loans and Islamic Finance",First Abu Dhabi Bank (FAB),True
+T1,Tier 1 - Economic Buyer,Noha,"Head of Digital Sales, TPSP and Commercialization",First Abu Dhabi Bank (FAB),True
+T1,Tier 1 - Economic Buyer,Fadi,Marketing Director,First Abu Dhabi Bank (FAB),True
+T1,Tier 1 - Economic Buyer,Ashish,SVP & Head of Consumer Banking,First Abu Dhabi Bank (FAB),True
+T1,Tier 1 - Economic Buyer,Khalid,SVP & Head of Digital Islamic & Elite,First Abu Dhabi Bank (FAB),True
+T1,Tier 1 - Economic Buyer,Shreya,SVP & Head of Personal Bank Marketing,First Abu Dhabi Bank (FAB),True
+T1,Tier 1 - Economic Buyer,Abdulaziz,VP & Head of Cards Product,First Abu Dhabi Bank (FAB),True
+T1,Tier 1 - Economic Buyer,Robert,"VP | Head of Loyalty, Strategic Partnerships & Cards Management",First Abu Dhabi Bank (FAB),True
+T1,Tier 1 - Economic Buyer,Tariq,"Vice President – Head of Digital Channels, SME Business Banking First Abu Dhabi Bank (FAB)",First Abu Dhabi Bank (FAB),True
+T2,Tier 2 - Champion,Tarun,Group Head of Non-Retail Model Development | Analytics | AI,First Abu Dhabi Bank (FAB),True
+T2,Tier 2 - Champion,Srinivasan,Head of Business Intelligence and Planning - Group Technology and Transformation,First Abu Dhabi Bank (FAB),True
+T2,Tier 2 - Champion,Shuruq,Head of Customer Care,First Abu Dhabi Bank (FAB),False
+T2,Tier 2 - Champion,Christina,Head of Customer Service,First Abu Dhabi Bank (FAB),False
+T2,Tier 2 - Champion,Gilan,Head of Customer Service,First Abu Dhabi Bank (FAB),False
+T2,Tier 2 - Champion,Haya,Head of Customer Service,First Abu Dhabi Bank (FAB),False
+T2,Tier 2 - Champion,Rana,Head of Customer Service,First Abu Dhabi Bank (FAB),False
+T2,Tier 2 - Champion,Ahmad,Head of Data & Analytics Design,First Abu Dhabi Bank (FAB),True
+T2,Tier 2 - Champion,Arun,Head of Data Analytics & Artificial Intelligence (CDAO),First Abu Dhabi Bank (FAB),True
+T2,Tier 2 - Champion,Sachin,Head of Delivery- Digital Channels for Corporate Investment Banking,First Abu Dhabi Bank (FAB),True
+T2,Tier 2 - Champion,Mahendra,Managing Director & Head - GTB Fintech Partnerships & Data Analytics,First Abu Dhabi Bank (FAB),True
+T2,Tier 2 - Champion,Tom,SVP & Head of Brand,First Abu Dhabi Bank (FAB),False
+T2,Tier 2 - Champion,Shrutika,VP & Head of Analytics (AI & Advanced Analytics),First Abu Dhabi Bank (FAB),True
+T2,Tier 2 - Champion,Ahmed,VP & Head of Country Marketing and Communications,First Abu Dhabi Bank (FAB),False
+T2,Tier 2 - Champion,Shamoon,"VP & Head of Pbw&pcbg MI and Finance Lead on Power BI, Data Analytics, AI Innovation and Agentic AI",First Abu Dhabi Bank (FAB),True
+T2,Tier 2 - Champion,Ather,"Vice President Technology - Consumer Banking, Digital Channels",First Abu Dhabi Bank (FAB),True
+T2,Tier 2 - Champion,Sami,"Vice President, Head of Business Retention, Attrition and Indemnities",First Abu Dhabi Bank (FAB),True
+T3,Tier 3 - Integration,Antranik,Chief Information Officer - Enterprise,First Abu Dhabi Bank (FAB),True
+T3,Tier 3 - Integration,Bharath,Chief Information Officer - Personal Wealth & Business Banking (acting),First Abu Dhabi Bank (FAB),True
+T3,Tier 3 - Integration,Kapil,"Head of Business Applications, Data, and AI Enterprise Architecture",First Abu Dhabi Bank (FAB),True
+T3,Tier 3 - Integration,Gaurav,Head of Data Engineering and Platforms,First Abu Dhabi Bank (FAB),True
+T3,Tier 3 - Integration,Ahmed,Head of IT,First Abu Dhabi Bank (FAB),True
+T3,Tier 3 - Integration,Emma,Head of IT Service Management,First Abu Dhabi Bank (FAB),True
+T3,Tier 3 - Integration,Raj,Head of Technology - Agile Transformation,First Abu Dhabi Bank (FAB),True
+T3,Tier 3 - Integration,Avadhesh,Head of Technology - Enterprise Banking Platforms,First Abu Dhabi Bank (FAB),True
+T3,Tier 3 - Integration,Hajar,Head of Technology - International,First Abu Dhabi Bank (FAB),True
+T3,Tier 3 - Integration,Anuj,Head of Technology Business Management,First Abu Dhabi Bank (FAB),True
+T3,Tier 3 - Integration,Jayakumar,"Head of Technology, Enterprise Integration and Platform Services",First Abu Dhabi Bank (FAB),True
+T3,Tier 3 - Integration,Chandrashekhar,"Head of Technology, Personal & Islamic Banking",First Abu Dhabi Bank (FAB),True
+T1,Tier 1 - Economic Buyer,Ahmed,Head of Cards Business,First Abu Dhabi Bank Misr (FABMISR),True
+T1,Tier 1 - Economic Buyer,Evraim,Head of Cards Products,First Abu Dhabi Bank Misr (FABMISR),True
+T1,Tier 1 - Economic Buyer,Khaled,Head of Customer Experience,First Abu Dhabi Bank Misr (FABMISR),True
+T1,Tier 1 - Economic Buyer,Mohamed,Head of Digital Transformation,First Abu Dhabi Bank Misr (FABMISR),True
+T1,Tier 1 - Economic Buyer,Laila,Head of Digital Transformation - Consumer Banking,First Abu Dhabi Bank Misr (FABMISR),True
+T1,Tier 1 - Economic Buyer,Yostina,Marketing Senior Associate Director,First Abu Dhabi Bank Misr (FABMISR),True
+T2,Tier 2 - Champion,Hany,Head of Analytics & Reporting,First Abu Dhabi Bank Misr (FABMISR),True
+T2,Tier 2 - Champion,Mohannad,Head of Customer Service,First Abu Dhabi Bank Misr (FABMISR),False
+T2,Tier 2 - Champion,Lobna,Head of Customer Service,First Abu Dhabi Bank Misr (FABMISR),False
+T2,Tier 2 - Champion,Kamel,Head of Customer Service,First Abu Dhabi Bank Misr (FABMISR),False
+T2,Tier 2 - Champion,Karim,Head of Customer Service,First Abu Dhabi Bank Misr (FABMISR),False
+T2,Tier 2 - Champion,Ahmed,Head of Customer Service,First Abu Dhabi Bank Misr (FABMISR),False
+T2,Tier 2 - Champion,Mohamed,Head of Customer Service,First Abu Dhabi Bank Misr (FABMISR),False
+T2,Tier 2 - Champion,Motaz,Head of Data Analytics and Artificial Intelligence,First Abu Dhabi Bank Misr (FABMISR),True
+T2,Tier 2 - Champion,Ahmed,"Head of Process Improvement, Business Analytics & GRC | COO",First Abu Dhabi Bank Misr (FABMISR),True
+T3,Tier 3 - Integration,Shaarawy,Chief Technology Officer,First Abu Dhabi Bank Misr (FABMISR),True
+T3,Tier 3 - Integration,Mohamed,Head of IT Infrastructure Service,First Abu Dhabi Bank Misr (FABMISR),True
+T3,Tier 3 - Integration,Ahmed,Head of IT Infrastructure and IT Security,First Abu Dhabi Bank Misr (FABMISR),True
+T3,Tier 3 - Integration,Engy,Head of IT Portfolio Management and Control,First Abu Dhabi Bank Misr (FABMISR),False
+T1,Tier 1 - Economic Buyer,Fadi,Acting Chief Digital Transformation Officer,Gulf Bank,True
+T1,Tier 1 - Economic Buyer,Hassan,Head of Digital Banking,Gulf Bank,False
+T1,Tier 1 - Economic Buyer,Sara,Marketing Manager - Art Director,Gulf Bank,True
+T2,Tier 2 - Champion,Raj,"Assistant General Manager & Head - Products, Segments & Analytics - Consumer Banking",Gulf Bank,False
+T2,Tier 2 - Champion,Mursi,Executive Manager - Head of Customer Contact Center,Gulf Bank,False
+T2,Tier 2 - Champion,Samar,Head of Retention,Gulf Bank,False
+T2,Tier 2 - Champion,Ahmad,Head of Retention Management,Gulf Bank,True
+T3,Tier 3 - Integration,Shahzad,Chief Information Officer (CIO),Gulf Bank,True
+T1,Tier 1 - Economic Buyer,Sridhar,Group Chief Digital Officer and Deputy Group Head of Consumer Banking,Gulf International Bank,True
+T1,Tier 1 - Economic Buyer,Ali,Head of Customer Experience,Gulf International Bank,True
+T1,Tier 1 - Economic Buyer,Israa,Head of Digital Acquisition and Network,Gulf International Bank,True
+T1,Tier 1 - Economic Buyer,Ahmed,Head of Digital Banking,Gulf International Bank,False
+T1,Tier 1 - Economic Buyer,Mohamed,"Head of Digital Channels, Digital Banking Department at GIB",Gulf International Bank,False
+T1,Tier 1 - Economic Buyer,Mohamed,Head of Digital Delivery,Gulf International Bank,True
+T1,Tier 1 - Economic Buyer,Jayanth,Head of Digital Transformation,Gulf International Bank,True
+T1,Tier 1 - Economic Buyer,CA,Vice President - Head of Projects Digital Banking Finance,Gulf International Bank,False
+T2,Tier 2 - Champion,Maryam,Group Head Internal Communications,Gulf International Bank,True
+T2,Tier 2 - Champion,Yasser,Group Head of Corporate Communications,Gulf International Bank,True
+T2,Tier 2 - Champion,Mahmood,Head of Customer Service,Gulf International Bank,True
+T3,Tier 3 - Integration,Hazem,Chief Technology Officer,Gulf International Bank,True
+T3,Tier 3 - Integration,Junaid,Head of IT Delivery-Retail Banking,Gulf International Bank,True
+T3,Tier 3 - Integration,Ahmed,Head of IT Infrastructure & Operations,Gulf International Bank,True
+T3,Tier 3 - Integration,Ebrahim,Head of IT Operations,Gulf International Bank,False
+T3,Tier 3 - Integration,Sanjay,SVP - Head - Information Technology,Gulf International Bank,False
+T1,Tier 1 - Economic Buyer,Ahmed,"DGM - Head of Digital Solutions(Integration, Business Automation & RPA, Digital Channels, AI)",Industrial Development Bank - IDB,True
+T1,Tier 1 - Economic Buyer,Haytham,General Manager Head of Segments & Wealth Management,Industrial Development Bank - IDB,False
+T1,Tier 1 - Economic Buyer,Sherif,General Manager. Head of Digital Transformation and Experience,Industrial Development Bank - IDB,False
+T1,Tier 1 - Economic Buyer,Mohamed,Head of Cards Sales,Industrial Development Bank - IDB,False
+T1,Tier 1 - Economic Buyer,Mohand,Head of Customer Experience & Quality Control,Industrial Development Bank - IDB,False
+T1,Tier 1 - Economic Buyer,Ibrahim,Head of Retail Banking,Industrial Development Bank - IDB,False
+T2,Tier 2 - Champion,Nada,Business Data Analytics Section Head,Industrial Development Bank - IDB,False
+T2,Tier 2 - Champion,Naglaa,Head of Public Relations & Corporate Communications Department,Industrial Development Bank - IDB,False
+T3,Tier 3 - Integration,Mahmoud,Head of IT Service Desk & Technical Support,Industrial Development Bank - IDB,False
+T1,Tier 1 - Economic Buyer,Farah,Acting Head of Retail Banking,Invest Bank,True
+T1,Tier 1 - Economic Buyer,Serge,CTO & Head of Digital Bank,Invest Bank,True
+T1,Tier 1 - Economic Buyer,Ajay,Head of Digital & AI,Invest Bank,True
+T3,Tier 3 - Integration,Mukesh,Chief Information Officer,Invest Bank,True
+T3,Tier 3 - Integration,Sathyanathan,Group Head of Information Technology,Invest Bank,False
+T3,Tier 3 - Integration,Yogesh,Head of Information Technology,Invest Bank,True
+T1,Tier 1 - Economic Buyer,Nader,Head of Cards Business,Ithmaar Bank,False
+T1,Tier 1 - Economic Buyer,Ahmed,Executive Manager - Head of Digital Technology,KIB,True
+T1,Tier 1 - Economic Buyer,Ali,Head of Customer Experience,KIB,True
+T2,Tier 2 - Champion,Talal,Head of Contact Center,KIB,False
+T3,Tier 3 - Integration,Roshan,Head of IT Business Applications,KIB,True
+T3,Tier 3 - Integration,Hani,Head of IT Quality Assurance,KIB,True
+T3,Tier 3 - Integration,Mohamed,Head of Information Technology Group,KIB,True
+T1,Tier 1 - Economic Buyer,Waleed,Head of Digital Channels,Kuwait Finance House,False
+T1,Tier 1 - Economic Buyer,Zahra,Head of Marketing,Kuwait Finance House,True
+T1,Tier 1 - Economic Buyer,Khalid,Head of Retail Banking Group,Kuwait Finance House,True
+T1,Tier 1 - Economic Buyer,Ahmed,Head of Segments,Kuwait Finance House,True
+T2,Tier 2 - Champion,Aya,Acting Head of Customer Service,Kuwait Finance House,False
+T2,Tier 2 - Champion,Mostafa,Customer Service Head,Kuwait Finance House,True
+T2,Tier 2 - Champion,Ahmed,Customer Service Head,Kuwait Finance House,False
+T2,Tier 2 - Champion,Romany,Head Customer Service & Deputy Manager,Kuwait Finance House,False
+T2,Tier 2 - Champion,Madline,Head of Customer Service,Kuwait Finance House,True
+T2,Tier 2 - Champion,Mostafa,Head of Customer Service,Kuwait Finance House,False
+T2,Tier 2 - Champion,Shady,Head of Customer Service,Kuwait Finance House,False
+T3,Tier 3 - Integration,Sherif,Chief Information Officer,Kuwait Finance House,True
+T3,Tier 3 - Integration,Ahmed,Executive Manager - Head of IT Business Relationship and Demand Management,Kuwait Finance House,True
+T3,Tier 3 - Integration,Eng,Group Chief Technology and Digital Transformation Officer,Kuwait Finance House,True
+T1,Tier 1 - Economic Buyer,Maryam,Director of Marketing and Communication,Lesha Bank,True
+T3,Tier 3 - Integration,Suresh,Head of IT,Lesha Bank,False
+T3,Tier 3 - Integration,Khalid,Head of Information Technology,Lesha Bank,True
+T1,Tier 1 - Economic Buyer,Sally,Head of Cards Business,MIDBANK,True
+T1,Tier 1 - Economic Buyer,Sherif,Head of Cards Center,MIDBANK,True
+T1,Tier 1 - Economic Buyer,Mohamed,Head of Cards Sales,MIDBANK,True
+T1,Tier 1 - Economic Buyer,Mohamed,Head of Digital Banking & Innovation,MIDBANK,True
+T1,Tier 1 - Economic Buyer,Bassem,Head of Digital Channels Operation,MIDBANK,True
+T1,Tier 1 - Economic Buyer,Nehal,Head of Digital and Innovation Hub,MIDBANK,True
+T1,Tier 1 - Economic Buyer,Mahmoud,Head of Retail Banking,MIDBANK,True
+T2,Tier 2 - Champion,Bassent,Head of Customer Service,MIDBANK,True
+T2,Tier 2 - Champion,Khaled,Head of Customer Service,MIDBANK,True
+T2,Tier 2 - Champion,Dina,Head of Customer Service,MIDBANK,False
+T2,Tier 2 - Champion,Bahaa,Head of Customer Service,MIDBANK,True
+T2,Tier 2 - Champion,Amira,Head of Customer Service,MIDBANK,False
+T2,Tier 2 - Champion,Gad,Head of Customer Service,MIDBANK,False
+T2,Tier 2 - Champion,Mohammed,Head of Customer Service,MIDBANK,False
+T2,Tier 2 - Champion,Shrouk,Head of Customer Service,MIDBANK,False
+T3,Tier 3 - Integration,Ahmed,AGM - Head of IT Delivery Group,MIDBANK,True
+T3,Tier 3 - Integration,Mohamed,Chief Information Officer,MIDBANK,True
+T3,Tier 3 - Integration,Atef,Head of IT Infrastructure,MIDBANK,True
+T1,Tier 1 - Economic Buyer,Jasar,AVP - Global Digital Banking Platform,Mashreq,True
+T1,Tier 1 - Economic Buyer,Amr,AVP - Head of Cards Portfolio,Mashreq,True
+T1,Tier 1 - Economic Buyer,George,Chief Marketing Officer,Mashreq,True
+T1,Tier 1 - Economic Buyer,Corey,"Executive Vice President and Head of Digital, Retail Banking Group",Mashreq,True
+T1,Tier 1 - Economic Buyer,Fernando,Global Head of Retail Banking,Mashreq,True
+T1,Tier 1 - Economic Buyer,Mona,Group Head of Marketing & Corporate Communications,Mashreq,False
+T1,Tier 1 - Economic Buyer,Lilian,Head of Cards Operations,Mashreq,False
+T1,Tier 1 - Economic Buyer,Nahla,Head of Customer Experience - Corporate,Mashreq,True
+T1,Tier 1 - Economic Buyer,Marian,Head of Digital & Retail Lending,Mashreq,False
+T1,Tier 1 - Economic Buyer,Chandrama,Head of Marketing,Mashreq,True
+T1,Tier 1 - Economic Buyer,Jaime,Head of Retail Banking Technology,Mashreq,False
+T1,Tier 1 - Economic Buyer,Nzaar,"Head of Retail Liabilities, Digital Deposits and Priority Banking Products & Proposition",Mashreq,True
+T1,Tier 1 - Economic Buyer,Sherif,SVP Egypt Head of Digital Strategic Partnerships,Mashreq,False
+T1,Tier 1 - Economic Buyer,Ricardo,"SVP, Global Head of Digital Propositions",Mashreq,True
+T1,Tier 1 - Economic Buyer,Vickram,"SVP, Head of Digital Wealth Solutions",Mashreq,False
+T1,Tier 1 - Economic Buyer,Chiraag,"Senior Vice President, Global Head of Customer Value Management",Mashreq,True
+T1,Tier 1 - Economic Buyer,Jitesh,Vice President - Head of Cards Portfolio (EC),Mashreq,True
+T2,Tier 2 - Champion,Ahmed,Head of Advanced Analytics,Mashreq,True
+T2,Tier 2 - Champion,Gracy,Head of Customer Care Unit,Mashreq,True
+T2,Tier 2 - Champion,Mohamed,VP - Head of Retail Customer Experience,Mashreq,False
+T2,Tier 2 - Champion,Ahmed,"VP, Head of Business Planning and Analytics",Mashreq,True
+T2,Tier 2 - Champion,Muhammad,Vice President - Cluster Head Customer Digital Journeys,Mashreq,False
+T2,Tier 2 - Champion,Mohammad,Vice President - Head of Customer Service Unit - Private Banking,Mashreq,False
+T2,Tier 2 - Champion,Omran,Vice President - Stream Head - Analytics & Data Management,Mashreq,True
+T3,Tier 3 - Integration,Ashraf,Egypt -Head of Technology ( CIO ),Mashreq,True
+T3,Tier 3 - Integration,Dan,"Executive Vice President, Head of IT Infrastructure & Head of Enterprise Architecture",Mashreq,True
+T3,Tier 3 - Integration,Latifa,Head of Technology Management Office TMO,Mashreq,True
+T3,Tier 3 - Integration,Manivannan,SVP-Head of IT Infrastructure Services (2020–Present)| Head of Information Security Group(2018–2019),Mashreq,True
+T3,Tier 3 - Integration,Sebastien,VP Head of Enterprise Architecture,Mashreq,True
+T1,Tier 1 - Economic Buyer,Amgad,Head of Digital Customer Loyalty and Insights,National Bank of Bahrain,True
+T1,Tier 1 - Economic Buyer,Mahmood,Head of Digital Platforms - IT,National Bank of Bahrain,True
+T1,Tier 1 - Economic Buyer,Omar,Head of Retail Digital Banking,National Bank of Bahrain,True
+T1,Tier 1 - Economic Buyer,Hamad,Head of Retail Marketing,National Bank of Bahrain,True
+T1,Tier 1 - Economic Buyer,Fouad,Manager - Head of Retail Banking & Operations,National Bank of Bahrain,False
+T2,Tier 2 - Champion,Ameer,Group Head of Data Analytics,National Bank of Bahrain,True
+T2,Tier 2 - Champion,Bassam,Head of Customer service-Card Center,National Bank of Bahrain,True
+T2,Tier 2 - Champion,Abdulwahab,Head of KSA Digital Channels & Payments,National Bank of Bahrain,True
+T3,Tier 3 - Integration,Razi,Group Chief Technology Officer,National Bank of Bahrain,True
+T3,Tier 3 - Integration,Ali,Group Head of Technology and Enterprise Architecture,National Bank of Bahrain,True
+T3,Tier 3 - Integration,Aqeel,Head of Enterprise Architecture,National Bank of Bahrain,False
+T3,Tier 3 - Integration,Amitava,Head of IT Card Projects and Operations,National Bank of Bahrain,True
+T3,Tier 3 - Integration,Ahmed,Head of IT Network Management,National Bank of Bahrain,True
+T3,Tier 3 - Integration,Salman,Head of IT Operation,National Bank of Bahrain,True
+T3,Tier 3 - Integration,Hussain,Head of IT Security,National Bank of Bahrain,False
+T3,Tier 3 - Integration,Fahad,Head of Information Technology - KSA,National Bank of Bahrain,True
+T1,Tier 1 - Economic Buyer,Ashraf,General Manager Head of Digital Banking,National Bank of Egypt (NBE),True
+T1,Tier 1 - Economic Buyer,Ashraf,Head of Digital Marketing,National Bank of Egypt (NBE),True
+T1,Tier 1 - Economic Buyer,Mohamed,Head of Digital Transformation Management & Fintechs Collaboration,National Bank of Egypt (NBE),True
+T1,Tier 1 - Economic Buyer,Hazem,Head of Retail Banking,National Bank of Egypt (NBE),True
+T1,Tier 1 - Economic Buyer,Mostafa,Head of Segments Proposition,National Bank of Egypt (NBE),True
+T1,Tier 1 - Economic Buyer,Heidy,Head of Segments and Wealth Managment,National Bank of Egypt (NBE),True
+T1,Tier 1 - Economic Buyer,Yasmine,"Marketing Director, General Manager of Marketing Development; National Bank of Egypt",National Bank of Egypt (NBE),True
+T1,Tier 1 - Economic Buyer,Mohamed,Retail Marketing Manager&business Banking. Assistant Head of Southe Cairo Branches Region,National Bank of Egypt (NBE),True
+T2,Tier 2 - Champion,Abdelrahman,Customer Service Head,National Bank of Egypt (NBE),False
+T2,Tier 2 - Champion,Shadi,Digital Channels Manager - Head of Banking Self Services,National Bank of Egypt (NBE),True
+T2,Tier 2 - Champion,Nancy,Head of Business Technology and Digital Channels,National Bank of Egypt (NBE),True
+T2,Tier 2 - Champion,Amr,Head of Contact Center,National Bank of Egypt (NBE),True
+T2,Tier 2 - Champion,Marawan,Head of Customer Service,National Bank of Egypt (NBE),False
+T2,Tier 2 - Champion,Mohamed,Head of Platinum Customer Service,National Bank of Egypt (NBE),False
+T2,Tier 2 - Champion,Ehab,Internet & Mobile Banking Head,National Bank of Egypt (NBE),True
+T2,Tier 2 - Champion,Ramy,Wealth Customer Service Head,National Bank of Egypt (NBE),False
+T3,Tier 3 - Integration,Samir,CIO,National Bank of Egypt (NBE),True
+T3,Tier 3 - Integration,Eman,Department Manager - CIO Office - National Bank of Egypt,National Bank of Egypt (NBE),True
+T3,Tier 3 - Integration,Mohamed,Deputy Chief Information Officer,National Bank of Egypt (NBE),True
+T3,Tier 3 - Integration,Sherif,Group Head of Information Technology and Applications,National Bank of Egypt (NBE),True
+T3,Tier 3 - Integration,Ismail,"Head of IT Infrastructure, Data Centers and Communication",National Bank of Egypt (NBE),True
+T3,Tier 3 - Integration,Yasser,"Head of ITSM, CSI Sector",National Bank of Egypt (NBE),True
+T3,Tier 3 - Integration,Faisal,Head of Information Technology,National Bank of Egypt (NBE),True
+T3,Tier 3 - Integration,Waleed,Head of Integration Solutions Division,National Bank of Egypt (NBE),True
+T3,Tier 3 - Integration,Peter,Head of Solution Architecture,National Bank of Egypt (NBE),True
+T1,Tier 1 - Economic Buyer,Sandeep,Head of Sales and Marketing,National Bank of Fujairah (NBF),True
+T1,Tier 1 - Economic Buyer,Abdulla,Head of Segments,National Bank of Fujairah (NBF),True
+T2,Tier 2 - Champion,Mohd,Head of Strategic Marketing & Communications,National Bank of Fujairah (NBF),True
+T3,Tier 3 - Integration,Diaa,Chief Information Officer,National Bank of Fujairah (NBF),True
+T3,Tier 3 - Integration,Alexander,Interim Chief Information Officer,National Bank of Fujairah (NBF),False
+T1,Tier 1 - Economic Buyer,Deema,AGM- Head of Consumer Banking Strategy,National Bank of Kuwait,True
+T1,Tier 1 - Economic Buyer,Fatema,AVP - Head of Cards & Marekting,National Bank of Kuwait,True
+T1,Tier 1 - Economic Buyer,Mohammed,Chief Executive Officer Consumer & Digital Banking,National Bank of Kuwait,True
+T1,Tier 1 - Economic Buyer,Rabab,Director - Head of Consumer Banking,National Bank of Kuwait,True
+T1,Tier 1 - Economic Buyer,Atef,Head of Consumer Lending (Assets & Cards Business),National Bank of Kuwait,False
+T1,Tier 1 - Economic Buyer,Refaa,Head of Digital Banking Business Analysis,National Bank of Kuwait,False
+T1,Tier 1 - Economic Buyer,Hala,Head of Digital Business,National Bank of Kuwait,False
+T1,Tier 1 - Economic Buyer,Ali,Head of Digital Business and Transformation,National Bank of Kuwait,True
+T1,Tier 1 - Economic Buyer,Aseel,Head of Digital Channel & ITM,National Bank of Kuwait,True
+T1,Tier 1 - Economic Buyer,Mohab,Head of Digital Channels,National Bank of Kuwait,False
+T1,Tier 1 - Economic Buyer,Dalia,Head of Marketing,National Bank of Kuwait,False
+T1,Tier 1 - Economic Buyer,Abdulaziz,Head of Marketing Planning & Campaign Management,National Bank of Kuwait,True
+T1,Tier 1 - Economic Buyer,Sultan,Head of Retail Banking,National Bank of Kuwait,True
+T1,Tier 1 - Economic Buyer,Maha,Head of Segments,National Bank of Kuwait,True
+T1,Tier 1 - Economic Buyer,Neil,SVP Head of Marketing / Products / Segments,National Bank of Kuwait,True
+T1,Tier 1 - Economic Buyer,Mohammed,Vice President - Head of Digital Banking Channels,National Bank of Kuwait,False
+T2,Tier 2 - Champion,Tamer,Assistant General Manager | Head of Contact Center,National Bank of Kuwait,True
+T2,Tier 2 - Champion,Manal,Deputy General Manager & Head of Group Corporate Communications,National Bank of Kuwait,True
+T2,Tier 2 - Champion,Rawan,Deputy Head of Advertising and Brand,National Bank of Kuwait,False
+T2,Tier 2 - Champion,Madhu,"Executive Manager, Head of MIS & Business Intelligence-IBG",National Bank of Kuwait,True
+T2,Tier 2 - Champion,Sumit,Head of Advance Analytics,National Bank of Kuwait,True
+T2,Tier 2 - Champion,Michel,Head of Alternative Channels | Digital Projects and Innovation,National Bank of Kuwait,True
+T2,Tier 2 - Champion,Abeer,Head of Data Driven Campaign Management -CBG,National Bank of Kuwait,True
+T2,Tier 2 - Champion,Mahmood,Head of Transformation & Data Analytics,National Bank of Kuwait,True
+T3,Tier 3 - Integration,Raed,Head of IT,National Bank of Kuwait,True
+T3,Tier 3 - Integration,Ali,Head of IT,National Bank of Kuwait,False
+T3,Tier 3 - Integration,Reem,Head of IT & Sys Admin,National Bank of Kuwait,False
+T3,Tier 3 - Integration,Abdullah,Head of IT Solution & Quality,National Bank of Kuwait,False
+T3,Tier 3 - Integration,Ahmed,Head of Information Technology,National Bank of Kuwait,True
+T3,Tier 3 - Integration,Sayed,Head of Information Technology Operations,National Bank of Kuwait,True
+T3,Tier 3 - Integration,Ayman,Head of Information Technology Systems,National Bank of Kuwait,False
+T3,Tier 3 - Integration,Samer,"Head of Integration, Channels and Data Architecture",National Bank of Kuwait,False
+T3,Tier 3 - Integration,Bhaskar,Head of Solution Architecture and Development - AGM,National Bank of Kuwait,True
+T1,Tier 1 - Economic Buyer,Faisal,Chief Retail Banking & Digital Banking Officer,National Bank of Oman,False
+T1,Tier 1 - Economic Buyer,Said,Head of Customer Experience (Strategy and Transformation Group),National Bank of Oman,True
+T1,Tier 1 - Economic Buyer,Gaurav,Head of Digital Channels,National Bank of Oman,True
+T1,Tier 1 - Economic Buyer,Salim,Head of Retail Banking - Muzn Islamic Banking,National Bank of Oman,True
+T1,Tier 1 - Economic Buyer,Mohammed,Head of Segments and Propositions,National Bank of Oman,False
+T2,Tier 2 - Champion,Sherifa,Head of Brand,National Bank of Oman,True
+T3,Tier 3 - Integration,Ferenc,Head of IT,National Bank of Oman,True
+T3,Tier 3 - Integration,Hussain,Head of IT Applications & Innovation,National Bank of Oman,True
+T3,Tier 3 - Integration,Akbar,Head of IT Operations & Support,National Bank of Oman,False
+T3,Tier 3 - Integration,Akbar,Head of IT UAE,National Bank of Oman,False
+T1,Tier 1 - Economic Buyer,Shamnaz,Head of Cards and Digital Banking,"National Bank of Umm Al Qaiwain (P.S.C), is Licensed by the Central Bank of the UAE",False
+T1,Tier 1 - Economic Buyer,Sudarshan,Head of Retail Banking,"National Bank of Umm Al Qaiwain (P.S.C), is Licensed by the Central Bank of the UAE",True
+T3,Tier 3 - Integration,Jayamohan,Chief Information Officer,"National Bank of Umm Al Qaiwain (P.S.C), is Licensed by the Central Bank of the UAE",False
+T3,Tier 3 - Integration,Sanath,Head of IT,"National Bank of Umm Al Qaiwain (P.S.C), is Licensed by the Central Bank of the UAE",False
+T1,Tier 1 - Economic Buyer,Maha,Executive Assitant of Head of Retail Banking,Oman Arab Bank,True
+T1,Tier 1 - Economic Buyer,Saud,Head - Retail SME and Digital Banking Support,Oman Arab Bank,True
+T1,Tier 1 - Economic Buyer,Ziad,Head of CRM and Data Analytic in Retail Division,Oman Arab Bank,True
+T1,Tier 1 - Economic Buyer,Eihab,Head of Cards Business,Oman Arab Bank,True
+T1,Tier 1 - Economic Buyer,Sumaiya,Head of Customer Experience,Oman Arab Bank,True
+T1,Tier 1 - Economic Buyer,Imad,Head of Digital Channels,Oman Arab Bank,False
+T2,Tier 2 - Champion,Dalal,Acting Head of Corporate Communications,Oman Arab Bank,True
+T2,Tier 2 - Champion,Sara,Head of Brand Marketing,Oman Arab Bank,True
+T3,Tier 3 - Integration,Tariq,Chief Technology Officer,Oman Arab Bank,False
+T3,Tier 3 - Integration,Ihab,Head of Information Technology,Oman Arab Bank,True
+T1,Tier 1 - Economic Buyer,Shihabudheen,Head of Cards Business & Digital Payments,QIIB,True
+T2,Tier 2 - Champion,Malik,Head of Customer Service,QIIB,True
+T3,Tier 3 - Integration,Mohammed,Head of IT Infrastructure,QIIB,True
+T1,Tier 1 - Economic Buyer,Bassem,Commercial and Marketing Director,QNB Egypt,True
+T1,Tier 1 - Economic Buyer,Hamsa,Digital Banking Channels Head /Conversational AI Head- Digital Banking,QNB Egypt,False
+T1,Tier 1 - Economic Buyer,Nermine,Head of Digital Banking,QNB Egypt,True
+T1,Tier 1 - Economic Buyer,Ahmed,Head of Digital Channels,QNB Egypt,True
+T1,Tier 1 - Economic Buyer,Abou,Head of Digital Operations,QNB Egypt,True
+T1,Tier 1 - Economic Buyer,Bakr,Head of Digital Operations at QNB Egypt,QNB Egypt,True
+T1,Tier 1 - Economic Buyer,Riham,Head of Digital Planning,QNB Egypt,False
+T1,Tier 1 - Economic Buyer,Mohamed,Head of Digital Solutions & Collaboration,QNB Egypt,True
+T1,Tier 1 - Economic Buyer,Marwa,Head of Retail Banking,QNB Egypt,False
+T2,Tier 2 - Champion,Mai,Head of Brand & Social Media Management,QNB Egypt,True
+T2,Tier 2 - Champion,Sara,Head of Data Analytics & Business Intelligence,QNB Egypt,True
+T2,Tier 2 - Champion,Ahmed,Head of Learning & Development Analytics and Control,QNB Egypt,True
+T3,Tier 3 - Integration,Mohamed,Head of Customer Journey Excellence Sub Division- QNB Bebasata Digital Platform,QNB Egypt,True
+T3,Tier 3 - Integration,Eslam,Head of Enterprise Architecture and Design,QNB Egypt,False
+T3,Tier 3 - Integration,Safaa,Head of IT Budget Control,QNB Egypt,True
+T3,Tier 3 - Integration,Mahmoud,Head of IT Digital Banking Developmen,QNB Egypt,True
+T3,Tier 3 - Integration,Mohamed,Head of IT Infrastructure,QNB Egypt,False
+T3,Tier 3 - Integration,Ramy,Head of IT Monitoring and Management,QNB Egypt,True
+T3,Tier 3 - Integration,Ahmed,Head of IT Security Operations,QNB Egypt,True
+T3,Tier 3 - Integration,Mohamed,Head of Information Technology Control,QNB Egypt,True
+T1,Tier 1 - Economic Buyer,Yacoub,Head of Cards and Merchant Operation,QNB Group,True
+T1,Tier 1 - Economic Buyer,Ahmed,Head of Digital Banking & Collaboration Solutions,QNB Group,False
+T1,Tier 1 - Economic Buyer,Sally,Head of Digital Commerce,QNB Group,True
+T1,Tier 1 - Economic Buyer,Davy,Head of Loyalty Program,QNB Group,False
+T1,Tier 1 - Economic Buyer,Dahlia,Head of Marketing,QNB Group,False
+T1,Tier 1 - Economic Buyer,Ahmed,Head of Retail Banking,QNB Group,True
+T1,Tier 1 - Economic Buyer,Heba,Head of Retail Banking,QNB Group,True
+T2,Tier 2 - Champion,Mohamed,"Assistant Vice President (Head) - Business Intelligence & Support, Business Performance Management",QNB Group,False
+T2,Tier 2 - Champion,Daniel,Customer Experience and Marketing Head at QNB - Qatar National Bank Group,QNB Group,True
+T2,Tier 2 - Champion,Eamon,"Group VP Head of Quality Assurance, Marketing and Communications Operations",QNB Group,False
+T2,Tier 2 - Champion,Assaad,Head Customer Service,QNB Group,False
+T2,Tier 2 - Champion,Bassem,Head of Analytics - Commercial Business Planning Division,QNB Group,True
+T2,Tier 2 - Champion,Dina,Head of Customer Service,QNB Group,True
+T2,Tier 2 - Champion,Fahad,Head of Customer Service,QNB Group,False
+T2,Tier 2 - Champion,Khalid,Head of Customer Service,QNB Group,False
+T3,Tier 3 - Integration,Nabil,Acting Head of Enterprise Architecture,QNB Group,True
+T3,Tier 3 - Integration,Maryam,Chief Information Officer,QNB Group,True
+T3,Tier 3 - Integration,Ahmed,Head of IT,QNB Group,False
+T3,Tier 3 - Integration,Hamdan,Head of IT (QNB Oman),QNB Group,True
+T3,Tier 3 - Integration,Mahmoud,Head of IT Networks and Data Center Operation,QNB Group,True
+T1,Tier 1 - Economic Buyer,Shaikha,Head of Digital Non-Financial Products,Qatar Development Bank,False
+T1,Tier 1 - Economic Buyer,Elie,Head of Digital Products,Qatar Development Bank,True
+T1,Tier 1 - Economic Buyer,Mashaer,Head of Marketing,Qatar Development Bank,False
+T2,Tier 2 - Champion,Aysha,Head of Contact Center,Qatar Development Bank,False
+T2,Tier 2 - Champion,Namakkal,Head of Data & Analytics,Qatar Development Bank,True
+T3,Tier 3 - Integration,Karim,Head of IT Infrastructure,Qatar Development Bank,True
+T3,Tier 3 - Integration,Haci,Head of Technology Engineering,Qatar Development Bank,True
+T1,Tier 1 - Economic Buyer,Hussein,Assistant General Manager - Head of Marketing | Digital Experience | Sustainability & Research,Qatar Islamic Bank (QIB),True
+T1,Tier 1 - Economic Buyer,Constantinos,Chief Strategy & Chief Digital Officer,Qatar Islamic Bank (QIB),True
+T1,Tier 1 - Economic Buyer,Parag,Head of CRM & Campaigns,Qatar Islamic Bank (QIB),True
+T1,Tier 1 - Economic Buyer,Wajid,"Head of Digital Banking, Platforms & Integrations",Qatar Islamic Bank (QIB),True
+T1,Tier 1 - Economic Buyer,Rangan,Head of Digital Experience | Agile | PSM II | Digital Transformation | Digital Customer Experience | Scrum Master,Qatar Islamic Bank (QIB),True
+T1,Tier 1 - Economic Buyer,Saleh,Head of Retail Banking Product Division,Qatar Islamic Bank (QIB),True
+T1,Tier 1 - Economic Buyer,Joshua,Senior Head of Marketing & Corporate Communication,Qatar Islamic Bank (QIB),False
+T2,Tier 2 - Champion,Noureldin,"Executive Manager, Head of Sales, NTB Acquisition, WPS and Retention",Qatar Islamic Bank (QIB),False
+T3,Tier 3 - Integration,Khurram,CIO,Qatar Islamic Bank (QIB),True
+T3,Tier 3 - Integration,Aseel,Head of IT Core & Enterprise Applications,Qatar Islamic Bank (QIB),True
+T3,Tier 3 - Integration,Sajeed,Head of IT Infrastructure & Operations,Qatar Islamic Bank (QIB),True
+T3,Tier 3 - Integration,Hanif,Head of IT Operation,Qatar Islamic Bank (QIB),True
+T3,Tier 3 - Integration,Sajeev,Head of IT Security,Qatar Islamic Bank (QIB),True
+T1,Tier 1 - Economic Buyer,Rehan,Executive Vice President - Head of Cards Business,RAKBANK,True
+T1,Tier 1 - Economic Buyer,Thomas,Executive Vice President - Head of Digital Business Banking,RAKBANK,True
+T1,Tier 1 - Economic Buyer,Rahul,Executive Vice President and Head of Digital,RAKBANK,True
+T1,Tier 1 - Economic Buyer,Dongjun,Group Chief Customer Officer,RAKBANK,True
+T1,Tier 1 - Economic Buyer,Mohammad,Senior Vice President & Head - Marketing & Creative Services,RAKBANK,True
+T1,Tier 1 - Economic Buyer,Gavin,Senior Vice President & Head of Cards Platform,RAKBANK,True
+T1,Tier 1 - Economic Buyer,Aditya,"Senior Vice President - Digital Tribe Head, Business Banking",RAKBANK,True
+T1,Tier 1 - Economic Buyer,Srikanth,Senior Vice President - Head of Cards Portfolio (Growth & Engagement),RAKBANK,True
+T2,Tier 2 - Champion,Mona,Executive Vice President & Head of Contact Center,RAKBANK,True
+T2,Tier 2 - Champion,Parvesh,"Executive Vice President & Head of Total Rewards, People Analytics & Operations",RAKBANK,True
+T2,Tier 2 - Champion,Michelle,Senior Vice President & Head - Brand & Corporate Communication,RAKBANK,True
+T2,Tier 2 - Champion,Alya,Senior Vice President and Head of Campaign Management,RAKBANK,True
+T2,Tier 2 - Champion,Sabari,Vice President - Head of Data Analytics & Data Product,RAKBANK,True
+T3,Tier 3 - Integration,Sumat,Executive Vice President & CTO - Core & Business Platforms,RAKBANK,True
+T3,Tier 3 - Integration,Abdulla,SVP-Head of IT Operations and Support,RAKBANK,True
+T3,Tier 3 - Integration,Hossam,Vice President - Head of IT Colleague Experience | IT Operations,RAKBANK,True
+T1,Tier 1 - Economic Buyer,Haifa,Chief Experience Officer,Riyad Bank,True
+T1,Tier 1 - Economic Buyer,Abdullah,Chief Marketing and Customer Experience Officer,Riyad Bank,True
+T1,Tier 1 - Economic Buyer,Amer,Head of Affluent Banking,Riyad Bank,False
+T1,Tier 1 - Economic Buyer,Abdulrahman,Head of Customer Experience and Innovation - Senior Vice President.,Riyad Bank,True
+T1,Tier 1 - Economic Buyer,Mohammed,Head of Digital Integration,Riyad Bank,True
+T1,Tier 1 - Economic Buyer,Abdulrahman,Head of Digital Support,Riyad Bank,True
+T1,Tier 1 - Economic Buyer,Suhayb,Head of Loyalty,Riyad Bank,True
+T1,Tier 1 - Economic Buyer,Saadey,Head of Marketing,Riyad Bank,False
+T1,Tier 1 - Economic Buyer,Waleed,Head of Marketing,Riyad Bank,False
+T1,Tier 1 - Economic Buyer,Nawaf,Head of Marketing Administration,Riyad Bank,True
+T1,Tier 1 - Economic Buyer,Mohanned,Head of Marketing Support,Riyad Bank,True
+T1,Tier 1 - Economic Buyer,Redha,Head of Production - Marketing at Riayd Bank,Riyad Bank,False
+T1,Tier 1 - Economic Buyer,Nada,Head of Sales Marketing,Riyad Bank,False
+T1,Tier 1 - Economic Buyer,Naif,SVP - Head of Cards,Riyad Bank,True
+T1,Tier 1 - Economic Buyer,Ruba,SVP - Head of Customer Value Management,Riyad Bank,True
+T1,Tier 1 - Economic Buyer,Bandar,SVP - Head of Digital Portfolio,Riyad Bank,True
+T1,Tier 1 - Economic Buyer,Ehab,SVP Head of Sales & Engagement - Digital Banking,Riyad Bank,True
+T1,Tier 1 - Economic Buyer,John,Senior Vice President & Advisor to the Chief Experience Officer (CXO),Riyad Bank,True
+T1,Tier 1 - Economic Buyer,Najaf,Senior Vice President - Head of Digital Strategy,Riyad Bank,True
+T1,Tier 1 - Economic Buyer,Nikolai,"Vice President, Head of Digital Innovation Programs Unit",Riyad Bank,True
+T2,Tier 2 - Champion,Yasmeen,AVP | Head of Contact Center Quality Assurance,Riyad Bank,False
+T2,Tier 2 - Champion,Mohammed,Acting SVP . Head of Contact Center,Riyad Bank,True
+T2,Tier 2 - Champion,Reham,Head of Brand Experience & Creative,Riyad Bank,True
+T2,Tier 2 - Champion,Mohammed,Head of Customer Care,Riyad Bank,True
+T2,Tier 2 - Champion,Saad,Head of Customer Service,Riyad Bank,True
+T2,Tier 2 - Champion,Abdullah,Head of People Analytics Unit,Riyad Bank,True
+T2,Tier 2 - Champion,Mohammad,SVP Marketing and Communication Head,Riyad Bank,False
+T2,Tier 2 - Champion,Mohammed,VP - Head of Advance Analytics,Riyad Bank,True
+T2,Tier 2 - Champion,Yara,Vice President - Head of Customer Insight & Analytics,Riyad Bank,True
+T3,Tier 3 - Integration,Majed,"Head of IT Business Relationship Management | Business Development, Digital Transformation",Riyad Bank,True
+T3,Tier 3 - Integration,Eyas,Head of IT Security Controls and Integration,Riyad Bank,False
+T3,Tier 3 - Integration,Mohammed,Head of Shared Services Data Engineering Unit,Riyad Bank,True
+T3,Tier 3 - Integration,Mohammed,Head of Solution Architecture,Riyad Bank,True
+T3,Tier 3 - Integration,Moath,Head of Technology Delivery - Corporate Unit,Riyad Bank,True
+T3,Tier 3 - Integration,Jagannath,Head of Technology Innovation Unit,Riyad Bank,True
+T3,Tier 3 - Integration,Abdullah,SVP - Head of Technology Portfolio,Riyad Bank,True
+T3,Tier 3 - Integration,Hussein,"SVP, Head of Enterprise Architecture",Riyad Bank,True
+T3,Tier 3 - Integration,Muhammad,VP - Head of Technology Delivery,Riyad Bank,True
+T3,Tier 3 - Integration,Basil,VP / Head of Business Data Engineering Unit,Riyad Bank,True
+T3,Tier 3 - Integration,Reham,VP / Head of Technology Delivery - API Mgmt. Unit,Riyad Bank,True
+T3,Tier 3 - Integration,Hisham,VP / Head of Technology Delivery Unit,Riyad Bank,True
+T3,Tier 3 - Integration,Mohammed,VP | Head of Technology Delivery - Digital Banking Unit,Riyad Bank,False
+T3,Tier 3 - Integration,Abdul-Rahman,VP-Head of Technology Policies and Standards,Riyad Bank,True
+T3,Tier 3 - Integration,Nahed,VP/Head of Data Engineering,Riyad Bank,False
+T3,Tier 3 - Integration,Mahmoud,Vice President/Head of Shared Services Data Engineering Unit,Riyad Bank,True
+T1,Tier 1 - Economic Buyer,Saeed,Chief Digital Officer,SAB,True
+T1,Tier 1 - Economic Buyer,Ali,Director - Head of Digital Solutions & Advisory,SAB,True
+T1,Tier 1 - Economic Buyer,Wasiq,Head of Cards Business,SAB,True
+T1,Tier 1 - Economic Buyer,Abdulaziz,Head of Cards Products,SAB,True
+T1,Tier 1 - Economic Buyer,Hussain,Head of Customer Experience,SAB,True
+T1,Tier 1 - Economic Buyer,Aamir,Head of Customer Value Management,SAB,True
+T1,Tier 1 - Economic Buyer,Bandar,Head of Digital Banking and Payments,SAB,True
+T1,Tier 1 - Economic Buyer,Mustafa,Head of Digital Channels & Payments,SAB,True
+T1,Tier 1 - Economic Buyer,Arif,Head of Digital Payments,SAB,True
+T1,Tier 1 - Economic Buyer,Shreesha,"Head of Digital Payments & Partnerships, Global Payments Solutions",SAB,True
+T1,Tier 1 - Economic Buyer,Omar,Head of Marketing & Customer Experience,SAB,True
+T1,Tier 1 - Economic Buyer,Marwan,Head of Retail Banking & Wealth Management Business Finance,SAB,True
+T1,Tier 1 - Economic Buyer,Suha,Sales and Marketing Head Office,SAB,True
+T2,Tier 2 - Champion,Bodhi,Head of Analytics,SAB,True
+T2,Tier 2 - Champion,Ammar,Head of Customer Service Representatives,SAB,False
+T2,Tier 2 - Champion,Adel,Head of Customer Service Representatives,SAB,False
+T3,Tier 3 - Integration,Musaifer,CIO,SAB,True
+T3,Tier 3 - Integration,Saud,Head of Enterprise Architecture,SAB,True
+T3,Tier 3 - Integration,Ali,Head of Integration & Digital Automation | Senior IT Development Manager,SAB,True
+T3,Tier 3 - Integration,Mohamed,Senior Consultant (Deputy Head of Integration Execution),SAB,True
+T2,Tier 2 - Champion,Abdulkarim,Marketing and Communication Director,STC Bank,True
+T3,Tier 3 - Integration,Mansour,Acting Chief Technology Officer,STC Bank,True
+T3,Tier 3 - Integration,Amjd,"Head of IT Operations, Infrastructure Support, Command Center, NOC Operations",STC Bank,True
+T1,Tier 1 - Economic Buyer,Asheesh,Head of Cards and Payments,Sharjah Islamic Bank,True
+T1,Tier 1 - Economic Buyer,Ritessh,Head of Consumer Finance- Retail Banking and Wealth Management,Sharjah Islamic Bank,True
+T1,Tier 1 - Economic Buyer,Wahaj,Head of Digital Business,Sharjah Islamic Bank,True
+T1,Tier 1 - Economic Buyer,Tariq,Head of Digital Mobile & Online Banking,Sharjah Islamic Bank,True
+T1,Tier 1 - Economic Buyer,Wafa,Head of Marketing - Brand Equity & Business Marketing,Sharjah Islamic Bank,True
+T1,Tier 1 - Economic Buyer,Mohamed,Head of Products & Marketing - Corporate Banking Group,Sharjah Islamic Bank,True
+T1,Tier 1 - Economic Buyer,Jassem,Head of Retail Banking and Chairman Sharjah Tatweer Forum,Sharjah Islamic Bank,True
+T1,Tier 1 - Economic Buyer,Waleed,Vice President Head of Digital Banking,Sharjah Islamic Bank,True
+T2,Tier 2 - Champion,Rajesh,AVP - Head of Payments and Digital Channel Support,Sharjah Islamic Bank,True
+T2,Tier 2 - Champion,Hassan,Head of Corporate Communications,Sharjah Islamic Bank,True
+T3,Tier 3 - Integration,Nishantha,AVP - Head of IT Projects,Sharjah Islamic Bank,True
+T3,Tier 3 - Integration,Myron,CIO,Sharjah Islamic Bank,True
+T3,Tier 3 - Integration,Furqan,"Head of Enterprise Architecture, Business Process Automation and Integration",Sharjah Islamic Bank,True
+T3,Tier 3 - Integration,Muhammad,Head of IT Infrastructure and Operations,Sharjah Islamic Bank,True
+T1,Tier 1 - Economic Buyer,Navaid,Head of Customer Value Management - SVP,Sohar International,True
+T1,Tier 1 - Economic Buyer,Erkal,Head of Digital Banking,Sohar International,True
+T1,Tier 1 - Economic Buyer,Hani,Head of Digital Banking-Retail,Sohar International,True
+T1,Tier 1 - Economic Buyer,Younis,Head of Digital Experience,Sohar International,True
+T1,Tier 1 - Economic Buyer,Ashish,SVP & Head of Digital Delivery,Sohar International,True
+T1,Tier 1 - Economic Buyer,Jitmal,Unit Head Digital Banking - Corporates & Institutes,Sohar International,True
+T1,Tier 1 - Economic Buyer,Hanan,VP & Head - Digital Banking,Sohar International,True
+T2,Tier 2 - Champion,Salwa,Unite Head Contact Center Customer Care,Sohar International,True
+T3,Tier 3 - Integration,Sajeel,"GM, Chief Technology & Digital Officer (CTDO)",Sohar International,True
+T1,Tier 1 - Economic Buyer,Bahaa,Chief Digital & AI Officer,Suez Canal Bank,True
+T1,Tier 1 - Economic Buyer,Moataz,Chief Marketing Officer,Suez Canal Bank,False
+T1,Tier 1 - Economic Buyer,Ehab,"First General Manager, Head of Retail Banking Group.",Suez Canal Bank,True
+T1,Tier 1 - Economic Buyer,Mai,Head of Cards Business,Suez Canal Bank,False
+T1,Tier 1 - Economic Buyer,Eslam,Head of Cards Sales,Suez Canal Bank,True
+T1,Tier 1 - Economic Buyer,Haytham,Head of Digital Banking & Financial Inclusion,Suez Canal Bank,True
+T1,Tier 1 - Economic Buyer,Nagham,Head of Retail Banking,Suez Canal Bank,True
+T2,Tier 2 - Champion,Jailan,Head of Branding and Marketing Communications,Suez Canal Bank,True
+T2,Tier 2 - Champion,Raghda,Head of Customer Service,Suez Canal Bank,True
+T2,Tier 2 - Champion,Mohamed,Head of Customer Service,Suez Canal Bank,True
+T2,Tier 2 - Champion,Taha,Head of Customer Service,Suez Canal Bank,False
+T2,Tier 2 - Champion,Amr,Head of Customer Service,Suez Canal Bank,False
+T2,Tier 2 - Champion,Ahmed,Head of Customer Service,Suez Canal Bank,False
+T2,Tier 2 - Champion,Ahmed,Head of Customer Service,Suez Canal Bank,False
+T2,Tier 2 - Champion,Hisham,Head of HRIS & Analytics,Suez Canal Bank,True
+T2,Tier 2 - Champion,Emad,Head of Merchant Alliance and Campaign Management,Suez Canal Bank,False
+T2,Tier 2 - Champion,Mohamed,Section Head - Customer Service,Suez Canal Bank,False
+T3,Tier 3 - Integration,Ayman,Chief Information Officer (CIO),Suez Canal Bank,True
+T3,Tier 3 - Integration,Mohamed,Head of Enterprise Architecture,Suez Canal Bank,True
+T3,Tier 3 - Integration,Sharef,Head of IT,Suez Canal Bank,False
+T3,Tier 3 - Integration,Ossama,Head of IT Security,Suez Canal Bank,True
+T1,Tier 1 - Economic Buyer,Hani,Head of Marketing,The Saudi Investment Bank,True
+T2,Tier 2 - Champion,Thamer,Chief Quality & Customer Care Officer - Acting Chief Transformation Officer,The Saudi Investment Bank,True
+T2,Tier 2 - Champion,Mohammed,Head of Corporate Communications,The Saudi Investment Bank,True
+T3,Tier 3 - Integration,Naif,Treasurer & CIO,The Saudi Investment Bank,True
+T1,Tier 1 - Economic Buyer,Manar,"AVP - Senior Officer, Corporate Digital Banking",The Saudi National Bank - SNB,False
+T1,Tier 1 - Economic Buyer,Alwaleed,AVP Retail Digital Banking,The Saudi National Bank - SNB,True
+T1,Tier 1 - Economic Buyer,Mohammed,"AVP, Digital Banking Senior Officer",The Saudi National Bank - SNB,False
+T1,Tier 1 - Economic Buyer,Ahmad,Asst. Vice President- Corporate Digital Banking,The Saudi National Bank - SNB,True
+T1,Tier 1 - Economic Buyer,Mohammed,Head Digital Banking Sales,The Saudi National Bank - SNB,True
+T1,Tier 1 - Economic Buyer,Bander,Head of Customer Experience,The Saudi National Bank - SNB,True
+T1,Tier 1 - Economic Buyer,Sarah,Head of Digital Marketing & Analytics,The Saudi National Bank - SNB,True
+T1,Tier 1 - Economic Buyer,Mazen,Head of Loyalty Programs,The Saudi National Bank - SNB,False
+T1,Tier 1 - Economic Buyer,Adel,Head of Marketing,The Saudi National Bank - SNB,False
+T1,Tier 1 - Economic Buyer,Bander,"Head, Corporate Digital Banking",The Saudi National Bank - SNB,True
+T1,Tier 1 - Economic Buyer,Ahmed,SVP - Head of Cards Product Development,The Saudi National Bank - SNB,True
+T1,Tier 1 - Economic Buyer,Murad,Senior Vice President - Head of Digital Forensics and Incident Response,The Saudi National Bank - SNB,True
+T1,Tier 1 - Economic Buyer,Eyad,VP - Retail Digital Banking Insights,The Saudi National Bank - SNB,True
+T1,Tier 1 - Economic Buyer,Sarah,"VP, Digital Banking Product Development and Insights",The Saudi National Bank - SNB,True
+T1,Tier 1 - Economic Buyer,Faisal,"VP,Digital Banking Customized Solution -SwiftNet / B2B",The Saudi National Bank - SNB,True
+T2,Tier 2 - Champion,Afnan,Executive Vice President - Head of Customer Care,The Saudi National Bank - SNB,True
+T2,Tier 2 - Champion,Ali,Head Corporate Banking Performance Analytics,The Saudi National Bank - SNB,True
+T2,Tier 2 - Champion,Nawaf,Head of Analytics & BI,The Saudi National Bank - SNB,True
+T2,Tier 2 - Champion,Abdulmajeed,Head of Brand and Campaigns,The Saudi National Bank - SNB,True
+T2,Tier 2 - Champion,Mohammed,Head of Corporate Communications at The Saudi National Bank (SNB),The Saudi National Bank - SNB,False
+T2,Tier 2 - Champion,Emad,Head of Customer Care,The Saudi National Bank - SNB,True
+T2,Tier 2 - Champion,Saeed,Head of Customer Service and Complaint Resolution,The Saudi National Bank - SNB,True
+T2,Tier 2 - Champion,Hattan,Head of Retail Analytics and Performance,The Saudi National Bank - SNB,True
+T2,Tier 2 - Champion,Sadaga,"Head, Reporting & Analytics",The Saudi National Bank - SNB,False
+T2,Tier 2 - Champion,Majed,"Head, Retail Customer Experience",The Saudi National Bank - SNB,True
+T2,Tier 2 - Champion,Wissal,SVP - Head of Research & Insights - Customer Experience,The Saudi National Bank - SNB,True
+T2,Tier 2 - Champion,Nojoud,"SVP - Head, Corporate Digital Channels",The Saudi National Bank - SNB,True
+T2,Tier 2 - Champion,Hussam,"SVP - Head, Global Digital Channels",The Saudi National Bank - SNB,True
+T2,Tier 2 - Champion,Naif,"SVP - Head, Retail Digital Channels",The Saudi National Bank - SNB,True
+T2,Tier 2 - Champion,Dania,"SVP, Head, Management Reporting and Analytics",The Saudi National Bank - SNB,True
+T2,Tier 2 - Champion,Mohamed,Senior Vice President - Head of Public Relations & External Communications,The Saudi National Bank - SNB,True
+T2,Tier 2 - Champion,Madeha,VP-Head of Contact Center at Samba Bank,The Saudi National Bank - SNB,True
+T3,Tier 3 - Integration,Rasha,Chief Technology Officer,The Saudi National Bank - SNB,True
+T3,Tier 3 - Integration,Hasan,Head of Technology Vendors Mangement,The Saudi National Bank - SNB,True
+T3,Tier 3 - Integration,Harris,"Senior Vice President, Head, Data Engineering",The Saudi National Bank - SNB,True
+T1,Tier 1 - Economic Buyer,Reda,Chief Digital Officer,The United Bank of Egypt,False
+T1,Tier 1 - Economic Buyer,Amira,Head of Cards Settlement and Reconciliation At The United Bank of Egypt,The United Bank of Egypt,True
+T1,Tier 1 - Economic Buyer,Amr,Head of Customer Experience & Service Quality,The United Bank of Egypt,True
+T1,Tier 1 - Economic Buyer,Walid,"Head of Small Enterprises, Corporate and Marketing Sector (SMEs)",The United Bank of Egypt,True
+T2,Tier 2 - Champion,Amal,Head of Customer Care,The United Bank of Egypt,False
+T2,Tier 2 - Champion,Ahmed,Head of Customer Service,The United Bank of Egypt,True
+T2,Tier 2 - Champion,Maha,Head of Customer Service,The United Bank of Egypt,True
+T2,Tier 2 - Champion,Fady,Head of Customer Service,The United Bank of Egypt,False
+T2,Tier 2 - Champion,Martina,Head of Customer Service,The United Bank of Egypt,False
+T2,Tier 2 - Champion,Heba,Head of Customer Service,The United Bank of Egypt,False
+T2,Tier 2 - Champion,Hisham,Head of Customer Service,The United Bank of Egypt,False
+T2,Tier 2 - Champion,Mohamed,Head of Customer Service,The United Bank of Egypt,False
+T3,Tier 3 - Integration,Ahmed,"Chief Information Officer, Senior General Manager",The United Bank of Egypt,False
+T3,Tier 3 - Integration,Ahmed,"Deputy General Manager, Head of IT Infrastructure",The United Bank of Egypt,True
+T3,Tier 3 - Integration,Martha,Office Manager for CIO,The United Bank of Egypt,False
+T1,Tier 1 - Economic Buyer,Khaled,Executive Vice President- Head of Retail Banking Group & SME Banking Group,Union National Bank Egypt,False
+T1,Tier 1 - Economic Buyer,Sebastien,Head of Digital,United Arab Bank,True
+T1,Tier 1 - Economic Buyer,Abdulla,Head of Marketing and Communications,United Arab Bank,True
+T3,Tier 3 - Integration,S,Chief Information Officer,United Arab Bank,False
+T1,Tier 1 - Economic Buyer,Nasser,Chief Digital Officer (CDO),Warba Bank,True
+T1,Tier 1 - Economic Buyer,Alexander,Acting Head of Cards,Wio Bank,True
+T1,Tier 1 - Economic Buyer,Amina,Chief Marketing Officer,Wio Bank,False
+T1,Tier 1 - Economic Buyer,Archana,"Head of Marketing, Wio Bank",Wio Bank,False
+T1,Tier 1 - Economic Buyer,Devvrat,Head of Segments - Trade,Wio Bank,True
+T2,Tier 2 - Champion,Andre,Deputy Chief Operations and Customer Experience Officer,Wio Bank,True
+T3,Tier 3 - Integration,Yannick,Acting Chief Technology Officer CTO,Wio Bank,True
+T3,Tier 3 - Integration,Aleksei,Head of IT Operations,Wio Bank,True
+T1,Tier 1 - Economic Buyer,Dennis,Head of Marketing & Corporate Communications,Zand,True
+T1,Tier 1 - Economic Buyer,Mohammed,"AGM, Head of Digital Channels",alinma,False
+T1,Tier 1 - Economic Buyer,Musaad,Chief Digital Officer (CDO),alinma,True
+T1,Tier 1 - Economic Buyer,Mohammed,Director of Corporate Digital Banking,alinma,True
+T1,Tier 1 - Economic Buyer,Abdulraouf,Executive Director of Marketing,alinma,True
+T1,Tier 1 - Economic Buyer,Mohammed,"GM, Head of Affluent Banking",alinma,True
+T1,Tier 1 - Economic Buyer,Ali,Head of Digital,alinma,False
+T1,Tier 1 - Economic Buyer,Mohammed,Head of Digital Channels,alinma,True
+T1,Tier 1 - Economic Buyer,Meshaal,Head of Digital Marketing,alinma,False
+T1,Tier 1 - Economic Buyer,Tahani,Head of Digital Sales,alinma,False
+T1,Tier 1 - Economic Buyer,Mohammed,Head of Digital Strategy and Innovation,alinma,False
+T1,Tier 1 - Economic Buyer,Aldanah,Head of Marketing Communications,alinma,False
+T1,Tier 1 - Economic Buyer,Rayan,"Senior Manager, Head of Digital Growth",alinma,False
+T1,Tier 1 - Economic Buyer,Khalid,"Supervisor, Head of Cards and POS Claims Settlements.",alinma,False
+T2,Tier 2 - Champion,Nawaf,Head of Customer Awareness & Actg Partnership Excellence - Customer Care,alinma,False
+T3,Tier 3 - Integration,Yasser,Chief Information Officer,alinma,True
+T3,Tier 3 - Integration,Abdullah,"Director - Digital Partnerships, Open Banking & Innovation",alinma,True
+T3,Tier 3 - Integration,Abdulaziz,"Executive Director, Head of IT Operations & Support",alinma,True
+T3,Tier 3 - Integration,Sultan,Head of IT Channels Delivery,alinma,False
+T3,Tier 3 - Integration,Mahdi,Head of IT Continuity & Performance,alinma,True
+T3,Tier 3 - Integration,Ibrahim,Head of IT Opreations,alinma,True
+T3,Tier 3 - Integration,Mustafa,Head of IT Planning,alinma,False
+T3,Tier 3 - Integration,Omar,Head of IT Service Control & Assurance,alinma,True
+T3,Tier 3 - Integration,Abdulaziz,Head of IT VSS,alinma,False
+T3,Tier 3 - Integration,Abdulraoof,Head of ITSM & IAM Operations,alinma,False
+T3,Tier 3 - Integration,Samer,"Senior Executive Manager, Head of IT Quality Assurance",alinma,False
+T1,Tier 1 - Economic Buyer,Osama,AGM Head of Cards & Payments Business,alrajhi bank,True
+T1,Tier 1 - Economic Buyer,Abdullah,Chief Digital Officer,alrajhi bank,True
+T1,Tier 1 - Economic Buyer,Ahmed,Head of Cards Instalment (BNPL),alrajhi bank,True
+T1,Tier 1 - Economic Buyer,Sikkandar,Head of Cards Services,alrajhi bank,True
+T1,Tier 1 - Economic Buyer,Moneer,Head of Customer Experience Monitoring & Control,alrajhi bank,True
+T1,Tier 1 - Economic Buyer,Mohamed,Head of Digital Architecture,alrajhi bank,True
+T1,Tier 1 - Economic Buyer,Khalid,"Head of Digital Business Analysis and UAT, Executive Manager",alrajhi bank,False
+T1,Tier 1 - Economic Buyer,Mohammed,Head of Digital Marketing,alrajhi bank,True
+T1,Tier 1 - Economic Buyer,Abdulaziz,Head of Marketing Communication,alrajhi bank,False
+T1,Tier 1 - Economic Buyer,Ohood,Marketing Director,alrajhi bank,False
+T1,Tier 1 - Economic Buyer,Mohammed,Marketing Senior Director,alrajhi bank,True
+T1,Tier 1 - Economic Buyer,Ahmad,Senior Director Head of Digital Solutions| Digital Transformation| Technology| Cloud Computing,alrajhi bank,True
+T1,Tier 1 - Economic Buyer,Mohammed,"Sr. Director, Head of Customer Experience",alrajhi bank,False
+T2,Tier 2 - Champion,Lamees,"Head of Customer Care, Customer Experience, and Call Center – Strategic Projects",alrajhi bank,False
+T3,Tier 3 - Integration,Mohammed,Acting Chief Information Officer (CIO),alrajhi bank,True
+T3,Tier 3 - Integration,Ahmed,Chief Information Officer,alrajhi bank,True
+T3,Tier 3 - Integration,Sandeep,Head of Enterprise Architecture & IT Strategy (Senior Director),alrajhi bank,False
+T3,Tier 3 - Integration,Abdul,Head of Technology Architecture & Solutions Design,alrajhi bank,True
+T1,Tier 1 - Economic Buyer,Mina,Assistant Corporate Payment Solutions Head| Digital Banking & Innovation,saib,True
+T1,Tier 1 - Economic Buyer,Amal,Assistant Head of CRM,saib,True
+T1,Tier 1 - Economic Buyer,Mohamed,Head of Cards & E-payments Setup and Support,saib,True
+T1,Tier 1 - Economic Buyer,Khaled,Head of Cards Business,saib,True
+T1,Tier 1 - Economic Buyer,Wael,"Head of Cards Operations, Senior Assistant General Manager",saib,True
+T1,Tier 1 - Economic Buyer,Fatma,Head of Customer Experience and Distribution Channels Quality Performance,saib,True
+T1,Tier 1 - Economic Buyer,Hanzada,Head of Digital Banking,saib,True
+T1,Tier 1 - Economic Buyer,Mohamed,Head of Digital Banking Innovation & Retail Support,saib,True
+T1,Tier 1 - Economic Buyer,Fouad,Head of Digital Enablement,saib,True
+T1,Tier 1 - Economic Buyer,Hani,"Head of Digital Payments & Strategic Alliances, Digital Banking & Innovation",saib,True
+T1,Tier 1 - Economic Buyer,Amr,Head of Marketing and Corporate Communication,saib,True
+T1,Tier 1 - Economic Buyer,Mohamed,Head of Marketing and Customer Communication,saib,True
+T1,Tier 1 - Economic Buyer,Abdullah,Head of Marketing and Investrors Relation,saib,True
+T1,Tier 1 - Economic Buyer,Karim,Head of Retail Banking,saib,True
+T1,Tier 1 - Economic Buyer,Mohamed,Head of Segments,saib,True
+T1,Tier 1 - Economic Buyer,Sandra,Head of Segments Acquisition,saib,True
+T2,Tier 2 - Champion,Mohamed,Customer Service Section Head,saib,True
+T2,Tier 2 - Champion,Mostafa,Head of Contact Center,saib,True
+T2,Tier 2 - Champion,Mahmoud,Head of Customer Service,saib,True
+T2,Tier 2 - Champion,Lina,Head of Customer Service,saib,True
+T2,Tier 2 - Champion,Hassan,Head of Customer Service,saib,True
+T2,Tier 2 - Champion,Mourad,Head of Quality Assurance and Customer Experience,saib,True
+T2,Tier 2 - Champion,Rami,Head of Retail Intelligence & Data Analytics,saib,True
+T3,Tier 3 - Integration,Esraa,CIO Office Manager,saib,True
+T3,Tier 3 - Integration,Moustafa,Chief Information Officer,saib,True
+T3,Tier 3 - Integration,Mahmoud,Head of IT Operations,saib,True
+T3,Tier 3 - Integration,Maher,Head of IT Security,saib,True
+T3,Tier 3 - Integration,Islam,"Head of IT Systems, Compute & Storage",saib,False
+T1,Tier 1 - Economic Buyer,Moayad,Chief Digital & Innovation Officer,بنك البلاد | Bank Albilad,True
+T1,Tier 1 - Economic Buyer,Yousif,Head of Cards,بنك البلاد | Bank Albilad,True
+T1,Tier 1 - Economic Buyer,Mohammad,Head of Cards & Liabilities,بنك البلاد | Bank Albilad,True
+T1,Tier 1 - Economic Buyer,Hamad,Head of Customer Experience & Quality,بنك البلاد | Bank Albilad,True
+T1,Tier 1 - Economic Buyer,Alh,Head of Digital,بنك البلاد | Bank Albilad,True
+T1,Tier 1 - Economic Buyer,Mohammed,Head of Digital Business Engagements & Innovation Center,بنك البلاد | Bank Albilad,True
+T1,Tier 1 - Economic Buyer,Majdi,Head of Digital Channels Transformation & Innovation,بنك البلاد | Bank Albilad,True
+T1,Tier 1 - Economic Buyer,Ahmed,Head of Digital Delivery,بنك البلاد | Bank Albilad,True
+T2,Tier 2 - Champion,Hamed,Head of Customer Engagement & E-Channels,بنك البلاد | Bank Albilad,True
+T3,Tier 3 - Integration,Raed,Chief Information Officer,بنك البلاد | Bank Albilad,True
+T3,Tier 3 - Integration,Raed,Chief Information Officer,بنك البلاد | Bank Albilad,True
+T3,Tier 3 - Integration,Abdulaziz,Chief Technology Officer,بنك البلاد | Bank Albilad,True
+T3,Tier 3 - Integration,Fadi,Head of IT Application Development,بنك البلاد | Bank Albilad,True
+T3,Tier 3 - Integration,Abdallah,Head of Open Banking & Innovation,بنك البلاد | Bank Albilad,False
+T1,Tier 1 - Economic Buyer,Amr,GM- Head of Cards,بنك التعمير والإسكان HD Bank,True
+T1,Tier 1 - Economic Buyer,Karim,Head of Cards & Ewallet Settlement,بنك التعمير والإسكان HD Bank,False
+T1,Tier 1 - Economic Buyer,Raed,Head of Cards Portfolio & CVP,بنك التعمير والإسكان HD Bank,False
+T1,Tier 1 - Economic Buyer,Mo'men,Head of Cards Portfolio Management,بنك التعمير والإسكان HD Bank,True
+T1,Tier 1 - Economic Buyer,Ahmed,Head of Customer Experience & Service Excellence,بنك التعمير والإسكان HD Bank,True
+T1,Tier 1 - Economic Buyer,Mohamed,Head of Digital,بنك التعمير والإسكان HD Bank,True
+T1,Tier 1 - Economic Buyer,Yehia,Head of Digital Development and Integration,بنك التعمير والإسكان HD Bank,True
+T1,Tier 1 - Economic Buyer,Wael,Head of Digital Innovation,بنك التعمير والإسكان HD Bank,True
+T1,Tier 1 - Economic Buyer,Ahmed,Head of Digital Migration,بنك التعمير والإسكان HD Bank,False
+T1,Tier 1 - Economic Buyer,Mohab,Head of Digital Services,بنك التعمير والإسكان HD Bank,False
+T1,Tier 1 - Economic Buyer,Aya,Head of Digital Support & Testing,بنك التعمير والإسكان HD Bank,False
+T1,Tier 1 - Economic Buyer,Ahmed,Head of Digital Wallet Operation,بنك التعمير والإسكان HD Bank,False
+T1,Tier 1 - Economic Buyer,Omar,Head of Marketing Communications,بنك التعمير والإسكان HD Bank,True
+T1,Tier 1 - Economic Buyer,Mohamed,Head of Retail Banking Propositions,بنك التعمير والإسكان HD Bank,True
+T2,Tier 2 - Champion,Ahmed,Head of Contact Center,بنك التعمير والإسكان HD Bank,True
+T2,Tier 2 - Champion,Gehan,Head of Corporate Communications and Sustainable Development,بنك التعمير والإسكان HD Bank,False
+T2,Tier 2 - Champion,Fatma,Head of Customer Service,بنك التعمير والإسكان HD Bank,True
+T2,Tier 2 - Champion,Ahmed,Head of Customer Service,بنك التعمير والإسكان HD Bank,True
+T2,Tier 2 - Champion,Mohamed,Head of Customer Service,بنك التعمير والإسكان HD Bank,False
+T2,Tier 2 - Champion,Mina,Head of Customer Service,بنك التعمير والإسكان HD Bank,False
+T2,Tier 2 - Champion,Ahmed,Head of Customer Service,بنك التعمير والإسكان HD Bank,False
+T2,Tier 2 - Champion,Eman,Head of Customer Service,بنك التعمير والإسكان HD Bank,False
+T2,Tier 2 - Champion,Nora,Head of Outbound & Retention Department,بنك التعمير والإسكان HD Bank,False
+T2,Tier 2 - Champion,Dalia,Marketing Communication & PR Director,بنك التعمير والإسكان HD Bank,False
+T3,Tier 3 - Integration,Mohammad,Head of Enterprise Architecture,بنك التعمير والإسكان HD Bank,False
+T3,Tier 3 - Integration,Mohamed,Head of IT Infrastructure and Services Support,بنك التعمير والإسكان HD Bank,True
+T3,Tier 3 - Integration,Tamer,Head of IT Network & IT Security Infrastructure,بنك التعمير والإسكان HD Bank,False
