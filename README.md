@@ -7,22 +7,42 @@ orchestrating **Zoho CRM** (source of truth for accounts/leads/contacts) and **A
 ## Scope
 - **Geography:** GCC-6 (UAE, KSA, Kuwait, Qatar, Bahrain, Oman) + Egypt
 - **Accounts:** authoritative licensed-bank universe (108 banks), reconciled against Zoho
-- **Personas (tiered ICP):**
-  - **Tier 1 — Economic buyers:** CMO / Head of Marketing · CDO / Head of Digital & Digital Banking · Chief Customer Officer / Head of CX · Head of CRM / CVM / Loyalty / Retention · Head of Retail/Consumer Banking · Head of Segments · Head of Cards
-  - **Tier 2 — Champions:** Digital/Performance Marketing · MarTech / Marketing Automation / Campaign Mgmt · Customer Analytics / Data / BI · Personalization / Engagement / Journeys · Digital Channels / Mobile & Online Banking · Contact Center / Customer Care
-  - **Tier 3 — Integration influencers:** CIO / CTO / Head of IT / Enterprise Architecture / Digital Platforms / Data Engineering
-  - **Excluded (never ICP):** Wholesale/Corporate-only, Audit, Risk, Credit, Compliance, HR, Legal, Treasury, Procurement, Branch ops, Tellers
+- **Personas:** strict **business-buyer** set, capped at **10 per account**
+
+## Strict persona definition
+A person qualifies only if the title is a genuine decision-maker (Chief / Group Head / Head of /
+Director / VP / GM and above) in one of these buyer families, and trips zero exclusion terms:
+
+**Included (buyer families)**
+- Marketing / Brand (CMO, Head of Marketing, Brand, Marketing & Corporate Communications)
+- Digital / Digital Banking (CDO, Head of Digital, Digital Transformation, Digital Banking)
+- Digital Marketing / Growth · MarTech / Campaign Management
+- Digital Channels / Products (mobile & online banking, e-channels, digital wallet)
+- Customer Experience (CCO, Chief Experience Officer, Head of CX)
+- CRM · Loyalty / CVM / Retention · Personalization / Customer Engagement
+- Cards / Payments (marketing side only)
+
+**Excluded (never ICP)**
+- Sales / business development / relationship management
+- Customer service / care / contact-centre / complaints
+- Affluent / wealth / private / priority / premium segments
+- SME / corporate / wholesale / institutional / transaction banking, treasury, credit, lending
+- All technology / IT / infrastructure / security / data-engineering / QA
+- Audit, risk, compliance, HR, finance, procurement, operations, PMO
+- Junior / assistant / analyst / specialist / coordinator roles
 
 ## Data files — `data/gulf-banking-icp/`
 | File | What it is |
 |------|------------|
 | `Gulf_Egypt_Bank_Universe_Status.csv` | The complete 108-bank account universe (GCC+Egypt) with Zoho status: in-Zoho / created / flagged. Authoritative account layer. |
-| `Gulf_Banks_138_Zoho_Match.csv` | Reconciliation of the original Apollo "Gulf - Retail Banks" list (138 rows → 116 unique orgs) against Zoho: already-present / created / skipped (regulators, defunct, non-bank). |
-| `Gulf_Banks_Engagement_DMs_649.csv` | Candidate decision-maker set (pre-enrichment) with persona bucket, first name, title, bank, and has-email flag. Superseded by the tiered-ICP re-sweep in progress. |
+| `Gulf_Banks_ICP_Personas_Verified.csv` | The verified persona set: 338 personas across 90/108 banks, max 10 per account, 0 duplicates. Columns: Account, Country, Persona_Role, First_Name, Title, Has_Email. Last names are masked pre-enrichment. |
+| `PERSONA_COVERAGE.md` | Coverage report: personas per country and per bank, role distribution, and the 18 banks with no persona yet (with reasons). |
 
 ## Status
 - ✅ Account layer complete — 108-bank universe reconciled; missing banks created in Zoho.
-- ▶️ Persona sourcing to the tiered ICP (search only; enrichment gated on approval).
+- ✅ Persona sourcing complete — 338 verified business-buyer personas (search only; masked).
+- ⏸️ Enrichment **gated** — email/phone enrichment (Apollo lead credits) and Zoho/Apollo write-back
+  run only after this persona file is approved.
 
 ## Conventions
 - All generated deliverables live **only** in this repo (`data/…`) and in the Google Drive
