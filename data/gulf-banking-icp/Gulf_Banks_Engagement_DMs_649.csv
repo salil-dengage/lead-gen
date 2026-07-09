@@ -1,0 +1,650 @@
+Persona_Bucket,First_Name,Title,Bank,Has_Email_Flag
+C-suite (CMO/CDO/CCO/CXO),Fernando,Group Chief Digital Officer,ADIB - Abu Dhabi Islamic Bank,True
+C-suite (CMO/CDO/CCO/CXO),Pedro,Chief Digital Officer (CDO),Abu Dhabi Commercial Bank,True
+C-suite (CMO/CDO/CCO/CXO),Afif,Chief Marketing Officer,Abu Dhabi Commercial Bank,True
+C-suite (CMO/CDO/CCO/CXO),Ines,Chief Marketing and Communications Officer,Abu Dhabi Commercial Bank - Egypt,True
+C-suite (CMO/CDO/CCO/CXO),Aref,Chief Digital Officer,Al Hilal Bank,True
+C-suite (CMO/CDO/CCO/CXO),Sultan,Chief Marketing Officer,Aljazira Bank | بنك الجزيرة,True
+C-suite (CMO/CDO/CCO/CXO),Lama,Chief Marketing & Customer Experience Officer,Arab National Bank,True
+C-suite (CMO/CDO/CCO/CXO),Ali,Deputy Chief Digital Officer,Boubyan Bank,True
+C-suite (CMO/CDO/CCO/CXO),Enrique,Chief Digital & Transformation Officer,CIB Egypt,False
+C-suite (CMO/CDO/CCO/CXO),Mohamed,Chief Digital Officer,CIB Egypt,False
+C-suite (CMO/CDO/CCO/CXO),Chet,CMO,Commercial Bank of Dubai,False
+C-suite (CMO/CDO/CCO/CXO),Othman,Chief Customer Officer,Commercial Bank of Dubai,True
+C-suite (CMO/CDO/CCO/CXO),Vladislavs,Chief Digital Officer,Commercial Bank of Dubai,False
+C-suite (CMO/CDO/CCO/CXO),Maitha,Chief Marketing Officer,DIB,True
+C-suite (CMO/CDO/CCO/CXO),Rohit,"Chief Digital Officer & Group Head, Retail Products, Retail Banking & Wealth Management",Emirates NBD,True
+C-suite (CMO/CDO/CCO/CXO),Anand,Chief Marketing Officer,Finance House,False
+C-suite (CMO/CDO/CCO/CXO),Fadi,Acting Chief Digital Transformation Officer,Gulf Bank,True
+C-suite (CMO/CDO/CCO/CXO),Sridhar,Group Chief Digital Officer and Deputy Group Head of Consumer Banking,Gulf International Bank,True
+C-suite (CMO/CDO/CCO/CXO),George,Chief Marketing Officer,Mashreq,True
+C-suite (CMO/CDO/CCO/CXO),Faisal,Chief Retail Banking & Digital Banking Officer,National Bank of Oman,False
+C-suite (CMO/CDO/CCO/CXO),Saeed,Chief Digital Officer,SAB,True
+C-suite (CMO/CDO/CCO/CXO),Bahaa,Chief Digital & AI Officer,Suez Canal Bank,True
+C-suite (CMO/CDO/CCO/CXO),Moataz,Chief Marketing Officer,Suez Canal Bank,False
+C-suite (CMO/CDO/CCO/CXO),Reda,Chief Digital Officer,The United Bank of Egypt,False
+C-suite (CMO/CDO/CCO/CXO),Nasser,Chief Digital Officer (CDO),Warba Bank,True
+C-suite (CMO/CDO/CCO/CXO),Amina,Chief Marketing Officer,Wio Bank,False
+C-suite (CMO/CDO/CCO/CXO),Musaad,Chief Digital Officer (CDO),alinma,True
+C-suite (CMO/CDO/CCO/CXO),Abdullah,Chief Digital Officer,alrajhi bank,True
+C-suite (CMO/CDO/CCO/CXO),Moayad,Chief Digital & Innovation Officer,بنك البلاد | Bank Albilad,True
+CRM / Loyalty / CVM / Retention,Muhammad,Head of CRM,ADIB - Abu Dhabi Islamic Bank,True
+CRM / Loyalty / CVM / Retention,Mohamed,Head of Alternative Delivery Channels & CRM,ALEXBANK,False
+CRM / Loyalty / CVM / Retention,Hanan,Head of CRM & Digital Analytics,ALEXBANK,True
+CRM / Loyalty / CVM / Retention,Mostafa,Head of Multi Channels & CRM Support Unit,ALEXBANK,True
+CRM / Loyalty / CVM / Retention,Mazen,Senior Associate Manager - Head of Channels and CRM Development Unit,ALEXBANK,True
+CRM / Loyalty / CVM / Retention,Mahmoud,Senior Manager - Head of Multi Channels & CRM Applications Office,ALEXBANK,False
+CRM / Loyalty / CVM / Retention,Josh,Head of Digital CRM and Branch Transformation,Abu Dhabi Commercial Bank,True
+CRM / Loyalty / CVM / Retention,Khaled,Head of Contact Center & Retention,Abu Dhabi Commercial Bank - Egypt,True
+CRM / Loyalty / CVM / Retention,Kholoud,Head of Loyalty,Aljazira Bank | بنك الجزيرة,False
+CRM / Loyalty / CVM / Retention,Mahmoud,Head of CRM & Automation,Arab African International Bank,True
+CRM / Loyalty / CVM / Retention,Hosameldin,"Head of Loyalty, Campaigns and CVM, Consumer Banking",Arab African International Bank,True
+CRM / Loyalty / CVM / Retention,Isa,Head of CRM - Retail Banking,Arab National Bank,False
+CRM / Loyalty / CVM / Retention,Abdulwahab,Senior Manager Loyalty & Partnerships Unit Head,Arab National Bank,True
+CRM / Loyalty / CVM / Retention,Thirumavalavan,Data Integration & CRM Unit Head,BSF,False
+CRM / Loyalty / CVM / Retention,Mazen,Head of Sales Animation & CRM,BSF,False
+CRM / Loyalty / CVM / Retention,Ashish,CRM Head- Salesforce Manager,Bank ABC,True
+CRM / Loyalty / CVM / Retention,Krishna,Head of CRM Applications,Bank Muscat,False
+CRM / Loyalty / CVM / Retention,Asma,CRM Unit Head,BankDhofar,True
+CRM / Loyalty / CVM / Retention,Hajer,Unit Head - Cards Loyalty & Value Proposition,BankDhofar,True
+CRM / Loyalty / CVM / Retention,Sarah,"Deputy General Manager, Head of Customer & Analytics (CRM) & Senior Product Lead",Banque Misr,True
+CRM / Loyalty / CVM / Retention,Dalia,Head of Business Intelligence and CVM,Banque Misr,True
+CRM / Loyalty / CVM / Retention,Salma,Head of Consumer Segments VP / Retail CRM/ CVM & Advanced Analytics/ Branch Transformation,Banque Misr,True
+CRM / Loyalty / CVM / Retention,Ahmed,Head of Corporate Digital Channels and Customer Engagement,Banque Misr,True
+CRM / Loyalty / CVM / Retention,Ismail,Head of Loyalty,Banque Misr,True
+CRM / Loyalty / CVM / Retention,Rami,CRM & Business Intelligence - Unit Head,Burgan Bank,True
+CRM / Loyalty / CVM / Retention,Mahmoud,"Head of Insurance Business, Strategic Partnerships, and Consumer Loyalty",CIB Egypt,True
+CRM / Loyalty / CVM / Retention,Abeer,Unit Head Customer Engagement at Commercial Bank of Dubai,Commercial Bank of Dubai,True
+CRM / Loyalty / CVM / Retention,Noha,Head of CVM & Digital Marketing,Crédit Agricole Egypt,True
+CRM / Loyalty / CVM / Retention,Mona,Head of CVM and Data Science,Crédit Agricole Egypt,True
+CRM / Loyalty / CVM / Retention,Yara,"Head of Customer Engagement, Cards Development & Segments",Crédit Agricole Egypt,True
+CRM / Loyalty / CVM / Retention,Zahoor,VP - Head of Customer Engagement Technology @ DIB | Digital Transformation Leader,DIB,True
+CRM / Loyalty / CVM / Retention,Muhammad,Vice President - Head of Enterprise CRM & Process Automation Technologies,DIB,True
+CRM / Loyalty / CVM / Retention,Mazen,Head of Customer Value Management & Operations,Deem Finance,True
+CRM / Loyalty / CVM / Retention,Robert,"VP | Head of Loyalty, Strategic Partnerships & Cards Management",First Abu Dhabi Bank (FAB),True
+CRM / Loyalty / CVM / Retention,Amgad,Head of Digital Customer Loyalty and Insights,National Bank of Bahrain,True
+CRM / Loyalty / CVM / Retention,Shoug,Head of Rewards & Loyalty Program,National Bank of Kuwait,False
+CRM / Loyalty / CVM / Retention,Ziad,Head of CRM and Data Analytic in Retail Division,Oman Arab Bank,True
+CRM / Loyalty / CVM / Retention,Aamir,Head of Customer Value Management,SAB,True
+CRM / Loyalty / CVM / Retention,Navaid,Head of Customer Value Management - SVP,Sohar International,True
+CRM / Loyalty / CVM / Retention,Mazen,Head of Loyalty Programs,The Saudi National Bank - SNB,False
+CRM / Loyalty / CVM / Retention,Raed,AGM-Head of Customer Loyalty,alinma,False
+CRM / Loyalty / CVM / Retention,Fahad,CRM Unit Head,alinma,False
+CRM / Loyalty / CVM / Retention,Hamed,Head of Customer Engagement & E-Channels,بنك البلاد | Bank Albilad,True
+CX / Customer Care,Amjad,Head of Contact Center,ADIB - Abu Dhabi Islamic Bank,True
+CX / Customer Care,Ma'en,Head of Customer Experience,ADIB - Abu Dhabi Islamic Bank,True
+CX / Customer Care,Amr,Head of Contact Center,ALEXBANK,True
+CX / Customer Care,Yassmin,Head of Customer Experience,ALEXBANK,False
+CX / Customer Care,Mohamed,Head of Customer Service,ALEXBANK,True
+CX / Customer Care,Fatma,Head of Customer Service,ALEXBANK,True
+CX / Customer Care,Kareem,Head of Customer Service,ALEXBANK,True
+CX / Customer Care,Nourhan,Head of Customer Service,ALEXBANK,True
+CX / Customer Care,Fatima,Head Customer Experience and Research,Abu Dhabi Commercial Bank,True
+CX / Customer Care,Mona,Head of Customer Service,Abu Dhabi Commercial Bank,True
+CX / Customer Care,Afolayan,Head of Group Service & Customer Experience Management,Abu Dhabi Commercial Bank,True
+CX / Customer Care,Georgina,Head of Customer Experience and Insights,Abu Dhabi Islamic Bank - Egypt,False
+CX / Customer Care,Hussain,Head of Contact Center,Al Ahli Bank of Kuwait,False
+CX / Customer Care,Sarah,"Head of Marketing, Corporate Communications, & Customer Experience",Al Ahli Bank of Kuwait,False
+CX / Customer Care,Maha,Head of Contact Center,Al Ahli Bank of Kuwait - Egypt,True
+CX / Customer Care,Dana,Head of Customer Service,Al Baraka Bank Egypt,False
+CX / Customer Care,Turki,Head of Contact Center and Self-Service,Aljazira Bank | بنك الجزيرة,False
+CX / Customer Care,Badr,VP Head of Customer Experience & Protection,Aljazira Bank | بنك الجزيرة,True
+CX / Customer Care,Ahmed,HEAD of Call Center and Customer Experience,Arab African International Bank,True
+CX / Customer Care,Abdullah,Head of Contact Center,Arab National Bank,True
+CX / Customer Care,Abdulmalik,Head of Customer Experience,Arab National Bank,True
+CX / Customer Care,Majed,Head of Customer Experience,Arab National Bank,True
+CX / Customer Care,Hala,Head of Group Customer Experience,BSF,False
+CX / Customer Care,Adel,Head of Contact Center and Tele-Sales,Bank ABC,False
+CX / Customer Care,Ahmed,Head Contact Center,Bank Muscat,True
+CX / Customer Care,Amna,Head of Customer Experience- Personal Banking,Bank Muscat,True
+CX / Customer Care,Mahmoud,Head of Customer Service,Bank NXT,True
+CX / Customer Care,Mohit,Deputy Head - Contact Center,BankDhofar,True
+CX / Customer Care,Sulaiman,Head of Customer Experience,BankDhofar,True
+CX / Customer Care,Aliaa,Head of Customer Service,Banque Misr,True
+CX / Customer Care,Drmohamed,Head of Customer Care,Banque du Caire,True
+CX / Customer Care,Noura,Head of Customer Experience,Banque du Caire,True
+CX / Customer Care,Hussien,Head of Customer Service,Banque du Caire,True
+CX / Customer Care,Dina,Head of Customer Care,CIB Egypt,True
+CX / Customer Care,Ahmed,Head of Customer Service,CIB Egypt,True
+CX / Customer Care,Mageed,Head of Customer Service,CIB Egypt,True
+CX / Customer Care,Ehab,Head of Customer Service,CIB Egypt,True
+CX / Customer Care,Karim,Head of Customer Service,CIB Egypt,True
+CX / Customer Care,Shamsa,Head of Customer Experience,Commercial Bank International,False
+CX / Customer Care,Louai,Head of Contact Center,Commercial Bank of Dubai,False
+CX / Customer Care,Mohammad,Head of Customer Experience Management Department (CXM),Commercial Bank of Kuwait,True
+CX / Customer Care,Mohab,Head of Customer Service,Crédit Agricole Egypt,True
+CX / Customer Care,Mohamed,Head of Customer Service & Affluent Relationship Manager,Crédit Agricole Egypt,True
+CX / Customer Care,Mostafa,Head of Relationship Excellence & Client Development | Segments - Customer Experience,Crédit Agricole Egypt,True
+CX / Customer Care,Nitin,Head of Contact Center,DIB,True
+CX / Customer Care,Rola,Head of Customer Experience Development Unit,DIB,True
+CX / Customer Care,Millard,"Head of Customer Experience Excellence, Resolution & Assurance",DIB,False
+CX / Customer Care,Marco,Head of Contact Center,EBANK,True
+CX / Customer Care,Bishoy,Head of Customer Experience and Retail Change Managment,EBANK,True
+CX / Customer Care,Ahmed,Head of Contact Center,EGBANK,True
+CX / Customer Care,Hossam,Head of Customer Service,EGBANK,True
+CX / Customer Care,Ayed,Head of Contact Center,Emirates NBD,True
+CX / Customer Care,Nawaf,Head of Customer Care,Emirates NBD,False
+CX / Customer Care,Olga,Head of Customer Experience and Journeys,Emirates NBD,True
+CX / Customer Care,Mahmoud,Senior Director - Head of Customer Experience,Emirates NBD,False
+CX / Customer Care,Shuruq,Head of Customer Care,First Abu Dhabi Bank (FAB),False
+CX / Customer Care,Khaled,Head of Customer Experience,First Abu Dhabi Bank Misr (FABMISR),True
+CX / Customer Care,Ali,Head of Customer Experience,Gulf International Bank,True
+CX / Customer Care,Mohand,Head of Customer Experience & Quality Control,Industrial Development Bank - IDB,False
+CX / Customer Care,Talal,Head of Contact Center,KIB,False
+CX / Customer Care,Ali,Head of Customer Experience,KIB,True
+CX / Customer Care,Madline,Head of Customer Service,Kuwait Finance House,True
+CX / Customer Care,Bassent,Head of Customer Service,MIDBANK,True
+CX / Customer Care,Nahla,Head of Customer Experience - Corporate,Mashreq,True
+CX / Customer Care,Mohamed,VP - Head of Retail Customer Experience,Mashreq,False
+CX / Customer Care,Amr,Head of Contact Center,National Bank of Egypt (NBE),True
+CX / Customer Care,Said,Head of Customer Experience (Strategy and Transformation Group),National Bank of Oman,True
+CX / Customer Care,Sumaiya,Head of Customer Experience,Oman Arab Bank,True
+CX / Customer Care,Mona,Executive Vice President & Head of Contact Center,RAKBANK,True
+CX / Customer Care,Hussain,Head of Customer Experience,SAB,True
+CX / Customer Care,Omar,Head of Marketing & Customer Experience,SAB,True
+CX / Customer Care,Salwa,Unite Head Contact Center Customer Care,Sohar International,True
+CX / Customer Care,Raghda,Head of Customer Service,Suez Canal Bank,True
+CX / Customer Care,Emad,Head of Customer Care,The Saudi National Bank - SNB,True
+CX / Customer Care,Bander,Head of Customer Experience,The Saudi National Bank - SNB,True
+CX / Customer Care,Majed,"Head, Retail Customer Experience",The Saudi National Bank - SNB,True
+CX / Customer Care,Wissal,SVP - Head of Research & Insights - Customer Experience,The Saudi National Bank - SNB,True
+CX / Customer Care,Amal,Head of Customer Care,The United Bank of Egypt,False
+CX / Customer Care,Amr,Head of Customer Experience & Service Quality,The United Bank of Egypt,True
+CX / Customer Care,Lamees,"Head of Customer Care, Customer Experience, and Call Center – Strategic Projects",alrajhi bank,False
+CX / Customer Care,Moneer,Head of Customer Experience Monitoring & Control,alrajhi bank,True
+CX / Customer Care,Mohammed,"Sr. Director, Head of Customer Experience",alrajhi bank,False
+CX / Customer Care,Mostafa,Head of Contact Center,saib,True
+CX / Customer Care,Fatma,Head of Customer Experience and Distribution Channels Quality Performance,saib,True
+CX / Customer Care,Mourad,Head of Quality Assurance and Customer Experience,saib,True
+CX / Customer Care,Hamad,Head of Customer Experience & Quality,بنك البلاد | Bank Albilad,True
+CX / Customer Care,Ahmed,Head of Contact Center,بنك التعمير والإسكان HD Bank,True
+CX / Customer Care,Ahmed,Head of Customer Experience & Service Excellence,بنك التعمير والإسكان HD Bank,True
+Data / Analytics / Martech,Krishna,Head of Analytics and BI,ADIB - Abu Dhabi Islamic Bank,True
+Data / Analytics / Martech,Muhammad,Head of Business Intelligence and Analytics,ADIB - Abu Dhabi Islamic Bank,True
+Data / Analytics / Martech,Masheal,Head of Data and Analytics,Arab National Bank,True
+Data / Analytics / Martech,Aisha,Head of Data and Analytics,BBK (Bank of Bahrain and Kuwait),True
+Data / Analytics / Martech,Fahad,Head of Personalization,BSF,False
+Data / Analytics / Martech,Martins,Head of Open Finance and Digital Analytics,Commercial Bank of Dubai,False
+Data / Analytics / Martech,Jamal,Head of Data Analytics,Commercial Bank of Kuwait,True
+Data / Analytics / Martech,Youssry,Head of Archiving & Personalization Center.,Crédit Agricole Egypt,False
+Data / Analytics / Martech,Neeshu,Head of BI & Analytics,Emirates Islamic,True
+Data / Analytics / Martech,Sara,Head of Data Analytics & Business Intelligence,QNB Egypt,True
+Data / Analytics / Martech,Ahmad,Data and Digital Strategy Execution Head,SAB,True
+Data / Analytics / Martech,Nawaf,Head of Analytics & BI,The Saudi National Bank - SNB,True
+Data / Analytics / Martech,Maher,Senior Vice President – Head of Customer Insights & Experience,The Saudi National Bank - SNB,True
+Digital / Digital Banking / Channels,Ozgur,Head of Development Chapter (Digital Transformation),ADIB - Abu Dhabi Islamic Bank,True
+Digital / Digital Banking / Channels,Hiren,Head of Digital & Innovation,ADIB - Abu Dhabi Islamic Bank,True
+Digital / Digital Banking / Channels,Nayab,"Head of Digital Delivery, Integration & Automation",ADIB - Abu Dhabi Islamic Bank,True
+Digital / Digital Banking / Channels,Ahmad,Head of Digital Factory,ADIB - Abu Dhabi Islamic Bank,True
+Digital / Digital Banking / Channels,Ayat,Head of Digital Products,ADIB - Abu Dhabi Islamic Bank,True
+Digital / Digital Banking / Channels,Daniel,Head of Digital Products & Design,ADIB - Abu Dhabi Islamic Bank,True
+Digital / Digital Banking / Channels,Asif,Head of Digital and Integration Platform,ADIB - Abu Dhabi Islamic Bank,True
+Digital / Digital Banking / Channels,Anand,"Head- Business Analysis Chapter,Digital Transformation",ADIB - Abu Dhabi Islamic Bank,True
+Digital / Digital Banking / Channels,Amr,SVP - Head of Digital Banking and Alternate Channels,ADIB - Abu Dhabi Islamic Bank,True
+Digital / Digital Banking / Channels,Ramy,"Deputy CEO - Retail, MSMEs and Digital Banking",ALEXBANK,True
+Digital / Digital Banking / Channels,Ahmed,Head of Consumer Digital Banking Development,ALEXBANK,True
+Digital / Digital Banking / Channels,Basma,Head of Digital Channels Development,ALEXBANK,True
+Digital / Digital Banking / Channels,Mohamed,Head of Digital Performance,ALEXBANK,True
+Digital / Digital Banking / Channels,Akshatha,Head of Digital Transformation,Abu Dhabi Commercial Bank,True
+Digital / Digital Banking / Channels,Ahmed,Head of Digital,Abu Dhabi Islamic Bank - Egypt,True
+Digital / Digital Banking / Channels,Mohamed,"Head of Digital Banking, Alternative Channels & Digital Transformation at Agricultural Bank of Egypt",Agricultural Bank of Egypt,False
+Digital / Digital Banking / Channels,Hassan,Head of Digital Banking,Ajman Bank,False
+Digital / Digital Banking / Channels,Subhi,VP Head of Digital Transformation,Ajman Bank,True
+Digital / Digital Banking / Channels,Faisal,Head of Digital Assets - Executive Manager,Al Ahli Bank of Kuwait,True
+Digital / Digital Banking / Channels,Khaled,Deputy CEO - Consumer and Digital Banking Group Head,Al Ahli Bank of Kuwait - Egypt,False
+Digital / Digital Banking / Channels,Ahmed,"Head of Digital Banking, Transformation & Alternative Channels",Al Ahli Bank of Kuwait - Egypt,True
+Digital / Digital Banking / Channels,Ahmed,Head of Digital Operations & Acquisition Retail Division,Al Ahli Bank of Kuwait - Egypt,False
+Digital / Digital Banking / Channels,Amr,"Head of Digital Payments, Acquisition and Digital Operations",Al Ahli Bank of Kuwait - Egypt,True
+Digital / Digital Banking / Channels,Amr,Head of Digital Banking,Al Baraka Bank Egypt,True
+Digital / Digital Banking / Channels,Abdulaziz,Head of Corporate Digital Channels,Aljazira Bank | بنك الجزيرة,True
+Digital / Digital Banking / Channels,Mohammed,Head of Digital Delivery Excellence,Aljazira Bank | بنك الجزيرة,True
+Digital / Digital Banking / Channels,Nawaf,Head of Digital Payments,Aljazira Bank | بنك الجزيرة,True
+Digital / Digital Banking / Channels,Fahad,VP - Head of Digital Banking,Aljazira Bank | بنك الجزيرة,True
+Digital / Digital Banking / Channels,Mohammad,"Vice President, Head of Digital Garage",Aljazira Bank | بنك الجزيرة,False
+Digital / Digital Banking / Channels,Alaa,Head of Digital,Arab African International Bank,True
+Digital / Digital Banking / Channels,Omar,Head of Digital Factory | Digital Factory,Arab African International Bank,False
+Digital / Digital Banking / Channels,Ahmed,Head of Digital Products,Arab African International Bank,True
+Digital / Digital Banking / Channels,Reda,Head of Digital Technology,Arab African International Bank,True
+Digital / Digital Banking / Channels,Mohammed,Head of Digital Banking,Arab International Bank,False
+Digital / Digital Banking / Channels,Amr,Head of Digital Banking & Global Transaction Banking,Arab International Bank,True
+Digital / Digital Banking / Channels,Mohamed,"Head of Online Banking, Digital Banking",Arab International Bank,True
+Digital / Digital Banking / Channels,Faris,Head of Digital Banking,Arab National Bank,True
+Digital / Digital Banking / Channels,Ahmed,Head of Digital Banking and Innovation,Attijariwafa bank Egypt,True
+Digital / Digital Banking / Channels,Ahmed,Head of Digital Products & Innovation,Attijariwafa bank Egypt,True
+Digital / Digital Banking / Channels,Bassam,"HEAD of Digital, Products, Automation, Business Transformation & Planning",BBK (Bank of Bahrain and Kuwait),True
+Digital / Digital Banking / Channels,Ali,Head of Corporate Channels & Digital Payments,BBK (Bank of Bahrain and Kuwait),True
+Digital / Digital Banking / Channels,Mohammed,Assosciate Director of Digital Banking,BSF,False
+Digital / Digital Banking / Channels,Abdulaziz,Director of Digital Banking Delivery,BSF,False
+Digital / Digital Banking / Channels,Hisham,Head of Delivery - Digital Transformation,Bank ABC,True
+Digital / Digital Banking / Channels,Eman,Head of Retail & Digital Banking,Bank ABC,False
+Digital / Digital Banking / Channels,Ramith,Deputy Head - Digital Experience,Bank Muscat,True
+Digital / Digital Banking / Channels,Rahul,Head - Digital Banking Products,Bank Muscat,True
+Digital / Digital Banking / Channels,Nunu,Head COE Testing (Digital Transformation),Bank Muscat,True
+Digital / Digital Banking / Channels,Taimore,"Head Change, Projects & Digital Channels - Meethaq",Bank Muscat,True
+Digital / Digital Banking / Channels,Dmitry,Head of Digital Banking | Growth & Transformation,Bank Muscat,True
+Digital / Digital Banking / Channels,Tayssir,Head of Digital Channels - Meethaq,Bank Muscat,True
+Digital / Digital Banking / Channels,Ganesh,Head of Digital Transformation,Bank Muscat,True
+Digital / Digital Banking / Channels,Sara,Unit Head - Staff Digital Experience & Projects,Bank Muscat,True
+Digital / Digital Banking / Channels,Yasir,Unit Head Merchant Operations Payment & Aquiring in Digital Banking Dept,Bank Muscat,True
+Digital / Digital Banking / Channels,Ahmed,Chief Information & Digital Transformation Officer,Bank NXT,True
+Digital / Digital Banking / Channels,Amira,Head of Digital Banking,Bank NXT,False
+Digital / Digital Banking / Channels,Dharmendra,Head of Digital Channels and Payments,BankDhofar,True
+Digital / Digital Banking / Channels,Sameer,Head of Retail and Corporate Digital Banking,BankDhofar,True
+Digital / Digital Banking / Channels,Aqeel,Unit Head - Payments and Digital Channels Development,BankDhofar,True
+Digital / Digital Banking / Channels,Taher,Head of Digital,Banque Misr,True
+Digital / Digital Banking / Channels,Farida,Head of Digital Products | Digital Factory,Banque Misr,True
+Digital / Digital Banking / Channels,Marwa,General Maneger Head of Digital Banking Sector,Banque du Caire,True
+Digital / Digital Banking / Channels,Jermin,Head of Digital and Implementation,Banque du Caire,True
+Digital / Digital Banking / Channels,Karim,Head of Innovation and Digital Banking,Banque du Caire,True
+Digital / Digital Banking / Channels,Osama,Acting Head of Digital Group at Boubyan Bank,Boubyan Bank,True
+Digital / Digital Banking / Channels,Sami,Head of Digital Channels,Boubyan Bank,False
+Digital / Digital Banking / Channels,Omar,DGM - Head of Digital Transformation,Burgan Bank,True
+Digital / Digital Banking / Channels,Faisal,Executive Manager - Head of Digital Channels Development,Burgan Bank,True
+Digital / Digital Banking / Channels,Sumeet,HEAD Digital Banking,Burgan Bank,True
+Digital / Digital Banking / Channels,Mohammed,Office Manager - Head of Digital Transformation,Burgan Bank,True
+Digital / Digital Banking / Channels,Saurabh,"Chief Technology Officer, Digital Bank",CIB Egypt,True
+Digital / Digital Banking / Channels,Yousri,Head of Consumer Digital Products & Channels - CIB,CIB Egypt,True
+Digital / Digital Banking / Channels,Hossam,Head of GTB Business Development / Global Transaction & Digital Banking,CIB Egypt,True
+Digital / Digital Banking / Channels,Youssef,Retail Innovation & Digital Sales Head,CIB Egypt,True
+Digital / Digital Banking / Channels,Mohamed,"Retail, Digital Banking & SMEs Enterprise Performance Management Head",CIB Egypt,False
+Digital / Digital Banking / Channels,Thomas,Chief Technology & Services Officer | Digital Banking | Strategic Technology Planning & Delivery | Global Innovation Excellence | +25 Years of Success,Commercial Bank of Dubai,True
+Digital / Digital Banking / Channels,Daniel,Head of Digital Design,Commercial Bank of Dubai,True
+Digital / Digital Banking / Channels,Zyad,Digital Engagement Head,Crédit Agricole Egypt,False
+Digital / Digital Banking / Channels,Yasir,Head of Digital Channels,Crédit Agricole Egypt,False
+Digital / Digital Banking / Channels,Miriam,Head of Digital and Transaction Banking,Crédit Agricole Egypt,True
+Digital / Digital Banking / Channels,Nadeem,Head of Digital Payments Innovation & Operations,DIB,True
+Digital / Digital Banking / Channels,Ibrahim,"SVP, Head of Digital Platforms",DIB,True
+Digital / Digital Banking / Channels,Mohammad,VP - Head of Digital Product,DIB,True
+Digital / Digital Banking / Channels,Montasser,Group Head of Retail and Digital Banking,EBANK,True
+Digital / Digital Banking / Channels,Ashraf,Head of Digital Banking Channels,EBANK,True
+Digital / Digital Banking / Channels,Kareem,Head of Digital Channels & Self Services,EBANK,True
+Digital / Digital Banking / Channels,Ahmed,Head of Digital Innovation,EBANK,True
+Digital / Digital Banking / Channels,Omar,Head of Digital Presence,EBANK,True
+Digital / Digital Banking / Channels,Sherif,Head of Products Development & Digital Banking,EBANK,True
+Digital / Digital Banking / Channels,Rania,Digital Banking Channels Head,EGBANK,False
+Digital / Digital Banking / Channels,Maged,Head of Digital,EGBANK,True
+Digital / Digital Banking / Channels,Veera,"Head - Product, Value Proposition and Digital Channels",Emirates Islamic,True
+Digital / Digital Banking / Channels,Zain,"Head of Digital Experience, Web Journeys & Open Finance",Emirates Islamic,True
+Digital / Digital Banking / Channels,Srwnaz,"AVP, Head of Digital Acquisition - Business Banking, Emirates NBD.",Emirates NBD,True
+Digital / Digital Banking / Channels,Magesh,Executive Director - Head of Digital Products,Emirates NBD,True
+Digital / Digital Banking / Channels,Shoaib,Group Head of Digital Products,Emirates NBD,True
+Digital / Digital Banking / Channels,Murat,Head of Digital Analytics & Adoption,Emirates NBD,False
+Digital / Digital Banking / Channels,Haitham,Head of Digital Banking,Emirates NBD,False
+Digital / Digital Banking / Channels,Afnan,Head of Digital Channels,Emirates NBD,False
+Digital / Digital Banking / Channels,Ritu,Head of Digital Experience and Operations,Emirates NBD,True
+Digital / Digital Banking / Channels,Chitra,Head of Digital Innovation,Emirates NBD,True
+Digital / Digital Banking / Channels,John,Head of Digital Learning,Emirates NBD,True
+Digital / Digital Banking / Channels,Ahmed,Head of Digital Operations & Self Services,Emirates NBD,False
+Digital / Digital Banking / Channels,Ashirvad,Head of Digital Products,Emirates NBD,True
+Digital / Digital Banking / Channels,Ali,Head of Digital Products - Transaction Banking,Emirates NBD,True
+Digital / Digital Banking / Channels,Deepali,Head of Digital Products(IT) - EveryDay Banking,Emirates NBD,True
+Digital / Digital Banking / Channels,Mahendar,"Head of Digital Products, Growth and Partnerships for Liv",Emirates NBD,False
+Digital / Digital Banking / Channels,Anuradha,Head of Digital Resilience and Automation,Emirates NBD,True
+Digital / Digital Banking / Channels,Asad,Head of Products and Digital Banking,Emirates NBD,False
+Digital / Digital Banking / Channels,Davinder,"Head, Digital Channels, Cash Management, Transaction Banking",Emirates NBD,True
+Digital / Digital Banking / Channels,Devavrat,VP Digital Banking,Emirates NBD,True
+Digital / Digital Banking / Channels,Charu,"Vice President, Head of Digital Partnerships",Emirates NBD,True
+Digital / Digital Banking / Channels,Emad,Head of Digital Financial Services,Finance House,True
+Digital / Digital Banking / Channels,Haya,"AVP, Digital Banking",First Abu Dhabi Bank (FAB),True
+Digital / Digital Banking / Channels,Sachin,Head of Delivery- Digital Channels for Corporate Investment Banking,First Abu Dhabi Bank (FAB),True
+Digital / Digital Banking / Channels,Alan,Head of Digital (Acting),First Abu Dhabi Bank (FAB),True
+Digital / Digital Banking / Channels,Malith,"Head of Digital Acquisition for Consumer Banking - Accounts, Personal Loans and Islamic Finance",First Abu Dhabi Bank (FAB),True
+Digital / Digital Banking / Channels,Noha,"Head of Digital Sales, TPSP and Commercialization",First Abu Dhabi Bank (FAB),True
+Digital / Digital Banking / Channels,Khalid,SVP & Head of Digital Islamic & Elite,First Abu Dhabi Bank (FAB),True
+Digital / Digital Banking / Channels,Ather,"Vice President Technology - Consumer Banking, Digital Channels",First Abu Dhabi Bank (FAB),True
+Digital / Digital Banking / Channels,Mohamed,Head of Digital Transformation,First Abu Dhabi Bank Misr (FABMISR),True
+Digital / Digital Banking / Channels,Laila,Head of Digital Transformation - Consumer Banking,First Abu Dhabi Bank Misr (FABMISR),True
+Digital / Digital Banking / Channels,Hassan,Head of Digital Banking,Gulf Bank,False
+Digital / Digital Banking / Channels,Israa,Head of Digital Acquisition and Network,Gulf International Bank,True
+Digital / Digital Banking / Channels,Ahmed,Head of Digital Banking,Gulf International Bank,False
+Digital / Digital Banking / Channels,Mohamed,"Head of Digital Channels, Digital Banking Department at GIB",Gulf International Bank,False
+Digital / Digital Banking / Channels,Mohamed,Head of Digital Delivery,Gulf International Bank,True
+Digital / Digital Banking / Channels,Jayanth,Head of Digital Transformation,Gulf International Bank,True
+Digital / Digital Banking / Channels,CA,Vice President - Head of Projects Digital Banking Finance,Gulf International Bank,False
+Digital / Digital Banking / Channels,Ahmed,"DGM - Head of Digital Solutions(Integration, Business Automation & RPA, Digital Channels, AI)",Industrial Development Bank - IDB,True
+Digital / Digital Banking / Channels,Sherif,General Manager. Head of Digital Transformation and Experience,Industrial Development Bank - IDB,False
+Digital / Digital Banking / Channels,Serge,CTO & Head of Digital Bank,Invest Bank,True
+Digital / Digital Banking / Channels,Ajay,Head of Digital & AI,Invest Bank,True
+Digital / Digital Banking / Channels,Ahmed,Executive Manager - Head of Digital Technology,KIB,True
+Digital / Digital Banking / Channels,Eng,Group Chief Technology and Digital Transformation Officer,Kuwait Finance House,True
+Digital / Digital Banking / Channels,Waleed,Head of Digital Channels,Kuwait Finance House,False
+Digital / Digital Banking / Channels,Amr,AGM Head of Service Hub - Digital Transformation,MIDBANK,True
+Digital / Digital Banking / Channels,Mohamed,Head of Digital Banking & Innovation,MIDBANK,True
+Digital / Digital Banking / Channels,Bassem,Head of Digital Channels Operation,MIDBANK,True
+Digital / Digital Banking / Channels,Nehal,Head of Digital and Innovation Hub,MIDBANK,True
+Digital / Digital Banking / Channels,Jasar,AVP - Global Digital Banking Platform,Mashreq,True
+Digital / Digital Banking / Channels,Corey,"Executive Vice President and Head of Digital, Retail Banking Group",Mashreq,True
+Digital / Digital Banking / Channels,Marian,Head of Digital & Retail Lending,Mashreq,False
+Digital / Digital Banking / Channels,Devendra,Head of Digital Channels - Global Transaction Banking,Mashreq,True
+Digital / Digital Banking / Channels,Sherif,SVP Egypt Head of Digital Strategic Partnerships,Mashreq,False
+Digital / Digital Banking / Channels,Ricardo,"SVP, Global Head of Digital Propositions",Mashreq,True
+Digital / Digital Banking / Channels,Vickram,"SVP, Head of Digital Wealth Solutions",Mashreq,False
+Digital / Digital Banking / Channels,Abdulwahab,Head of KSA Digital Channels & Payments,National Bank of Bahrain,True
+Digital / Digital Banking / Channels,Omar,Head of Retail Digital Banking,National Bank of Bahrain,True
+Digital / Digital Banking / Channels,Shadi,Digital Channels Manager - Head of Banking Self Services,National Bank of Egypt (NBE),True
+Digital / Digital Banking / Channels,Ashraf,General Manager Head of Digital Banking,National Bank of Egypt (NBE),True
+Digital / Digital Banking / Channels,Nancy,Head of Business Technology and Digital Channels,National Bank of Egypt (NBE),True
+Digital / Digital Banking / Channels,Mohamed,Head of Digital Transformation Management & Fintechs Collaboration,National Bank of Egypt (NBE),True
+Digital / Digital Banking / Channels,Mohammed,Chief Executive Officer Consumer & Digital Banking,National Bank of Kuwait,True
+Digital / Digital Banking / Channels,Michel,Head of Alternative Channels | Digital Projects and Innovation,National Bank of Kuwait,True
+Digital / Digital Banking / Channels,Khalid,Head of Corporate Support and Digital Transformation,National Bank of Kuwait,True
+Digital / Digital Banking / Channels,Refaa,Head of Digital Banking Business Analysis,National Bank of Kuwait,False
+Digital / Digital Banking / Channels,Hala,Head of Digital Business,National Bank of Kuwait,False
+Digital / Digital Banking / Channels,Ali,Head of Digital Business and Transformation,National Bank of Kuwait,True
+Digital / Digital Banking / Channels,Aseel,Head of Digital Channel & ITM,National Bank of Kuwait,True
+Digital / Digital Banking / Channels,Mohab,Head of Digital Channels,National Bank of Kuwait,False
+Digital / Digital Banking / Channels,Mohammed,Vice President - Head of Digital Banking Channels,National Bank of Kuwait,False
+Digital / Digital Banking / Channels,Gaurav,Head of Digital Channels,National Bank of Oman,True
+Digital / Digital Banking / Channels,Imad,Head of Digital Channels,Oman Arab Bank,False
+Digital / Digital Banking / Channels,Hamsa,Digital Banking Channels Head /Conversational AI Head- Digital Banking,QNB Egypt,False
+Digital / Digital Banking / Channels,Nermine,Head of Digital Banking,QNB Egypt,True
+Digital / Digital Banking / Channels,Ahmed,Head of Digital Channels,QNB Egypt,True
+Digital / Digital Banking / Channels,Abou,Head of Digital Operations,QNB Egypt,True
+Digital / Digital Banking / Channels,Bakr,Head of Digital Operations at QNB Egypt,QNB Egypt,True
+Digital / Digital Banking / Channels,Riham,Head of Digital Planning,QNB Egypt,False
+Digital / Digital Banking / Channels,Mohamed,Head of Digital Solutions & Collaboration,QNB Egypt,True
+Digital / Digital Banking / Channels,Thomas,Executive Vice President - Head of Digital Business Banking,RAKBANK,True
+Digital / Digital Banking / Channels,Rahul,Executive Vice President and Head of Digital,RAKBANK,True
+Digital / Digital Banking / Channels,Ali,Director - Head of Digital Solutions & Advisory,SAB,True
+Digital / Digital Banking / Channels,Bandar,Head of Digital Banking and Payments,SAB,True
+Digital / Digital Banking / Channels,Mustafa,Head of Digital Channels & Payments,SAB,True
+Digital / Digital Banking / Channels,Arif,Head of Digital Payments,SAB,True
+Digital / Digital Banking / Channels,Shreesha,"Head of Digital Payments & Partnerships, Global Payments Solutions",SAB,True
+Digital / Digital Banking / Channels,Mohammad,Head of Strategic & Digital Transformation - Corporate & Institutional Banking,SAB,True
+Digital / Digital Banking / Channels,Wahaj,Head of Digital Business,Sharjah Islamic Bank,True
+Digital / Digital Banking / Channels,Tariq,Head of Digital Mobile & Online Banking,Sharjah Islamic Bank,True
+Digital / Digital Banking / Channels,Waleed,Vice President Head of Digital Banking,Sharjah Islamic Bank,True
+Digital / Digital Banking / Channels,Erkal,Head of Digital Banking,Sohar International,True
+Digital / Digital Banking / Channels,Hani,Head of Digital Banking-Retail,Sohar International,True
+Digital / Digital Banking / Channels,Younis,Head of Digital Experience,Sohar International,True
+Digital / Digital Banking / Channels,Ashish,SVP & Head of Digital Delivery,Sohar International,True
+Digital / Digital Banking / Channels,Jitmal,Unit Head Digital Banking - Corporates & Institutes,Sohar International,True
+Digital / Digital Banking / Channels,Hanan,VP & Head - Digital Banking,Sohar International,True
+Digital / Digital Banking / Channels,Haytham,Head of Digital Banking & Financial Inclusion,Suez Canal Bank,True
+Digital / Digital Banking / Channels,Manar,"AVP - Senior Officer, Corporate Digital Banking",The Saudi National Bank - SNB,False
+Digital / Digital Banking / Channels,Alwaleed,AVP Retail Digital Banking,The Saudi National Bank - SNB,True
+Digital / Digital Banking / Channels,Mohammed,"AVP, Digital Banking Senior Officer",The Saudi National Bank - SNB,False
+Digital / Digital Banking / Channels,Ahmad,Asst. Vice President- Corporate Digital Banking,The Saudi National Bank - SNB,True
+Digital / Digital Banking / Channels,Mohammed,Head Digital Banking Sales,The Saudi National Bank - SNB,True
+Digital / Digital Banking / Channels,Bander,"Head, Corporate Digital Banking",The Saudi National Bank - SNB,True
+Digital / Digital Banking / Channels,Hussam,"SVP - Head, Global Digital Channels",The Saudi National Bank - SNB,True
+Digital / Digital Banking / Channels,Murad,Senior Vice President - Head of Digital Forensics and Incident Response,The Saudi National Bank - SNB,True
+Digital / Digital Banking / Channels,Eyad,VP - Retail Digital Banking Insights,The Saudi National Bank - SNB,True
+Digital / Digital Banking / Channels,Sarah,"VP, Digital Banking Product Development and Insights",The Saudi National Bank - SNB,True
+Digital / Digital Banking / Channels,Faisal,"VP,Digital Banking Customized Solution -SwiftNet / B2B",The Saudi National Bank - SNB,True
+Digital / Digital Banking / Channels,Sebastien,Head of Digital,United Arab Bank,True
+Digital / Digital Banking / Channels,Mohammed,"AGM, Head of Digital Channels",alinma,False
+Digital / Digital Banking / Channels,Mohammed,Director of Corporate Digital Banking,alinma,True
+Digital / Digital Banking / Channels,Ali,Head of Digital,alinma,False
+Digital / Digital Banking / Channels,Mohammed,Head of Digital Channels,alinma,True
+Digital / Digital Banking / Channels,Tahani,Head of Digital Sales,alinma,False
+Digital / Digital Banking / Channels,Mohammed,Head of Digital Strategy and Innovation,alinma,False
+Digital / Digital Banking / Channels,Rayan,"Senior Manager, Head of Digital Growth",alinma,False
+Digital / Digital Banking / Channels,Khalid,"Head of Digital Business Analysis and UAT, Executive Manager",alrajhi bank,False
+Digital / Digital Banking / Channels,Hanzada,Head of Digital Banking,saib,True
+Digital / Digital Banking / Channels,Mohamed,Head of Digital Banking Innovation & Retail Support,saib,True
+Digital / Digital Banking / Channels,Fouad,Head of Digital Enablement,saib,True
+Digital / Digital Banking / Channels,Hani,"Head of Digital Payments & Strategic Alliances, Digital Banking & Innovation",saib,True
+Digital / Digital Banking / Channels,Alh,Head of Digital,بنك البلاد | Bank Albilad,True
+Digital / Digital Banking / Channels,Mohammed,Head of Digital Business Engagements & Innovation Center,بنك البلاد | Bank Albilad,True
+Digital / Digital Banking / Channels,Majdi,Head of Digital Channels Transformation & Innovation,بنك البلاد | Bank Albilad,True
+Digital / Digital Banking / Channels,Ahmed,Head of Digital Delivery,بنك البلاد | Bank Albilad,True
+Digital / Digital Banking / Channels,Mohamed,Head of Digital,بنك التعمير والإسكان HD Bank,True
+Digital / Digital Banking / Channels,Yehia,Head of Digital Development and Integration,بنك التعمير والإسكان HD Bank,True
+Digital / Digital Banking / Channels,Wael,Head of Digital Innovation,بنك التعمير والإسكان HD Bank,True
+Digital / Digital Banking / Channels,Ahmed,Head of Digital Migration,بنك التعمير والإسكان HD Bank,False
+Digital / Digital Banking / Channels,Mohab,Head of Digital Services,بنك التعمير والإسكان HD Bank,False
+Digital / Digital Banking / Channels,Aya,Head of Digital Support & Testing,بنك التعمير والإسكان HD Bank,False
+Digital / Digital Banking / Channels,Ahmed,Head of Digital Wallet Operation,بنك التعمير والإسكان HD Bank,False
+Marketing / Brand / Comms,Lamia,"Group Head of Marketing, Communication, ESG and IR",ADIB - Abu Dhabi Islamic Bank,True
+Marketing / Brand / Comms,Osama,Head of Digital Marketing,ADIB - Abu Dhabi Islamic Bank,True
+Marketing / Brand / Comms,Hind,Marketing Manager l Business Banking & Retail Banking Segments at ADIB BANK Dubai Head Office,ADIB - Abu Dhabi Islamic Bank,False
+Marketing / Brand / Comms,Karim,Head of Marketing Communications,ALEXBANK,True
+Marketing / Brand / Comms,Dana,Acting Head - Marketing & Corporate Communication Al Hilal Bank,Abu Dhabi Commercial Bank,True
+Marketing / Brand / Comms,Sudhir,Head - Retail Products and Marketing,Abu Dhabi Commercial Bank,True
+Marketing / Brand / Comms,Taheni,Head of Marketing Services,Abu Dhabi Commercial Bank,False
+Marketing / Brand / Comms,Mohamed,Head of Marketing Communications and Digital Marketing,Abu Dhabi Commercial Bank - Egypt,True
+Marketing / Brand / Comms,Mahmoud,Head of Marketing | Adicf,Abu Dhabi Islamic Bank - Egypt,False
+Marketing / Brand / Comms,Mohamed,"Head of Marketing, PR & Corporate Communications",Abu Dhabi Islamic Bank - Egypt,False
+Marketing / Brand / Comms,Maged,Head of Digital Marketing,Agricultural Bank of Egypt,False
+Marketing / Brand / Comms,Manal,Head of Marketing,Agricultural Bank of Egypt,False
+Marketing / Brand / Comms,Ranya,Marketing Communications Sector Head,Agricultural Bank of Egypt,False
+Marketing / Brand / Comms,Faten,Head of Marketing & Product Development,Ahli United Bank - Kuwait,False
+Marketing / Brand / Comms,Amresh,Head of Products & Marketing,Ahli United Bank - Kuwait,True
+Marketing / Brand / Comms,Maryam,Head of Corporate Communication & Marketing,Ajman Bank,True
+Marketing / Brand / Comms,Qaiss,Head of Products and Marketing,Al Ahli Bank of Kuwait,True
+Marketing / Brand / Comms,Haytham,Head of Digital Communication Department,Al Ahli Bank of Kuwait - Egypt,False
+Marketing / Brand / Comms,Yomna,Head of Marketing,Al Ahli Bank of Kuwait - Egypt,True
+Marketing / Brand / Comms,Sherif,Head of Marketing & Corporate Communication,Al Baraka Bank Egypt,True
+Marketing / Brand / Comms,Sarah,Head of Marketing & Corporate Communication alBaraka Bank Egypt,Al Baraka Bank Egypt,True
+Marketing / Brand / Comms,Alain,Head of Digital Marketing,Aljazira Bank | بنك الجزيرة,False
+Marketing / Brand / Comms,Nawaf,Head of Marketing,Aljazira Bank | بنك الجزيرة,False
+Marketing / Brand / Comms,Amr,Acting as Director of Marketing and Communication,Arab African International Bank,True
+Marketing / Brand / Comms,Mostafa,Head of Digital Marketing,Arab African International Bank,False
+Marketing / Brand / Comms,Hala,Head of Integrated Marketing Communication,Arab African International Bank,True
+Marketing / Brand / Comms,Mostafa,Transformation Marketing Head,Arab African International Bank,True
+Marketing / Brand / Comms,Abir,Head of Marketing,Arab International Bank,True
+Marketing / Brand / Comms,Sara,Head of Marketing,Arab National Bank,True
+Marketing / Brand / Comms,Eman,Head of Marketing,Attijariwafa bank Egypt,False
+Marketing / Brand / Comms,Mohamed,Head of Marketing,BBK (Bank of Bahrain and Kuwait),True
+Marketing / Brand / Comms,Abdulaziz,Creative Marketing Director,BSF,False
+Marketing / Brand / Comms,Abdulkhaliq,Head of Marketing,BSF,False
+Marketing / Brand / Comms,Mamdouh,Head of Performance Marketing & MarTech,BSF,False
+Marketing / Brand / Comms,Aziz,Executive Director - Marketing,Bank ABC,False
+Marketing / Brand / Comms,Engy,Head of Marketing,Bank ABC,True
+Marketing / Brand / Comms,Rahab,Head of Brand and Marketing Communications,Bank Muscat,True
+Marketing / Brand / Comms,Maryam,Head of Retail Marketing,Bank Muscat,True
+Marketing / Brand / Comms,Iman,"Deputy CEO Consumer Banking, Marketing & Financial Inclusion",Bank NXT,True
+Marketing / Brand / Comms,Karim,Head of Marketing and Corporate Branding,Bank NXT,False
+Marketing / Brand / Comms,Magy,Head of Products Marketing,Bank NXT,False
+Marketing / Brand / Comms,Sami,Head of Marketing and Corporate Communication,BankDhofar,True
+Marketing / Brand / Comms,Sara,Unit Head - Business Marketing & Branding,BankDhofar,True
+Marketing / Brand / Comms,Mohamed,Head of Digital Marketing,Banque Misr,True
+Marketing / Brand / Comms,Nayera,Head of Corporate Marketing,Banque du Caire,True
+Marketing / Brand / Comms,Amr,Head of Digital Marketing,Banque du Caire,True
+Marketing / Brand / Comms,Mostafa,Head of Digital Marketing,Banque du Caire,True
+Marketing / Brand / Comms,Sherif,Head of Marketing Communications,Banque du Caire,True
+Marketing / Brand / Comms,Hala,Head of Retail & Corporate Marketing,Banque du Caire,True
+Marketing / Brand / Comms,Monica,Head of Retail Marketing,Banque du Caire,True
+Marketing / Brand / Comms,Muhanad,Senior Manager - Head of Digital Marketing,Boubyan Bank,True
+Marketing / Brand / Comms,Dhari,Unit Head - Digital & Content Marketing,Burgan Bank,False
+Marketing / Brand / Comms,Aya,Head of Digital Channels and Content Marketing,CIB Egypt,True
+Marketing / Brand / Comms,Shaimaa,Head of Digital Marketing,CIB Egypt,True
+Marketing / Brand / Comms,Ramy,Head of Marketing,CIB Egypt,True
+Marketing / Brand / Comms,Shahenda,Head of Marketing Cards and Segments,CIB Egypt,False
+Marketing / Brand / Comms,Khaled,Head of Marketing Services,CIB Egypt,True
+Marketing / Brand / Comms,Hassan,"Head of Marketing, Business Development, and Special Accounts | Direct Investment",CIB Egypt,False
+Marketing / Brand / Comms,Mostafa,Head of Media & Performance Marketing,CIB Egypt,True
+Marketing / Brand / Comms,Mostafa,Merchandize Marketing Head,CIB Egypt,True
+Marketing / Brand / Comms,Abdallah,Products and Segments Marketing Head,CIB Egypt,True
+Marketing / Brand / Comms,Lamia,Segments & Products Marketing Group Head,CIB Egypt,False
+Marketing / Brand / Comms,Karima,Segments & Products Marketing Head,CIB Egypt,True
+Marketing / Brand / Comms,Sara,Segments and Products Marketing Head,CIB Egypt,False
+Marketing / Brand / Comms,Fida,Head of Corporate Communications & Marketing,Commercial Bank International,False
+Marketing / Brand / Comms,Benazir,"Head Brand, Marketing and Corporate Communications",Commercial Bank of Dubai,True
+Marketing / Brand / Comms,Aiga,Head of Digital Marketing & Social Media,Commercial Bank of Dubai,False
+Marketing / Brand / Comms,Ramzi,Head of Marketing and Research,Commercial Bank of Kuwait,False
+Marketing / Brand / Comms,Fadi,Head of Digital Marketing & Innovation,Crédit Agricole Egypt,False
+Marketing / Brand / Comms,Marian,"Head of Marketing, Development & Innovation",Crédit Agricole Egypt,True
+Marketing / Brand / Comms,Zafar,Head of Marketing Services,DIB,True
+Marketing / Brand / Comms,Syed,"Head of Marketing Services, Social Media & Insights",DIB,True
+Marketing / Brand / Comms,Sara,Head of Digital Marketing,EBANK,True
+Marketing / Brand / Comms,Karim,"Head of Liabilities, Retail Banking and Marketing",EBANK,False
+Marketing / Brand / Comms,Nelly,"Chief Officer Marketing, Youth Segment Services & Financial Inclusion",EGBANK,True
+Marketing / Brand / Comms,Khadiga,Head of Marketing Communication,EGBANK,True
+Marketing / Brand / Comms,Khairl,Head of Marketing,Emirates Islamic,True
+Marketing / Brand / Comms,Yomna,Business Marketing Head,Emirates NBD,True
+Marketing / Brand / Comms,Aya,"Director of Marketing, PR and Corporate Communication",Emirates NBD,True
+Marketing / Brand / Comms,Sachin,Group Head of Marketing | Customer Intelligence & RBWM Strategy,Emirates NBD,True
+Marketing / Brand / Comms,Bashayer,Head of Brand,Emirates NBD,True
+Marketing / Brand / Comms,Aamir,Head of Business Marketing - Retail Banking,Emirates NBD,True
+Marketing / Brand / Comms,Sameer,"Head of Business Marketing, Products",Emirates NBD,True
+Marketing / Brand / Comms,Mai,Head of Corporate Marketing,Emirates NBD,True
+Marketing / Brand / Comms,Benjamin,Head of Digital Marketing & GenAI,Emirates NBD,True
+Marketing / Brand / Comms,Vivek,Head of Digital Marketing & Social Media,Emirates NBD,False
+Marketing / Brand / Comms,Arif,Head of Emirates Islamic Business Marketing,Emirates NBD,True
+Marketing / Brand / Comms,Saleh,Head of Marketing & Corporate Communications KSA,Emirates NBD,True
+Marketing / Brand / Comms,Faisal,Head of Marketing KSA,Emirates NBD,False
+Marketing / Brand / Comms,Gasser,Marketing Technology & Digital Acquisition Head,Emirates NBD,True
+Marketing / Brand / Comms,Abeer,Head of Private Banking Marketing,FGB,False
+Marketing / Brand / Comms,Mahmoud,Acting Head of Marketing Department,Faisal Islamic Bank of Egypt,True
+Marketing / Brand / Comms,Fadi,Marketing Director,First Abu Dhabi Bank (FAB),True
+Marketing / Brand / Comms,Yostina,Marketing Senior Associate Director,First Abu Dhabi Bank Misr (FABMISR),True
+Marketing / Brand / Comms,Sara,Marketing Manager - Art Director,Gulf Bank,True
+Marketing / Brand / Comms,Zahra,Head of Marketing,Kuwait Finance House,True
+Marketing / Brand / Comms,Mona,Group Head of Marketing & Corporate Communications,Mashreq,False
+Marketing / Brand / Comms,Chandrama,Head of Marketing,Mashreq,True
+Marketing / Brand / Comms,Hamad,Head of Retail Marketing,National Bank of Bahrain,True
+Marketing / Brand / Comms,Ashraf,Head of Digital Marketing,National Bank of Egypt (NBE),True
+Marketing / Brand / Comms,Yasmine,"Marketing Director, General Manager of Marketing Development; National Bank of Egypt",National Bank of Egypt (NBE),True
+Marketing / Brand / Comms,Sandeep,Head of Sales and Marketing,National Bank of Fujairah (NBF),True
+Marketing / Brand / Comms,Mohd,Head of Strategic Marketing & Communications,National Bank of Fujairah (NBF),True
+Marketing / Brand / Comms,Dalia,Head of Marketing,National Bank of Kuwait,False
+Marketing / Brand / Comms,Abdulaziz,Head of Marketing Planning & Campaign Management,National Bank of Kuwait,True
+Marketing / Brand / Comms,Neil,SVP Head of Marketing / Products / Segments,National Bank of Kuwait,True
+Marketing / Brand / Comms,Sherifa,Head of Brand,National Bank of Oman,True
+Marketing / Brand / Comms,Sara,Head of Brand Marketing,Oman Arab Bank,True
+Marketing / Brand / Comms,Bassem,Commercial and Marketing Director,QNB Egypt,True
+Marketing / Brand / Comms,Mohammad,Senior Vice President & Head - Marketing & Creative Services,RAKBANK,True
+Marketing / Brand / Comms,Suha,Sales and Marketing Head Office,SAB,True
+Marketing / Brand / Comms,Abdulkarim,Marketing and Communication Director,STC Bank,True
+Marketing / Brand / Comms,Wafa,Head of Marketing - Brand Equity & Business Marketing,Sharjah Islamic Bank,True
+Marketing / Brand / Comms,Jailan,Head of Branding and Marketing Communications,Suez Canal Bank,True
+Marketing / Brand / Comms,Hani,Head of Marketing,The Saudi Investment Bank,True
+Marketing / Brand / Comms,Sarah,Head of Digital Marketing & Analytics,The Saudi National Bank - SNB,True
+Marketing / Brand / Comms,Adel,Head of Marketing,The Saudi National Bank - SNB,False
+Marketing / Brand / Comms,Abdulla,Head of Marketing and Communications,United Arab Bank,True
+Marketing / Brand / Comms,Archana,"Head of Marketing, Wio Bank",Wio Bank,False
+Marketing / Brand / Comms,Abdulraouf,Executive Director of Marketing,alinma,True
+Marketing / Brand / Comms,Meshaal,Head of Digital Marketing,alinma,False
+Marketing / Brand / Comms,Aldanah,Head of Marketing Communications,alinma,False
+Marketing / Brand / Comms,Mohammed,Head of Digital Marketing,alrajhi bank,True
+Marketing / Brand / Comms,Abdulaziz,Head of Marketing Communication,alrajhi bank,False
+Marketing / Brand / Comms,Ohood,Marketing Director,alrajhi bank,False
+Marketing / Brand / Comms,Mohammed,Marketing Senior Director,alrajhi bank,True
+Marketing / Brand / Comms,Amr,Head of Marketing and Corporate Communication,saib,True
+Marketing / Brand / Comms,Mohamed,Head of Marketing and Customer Communication,saib,True
+Marketing / Brand / Comms,Abdullah,Head of Marketing and Investrors Relation,saib,True
+Marketing / Brand / Comms,Omar,Head of Marketing Communications,بنك التعمير والإسكان HD Bank,True
+Marketing / Brand / Comms,Dalia,Marketing Communication & PR Director,بنك التعمير والإسكان HD Bank,False
+Product / Segments / Affluent,Samih,Acting Global Head of Retail Banking Group - Abu Dhabi Islamic Bank,ADIB - Abu Dhabi Islamic Bank,True
+Product / Segments / Affluent,Tarek,Business Head - Assets and Coverage (adib@work) - Retail Banking,ADIB - Abu Dhabi Islamic Bank,False
+Product / Segments / Affluent,Shihab,Deputy Head of Retail Banking,ADIB - Abu Dhabi Islamic Bank,False
+Product / Segments / Affluent,Amit,Global Head of Retail Banking / Chairman Adimac and ADIB Securities / Board Member ADIB Capital,ADIB - Abu Dhabi Islamic Bank,True
+Product / Segments / Affluent,Bilal,"Head of Coverage UAE, Adib@work, Retail Banking Group",ADIB - Abu Dhabi Islamic Bank,False
+Product / Segments / Affluent,Hind,"Head of Operation, Retail Banking",ADIB - Abu Dhabi Islamic Bank,False
+Product / Segments / Affluent,Kamran,Head of Retail Banking Platforms,ADIB - Abu Dhabi Islamic Bank,True
+Product / Segments / Affluent,Basit,Head of Wealth Management,ADIB - Abu Dhabi Islamic Bank,True
+Product / Segments / Affluent,Abdulkarim,Head-Islamic Retail Products -Retail Banking Group,Abu Dhabi Commercial Bank,True
+Product / Segments / Affluent,Mai,Head of Cards Business & Digital Lending,Abu Dhabi Commercial Bank - Egypt,False
+Product / Segments / Affluent,Ahmed,"Head of Retail Banking Sales, Delta Region",Agricultural Bank of Egypt,False
+Product / Segments / Affluent,Munirah,Head of Segments,Al Ahli Bank of Kuwait,False
+Product / Segments / Affluent,Ahmad,Head of Wealth Management Operations,Al Ahli Bank of Kuwait,False
+Product / Segments / Affluent,Mohsen,Head of Segments,Al Ahli Bank of Kuwait - Egypt,False
+Product / Segments / Affluent,Iman,Senior Vice President - Head of Retail Banking Division,Al Ahli Bank of Kuwait - Egypt,True
+Product / Segments / Affluent,Ali,Head of Segments,Al Baraka Bank Egypt,False
+Product / Segments / Affluent,Eng,Acting AGM-Head of Retail Banking Products & Segments,Alawwal Bank,False
+Product / Segments / Affluent,Rayan,Head of Affluent Banking,Aljazira Bank | بنك الجزيرة,False
+Product / Segments / Affluent,Mohammed,Head of Retail Banking Group,Aljazira Bank | بنك الجزيرة,True
+Product / Segments / Affluent,Marwan,Head of Wealth Management Development,Aljazira Bank | بنك الجزيرة,False
+Product / Segments / Affluent,Mark,Head of Customer Segments & Value Management,Arab African International Bank,False
+Product / Segments / Affluent,Haitham,"General Manager, Head of Retail Banking Group",Arab International Bank,True
+Product / Segments / Affluent,Aiedh,Acting Head of Retail Banking Group,Arab National Bank,True
+Product / Segments / Affluent,Ali,"Head, Lending Portfolios Management Retail Banking",Arab National Bank,True
+Product / Segments / Affluent,Shereen,Head of Segments,Attijariwafa bank Egypt,True
+Product / Segments / Affluent,Nijam,Head of BBK Lite - Retail Banking,BBK (Bank of Bahrain and Kuwait),False
+Product / Segments / Affluent,Mashhor,Head of Retail Banking,BSF,True
+Product / Segments / Affluent,Mohamed,Group Head of Retail Banking,Bank ABC,True
+Product / Segments / Affluent,Ramy,Head of Liabilities - Retail Banking,Bank ABC,True
+Product / Segments / Affluent,Khaled,Loans Head | Collection Departement | Retail Banking,Bank ABC,True
+Product / Segments / Affluent,Manish,"Head Segments Support & Retail Investments Products, Personal Banking",Bank Muscat,True
+Product / Segments / Affluent,Hazem,GM-Head of Segments and Wealth Management,Bank NXT,True
+Product / Segments / Affluent,Nahla,Head of Database Mining & Segmentation - Retail Banking Group,Banque Misr,True
+Product / Segments / Affluent,Nehal,Head of Retail Banking Division and Government Initiatives,Banque Misr,True
+Product / Segments / Affluent,Mohamed,Head of Retail Banking and Microfinance,Banque du Caire,True
+Product / Segments / Affluent,Ahmed,Head of Segments and Payroll,Banque du Caire,True
+Product / Segments / Affluent,Madhur,"Head - Cards, Digital Payments and Remittance",Boubyan Bank,True
+Product / Segments / Affluent,Shireen,Head of Segments,Burgan Bank,False
+Product / Segments / Affluent,Ahmed,Director - Head of Retail Transformation - Retail Banking,CIB Egypt,True
+Product / Segments / Affluent,Amr,Head of Deposits & Investments | CIB Retail Banking,CIB Egypt,True
+Product / Segments / Affluent,Mariam,Products Head - Digital Factory,CIB Egypt,True
+Product / Segments / Affluent,Hassanain,Head of Retail Banking Group,Commercial Bank International,True
+Product / Segments / Affluent,Lamia,Head of Liability Products - Retail Banking,Commercial Bank of Dubai,False
+Product / Segments / Affluent,Venkat,Head of Wealth Management,Commercial Bank of Dubai,False
+Product / Segments / Affluent,Biju,Head of Business Development [ Cards & Digital Payments ],Commercial Bank of Kuwait,True
+Product / Segments / Affluent,Ritesh,Head of Consumer Finance- Retail Banking and Wealth Management,DIB,True
+Product / Segments / Affluent,Talal,Head of Wealth Management,DIB,True
+Product / Segments / Affluent,Hassaan,"Head of Products, Digital & Personal Banking",Emirates Islamic,True
+Product / Segments / Affluent,Mohamed,Head of Retail Banking & Wealth Management,Emirates Islamic,True
+Product / Segments / Affluent,Saquib,"Head of Sales - Retail Liabilities, Multi-Products & Employee Banking",Emirates Islamic,True
+Product / Segments / Affluent,Rony,Head of Wealth Management Advisory,Emirates Islamic,True
+Product / Segments / Affluent,Maha,D Retail Banking Head,Emirates NBD,True
+Product / Segments / Affluent,Carlos,"Digital Tribe Head, Wealth Management & Private Banking",Emirates NBD,True
+Product / Segments / Affluent,Marwan,Group Head Retail Banking & Wealth Management,Emirates NBD,True
+Product / Segments / Affluent,Saima,"Group Head of RBWM International, Abu Dhabi and Retail Banking Sales",Emirates NBD,False
+Product / Segments / Affluent,Arun,Head of Finance - Retail Banking & Wealth Management,Emirates NBD,True
+Product / Segments / Affluent,Rajesh,"Head of Finance- Wealth, Private Banking & Digital",Emirates NBD,True
+Product / Segments / Affluent,Aju,Head of Retail Banking & Wealth Management Sales,Emirates NBD,True
+Product / Segments / Affluent,Alanoud,Head of Retail and Private Banking - Retail Banking and Wealth Managment,Emirates NBD,False
+Product / Segments / Affluent,Raed,Head of Wealth Management,Emirates NBD,True
+Product / Segments / Affluent,Rai,"Senior Director - Regional Head, Western Region - Retail Banking and Wealth Management",Emirates NBD,True
+Product / Segments / Affluent,Gourab,"VP and Head - Analytics and Market Research, Retail Banking and Wealth Management",Emirates NBD,True
+Product / Segments / Affluent,Vishwas,Head – Wealth Management & Retail Digital,Finance House,False
+Product / Segments / Affluent,Mark,Group Head of Wealth Management,Gulf International Bank,True
+Product / Segments / Affluent,Haytham,General Manager Head of Segments & Wealth Management,Industrial Development Bank - IDB,False
+Product / Segments / Affluent,Ibrahim,Head of Retail Banking,Industrial Development Bank - IDB,False
+Product / Segments / Affluent,Farah,Acting Head of Retail Banking,Invest Bank,True
+Product / Segments / Affluent,Abdulaziz,AGM-Retail Banking - Head of Sales & Distribution Channels,KIB,True
+Product / Segments / Affluent,Ahmad,Head of Business Improvement Corporate & Retail Banking,Kuwait Finance House,True
+Product / Segments / Affluent,Khalid,Head of Retail Banking Group,Kuwait Finance House,True
+Product / Segments / Affluent,Ahmed,Head of Segments,Kuwait Finance House,True
+Product / Segments / Affluent,Naser,Head of Wealth Management,Kuwait Finance House,True
+Product / Segments / Affluent,Mahmoud,Head of Retail Banking,MIDBANK,True
+Product / Segments / Affluent,Fernando,Global Head of Retail Banking,Mashreq,True
+Product / Segments / Affluent,Raj,Head of BB Product and Digital,Mashreq,True
+Product / Segments / Affluent,Jaime,Head of Retail Banking Technology,Mashreq,False
+Product / Segments / Affluent,Nzaar,"Head of Retail Liabilities, Digital Deposits and Priority Banking Products & Proposition",Mashreq,True
+Product / Segments / Affluent,Ali,Group Head of Wealth Management,National Bank of Bahrain,True
+Product / Segments / Affluent,Shadi,"Head of Card Business, Retail Banking",National Bank of Bahrain,True
+Product / Segments / Affluent,Ahmed,Head of Product Development & Project Management - Retail Banking,National Bank of Bahrain,False
+Product / Segments / Affluent,Fouad,Manager - Head of Retail Banking & Operations,National Bank of Bahrain,False
+Product / Segments / Affluent,Hazem,Head of Retail Banking,National Bank of Egypt (NBE),True
+Product / Segments / Affluent,Mostafa,Head of Segments Proposition,National Bank of Egypt (NBE),True
+Product / Segments / Affluent,Heidy,Head of Segments and Wealth Managment,National Bank of Egypt (NBE),True
+Product / Segments / Affluent,Abdulla,Head of Segments,National Bank of Fujairah (NBF),True
+Product / Segments / Affluent,Michael,"Head of International Products (Private & Retail Banking, MENA, Europe)",National Bank of Kuwait,False
+Product / Segments / Affluent,Mohamed,Head of National Sales Retail Banking - National Bank of Kuwait - Egypt,National Bank of Kuwait,False
+Product / Segments / Affluent,Sultan,Head of Retail Banking,National Bank of Kuwait,True
+Product / Segments / Affluent,Maha,Head of Segments,National Bank of Kuwait,True
+Product / Segments / Affluent,Ahmed,Head of Wealth Management Operations,National Bank of Kuwait,False
+Product / Segments / Affluent,Hazm,Head - Digital Payments & Cards Services,National Bank of Oman,False
+Product / Segments / Affluent,Jayaprakash,Head of Operation & Act Head Retail Banking,National Bank of Oman,False
+Product / Segments / Affluent,Salim,Head of Retail Banking - Muzn Islamic Banking,National Bank of Oman,True
+Product / Segments / Affluent,Mohammed,Head of Segments and Propositions,National Bank of Oman,False
+Product / Segments / Affluent,Rajeev,Head of Wealth Management and Investments,National Bank of Oman,True
+Product / Segments / Affluent,Maha,Executive Assitant of Head of Retail Banking,Oman Arab Bank,True
+Product / Segments / Affluent,Marwa,Head of Retail Banking,QNB Egypt,False
+Product / Segments / Affluent,Ritu,Head - Retail Banking Strategy and Planning,RAKBANK,True
+Product / Segments / Affluent,Srinivas,Head of Retail Customer Acquisition - Retail Banking Group,RAKBANK,True
+Product / Segments / Affluent,Nabeel,Head of Wealth Management & Customer Segments,RAKBANK,True
+Product / Segments / Affluent,Marwan,Head of Retail Banking & Wealth Management Business Finance,SAB,True
+Product / Segments / Affluent,Badr,Head of Wealth Management,SAB,True
+Product / Segments / Affluent,Kris,Head of Wealth Management,SAB,True
+Product / Segments / Affluent,Karim,Retail Banking Head- Commercial Banking,STC Bank,False
+Product / Segments / Affluent,Ritessh,Head of Consumer Finance- Retail Banking and Wealth Management,Sharjah Islamic Bank,True
+Product / Segments / Affluent,Jassem,Head of Retail Banking and Chairman Sharjah Tatweer Forum,Sharjah Islamic Bank,True
+Product / Segments / Affluent,Hussam,Head of Wealth Management Products,Sharjah Islamic Bank,True
+Product / Segments / Affluent,Sheikha,Center Head - Wealth Management,Sohar International,True
+Product / Segments / Affluent,Nasser,Head of Islamic Retail Banking,Sohar International,True
+Product / Segments / Affluent,Khaldoon,Head of Wealth Management,Sohar International,True
+Product / Segments / Affluent,Ehab,"First General Manager, Head of Retail Banking Group.",Suez Canal Bank,True
+Product / Segments / Affluent,Ahmed,Head of Products - Retail Banking,Suez Canal Bank,False
+Product / Segments / Affluent,Nagham,Head of Retail Banking,Suez Canal Bank,True
+Product / Segments / Affluent,Raymond,"Group Head, Retail Banking",The Saudi Investment Bank,True
+Product / Segments / Affluent,Sushant,Head Retail Banking Sales,United Arab Bank,True
+Product / Segments / Affluent,Devvrat,Head of Segments - Trade,Wio Bank,True
+Product / Segments / Affluent,Said,Head of Real Estate Business Products - Retail Banking,alrajhi bank,False
+Product / Segments / Affluent,Karim,Head of Retail Banking,saib,True
+Product / Segments / Affluent,Mohamed,Head of Segments,saib,True
+Product / Segments / Affluent,Sandra,Head of Segments Acquisition,saib,True
+Product / Segments / Affluent,Mohamed,Head of Retail Banking Propositions,بنك التعمير والإسكان HD Bank,True
