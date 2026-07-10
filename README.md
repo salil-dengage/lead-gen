@@ -35,12 +35,12 @@ Director / VP / GM and above) in one of these buyer families, and trips zero exc
 | File | What it is |
 |------|------------|
 | `Gulf_Egypt_Bank_Universe_Status.csv` | The complete 108-bank account universe (GCC+Egypt) with Zoho status: in-Zoho / created / flagged. Authoritative account layer. |
-| `Gulf_Banks_ICP_Personas_Verified.csv` | The verified persona set: 338 personas across 90/108 banks, max 10 per account, 0 duplicates. Columns: Account, Country, Persona_Role, First_Name, Title, Has_Email. Last names are masked pre-enrichment. |
-| `PERSONA_COVERAGE.md` | Coverage report: personas per country and per bank, role distribution, and the 18 banks with no persona yet (with reasons). |
+| `Gulf_Banks_ICP_Personas_Verified.csv` | The verified persona set: 346 personas across 99/108 banks, max 10 per account, 0 duplicates. Columns: Account, Country, Persona_Role, First_Name, Title, Has_Email, Seniority_Note. Last names are masked pre-enrichment. |
+| `PERSONA_COVERAGE.md` | Coverage report: personas per country and per bank, role distribution, and the 9 banks with no persona (with evidence-based reasons). |
 
 ## Status
 - ✅ Account layer complete — 108-bank universe reconciled; missing banks created in Zoho.
-- ✅ Persona sourcing complete — 338 verified business-buyer personas (search only; masked).
+- ✅ Persona sourcing complete — 346 verified business-buyer personas across 99/108 banks (search only; masked).
 - ⏸️ Enrichment **gated** — email/phone enrichment (Apollo lead credits) and Zoho/Apollo write-back
   run only after this persona file is approved.
 
