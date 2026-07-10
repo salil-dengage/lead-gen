@@ -1,28 +1,24 @@
 # Gulf + Egypt Banking ICP — Verified Persona Coverage
 
-**325 verified personas** across **90/108** banks (max 10 per account, 0 duplicates).
+**336 verified personas** across **95/108** banks (max 10 per account, 0 duplicates).
 
 Source: Apollo people search (masked, pre-enrichment) filtered through a strict business-buyer
-classifier (marketing, digital/digital-banking, CX, CRM, loyalty/CVM, personalization/engagement,
-cards-marketing). Excludes sales/BD, customer service/care/contact-centre, affluent/wealth/private,
-SME/corporate/wholesale, all technology/IT/security/PMO, credit/risk/collections-adjacent wording
-(e.g. "attrition", "indemnities", "outbound"), thin/support-flavored titles with no marketing or
-strategy anchor, and junior/assistant roles. Verified in two independent passes: the builder's own
-pass, then a from-scratch adversarial audit with no shared context, whose findings were individually
-adjudicated against the raw source record and the agreed spec.
+classifier. Verified in multiple independent passes, including a full re-audit of every
+previously-"uncovered" bank against Apollo's own organization records (not assumptions) after
+the client correctly challenged the plausibility of 18 banks having zero relevant personas.
 
 ## Coverage by country
 
 | Country | Banks covered | Personas |
 |---|---|---|
-| UAE | 22/24 | 75 |
-| KSA | 11/13 | 57 |
+| UAE | 23/24 | 76 |
+| KSA | 12/13 | 58 |
 | Kuwait | 9/10 | 26 |
 | Qatar | 8/10 | 19 |
 | Bahrain | 7/10 | 20 |
 | Oman | 7/8 | 24 |
-| Egypt | 26/33 | 104 |
-| **Total** | **90/108** | **325** |
+| Egypt | 29/33 | 113 |
+| **Total** | **95/108** | **336** |
 
 ## Personas per bank
 
@@ -49,6 +45,7 @@ adjudicated against the raw source record and the agreed spec.
 | Wio Bank | UAE | 2 |
 | Zand Bank | UAE | 1 |
 | Al Maryah Community Bank | UAE | 2 |
+| Deem Finance | UAE | 1 |
 | Finance House | UAE | 2 |
 | Al Rajhi Bank | KSA | 6 |
 | Saudi National Bank | KSA | 9 |
@@ -61,6 +58,7 @@ adjudicated against the raw source record and the agreed spec.
 | Alinma Bank | KSA | 6 |
 | Saudi Investment Bank | KSA | 1 |
 | STC Bank | KSA | 1 |
+| D360 Bank | KSA | 1 |
 | National Bank of Kuwait | Kuwait | 8 |
 | Kuwait Finance House | Kuwait | 2 |
 | Burgan Bank | Kuwait | 2 |
@@ -118,80 +116,70 @@ adjudicated against the raw source record and the agreed spec.
 | Attijariwafa Bank Egypt | Egypt | 3 |
 | Egyptian Arab Land Bank | Egypt | 1 |
 | The United Bank | Egypt | 1 |
+| HSBC Egypt | Egypt | 2 |
+| Arab Bank Egypt | Egypt | 6 |
+| Ahli United Bank Egypt | Egypt | 1 |
 
 ## Persona role distribution
 
 | Persona role | Count |
 |---|---|
-| Digital / Digital Banking | 114 |
-| Marketing / Brand | 100 |
-| Customer Experience | 42 |
-| Digital Marketing / Growth | 20 |
-| Loyalty / CVM / Retention | 18 |
+| Digital / Digital Banking | 116 |
+| Marketing / Brand | 102 |
+| Customer Experience | 45 |
+| Digital Marketing / Growth | 22 |
+| Loyalty / CVM / Retention | 19 |
 | Digital Channels / Products | 15 |
 | MarTech / Campaigns | 8 |
-| CRM | 6 |
+| CRM | 7 |
 | Cards / Payments (marketing) | 1 |
 | Personalization / Engagement | 1 |
 
-**Work email present (pre-enrichment):** 244/325 (75%)
+**Work email present (pre-enrichment):** 249/336 (74%)
 
-## Banks with no persona yet (18)
+## Re-audit: why the earlier "18 uncovered banks" claim was wrong
 
-Not a data-quality gap; these have no relevant senior marketing/digital/CX profile discoverable on Apollo, or are covered under a parent group / deliberately skipped.
+The client correctly rejected the earlier finding that 18 banks had zero relevant personas —
+several of these are large institutions where that is implausible. Re-investigation using
+Apollo's Organization Search/Enrichment API (not domain guesses) found the earlier searches had
+missed real people at 5 banks, for two distinct root causes:
 
-| Bank | Country | Reason |
+1. **Broken domain-to-org mapping in Apollo.** `hsbc.com.eg` was tagged in Apollo to an unrelated
+   small creative agency, not the real HSBC Egypt entity. `arabbank.com.eg` was tagged to an
+   unrelated 2-person "ATM" stub. Both real entities exist in Apollo under their global parent
+   org (HSBC, Arab Bank) — searching there with an Egypt location filter surfaced real people.
+2. **No domain indexed at all.** Ahli United Bank Egypt has a real Apollo org record with real
+   employees but no domain attached, so any domain-based search silently returned nothing.
+3. **Title list too narrow.** D360 Bank and Deem Finance both have real, sizeable marketing
+   departments in Apollo (5 and 31 people respectively) that a specific-title-list search missed;
+   a broader senior-level search (no title restriction) found them.
+
+**Recovered as a result:** HSBC Egypt (2), Arab Bank Egypt (6), D360 Bank (1), Ahli United Bank
+Egypt (1, and its name corrected from a leftover "Nbd?" data artifact), Deem Finance (1).
+
+## Banks with no persona (13) — each individually re-verified against Apollo's own data
+
+| Bank | Country | Evidence-based reason |
 |---|---|---|
-| Dubai First | UAE | Niche cards/consumer-finance unit; no relevant senior profile |
-| Deem Finance | UAE | Small consumer lender; no relevant senior profile |
-| Gulf International Bank KSA | KSA | Same group/domain as Gulf International Bank (Bahrain) — covered there |
-| D360 Bank | KSA | New Saudi digital bank; sparse Apollo presence |
-| Industrial Bank of Kuwait | Kuwait | Specialised/development bank; no relevant profile |
-| Commercial Bank (Qatar) | Qatar | Only 1 senior profile on Apollo, non-marketing |
-| Qatar International Islamic Bank | Qatar | Only cards-business profile (excluded) |
-| Ithmaar Bank | Bahrain | 23 senior profiles, none marketing/digital/CX |
-| Khaleeji Bank | Bahrain | Small Islamic bank; no relevant profile |
-| Bahrain Development Bank | Bahrain | Development bank, non-retail |
-| Ahli Bank Oman | Oman | No senior profile returned on Apollo |
-| Credit Agricole Egypt | Egypt | Deliberately skipped (per instruction) |
-| Kuwait Finance House Egypt | Egypt | Distinct Egypt domain (eg.kfh.com) searched directly — Apollo returned zero profiles under it |
-| Emirates NBD Egypt | Egypt | Distinct Egypt domain (emiratesnbd.com.eg) searched directly — Apollo returned zero profiles under it |
-| HSBC Egypt | Egypt | Distinct Egypt domain (hsbc.com.eg) searched directly — Apollo returned zero profiles under it |
-| Arab Bank Egypt | Egypt | Distinct Egypt domain (arabbank.com.eg) searched directly — Apollo returned zero profiles under it |
-| Nbd? Ahli United Bank Egypt | Egypt | Distinct Egypt domain (ahliunited.com.eg) searched directly — Apollo returned zero profiles under it |
-| Arab Banking Corporation Egypt | Egypt | Same domain as Bank ABC (Bahrain) — covered there |
+| Dubai First | UAE | Re-searched directly: 45 senior/manager profiles returned, 100% sales/relationship-management/collections/IT/HR/compliance — no marketing or digital role exists in Apollo's index for this entity |
+| Gulf International Bank KSA | KSA | Confirmed same Apollo org/domain (gib.com) as Gulf International Bank (Bahrain) — same entity, already covered there |
+| Industrial Bank of Kuwait | Kuwait | Not indexed in Apollo at all (domain lookup returns no organization record) |
+| Commercial Bank (Qatar) | Qatar | Apollo's org record shows only 23 employees indexed company-wide (marketing=0) — genuinely sparse, confirmed via direct organization enrichment |
+| Qatar International Islamic Bank | Qatar | Re-searched directly: 6 senior profiles (risk, compliance, SME, bancassurance, CFO) — no marketing/digital/CX role surfaced despite Apollo showing 3 marketing employees company-wide (likely below Head/Director seniority) |
+| Ithmaar Bank | Bahrain | Re-searched directly: 6 senior profiles (CEO, CFO, audit, treasury, HR, corporate banking) — Apollo confirms a real 230-employee org but 0 marketing headcount |
+| Khaleeji Bank | Bahrain | Not indexed in Apollo at all (domain lookup returns no organization record) |
+| Bahrain Development Bank | Bahrain | Re-searched directly: 15 senior profiles, all compliance/SME/IT/treasury/audit/sharia/risk — this is a state-owned SME development bank (70% of Bahrain's SME financing); Apollo shows 3 marketing employees but none senior enough to surface, and the bank's core business (SME lending) sits outside the agreed retail-banking ICP scope regardless |
+| Ahli Bank Oman | Oman | Apollo's org record shows only 1 employee indexed company-wide — genuinely unindexed, not a search miss |
+| Credit Agricole Egypt | Egypt | Deliberately skipped (per explicit instruction) |
+| Kuwait Finance House Egypt | Egypt | Re-searched directly with an Egypt location filter against the KFH Group org: 36 profiles, all customer-service/teller/treasury/PMO/IT/credit-risk/corporate-banking — no Egypt-specific marketing/digital/CX lead found (KFH Group personas are already captured under Kuwait Finance House) |
+| Emirates NBD Egypt | Egypt | Apollo's org record is correctly tagged and complete (190 employees) but shows 0 marketing headcount; the org's own description confirms this subsidiary is wholesale/corporate-banking only ("focusing on wholesale and corporate banking... serves corporate and institutional clients") — out of the agreed retail-banking ICP scope independent of the Apollo data |
+| Arab Banking Corporation Egypt | Egypt | Confirmed same Apollo org/domain (bank-abc.com) as Bank ABC (Bahrain) — same entity, already covered there |
 
-## Independent re-verification (this pass)
+## Prior re-verification (independent adversarial audit)
 
-An independent audit agent (zero context on how this file was built) re-checked it against the
-strict spec across 5 dimensions: exact bank-name matching, per-account/per-role caps, duplicates,
-title relevance, and seniority. Coverage, cap, and duplicate checks all came back clean and exactly
-matched the numbers already in this report. It flagged 15 titles as function-mismatch risks and 12
-as sitting below/ambiguous against the seniority bar. The builder independently re-read all 338
-titles from scratch and separately flagged 5 titles. Every flagged item (18 distinct, after merging
-overlaps) was individually adjudicated against the raw Apollo source record and the agreed spec:
+An earlier independent audit pass (no context on how the file was built) re-checked coverage,
+caps, duplicates, title relevance, and seniority. 13 titles were confirmed as real leakage
+(IT/PMO/collections-risk/contact-centre functions disguised in digital or marketing language) and
+removed; the remainder were reviewed and kept as legitimate judgment calls. Full detail in the
+prior version of this report (see git history).
 
-- **13 removed** (confirmed real leakage): a Scrum-Master/agile-delivery title wrapped in "Digital
-  Experience" language, a "CRM Applications" systems-ownership title, an unqualified "Cards
-  Business" P&L role, an "Insurance Business" product-line role, 2 CRM/digital titles where
-  "Technology"/"Process Automation" was the core noun, 2 "attrition/indemnities"-worded retention
-  titles (credit-risk/collections-adjacent), 1 "Outbound" retention title (telesales/contact-centre),
-  1 SME-advisory "non-financial products" title at a development bank, 1 bare "Insights" title with
-  no CX/Loyalty/Marketing qualifier, 1 "Office Manager"-led title, 1 "Change, Projects"-led title
-  (PMO), and 1 "Head of Digital Support" title (too thin/support-flavored, no strategy anchor).
-- **Reviewed and kept** as legitimate judgment calls: titles where the flagged word (Insights, Change
-  Management, Digital Projects, Salesforce) was a secondary modifier on an unambiguous leading
-  function (Customer Experience, Loyalty, Alternative Channels, CRM Head); AGM/AVP/Senior
-  Manager/Deputy-Head-prefixed titles that explicitly read "Head of <legit function>" (a senior-
-  management prefix doesn't disqualify an explicit Head-of-function clause, per the agreed rule);
-  and "Acting Head of X" titles (interim status, not a relevance or seniority failure).
-- The 3 cross-account first-name+title coincidences flagged by the audit (e.g. two different
-  "Hassan, Head of Digital Banking" at two different banks) were confirmed as distinct Apollo
-  person IDs by cross-checking source records — not data errors.
-- Two accounts (Riyad Bank, Burgan Bank) auto-backfilled a replacement from the existing candidate
-  pool when a persona was removed; each replacement was itself re-checked (one further replacement,
-  "Head of Digital Support", was also removed as too thin/ambiguous, with no further backfill left).
-
-Final count after this pass: **325 personas across 90/108 banks** (down from the
-original 338/90 before this re-verification; coverage of accounts is unchanged — no bank lost its
-last remaining persona).
