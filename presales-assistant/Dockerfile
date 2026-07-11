@@ -1,21 +1,21 @@
 # Single Fly.io app: builds the React frontend, then the Express API,
 # then serves the frontend's static build from the same process.
 
-FROM node:20-alpine AS web-build
+FROM node:22-alpine AS web-build
 WORKDIR /app/web
 COPY web/package.json web/package-lock.json* ./
 RUN npm install
 COPY web/ ./
 RUN npm run build
 
-FROM node:20-alpine AS server-build
+FROM node:22-alpine AS server-build
 WORKDIR /app/server
 COPY server/package.json server/package-lock.json* ./
 RUN npm install
 COPY server/ ./
 RUN npm run build
 
-FROM node:20-alpine
+FROM node:22-alpine
 WORKDIR /app
 ENV NODE_ENV=production
 COPY --from=server-build /app/server/package.json ./package.json
