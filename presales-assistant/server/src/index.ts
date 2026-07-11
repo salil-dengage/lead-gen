@@ -22,6 +22,23 @@ app.use("/api/conversations", conversationsRouter);
 
 app.get("/api/health", (_req, res) => res.json({ ok: true }));
 
+// Fix for Fly.io's GitHub-launch flow (and any deploy path that doesn't
+// support passing --build-arg): the frontend previously needed
+// VITE_SUPABASE_URL/VITE_SUPABASE_ANON_KEY baked in at Docker build time,
+// which that UI has no field for. Instead, serve them as a small runtime
+// script the index.html loads before the app bundle, read from ordinary
+// runtime env vars, same as every other secret in this app. The anon key
+// is safe to expose to the browser by design (Supabase RLS is the actual
+// gate), this is standard practice, not a leak.
+app.get("/env.js", (_req, res) => {
+  res.type("application/javascript").send(
+    `window.__ENV__ = ${JSON.stringify({
+      SUPABASE_URL: env.supabaseUrl(),
+      SUPABASE_ANON_KEY: env.supabaseAnonKey(),
+    })};`,
+  );
+});
+
 // Serve the built frontend (see Dockerfile: web/dist is copied to
 // STATIC_DIR) so the whole app is a single Fly.io service.
 const staticDir = process.env.STATIC_DIR ?? path.join(__dirname, "../../web/dist");

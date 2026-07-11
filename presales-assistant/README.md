@@ -53,17 +53,23 @@ Create a fine-grained personal access token with **Contents: Read-only** on
 # server
 cd server
 cp .env.example .env   # fill in SUPABASE_URL, SUPABASE_SERVICE_ROLE_KEY,
-                        # ANTHROPIC_API_KEY, GITHUB_TOKEN, ADMIN_EMAILS
+                        # SUPABASE_ANON_KEY, ANTHROPIC_API_KEY, GITHUB_TOKEN,
+                        # ADMIN_EMAILS
 npm install
 npm run dev             # listens on :8080
 
 # web (separate terminal)
 cd web
-echo "VITE_SUPABASE_URL=https://YOUR_PROJECT.supabase.co" > .env
-echo "VITE_SUPABASE_ANON_KEY=your-anon-key" >> .env
 npm install
-npm run dev              # Vite dev server, proxies /api to :8080
+npm run dev              # Vite dev server, proxies /api and /env.js to :8080
 ```
+
+No `web/.env` needed, the frontend gets its Supabase URL/anon key from the
+server at runtime via `/env.js` (proxied to the server in dev, served
+directly in production), not from Vite build-time env vars. That's
+deliberate: it means any deploy flow that only lets you set runtime
+environment variables (like Fly's "Launch an App from GitHub" UI, which has
+no field for Docker `--build-arg`) works without extra steps.
 
 Sign in with a d.engage email (magic link), then click **Index KB** in the
 header (requires your email to be in `ADMIN_EMAILS`). Ingestion pulls both
@@ -72,25 +78,36 @@ time since it's ~40 files.
 
 ## 4. Deploy to Fly.io
 
+Every value below is a plain runtime environment variable/secret, there are
+no Docker build args to pass, so this works equally well from the `fly` CLI
+or from Fly's "Launch an App from GitHub" dashboard flow.
+
+**Via the CLI:**
+
 ```bash
 fly launch --no-deploy --copy-config --name dengage-presales-assistant
 fly secrets set \
   SUPABASE_URL=https://YOUR_PROJECT.supabase.co \
   SUPABASE_SERVICE_ROLE_KEY=... \
+  SUPABASE_ANON_KEY=... \
   ANTHROPIC_API_KEY=sk-ant-... \
   GITHUB_TOKEN=ghp_... \
   ADMIN_EMAILS=rfp@dengage.com,salil@dengage.com \
   SERPER_API_KEY=...   # optional
 
-fly deploy \
-  --build-arg VITE_SUPABASE_URL=https://YOUR_PROJECT.supabase.co \
-  --build-arg VITE_SUPABASE_ANON_KEY=your-anon-key
+fly deploy
 ```
 
-`VITE_SUPABASE_URL` / `VITE_SUPABASE_ANON_KEY` are build-time (baked into the
-frontend bundle at build), everything else is a runtime secret. After the
-first deploy, sign in and click **Index KB** once to populate the knowledge
-base (there's no cron/webhook yet, see below).
+**Via the Fly dashboard "Launch an App from GitHub" flow:**
+
+- Working directory: `presales-assistant`
+- Config path: `presales-assistant/fly.toml`
+- Internal port: `8080`
+- Environment Variables: add `SUPABASE_URL`, `SUPABASE_SERVICE_ROLE_KEY`, `SUPABASE_ANON_KEY`, `ANTHROPIC_API_KEY`, `GITHUB_TOKEN`, `ADMIN_EMAILS`, and optionally `SERPER_API_KEY`.
+- Machine size: 512MB is a safer floor than the 256MB default given the Node runtime plus the Anthropic/Supabase clients, bump it if you see OOM restarts.
+
+After the first deploy, sign in and click **Index KB** once to populate the
+knowledge base (there's no cron/webhook yet, see below).
 
 ## Known gaps to close next
 
