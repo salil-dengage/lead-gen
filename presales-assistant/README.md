@@ -40,7 +40,7 @@ files, so it's one Fly.io service, not two.
 1. Create a project at https://supabase.com.
 2. In the SQL editor, run `supabase/migrations/0001_init.sql`.
 3. Settings > API: copy the **Project URL**, the **anon public key**, and the **service_role key**.
-4. Authentication > Providers: Email is enabled by default (magic link). Configure the site URL / redirect URLs to match your Fly.io app's domain once deployed.
+4. Authentication > Users > Add user: create one user per team member with an email + password, and check **Auto Confirm User** so no confirmation email is sent. The app uses password sign-in, not magic links, on purpose, Supabase's built-in email sender has a very low rate limit (often 2-4/hour on a free project) and magic links would hit it constantly with a small team hammering the login page. There's no self-service sign-up, accounts are admin-created only.
 
 ## 2. Set up GitHub access
 
@@ -71,10 +71,10 @@ deliberate: it means any deploy flow that only lets you set runtime
 environment variables (like Fly's "Launch an App from GitHub" UI, which has
 no field for Docker `--build-arg`) works without extra steps.
 
-Sign in with a d.engage email (magic link), then click **Index KB** in the
-header (requires your email to be in `ADMIN_EMAILS`). Ingestion pulls both
-`knowledge-base/` and `infosec/` from GitHub, this takes a minute the first
-time since it's ~40 files.
+Sign in with the email/password you created in step 1, then click **Index
+KB** in the header (requires your email to be in `ADMIN_EMAILS`). Ingestion
+pulls both `knowledge-base/` and `infosec/` from GitHub, this takes a minute
+the first time since it's ~40 files.
 
 ## 4. Deploy to Fly.io
 
