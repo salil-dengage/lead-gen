@@ -1,25 +1,24 @@
-app = "dengage-presales-assistant"
-primary_region = "iad"
+# fly.toml app configuration file generated for dengage-advisor on 2026-07-11T12:01:13Z
+#
+# See https://fly.io/docs/reference/configuration/ for information about how to use this file.
+#
+
+app = 'dengage-advisor'
+primary_region = 'iad'
 
 [build]
 
 [env]
-  PORT = "8080"
+  PORT = '8080'
 
 [http_service]
   internal_port = 8080
   force_https = true
-  auto_stop_machines = "stop"
+  auto_stop_machines = 'stop'
   auto_start_machines = true
   min_machines_running = 1
 
 [[vm]]
-  cpu_kind = "shared"
+  cpu_kind = 'shared'
   cpus = 1
   memory_mb = 512
-
-# Secrets are NOT set here. Set them with:
-#   fly secrets set SUPABASE_URL=... SUPABASE_SERVICE_ROLE_KEY=... \
-#     ANTHROPIC_API_KEY=... GITHUB_TOKEN=... ADMIN_EMAILS=...
-# VITE_SUPABASE_URL / VITE_SUPABASE_ANON_KEY are build-time (baked into the
-# frontend bundle), pass them with --build-arg on `fly deploy`.
