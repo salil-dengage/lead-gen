@@ -7,6 +7,10 @@
   </head>
   <body>
     <div id="root"></div>
+    <!-- Runtime config from the server (see server/src/index.ts), must load
+         before the module bundle below since supabaseClient.ts reads
+         window.__ENV__ at import time. -->
+    <script src="/env.js"></script>
     <script type="module" src="/src/main.tsx"></script>
   </body>
 </html>
