@@ -13,12 +13,30 @@ function Gate({ children }: { children: React.ReactNode }) {
   return <>{children}</>;
 }
 
+// Mirror image of Gate: once signed in, /login itself redirects to "/"
+// instead of sitting on the login form. Without this, a successful sign-in
+// updated auth state but nothing navigated away, it only "worked" after a
+// reload happened to land on "/" and re-evaluate Gate.
+function RedirectIfAuthenticated({ children }: { children: React.ReactNode }) {
+  const { isAuthenticated, loading } = useAuth();
+  if (loading) return null;
+  if (isAuthenticated) return <Navigate to="/" replace />;
+  return <>{children}</>;
+}
+
 export default function App() {
   return (
     <QueryClientProvider client={queryClient}>
       <BrowserRouter>
         <Routes>
-          <Route path="/login" element={<Login />} />
+          <Route
+            path="/login"
+            element={
+              <RedirectIfAuthenticated>
+                <Login />
+              </RedirectIfAuthenticated>
+            }
+          />
           <Route
             path="/"
             element={
