@@ -2,9 +2,9 @@ import { useState } from "react";
 import { useAuth } from "@/hooks/useAuth.ts";
 
 export default function Login() {
-  const { signInWithOtp } = useAuth();
+  const { signInWithPassword } = useAuth();
   const [email, setEmail] = useState("");
-  const [sent, setSent] = useState(false);
+  const [password, setPassword] = useState("");
   const [error, setError] = useState<string | null>(null);
   const [submitting, setSubmitting] = useState(false);
 
@@ -13,10 +13,9 @@ export default function Login() {
     setError(null);
     setSubmitting(true);
     try {
-      await signInWithOtp(email.trim());
-      setSent(true);
+      await signInWithPassword(email.trim(), password);
     } catch (err) {
-      setError(err instanceof Error ? err.message : "Failed to send magic link");
+      setError(err instanceof Error ? err.message : "Sign-in failed");
     } finally {
       setSubmitting(false);
     }
@@ -33,30 +32,35 @@ export default function Login() {
           </div>
         </div>
 
-        {sent ? (
-          <p className="text-sm text-[var(--muted-foreground)]">
-            Check <span className="font-medium text-[var(--foreground)]">{email}</span> for a sign-in link.
-          </p>
-        ) : (
-          <form onSubmit={handleSubmit} className="space-y-3">
-            <input
-              type="email"
-              required
-              placeholder="you@dengage.com"
-              value={email}
-              onChange={(e) => setEmail(e.target.value)}
-              className="w-full rounded-lg border border-[var(--border)] bg-transparent px-3 py-2 text-sm outline-none focus:border-primary"
-            />
-            {error && <p className="text-xs text-red-500">{error}</p>}
-            <button
-              type="submit"
-              disabled={submitting || !email.trim()}
-              className="w-full rounded-lg bg-primary py-2 text-sm font-medium text-white disabled:opacity-50"
-            >
-              {submitting ? "Sending..." : "Send magic link"}
-            </button>
-          </form>
-        )}
+        <form onSubmit={handleSubmit} className="space-y-3">
+          <input
+            type="email"
+            required
+            placeholder="you@dengage.com"
+            value={email}
+            onChange={(e) => setEmail(e.target.value)}
+            className="w-full rounded-lg border border-[var(--border)] bg-transparent px-3 py-2 text-sm outline-none focus:border-primary"
+          />
+          <input
+            type="password"
+            required
+            placeholder="Password"
+            value={password}
+            onChange={(e) => setPassword(e.target.value)}
+            className="w-full rounded-lg border border-[var(--border)] bg-transparent px-3 py-2 text-sm outline-none focus:border-primary"
+          />
+          {error && <p className="text-xs text-red-500">{error}</p>}
+          <button
+            type="submit"
+            disabled={submitting || !email.trim() || !password}
+            className="w-full rounded-lg bg-primary py-2 text-sm font-medium text-white disabled:opacity-50"
+          >
+            {submitting ? "Signing in..." : "Sign in"}
+          </button>
+        </form>
+        <p className="mt-4 text-xs text-[var(--muted-foreground)]">
+          Accounts are created by an admin in the Supabase dashboard, there's no self-service sign-up.
+        </p>
       </div>
     </div>
   );

@@ -22,11 +22,10 @@ export function useAuth() {
     return () => sub.subscription.unsubscribe();
   }, []);
 
-  const signInWithOtp = async (email: string) => {
-    const { error } = await supabase.auth.signInWithOtp({
-      email,
-      options: { emailRedirectTo: window.location.origin },
-    });
+  // Password sign-in never sends an email, so it isn't subject to
+  // Supabase's built-in email-send rate limit the way magic links are.
+  const signInWithPassword = async (email: string, password: string) => {
+    const { error } = await supabase.auth.signInWithPassword({ email, password });
     if (error) throw error;
   };
 
@@ -37,7 +36,7 @@ export function useAuth() {
     user: (session?.user as User | undefined) ?? null,
     loading,
     isAuthenticated: !!session,
-    signInWithOtp,
+    signInWithPassword,
     signOut,
   };
 }
