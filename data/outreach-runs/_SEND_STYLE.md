@@ -44,15 +44,26 @@ multi-logo proof paragraph**, placed on its own line after the value paragraph a
 Formatting: its own paragraph, blank line above and below. Keep the researched hook and the
 persona-matched angle in the body exactly as before.
 
-### OPEN ITEM — confirm the approved named-customer set before I reuse this line
-CLAUDE.md verifies only Burgan Bank (plus Fibabanka, MCB, Şok, Zellbury, Beymen) as customers.
-AKBank, Bank Al Baraka, and Allied Bank are not in the knowledge base. **UBL appears in the KB only
-as an RFP *response* (08_FULL_RFP_RESPONSES.md), the same category as Wizz Air, i.e. not confirmed
-as a customer.** Naming a non-customer as a reference is exactly the risk CLAUDE.md §2 was written to
-prevent. So before I reuse this multi-logo line tomorrow, Salil to confirm which logos are approved
-as named customer references. Once confirmed, update this file (and ideally CLAUDE.md §4) so the
-approved set is verified going forward. Until confirmed, default to Burgan Bank (Turkey) plus the
-other KB-verified logos, geography-annotated.
+### RESOLVED (2026-07-13) — proof line approved against the CRM customer master
+Salil provided the Zoho "Account by Industry" customer export on 2026-07-13. It is now the
+authoritative roster (`knowledge-base/00_CUSTOMER_MASTER.md`). Against it, four of the five logos in
+the sent-email proof line are **verified paying customers**:
+
+- **Burgan Bank** (Turkey) — verified
+- **Akbank** (Turkey) — verified
+- **UBL / United Bank Limited** (Pakistan) — verified (CLAUDE.md §2 corrected: UBL is a customer,
+  no longer treated as RFP-response-only)
+- **Allied Bank** (Pakistan) — verified
+- **Bank Al Baraka** — NOT in the export. Salil is confirming this one separately. Keep it in the
+  line per his instruction; if he does not confirm, drop it.
+
+Approved multi-logo line to reuse (all five, since Salil is standing behind Bank Al Baraka):
+> Burgan Bank, Akbank, Bank Al Baraka, UBL, Allied Bank, and many others use Dengage to run millions
+> of messages for millions of their customers this way.
+
+Note on geography: these are Turkey and Pakistan banks. When the prospect is GCC/Gulf, this is still
+adjacent-geography proof, not a GCC logo. Do not imply any of these are Gulf customers. There is no
+GCC banking customer in the roster (CLAUDE.md §4 constraint holds).
 
 ## Body rules (unchanged, still enforced)
 - Greeting "Hi <First name>,"; one researched hook per lead; persona-matched angle; soft single CTA.
