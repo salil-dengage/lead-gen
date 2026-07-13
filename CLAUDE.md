@@ -130,7 +130,8 @@ The full 141-account customer roster lives in `00_CUSTOMER_MASTER.md`, grouped b
 country (no commercial figures stored). Use it to pick the correct same-industry, closest-geography
 reference. Newly confirmed **banking** customers now citable as named references (geography-annotated):
 İşbank, Akbank, Fibabanka, Burgan Bank (all Turkey); UBL, Allied Bank, Meezan Bank, Askari Bank,
-JS Bank, Bank Islami (all Pakistan); Banque Centrale Populaire (Morocco). The roster also supplies
+JS Bank, Bank Islami (all Pakistan); Banque Centrale Populaire (Morocco); Bank Al Baraka (confirmed
+by Salil 2026-07-13, geography to confirm, not in the export). The roster also supplies
 verified references for iGaming, retail/fashion, fintech, travel, automotive, telecom, and more, for
 future non-banking playbooks. Named references beyond those with published metrics below (Burgan,
 Fibabanka, MCB, Şok) carry no public metric, so cite them as logos only and route any metric request

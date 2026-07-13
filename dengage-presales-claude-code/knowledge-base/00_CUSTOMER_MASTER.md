@@ -32,6 +32,11 @@ imply a GCC logo we do not have.
 | Burganbank | Turkey | Banking | Enterprise |
 | Fibabanka | Turkey | Banking | — |
 | İşbank | Turkey | Banking | Enterprise |
+| Bank Al Baraka | [VERIFY geography] | Banking | — |
+
+> Bank Al Baraka is a confirmed banking customer per Salil (2026-07-13). It is not present in the
+> Account-by-Industry export; confirmed separately. Geography to confirm before citing to a
+> region-sensitive prospect.
 
 ## Financial Services / FinTech  (27)
 

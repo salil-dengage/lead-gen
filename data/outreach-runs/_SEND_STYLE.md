@@ -54,10 +54,10 @@ the sent-email proof line are **verified paying customers**:
 - **UBL / United Bank Limited** (Pakistan) — verified (CLAUDE.md §2 corrected: UBL is a customer,
   no longer treated as RFP-response-only)
 - **Allied Bank** (Pakistan) — verified
-- **Bank Al Baraka** — NOT in the export. Salil is confirming this one separately. Keep it in the
-  line per his instruction; if he does not confirm, drop it.
+- **Bank Al Baraka** — confirmed a customer by Salil on 2026-07-13 (not present in the Account-by-
+  Industry export, confirmed separately). Approved for the proof line. Geography to confirm.
 
-Approved multi-logo line to reuse (all five, since Salil is standing behind Bank Al Baraka):
+Approved multi-logo line to reuse (all five verified):
 > Burgan Bank, Akbank, Bank Al Baraka, UBL, Allied Bank, and many others use Dengage to run millions
 > of messages for millions of their customers this way.
 
