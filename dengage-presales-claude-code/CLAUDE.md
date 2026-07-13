@@ -55,6 +55,7 @@ WRONG version. When a source file disagrees with this section, **this section wi
 |---|---|---|
 | Uptime SLA | **99.9%** only | 99.999% |
 | Wizz Air | **Not a D·engage customer.** Never cite as a reference or attribute any metric to them. A "Wizz Air" RFP exists in `08_FULL_RFP_RESPONSES.md` as a *response we wrote*, not as a customer proof point. | Wizz Air as customer / reference |
+| UBL (United Bank Limited) | **Verified customer, Pakistan** (confirmed in the CRM master, `00_CUSTOMER_MASTER.md`, 2026-07-13). Citable as a named banking reference, geography-annotated. The UBL RFP in `08_FULL_RFP_RESPONSES.md` is an additional response, not a contradiction. | UBL as "not a customer" / RFP-response-only |
 | 353% revenue uplift | Source is an **unnamed enterprise client** (Zeki AI timing optimisation). Keep it anonymous. | Attributing 353% to any named account |
 | Offices | London, Istanbul, Lahore, Moscow, Dubai, Islamabad, Karachi | São Paulo / Brazil office |
 | Data centers | **Ohio, Frankfurt, Istanbul, Moscow, plus GCP Dammam** (KSA in-country residency for PDPL) | "5 datacenters" as a vague count; invented locations |
@@ -121,6 +122,18 @@ reply-rate killer. Full case studies live in `knowledge-base/03_CASE_STUDIES.md`
 
 **Never fabricate a metric.** If a prospect asks for a number you cannot source, say so and route to
 internal review rather than inventing one.
+
+### Verified customer references (from the CRM master, `knowledge-base/00_CUSTOMER_MASTER.md`)
+The full 141-account customer roster lives in `00_CUSTOMER_MASTER.md`, grouped by industry and
+country (no commercial figures stored). Use it to pick the correct same-industry, closest-geography
+reference. Newly confirmed **banking** customers now citable as named references (geography-annotated):
+İşbank, Akbank, Fibabanka, Burgan Bank (all Turkey); UBL, Allied Bank, Meezan Bank, Askari Bank,
+JS Bank, Bank Islami (all Pakistan); Banque Centrale Populaire (Morocco); Bank Al Baraka (confirmed
+by Salil 2026-07-13, geography to confirm, not in the export). The roster also supplies
+verified references for iGaming, retail/fashion, fintech, travel, automotive, telecom, and more, for
+future non-banking playbooks. Named references beyond those with published metrics below (Burgan,
+Fibabanka, MCB, Şok) carry no public metric, so cite them as logos only and route any metric request
+to internal review.
 
 ### GCC constraint (important for prospecting honesty)
 There is **no confirmed GCC reference client** as of the last audit. This is the primary constraint
@@ -277,6 +290,7 @@ Effective D·engage cold outreach:
 ### `knowledge-base/`
 | File | Contents |
 |---|---|
+| 00_CUSTOMER_MASTER.md | Authoritative customer roster: 141 accounts by industry and country (no commercial figures). Source for same-industry, closest-geography reference selection. |
 | 01_PRODUCT_SPECS.md | Full product capabilities, modules M1-M26, Zeki AI, channels, SLA |
 | 02_RFP_KNOWLEDGE_BASE.md | 21 customer Q&A pairs (banking, iGaming, retail, healthcare, telecom) |
 | 03_CASE_STUDIES.md | 12 case studies with verified metrics |
@@ -284,7 +298,7 @@ Effective D·engage cold outreach:
 | 05_TECHNICAL_INFRA.md | Architecture, K8s specs, DevOps, topology, system requirements |
 | 06_INDUSTRY_COMMERCIAL.md | Industry decks, guides, commercial models |
 | 07_USE_CASES.md | 275 use cases across 9 industries, sample messages, module mappings |
-| 08_FULL_RFP_RESPONSES.md | Complete RFP responses (incl. a Wizz Air *response*, not a customer), UBL, MCB, Kazakhstan Telecom, KE, Defacto |
+| 08_FULL_RFP_RESPONSES.md | Complete RFP responses: Wizz Air (a *response*, NOT a customer), UBL (also a verified customer, see 00), MCB, Kazakhstan Telecom, KE, Defacto |
 | 09_PRESENTATION_TEMPLATE_REFERENCE.md | PPTX template spec: slide layouts, positions, colors, structure |
 | 10_DOCX_TEMPLATE_REFERENCE.md | Word template spec: page layout, logo, headers, footers, page numbers |
 | D_engage_Onprem_CDMP_Onboarding.md | On-prem CDMP onboarding notes |
