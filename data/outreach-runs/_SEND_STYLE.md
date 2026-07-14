@@ -16,7 +16,14 @@ Salil
 ```
 Never use "[Your name]". Draft with "Best, Salil" every time.
 
-## Signature — append to every email as htmlBody
+## Signature — DO NOT add it to drafts (Salil appends his own)
+UPDATED 2026-07-14: Do not build the HTML signature into drafts. When passed as htmlBody, Gmail
+rewrote the social links into ugly google.com/url tracking-wrapped URLs and the logo/social images
+rendered broken, so the drafts had to be cleaned by hand before sending. Going forward: create each
+draft as PLAIN TEXT body only (no htmlBody, no signature block, no links), ending at "Best, Salil".
+Salil adds his own signature in Gmail before sending. The signature reference below is kept only for
+record, it is NOT to be inserted into drafts.
+
 ```html
 <div dir="ltr" class="gmail_signature"><div dir="ltr">
 <a href="https://www.dengage.com/" target="_blank"><img src="https://dengage.com/email-signat/Dengage_logo.png" width="138" height="24" alt="Logo" style="width:138px"></a>
@@ -71,5 +78,8 @@ GCC banking customer in the roster (CLAUDE.md §4 constraint holds).
 - Short paragraphs; proof line stands alone; CTA as its own short line before the sign-off.
 
 ## Draft mechanics
-- Create as Gmail drafts (create_draft) with BOTH body (plain-text) and htmlBody (with signature),
-  so each draft is fully send-ready and Salil only has to review and click send.
+- Create as Gmail drafts (create_draft) with PLAIN TEXT body ONLY. No htmlBody, no signature block,
+  no embedded links. Paragraphs separated by blank lines. End at "Best, Salil".
+- Salil reviews each draft and adds his own signature before sending. Do not add it for him.
+- Reason: htmlBody with the signature caused Gmail to mangle the links and images (see the
+  signature section above). Plain text renders cleanly every time.
