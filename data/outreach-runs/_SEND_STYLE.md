@@ -39,7 +39,19 @@ record, it is NOT to be inserted into drafts.
 ```
 Plain-text fallback (body field): `Salil Gupta | Sr. Director - Middle East` + the five links.
 
-## Proof / reference line — Salil's clear preference
+## Proof / reference line — UPDATED 2026-07-14: tailor it per prospect
+Salil's instruction (2026-07-14): do NOT reuse one fixed multi-logo line for every email. Now that
+the full verified customer roster is in `knowledge-base/00_CUSTOMER_MASTER.md`, pick the closest
+same-segment, closest-geography reference for each specific prospect:
+- Islamic bank prospect -> cite Islamic-bank customers (Meezan Bank, the largest Islamic bank in
+  Pakistan; Bank Islami, Pakistan).
+- Conventional bank prospect -> cite Turkey conventional customers (İşbank, Akbank).
+- Attach a verified metric ONLY for the two banks we have numbers for: Burgan Bank (~1M messages/day,
+  Turkey) and Fibabanka (4.45M customers, Turkey). All other named customers are logos only, no
+  metric, geography-annotated. Never imply a GCC customer.
+The fixed multi-logo line below is retained only as historical record of the Day-1 style.
+
+## Proof / reference line — Salil's clear preference (Day 1, superseded by the note above)
 On 4 of 5 emails read, Salil replaced the single geography-annotated reference with a **standalone
 multi-logo proof paragraph**, placed on its own line after the value paragraph and before the CTA:
 
