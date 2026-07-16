@@ -13,7 +13,17 @@ fixed multi-logo line) was NOT applied; superseded by later feedback.
 - Emirates NBD (Shoaib): no bounce, treated as delivered.
 - Enrique Cuentas (CIB): accepted LinkedIn on 2026-07-15, Message 1 sent. Active on LinkedIn.
 
-## Email 2 drafts created (7) — silent leads with valid email
+## Email 2 SENT (7) — confirmed by Salil 2026-07-16, logged to Zoho (Tasks + Notes)
+Also on 2026-07-16: LinkedIn Message 1 sent to the 4 accepted leads (Bahaa Farouk / Suez Canal,
+Moayad Aldawood / Bank Albilad, Adam Al Jabry / Alizz, Amir AlSalous / Bank of Sharjah), all logged.
+Mohammed Alabdullah (Al Rajhi): LinkedIn connection request sent via the corrected URL, logged.
+
+Day-1 LinkedIn acceptance status (derived from all screenshots Salil has shared): only Enrique
+Cuentas (CIB) has accepted so far. Robert, Rahab, Haifa, Maitha, Shoaib, Daniel, George have NOT
+appeared as accepted in any shared screenshot, so treated as still pending. Haifa remains
+LinkedIn-pending and email-dead (blocked until she accepts).
+
+## Email 2 (7) — the drafts, now sent
 | # | Lead | Account | Email 2 subject | Reference |
 |---|---|---|---|---|
 | 1 | Ashraf Elsaghir | NBE (Egypt) | One more on NBE Mobile | (activation angle, no metric) |
