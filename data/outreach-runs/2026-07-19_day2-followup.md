@@ -11,7 +11,7 @@ GCP Dammam for KSA (Alinma, Bank Albilad), no GCC implied, no em dashes.
   sent 07-16. Mohamed Hamdy (Banque Misr) was already connected (Message 1 sent Day 0). The other 8
   connection requests remain pending (not seen accepted).
 
-## Email 2 drafts created (10) — all silent, none replied
+## Email 2 SENT (10) — confirmed by Salil 2026-07-19, logged to Zoho (Tasks + Notes)
 | # | Lead | Account | Email 2 subject | Reference |
 |---|---|---|---|---|
 | 1 | Afif Kalo | ADCB (UAE) | One more on the ADCB assistant | Burgan Bank (Turkey) |
