@@ -1,0 +1,34 @@
+# Day-3 batch — Follow-up cycle (touch 2, ran 2026-07-19)
+
+Touch 2 for the 2026-07-15 Day-3 batch (10 leads). Reminder rescheduled off the Gulf weekend
+(originally Sat 07-18) to Sunday 07-19. Current rules: plain text, no signature, tailored proof,
+Islamic peers for Islamic banks (ADIB, Al Hilal, Alizz), GCP Dammam for KSA (ANB, SABB), no GCC.
+
+## Reply / bounce sweep (2026-07-19)
+- No replies from any of the 10 Day-3 leads. No bounces.
+- LinkedIn (from screenshots): Bahaa Farouk (Suez Canal), Adam Jabry (Alizz), Amir Alsalous (Bank of
+  Sharjah) accepted, Message 1 sent 07-16. The other 7 connection requests remain pending.
+
+## Email 2 drafts created (10) — all silent, none replied
+| # | Lead | Account | Email 2 subject | Reference |
+|---|---|---|---|---|
+| 1 | Fernando Plaza | ADIB (UAE, Islamic) | One more on ADIB's spending signal | Meezan (Pakistan, Islamic) |
+| 2 | Lama Alessa | ANB (KSA) | Following up on Segment of ONE | İşbank (Turkey) + GCP Dammam |
+| 3 | Fadi Chalouhi | Gulf Bank (Kuwait) | Following up, Fadi | Akbank + Burgan (Turkey) |
+| 4 | Bahaa Farouk | Suez Canal Bank (Egypt) | One more on the unified platform | Fibabanka (Turkey) [connected] |
+| 5 | Karolina Pachucy | Doha Bank (Qatar) | Following up on QDI onboarding | İşbank + Fibabanka (Turkey) |
+| 6 | Aref Al-Ramli | Al Hilal (UAE, Islamic) | Following up on Al Hilal's first mile | Bank Islami (Pakistan, Islamic) |
+| 7 | Adam Jabry | Alizz (Oman, Islamic) | One more on personalising every experience | Meezan (Pakistan, Islamic) [connected] |
+| 8 | Ines Kadri | ADCB Egypt (Egypt) | Following up, Ines | Fibabanka (Turkey) |
+| 9 | Omar Batayyah | SABB (KSA) | Following up on SAB 360 | İşbank (Turkey) + GCP Dammam |
+| 10 | Amir Alsalous | Bank of Sharjah (UAE) | One more on the retail build | Akbank (Turkey) [connected] |
+
+Bahaa, Adam, and Amir open "Good to be connected" (they accepted LinkedIn).
+
+## Flags
+- ADCB Egypt (Ines): adoption percentages still [VERIFY], not used.
+- ANB (Lama): Oracle CX incumbency, positioned as activation layer on top.
+
+## Next
+- Next follow-up (touch 3, Day 7): 2026-07-22 (Wednesday, a Gulf working day). Reminder re-armed.
+- CRM logging happens after Salil confirms which Email 2 drafts were sent.
