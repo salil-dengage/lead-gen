@@ -58,7 +58,9 @@ each batch's files.
    LinkedIn). Do not re-ask what he has already shared.
 3. Generate the next touch per lead against real state (accepted / replied / silent), following the
    message rules above.
-4. Email leg → create Gmail drafts for Salil to review and send. LinkedIn leg → hand pasteable text.
+4. Email leg → create Gmail drafts for Salil to review and send. LinkedIn leg → read
+   `_LINKEDIN_TRACKER.md`, generate Message N for any lead whose LinkedIn touch is due or overdue
+   (its own +3-working-day clock, separate from email), hand Salil pasteable text.
 5. Update the batch folder; after Salil confirms sends, log to Zoho (a Completed Task + a Note per
    contact). Everything commits to `main` (no feature branches).
 6. Re-arm the next reminder one working day forward in the rotation.
@@ -84,6 +86,14 @@ can read the schedule at a glance. Current live schedule:
 - batch-02: Sami Zadjali (BankDhofar) title [VERIFY] before any LinkedIn message.
 - batch-04: Marian Kaisser (CA Egypt) title [VERIFY] before her LinkedIn message.
 
-## LinkedIn acceptances so far (8 of 40)
-Enrique (b1), Moayad (b2), Bahaa/Adam/Amir (b3), Wafa/Mahmoud/Navaid (b4). All have LinkedIn Message
-1 sent. No email replies yet across the 40.
+## LinkedIn follow-up lane — see `_LINKEDIN_TRACKER.md`
+
+The LinkedIn channel has its own clock (Message 1 goes out the day a lead accepts, not the batch's
+email date), so it is tracked separately in **`_LINKEDIN_TRACKER.md`**. Each batch reminder now runs
+BOTH legs for its leads: email (via Gmail) and LinkedIn (via the tracker).
+
+**11 leads have received LinkedIn Message 1** and are on the Message 2 lane: Ashraf/NBE (b1),
+Enrique/CIB (b1, in conversation, held), Mohamed Hamdy/Banque Misr (b2), Moayad/Bank Albilad (b2),
+Bahaa/Adam/Amir (b3), Sridhar (b4), Wafa/Mahmoud/Navaid (b4). No email replies yet across the 40.
+Two LinkedIn Message 2s were overdue when the tracker was built (Ashraf, Mohamed Hamdy) and are being
+caught up. Full dates and due-dates live in the tracker.
