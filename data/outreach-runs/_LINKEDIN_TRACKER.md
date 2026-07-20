@@ -3,44 +3,55 @@
 Single source of truth for the LinkedIn channel. The email channel self-tracks through Gmail;
 LinkedIn does not, and its clock is offset from email (Message 1 goes out the day a lead ACCEPTS,
 not the day the batch's Email 1 went out). So every LinkedIn Message 1 recipient is logged here with
-its own due-date, and the batch reminders read this file for the LinkedIn leg.
+its own due-date.
 
 ## LinkedIn cadence
 
 - Connection request (Day 0) -> on ACCEPT, send LinkedIn **Message 1**.
-- **Message 1 -> Message 2 = +3 Gulf working days** (Sun-Thu; skip Fri/Sat), same rule as email.
-- Then Message 3, 4 continue the sequence, alternating with the email touches so the lead is not hit
-  on both channels the same day.
+- **Each LinkedIn touch -> next = +3 Gulf working days** (Sun-Thu; skip Fri/Sat), same rule as email.
 - If the lead **replies on LinkedIn**, STOP the cadence (Salil tells me; I cannot see LinkedIn).
 - LinkedIn sends are manual: I generate pasteable text, Salil sends, then I log to Zoho.
 
+## IMPORTANT: how the daily reminder uses this file (the fix for the offset gap)
+
+Each working day exactly one batch reminder fires. **That reminder sweeps this ENTIRE tracker for any
+lead whose next LinkedIn touch is due or overdue on the run date, across ALL batches, not just the
+batch named in the reminder.** This is because a lead's LinkedIn clock (keyed to their accept date)
+does not line up with their batch's email clock. The daily reminder is therefore the single driver
+that clears both the email leg (for its named batch) and every LinkedIn touch due that day (any
+batch). Nothing waits for its own batch's next email date.
+
 ## Master table: everyone who has received LinkedIn Message 1
 
-| Lead | Account / geo | Batch | Msg 1 sent | Msg 2 due | State |
+| Lead | Account / geo | Batch | Last LinkedIn touch | Next due | State |
 |---|---|---|---|---|---|
-| Ashraf Elsaghir | NBE, Egypt | b1 | 2026-07-13 | **2026-07-16 (OVERDUE)** | Silent, drafted below |
-| Enrique Cuentas | CIB, Egypt | b1 | 2026-07-15 | hold | In conversation, cadence paused |
-| Mohamed Hamdy | Banque Misr, Egypt | b2 | 2026-07-14 | **2026-07-17 (OVERDUE)** | Silent, drafted below |
-| Moayad Aldawood | Bank Albilad, KSA | b2 | 2026-07-16 | 2026-07-21 (Tue) | Silent |
-| Bahaa Farouk | Suez Canal Bank, Egypt | b3 | 2026-07-16 | 2026-07-21 (Tue) | Silent |
-| Adam Jabry | Alizz, Oman | b3 | 2026-07-16 | 2026-07-21 (Tue) | Silent |
-| Amir Alsalous | Bank of Sharjah, UAE | b3 | 2026-07-16 | 2026-07-21 (Tue) | Silent |
-| Sridhar Iyer | (b4 account) | b4 | 2026-07-16 | 2026-07-21 (Tue) | Silent |
-| Wafa Al Harbi | Sharjah Islamic, UAE | b4 | 2026-07-19 | 2026-07-22 (Wed) | Silent |
-| Mahmoud Okasha | AAIB, Egypt | b4 | 2026-07-19 | 2026-07-22 (Wed) | Silent |
-| Navaid Ahmed | Sohar International, Oman | b4 | 2026-07-19 | 2026-07-22 (Wed) | Silent |
+| Ashraf Elsaghir | NBE, Egypt | b1 | Msg 2 sent 2026-07-20 | Msg 3 · 2026-07-23 (Thu) | Silent, no reply |
+| Enrique Cuentas | CIB, Egypt | b1 | Msg 1 sent 2026-07-15 | Msg 2 · 2026-07-20 (due) | Silent-accepted, cadence resumed. [CONFIRM: did he reply on LinkedIn? If yes, stop and mark Replied.] |
+| Mohamed Hamdy | Banque Misr, Egypt | b2 | Msg 2 sent 2026-07-20 | Msg 3 · 2026-07-23 (Thu) | Silent, no reply |
+| Moayad Aldawood | Bank Albilad, KSA | b2 | Msg 1 sent 2026-07-16 | Msg 2 · 2026-07-21 (Tue) | Silent |
+| Bahaa Farouk | Suez Canal Bank, Egypt | b3 | Msg 1 sent 2026-07-16 | Msg 2 · 2026-07-21 (Tue) | Silent |
+| Adam Jabry | Alizz, Oman | b3 | Msg 1 sent 2026-07-16 | Msg 2 · 2026-07-21 (Tue) | Silent |
+| Amir Alsalous | Bank of Sharjah, UAE | b3 | Msg 1 sent 2026-07-16 | Msg 2 · 2026-07-21 (Tue) | Silent |
+| Sridhar Iyer | GIB (meem), KSA/Bahrain | b4 | Msg 1 sent 2026-07-16 | Msg 2 · 2026-07-21 (Tue) | Silent |
+| Wafa Al Harbi | Sharjah Islamic, UAE | b4 | Msg 1 sent 2026-07-19 | Msg 2 · 2026-07-22 (Wed) | Silent |
+| Mahmoud Okasha | AAIB, Egypt | b4 | Msg 1 sent 2026-07-19 | Msg 2 · 2026-07-22 (Wed) | Silent |
+| Navaid Ahmed | Sohar International, Oman | b4 | Msg 1 sent 2026-07-19 | Msg 2 · 2026-07-22 (Wed) | Silent |
 
-11 leads on the LinkedIn Message 1 lane. (The earlier "8 accepted" count missed the 3 already-
-connected leads, Ashraf, Mohamed Hamdy, Sridhar, who got Message 1 on Day 0 without an accept step.)
+11 leads on the LinkedIn lane. (The earlier "8 accepted" count missed the 3 already-connected leads,
+Ashraf, Mohamed Hamdy, Sridhar, who got Message 1 on Day 0 without an accept step.)
+
+## Correction log
+- 2026-07-20: Enrique Cuentas was previously parked "held / in conversation." That was an unverified
+  assumption (accepted + Msg 1 sent, read as "active"), not a confirmed reply. Gmail shows no email
+  reply. Resumed his cadence; Msg 2 due 2026-07-20. Pending Salil's confirmation of any LinkedIn reply.
 
 ## Connection requests still PENDING acceptance (no Message 1 yet)
 
-These got only a connection request. When Salil reports an acceptance, Message 1 is generated then,
-and the lead moves to the master table above.
+When Salil reports an acceptance, Message 1 is generated then and the lead moves to the table above.
 
 - b1: Robert Kufersin (FAB), Rahab Zadjali (Bank Muscat), Maitha Shuaib (DIB), Shoaib Rizvi (Emirates
-  NBD), Daniel Szabo (QNB), George Yaryura (Mashreq). Mohammed Alabdullah (Al Rajhi) CR sent Day 3.
-  Haifa Binahmed (Riyad, email dead) LinkedIn-only, awaiting accept.
+  NBD), Daniel Szabo (QNB), George Yaryura (Mashreq), Mohammed Alabdullah (Al Rajhi). Haifa Binahmed
+  (Riyad, email dead) LinkedIn-only, awaiting accept.
 - b2: Afif Kalo, Musaad Algadi, Talal Al-Khaja, Nasser Almutawaa, Othman Hendi, Neil Gardner,
   Sami Zadjali [title VERIFY], Dongjun Choi.
 - b3: Fernando Plaza, Lama Alessa, Fadi Chalouhi, Karolina Pachucy, Aref Al-Ramli, Ines Kadri,
@@ -48,11 +59,4 @@ and the lead moves to the master table above.
 - b4: Amgad Samy, Mohammad Alomani, Said Al Marhoobi, Nawaf Bawazir, Ali Almousa,
   Marian Kaisser [title VERIFY].
 
-## How the batch reminders use this file
-
-Each batch reminder's daily loop now covers BOTH channels for that batch's leads:
-1. Email leg: reply sweep in Gmail, generate Email N, create drafts.
-2. LinkedIn leg: read this tracker, generate Message N for any lead whose Msg N is due (or overdue),
-   hand Salil pasteable text, and after he sends, advance the Msg N date here and log to Zoho.
-
-Overdue LinkedIn touches are surfaced immediately, not held for the batch's next email date.
+None of these appeared as newly connected in Salil's 2026-07-20 screenshots (validated name by name).
