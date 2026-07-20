@@ -64,8 +64,8 @@ When Salil reports an acceptance, Message 1 is generated then and the lead moves
   https://www.linkedin.com/in/dr-ahmed-taqi-89aba215/), Karim Morcos (Banque du Caire).
   Email-only, no LinkedIn located: Sharif Rafei (NBF).
   OAB: Anuj Madan SUPPRESSED (left the bank). REPLACED by Ziad Alshami (Head of CRM & Data Analytics,
-  OAB, https://www.linkedin.com/in/ziad-alshami-57a21a14, verified email, current since 2021);
-  connect request + Email 1 to send Day 0, then he joins the CR-sent list.
+  OAB, https://www.linkedin.com/in/ziad-alshami-57a21a14, verified email, current since 2021).
+  CR + Email 1 SENT 2026-07-20, pending acceptance. So b5 CR-sent = 9 profiles now.
 
 None of the batch 1-4 pending appeared as newly connected in Salil's 2026-07-20 screenshots
 (validated name by name).
