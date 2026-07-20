@@ -3,6 +3,30 @@
 Single source of truth for the manual Gulf+Egypt banking outreach. Read this first. Scheduled
 reminders ("routines") point here instead of repeating the rules.
 
+## LEAD VERIFICATION PROTOCOL (mandatory before drafting/sending any new batch)
+
+Learned the hard way on batch-05 (2026-07-20): Apollo gave a stale/wrong contact (Anuj Madan had
+left OAB), a wrong LinkedIn URL (BBK / Ahmed Taqi), and "no profile" for someone who clearly had one
+(CBQ / Eiman Al-Naemi, findable in seconds). Apollo is ONE signal, never the source of truth. For
+every lead in a new batch, before it is drafted or sent:
+
+1. **Verify the LinkedIn profile independently.** Search LinkedIn directly by name + current company
+   and open the profile. Do NOT accept an Apollo or single-research-pass URL blindly, and never
+   record "no LinkedIn" without a genuine direct search. If a profile is not found after a real
+   attempt, mark it `[LinkedIn unconfirmed]`, not "none", and flag for a manual look.
+2. **Confirm the person still holds the role at the target bank (recency).** Check the profile's
+   current title/employer. If they have moved on (as Anuj Madan had), they are NOT a valid lead:
+   suppress the record and find the current buyer, or drop the account. Never send to a stale role.
+3. **Treat any Apollo/research conflict as a red flag to resolve, not accept.** If Apollo shows a
+   different employer, title, or LinkedIn than the research pass, stop and reconcile by hand before
+   using. Apollo must never overwrite an independently verified LinkedIn or a confirmed current role.
+4. **Cross-check name + company** on both the LinkedIn profile and the hook source, so the hook and
+   the person actually belong to the same current employer.
+5. Verified email (Apollo "verified") is safe; a corporate-pattern guess is `[pattern-unverified]`,
+   flagged to Salil, and watched for bounces. Prefer LinkedIn-first for pattern-email leads.
+
+Apply your own judgement, not just the tool output. If something is easily checkable, check it.
+
 ## STANDING RULE: always share the GitHub link after any commit
 
 Every time work is committed and pushed, share the clickable GitHub file link(s) and the commit link
@@ -29,9 +53,9 @@ in the reply to Salil, without being asked. Never make him ask for it. Link form
 | batch-02 | Gulf+Egypt banking | 2026-07-14 (Tue) | 10 | touch 2 (2026-07-19, sent) | touch 3 → Thu 2026-07-23 |
 | batch-03 | Gulf+Egypt banking | 2026-07-15 (Wed) | 10 | touch 2 (sent 2026-07-20) | touch 3 → Sun 2026-07-26 |
 | batch-04 | Gulf+Egypt banking | 2026-07-16 (Thu) | 10 | touch 1 | touch 2 → Tue 2026-07-21 |
-| batch-05 | Gulf+Egypt banking | 2026-07-20 (Mon) | 10 | touch 1 (drafted) | touch 2 → Mon 2026-07-27 |
+| batch-05 | Gulf+Egypt banking | 2026-07-20 (Mon) | 10 | touch 1 sent 2026-07-20 (9 sent; OAB suppressed) | touch 2 → Mon 2026-07-27 |
 
-50 leads total. Full per-lead detail (Zoho IDs, LinkedIn URLs, hooks, references, send logs) lives in
+50 leads created; 49 active (OAB / Anuj Madan suppressed, contact left the bank). Full per-lead detail (Zoho IDs, LinkedIn URLs, hooks, references, send logs) lives in
 each batch's files.
 
 ## Cadence (the timing rule)

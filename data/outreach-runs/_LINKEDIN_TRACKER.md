@@ -58,10 +58,12 @@ When Salil reports an acceptance, Message 1 is generated then and the lead moves
   Omar Batayyah.
 - b4: Amgad Samy, Mohammad Alomani, Said Al Marhoobi, Nawaf Bawazir, Ali Almousa,
   Marian Kaisser [title VERIFY].
-- b5 (CR sent 2026-07-20, 7 with a profile): Hassan Al-Omran (SNB), Hassaan Munir (Emirates Islamic),
+- b5 (CR sent 2026-07-20, 8 profiles): Hassan Al-Omran (SNB), Hassaan Munir (Emirates Islamic),
   Luciano Di Pietro (KFH), Abdullah Al-Tuwaijri (Boubyan), Constantinos Constantinides (QIB),
-  Ahmed Taqi (BBK), Karim Morcos (Banque du Caire). Email-only, no LinkedIn: Eiman Al-Naemi (CBQ),
-  Anuj Madan (OAB, research URL was a different person, do not use), Sharif Rafei (NBF).
+  Eiman Al-Naemi (CBQ, https://www.linkedin.com/in/eiman-al-naemi/), Ahmed Taqi (BBK,
+  https://www.linkedin.com/in/dr-ahmed-taqi-89aba215/), Karim Morcos (Banque du Caire).
+  Email-only, no LinkedIn located: Sharif Rafei (NBF).
+  SUPPRESSED: Anuj Madan (OAB) has left OAB, nothing sent; OAB needs a new current buyer.
 
 None of the batch 1-4 pending appeared as newly connected in Salil's 2026-07-20 screenshots
 (validated name by name).
