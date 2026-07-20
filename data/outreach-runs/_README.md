@@ -22,8 +22,9 @@ reminders ("routines") point here instead of repeating the rules.
 | batch-02 | Gulf+Egypt banking | 2026-07-14 (Tue) | 10 | touch 2 (2026-07-19, sent) | touch 3 → Thu 2026-07-23 |
 | batch-03 | Gulf+Egypt banking | 2026-07-15 (Wed) | 10 | touch 2 (sent 2026-07-20) | touch 3 → Sun 2026-07-26 |
 | batch-04 | Gulf+Egypt banking | 2026-07-16 (Thu) | 10 | touch 1 | touch 2 → Tue 2026-07-21 |
+| batch-05 | Gulf+Egypt banking | 2026-07-20 (Mon) | 10 | touch 1 (drafted) | touch 2 → Mon 2026-07-27 |
 
-40 leads total. Full per-lead detail (Zoho IDs, LinkedIn URLs, hooks, references, send logs) lives in
+50 leads total. Full per-lead detail (Zoho IDs, LinkedIn URLs, hooks, references, send logs) lives in
 each batch's files.
 
 ## Cadence (the timing rule)

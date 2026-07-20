@@ -58,5 +58,10 @@ When Salil reports an acceptance, Message 1 is generated then and the lead moves
   Omar Batayyah.
 - b4: Amgad Samy, Mohammad Alomani, Said Al Marhoobi, Nawaf Bawazir, Ali Almousa,
   Marian Kaisser [title VERIFY].
+- b5 (CR sent 2026-07-20, 7 with a profile): Hassan Al-Omran (SNB), Hassaan Munir (Emirates Islamic),
+  Luciano Di Pietro (KFH), Abdullah Al-Tuwaijri (Boubyan), Constantinos Constantinides (QIB),
+  Ahmed Taqi (BBK), Karim Morcos (Banque du Caire). Email-only, no LinkedIn: Eiman Al-Naemi (CBQ),
+  Anuj Madan (OAB, research URL was a different person, do not use), Sharif Rafei (NBF).
 
-None of these appeared as newly connected in Salil's 2026-07-20 screenshots (validated name by name).
+None of the batch 1-4 pending appeared as newly connected in Salil's 2026-07-20 screenshots
+(validated name by name).
