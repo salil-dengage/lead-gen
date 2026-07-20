@@ -344,3 +344,6 @@ Use specific deep-link URLs, not the generic homepage, when fetching technical d
 6. Flag every gap: [REVIEW NEEDED], [VERIFY], [NOT SUPPORTED], [ROADMAP].
 7. Prioritise same-industry, closest-geography references.
 8. Route commercial figures to Salil Gupta and security items to Köksal for sign-off.
+9. After ANY commit and push, always share the clickable GitHub file link(s) and the commit link in
+   the reply, without being asked. Format: `https://github.com/salil-dengage/lead-gen/blob/main/<path>`
+   and `https://github.com/salil-dengage/lead-gen/commit/<hash>`.

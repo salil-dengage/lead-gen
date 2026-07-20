@@ -3,6 +3,13 @@
 Single source of truth for the manual Gulf+Egypt banking outreach. Read this first. Scheduled
 reminders ("routines") point here instead of repeating the rules.
 
+## STANDING RULE: always share the GitHub link after any commit
+
+Every time work is committed and pushed, share the clickable GitHub file link(s) and the commit link
+in the reply to Salil, without being asked. Never make him ask for it. Link format:
+`https://github.com/salil-dengage/lead-gen/blob/main/<path>` for files,
+`https://github.com/salil-dengage/lead-gen/commit/<hash>` for the commit.
+
 ## Folder / file naming (no ambiguity)
 
 - **`batch-0N/`** = the Nth daily set of ~10 leads (one buyer per account). "Batch number" only.
