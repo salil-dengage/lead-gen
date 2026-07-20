@@ -26,7 +26,7 @@ batch). Nothing waits for its own batch's next email date.
 | Lead | Account / geo | Batch | Last LinkedIn touch | Next due | State |
 |---|---|---|---|---|---|
 | Ashraf Elsaghir | NBE, Egypt | b1 | Msg 2 sent 2026-07-20 | Msg 3 · 2026-07-23 (Thu) | Silent, no reply |
-| Enrique Cuentas | CIB, Egypt | b1 | Msg 1 sent 2026-07-15 | Msg 2 · 2026-07-20 (due) | Silent-accepted, cadence resumed. [CONFIRM: did he reply on LinkedIn? If yes, stop and mark Replied.] |
+| Enrique Cuentas | CIB, Egypt | b1 | Msg 2 sent 2026-07-20 | Msg 3 · 2026-07-23 (Thu) | Silent, no reply. [CONFIRM: did he reply on LinkedIn? If yes, stop and mark Replied.] |
 | Mohamed Hamdy | Banque Misr, Egypt | b2 | Msg 2 sent 2026-07-20 | Msg 3 · 2026-07-23 (Thu) | Silent, no reply |
 | Moayad Aldawood | Bank Albilad, KSA | b2 | Msg 1 sent 2026-07-16 | Msg 2 · 2026-07-21 (Tue) | Silent |
 | Bahaa Farouk | Suez Canal Bank, Egypt | b3 | Msg 1 sent 2026-07-16 | Msg 2 · 2026-07-21 (Tue) | Silent |
