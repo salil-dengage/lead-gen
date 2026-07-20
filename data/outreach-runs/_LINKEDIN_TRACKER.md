@@ -63,7 +63,9 @@ When Salil reports an acceptance, Message 1 is generated then and the lead moves
   Eiman Al-Naemi (CBQ, https://www.linkedin.com/in/eiman-al-naemi/), Ahmed Taqi (BBK,
   https://www.linkedin.com/in/dr-ahmed-taqi-89aba215/), Karim Morcos (Banque du Caire).
   Email-only, no LinkedIn located: Sharif Rafei (NBF).
-  SUPPRESSED: Anuj Madan (OAB) has left OAB, nothing sent; OAB needs a new current buyer.
+  OAB: Anuj Madan SUPPRESSED (left the bank). REPLACED by Ziad Alshami (Head of CRM & Data Analytics,
+  OAB, https://www.linkedin.com/in/ziad-alshami-57a21a14, verified email, current since 2021);
+  connect request + Email 1 to send Day 0, then he joins the CR-sent list.
 
 None of the batch 1-4 pending appeared as newly connected in Salil's 2026-07-20 screenshots
 (validated name by name).
