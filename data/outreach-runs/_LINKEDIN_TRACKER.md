@@ -67,5 +67,10 @@ When Salil reports an acceptance, Message 1 is generated then and the lead moves
   OAB, https://www.linkedin.com/in/ziad-alshami-57a21a14, verified email, current since 2021).
   CR + Email 1 SENT 2026-07-20, pending acceptance. So b5 CR-sent = 9 profiles now.
 
+- b6 (CR to send 2026-07-20, all 10 have a confirmed profile): Faizal Kundil (Ajman), Fida El Samad
+  (CBI), Nader Al Khawaja (SAIB), Atul Choudrie (stc bank), Mohammed Al-Emadi (QIIB), Samir Al-Yakoob
+  (ABK), Nasser Alawadhi (BisB), Ahmed Al-Waily (Bank Nizwa), Ahmed Ali (QNB Alahli), Hanan Fahmi
+  (AlexBank). All emails pattern-unverified, so LinkedIn is the primary channel for this batch.
+
 None of the batch 1-4 pending appeared as newly connected in Salil's 2026-07-20 screenshots
 (validated name by name).

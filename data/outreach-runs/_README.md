@@ -55,8 +55,11 @@ in the reply to Salil, without being asked. Never make him ask for it. Link form
 | batch-04 | Gulf+Egypt banking | 2026-07-16 (Thu) | 10 | touch 1 | touch 2 → Tue 2026-07-21 |
 | batch-05 | Gulf+Egypt banking | 2026-07-20 (Mon) | 10 | touch 1 sent 2026-07-20 (10 emails, 9 CRs; OAB = Ziad Alshami) | touch 2 → Mon 2026-07-27 |
 
-50 leads total; batch-05 is 10 active (Anuj Madan/OAB suppressed after he left the bank, replaced by
-Ziad Alshami, verified). Full per-lead detail (Zoho IDs, LinkedIn URLs, hooks, references, send logs) lives in
+| batch-06 | Gulf+Egypt banking | 2026-07-20 (Mon) | 10 | touch 1 (drafted) | touch 2 → Tue 2026-07-28 |
+
+60 leads total; batch-05 is 10 active (Anuj Madan/OAB suppressed after he left the bank, replaced by
+Ziad Alshami, verified). batch-06: all 10 LinkedIn-confirmed, all 10 emails pattern-unverified
+(enrich-gaps-only), so LinkedIn-first and watch bounces. Full per-lead detail (Zoho IDs, LinkedIn URLs, hooks, references, send logs) lives in
 each batch's files.
 
 ## Cadence (the timing rule)
