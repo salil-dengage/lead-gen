@@ -357,3 +357,23 @@ Use specific deep-link URLs, not the generic homepage, when fetching technical d
 9. After ANY commit and push, always share the clickable GitHub file link(s) and the commit link in
    the reply, without being asked. Format: `https://github.com/salil-dengage/lead-gen/blob/main/<path>`
    and `https://github.com/salil-dengage/lead-gen/commit/<hash>`.
+
+---
+
+## 14. ENRICHMENT LEARNINGS (Gulf + Egypt banking ICP, logged 2026-07-21)
+
+These are verified operating rules from live Apollo enrichment runs. They override any default
+instinct to enrich every field on every lead.
+
+- **Email enrichment is a dead end for this segment. Do not spend Apollo credits or time on email
+  extraction for the remaining Gulf and Egypt banking contacts.** Across 73 senior marketing,
+  digital, CX, and CRM contacts at GCC and Egypt banks, Apollo standard match plus waterfall partner
+  vendors returned a usable corporate email for only about 6 percent (3 of 54 in one pass, 0 of 19
+  in another, and the few standard-match hits resolved to the person's old employer). Reach these
+  people by mobile or LinkedIn instead.
+- **Mobile enrichment works and is the channel to invest in.** Standard Apollo phone reveal hit
+  about 60 percent on this segment (33 of 54), high confidence, correctly matched. Budget about 8
+  direct-dial credits per number, not 1.
+- **Zoho Mobile is a unique field.** Any enriched number that already exists on another record is
+  auto-rejected as DUPLICATE_DATA on write, so the system prevents phone duplicates by itself. Treat
+  that rejection as a useful duplicate signal, not an error.
