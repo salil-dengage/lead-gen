@@ -17,7 +17,13 @@ D·engage is a native Customer Data Platform (CDP / CXDP) and omnichannel market
 company. Primary markets: GCC and MENA, Turkey, Pakistan, plus emerging opportunities in Africa,
 LATAM, and CIS.
 
-For any lead outreach, prospecting, or personalization task, read PROSPECTING_ENGINE.md in full before drafting.
+For any lead outreach, prospecting, or personalization task, the active and MANDATORY rulebook is
+`prospecting_engine_v1.2_21July.md`. Read it in full and apply it BEFORE generating any outreach content
+of any kind, across every channel: cold email, follow-up email, LinkedIn connection notes, LinkedIn
+messages and follow-ups, and any batch built from a Zoho or Apollo export. It supersedes the old
+`PROSPECTING_ENGINE.md`, `COLD_OPENER_TEARDOWN.md`, and `PROSPECTING_SESSION_HANDOFF.md`, which are
+archived in `OLD DOCS/` and must NOT be used or referenced. Where `prospecting_engine_v1.2_21July.md`
+and any older text disagree on outreach, v1.2 wins.
 
 ---
 
@@ -275,6 +281,10 @@ Affinity.
 ---
 
 ## 10. OUTREACH / PROSPECTING VOICE (for cold outreach and SDR content)
+
+> Superseded for execution by `prospecting_engine_v1.2_21July.md`. The principles below still hold, but
+> where v1.2 differs, v1.2 wins. In particular, v1.2 holds proof and references for when the prospect
+> asks rather than leading with them, and it bans the naive question close and any sales tactic.
 
 Effective D·engage cold outreach:
 - Names the awkwardness of being outbound rather than pretending to be a warm intro.
