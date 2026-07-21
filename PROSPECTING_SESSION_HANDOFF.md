@@ -157,8 +157,8 @@ Emirates Islamic, Hassaan Munir (Head of Products, Digital & Personal Banking):
 
 ## 10. Key files
 
-- `CLAUDE.md`, `PROSPECTING_ENGINE.md` — operating instructions and guardrails.
-- `COLD_OPENER_TEARDOWN.md` — the 35-sample analysis and revised approach.
-- `data/outreach-runs/batch-05/01_initial_2026-07-20_approach-comparison.md` — shipped vs rewritten copy.
-- `data/outreach-runs/_SEND_STYLE.md`, `_README.md`, `_STATS.md`, `_LINKEDIN_TRACKER.md` — send norms.
-- `data/gulf-banking-icp/` — the target universe and persona coverage.
+- `CLAUDE.md`, `PROSPECTING_ENGINE.md` - operating instructions and guardrails.
+- `COLD_OPENER_TEARDOWN.md` - the 35-sample analysis and revised approach.
+- `data/outreach-runs/batch-05/01_initial_2026-07-20_approach-comparison.md` - shipped vs rewritten copy.
+- `data/outreach-runs/_SEND_STYLE.md`, `_README.md`, `_STATS.md`, `_LINKEDIN_TRACKER.md` - send norms.
+- `data/gulf-banking-icp/` - the target universe and persona coverage.
