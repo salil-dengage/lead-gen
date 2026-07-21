@@ -28,11 +28,11 @@ batch). Nothing waits for its own batch's next email date.
 | Ashraf Elsaghir | NBE, Egypt | b1 | Msg 2 sent 2026-07-20 | Msg 3 · 2026-07-23 (Thu) | Silent, no reply |
 | Enrique Cuentas | CIB, Egypt | b1 | Msg 2 sent 2026-07-20 | Msg 3 · 2026-07-23 (Thu) | Silent, no reply. [CONFIRM: did he reply on LinkedIn? If yes, stop and mark Replied.] |
 | Mohamed Hamdy | Banque Misr, Egypt | b2 | Msg 2 sent 2026-07-20 | Msg 3 · 2026-07-23 (Thu) | Silent, no reply |
-| Moayad Aldawood | Bank Albilad, KSA | b2 | Msg 1 sent 2026-07-16 | Msg 2 · 2026-07-21 (Tue) | Silent |
-| Bahaa Farouk | Suez Canal Bank, Egypt | b3 | Msg 1 sent 2026-07-16 | Msg 2 · 2026-07-21 (Tue) | Silent |
-| Adam Jabry | Alizz, Oman | b3 | Msg 1 sent 2026-07-16 | Msg 2 · 2026-07-21 (Tue) | Silent |
-| Amir Alsalous | Bank of Sharjah, UAE | b3 | Msg 1 sent 2026-07-16 | Msg 2 · 2026-07-21 (Tue) | Silent |
-| Sridhar Iyer | GIB (meem), KSA/Bahrain | b4 | Msg 1 sent 2026-07-16 | Msg 2 · 2026-07-21 (Tue) | Silent |
+| Moayad Aldawood | Bank Albilad, KSA | b2 | Msg 2 prepared 2026-07-21 (pending send) | Msg 3 · 2026-07-26 (Sun) | Silent |
+| Bahaa Farouk | Suez Canal Bank, Egypt | b3 | Msg 2 prepared 2026-07-21 (pending send) | Msg 3 · 2026-07-26 (Sun) | Silent |
+| Adam Jabry | Alizz, Oman | b3 | Msg 2 prepared 2026-07-21 (pending send) | Msg 3 · 2026-07-26 (Sun) | Silent |
+| Amir Alsalous | Bank of Sharjah, UAE | b3 | Msg 2 prepared 2026-07-21 (pending send) | Msg 3 · 2026-07-26 (Sun) | Silent |
+| Sridhar Iyer | GIB (meem), KSA/Bahrain | b4 | Msg 2 prepared 2026-07-21 (pending send) | Msg 3 · 2026-07-26 (Sun) | Silent |
 | Wafa Al Harbi | Sharjah Islamic, UAE | b4 | Msg 1 sent 2026-07-19 | Msg 2 · 2026-07-22 (Wed) | Silent |
 | Mahmoud Okasha | AAIB, Egypt | b4 | Msg 1 sent 2026-07-19 | Msg 2 · 2026-07-22 (Wed) | Silent |
 | Navaid Ahmed | Sohar International, Oman | b4 | Msg 1 sent 2026-07-19 | Msg 2 · 2026-07-22 (Wed) | Silent |
