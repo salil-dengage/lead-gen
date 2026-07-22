@@ -128,10 +128,9 @@ can read the schedule at a glance. Current live schedule:
 - batch-02: Sami Zadjali (BankDhofar) title [VERIFY] before any LinkedIn message.
 - batch-04: Marian Kaisser (CA Egypt) title CONFIRMED 2026-07-21 = Head of Proximity Banking
   Development, Marketing & Customer Experience (The Org / RocketReach / ZoomInfo). [VERIFY] cleared.
-  Mahmoud Okasha (AAIB) [VERIFY identity]: connected LinkedIn profile reads "Solutions Architect |
-  Digital Transformation & System Integration | CRM, Contact Center, RPA, AI Automation", not the
-  target "Head of CRM & Automation". Email mokasha@aaib.com did not bounce at touch 1; copy is
-  persona-neutral. Salil to eyeball the profile before his email + LinkedIn Msg 2 send.
+  Mahmoud Okasha (AAIB) identity: RESOLVED 2026-07-22, Salil confirmed Okasha still works at AAIB.
+  The earlier flag (connected LinkedIn headline read "Solutions Architect", not "Head of CRM &
+  Automation") is cleared; he is a valid current AAIB contact.
 - batch-05: Ziad Alshami (OAB) email ziad.alshami@oman-arabbank.com BOUNCED 2026-07-20 (Address not
   found) → suppress email, LinkedIn only. Sharif Rafei (NBF) sharif.rafei@nbf.ae BOUNCED 2026-07-20 →
   suppress email (was already LinkedIn-unlocatable, so parked). Apply on batch-05's Mon 07-27 run.
