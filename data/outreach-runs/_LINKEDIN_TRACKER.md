@@ -32,10 +32,10 @@ batch). Nothing waits for its own batch's next email date.
 | Bahaa Farouk | Suez Canal Bank, Egypt | b3 | Msg 2 prepared 2026-07-21 (pending send) | Msg 3 · 2026-07-26 (Sun) | Silent |
 | Adam Jabry | Alizz, Oman | b3 | Msg 2 prepared 2026-07-21 (pending send) | Msg 3 · 2026-07-26 (Sun) | Silent |
 | Amir Alsalous | Bank of Sharjah, UAE | b3 | Msg 2 prepared 2026-07-21 (pending send) | Msg 3 · 2026-07-26 (Sun) | Silent |
-| Sridhar Iyer | GIB (meem), KSA/Bahrain | b4 | Msg 2 prepared 2026-07-21 (pending send) | Msg 3 · 2026-07-26 (Sun) | Silent |
-| Wafa Al Harbi | Sharjah Islamic, UAE | b4 | Msg 1 sent 2026-07-19 | Msg 2 · 2026-07-22 (Wed) | Silent |
-| Mahmoud Okasha | AAIB, Egypt | b4 | Msg 1 sent 2026-07-19 | Msg 2 · 2026-07-22 (Wed) | Silent |
-| Navaid Ahmed | Sohar International, Oman | b4 | Msg 1 sent 2026-07-19 | Msg 2 · 2026-07-22 (Wed) | Silent |
+| Sridhar Iyer | GIB (meem), KSA/Bahrain | b4 | Msg 2 (v1.2) prepared 2026-07-22 (pending send) | Msg 3 · 2026-07-27 (Mon) | Silent |
+| Wafa Al Harbi | Sharjah Islamic, UAE | b4 | Msg 2 (v1.2) prepared 2026-07-22 (pending send) | Msg 3 · 2026-07-27 (Mon) | Silent |
+| Mahmoud Okasha | AAIB, Egypt | b4 | Msg 2 (v1.2) prepared 2026-07-22 (pending send) [VERIFY identity] | Msg 3 · 2026-07-27 (Mon) | Silent |
+| Navaid Ahmed | Sohar International, Oman | b4 | Msg 2 (v1.2) prepared 2026-07-22 (pending send) | Msg 3 · 2026-07-27 (Mon) | Silent |
 
 11 leads on the LinkedIn lane. (The earlier "8 accepted" count missed the 3 already-connected leads,
 Ashraf, Mohamed Hamdy, Sridhar, who got Message 1 on Day 0 without an accept step.)

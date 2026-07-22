@@ -52,7 +52,7 @@ in the reply to Salil, without being asked. Never make him ask for it. Link form
 | batch-01 | Gulf+Egypt banking | 2026-07-13 (Mon) | 10 | touch 2 (2026-07-16) | touch 3 → Wed 2026-07-22 |
 | batch-02 | Gulf+Egypt banking | 2026-07-14 (Tue) | 10 | touch 2 (2026-07-19, sent) | touch 3 → Thu 2026-07-23 |
 | batch-03 | Gulf+Egypt banking | 2026-07-15 (Wed) | 10 | touch 2 (sent 2026-07-20) | touch 3 → Sun 2026-07-26 |
-| batch-04 | Gulf+Egypt banking | 2026-07-16 (Thu) | 10 | touch 2 (v1.2 regenerated + drafted 2026-07-22, pending send; stale 07-21 v1.1 drafts to be trashed) | touch 3 → Wed 2026-07-29 |
+| batch-04 | Gulf+Egypt banking | 2026-07-16 (Thu) | 10 | touch 2 (v1.2 SENT + Zoho logged 2026-07-22; stale 07-21 v1.1 drafts deleted; LinkedIn Msg 2 generated for the 4 accepted) | touch 3 → Wed 2026-07-29 |
 | batch-05 | Gulf+Egypt banking | 2026-07-20 (Mon) | 10 | touch 1 sent 2026-07-20 (10 emails, 9 CRs; OAB = Ziad Alshami) | touch 2 → Mon 2026-07-27 |
 
 | batch-06 | Gulf+Egypt banking | 2026-07-20 (Mon) | 10 | touch 1 (drafted) | touch 2 → Tue 2026-07-28 |
