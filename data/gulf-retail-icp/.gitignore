@@ -1,0 +1,4 @@
+# Transient workflow working dirs (reproducible from candidates_classified.tsv + classify.awk).
+# Final deliverables (verified_master.*, README, candidate TSVs) are committed explicitly.
+batches/
+results/
