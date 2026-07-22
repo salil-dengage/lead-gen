@@ -5,8 +5,10 @@
 > `PROSPECTING_SESSION_HANDOFF.md`, all now archived in `OLD DOCS/` and NOT to be used.
 >
 > UPDATED 22 July 2026: Section 3 was rebuilt into the de-duplicated pre-draft intelligence pipeline
-> (one tool per insight, keys held as repository secrets, see Section 3.0). The messaging framework is
-> unchanged here; its cross-session consolidation is tracked as an open item in Section 13.
+> (one tool per insight, keys held as repository secrets, see Section 3.0). Section 6 (the messaging
+> voice) was then consolidated from session 01QUz6uSs9Y6odZgX79RASFj: proof now leads, the close warms,
+> competitor naming is approved, and the multi-touch ladder is codified. Sections 0, 7, 9, and 11 were
+> reconciled to match.
 >
 > COMPULSION: read this file in full and apply it before generating ANY outreach content of any kind:
 > cold email, follow-up email, LinkedIn connection note, LinkedIn message, LinkedIn follow-up, a batch
@@ -24,12 +26,15 @@
 ## 0. What changed from v1.1, in one paragraph
 
 v1.1 treated the martech stack as one of five research items and led openers with a public trigger
-plus a generic value line, an assertive senior-architect voice, a proof logo at first touch, and a
-soft call ask. Senior bankers pattern-matched that as an ad. v1.2 leads with the prospect's real,
-multi-source-verified stack, hedges the read of their situation while staying confident about us,
-names the incumbent honestly as the wedge, holds proof until asked, and closes straight without a
-sales tactic. The method is drawn from a 35-opener converting corpus (see Section 12) adapted from its
-original CIS mid-level-manager context to our real target, the GCC and MENA bank CxO.
+plus a generic value line, an assertive senior-architect voice, and a soft call ask. Senior bankers
+pattern-matched that as an ad. v1.2 opens warm on their real, multi-source-verified move, leads with
+client proof and a G2 accolade up top so we are never mistaken for a no-name tool, hedges the read of
+their situation while staying confident about us, names the incumbent honestly as the wedge, and closes
+warm without a sales tactic. The method is drawn from a 35-opener converting corpus (see Section 12)
+adapted from its original CIS mid-level-manager context to our real target, the GCC and MENA bank CxO.
+The locked messaging voice lives in Section 6 (consolidated 22 July 2026 from session
+01QUz6uSs9Y6odZgX79RASFj); two deliberate reversals from the first draft, proof now leads and the close
+warms, are recorded there.
 
 ---
 
@@ -231,9 +236,26 @@ communications buyer), multi-thread to the digital, CRM, or retail head rather t
 
 ## 6. The v1.2 voice (this is what makes it land)
 
-### 6.1 Trigger first
-Sentence one names the verifiable recent move: a launch, an award, a campaign, a new segment, a
-regulatory or product milestone. Be confident about their achievement.
+This section was rebuilt on 22 July 2026 from the messaging work in session
+01QUz6uSs9Y6odZgX79RASFj, with Salil and the team (Yan, Paul). Two deliberate reversals from the first
+v1.2 draft, both tested against how a senior GCC banker actually reads a cold note: PROOF NOW LEADS, it
+does not wait until asked, and the CLOSE WARMS, the phrase "I'll be straight" is retired. The homework
+in the body is still the thing that earns the reply; the proof up top is what stops a stranger reading
+us as a no-name tool before they get to the homework.
+
+### 6.0 The locked structure (five movements, in this order)
+1. Warm opener: name their verifiable recent move AND add genuine kudos (6.1).
+2. Who we are, up top: the one-line intro that leads with client brands and a G2 accolade (6.3).
+3. What I can and can't see: the hedged, sourced stack read, naming the incumbent as the wedge when it
+   is corroborated (6.2, 6.4).
+4. What we do: a couple of concrete deliverables, never a feature parade (6.5).
+5. Warm close (6.6).
+
+### 6.1 Open warm, trigger plus kudos
+Sentence one names the verifiable recent move (a launch, award, campaign, new segment, licence, or
+product milestone) AND is genuinely warm about it. Do not just state what they did, they know what they
+did. Add real praise: "well done", "that must have been a serious thing to be part of", "nicely done".
+Impressed-and-specific is the tone. Then move to what you can and can't see.
 
 ### 6.2 Assertive about us, tentative about them
 Never hedge our own capability. State what Dengage does as fact. Be deliberately tentative about the
@@ -242,45 +264,71 @@ prospect's situation, which we are reading from the outside with imperfect tools
 web", "what runs inside the app I can't see, and that is usually where this lives". This is honesty and
 it is also the single most repeated winning move in the corpus. It is not weakness, it is accuracy.
 
-### 6.3 The honest incumbent wedge
-Name the incumbent stack only when we actually observe it and it is corroborated (Section 3.9). Name it
-to frame the gap and ask nothing accusatory. Never assert an unverifiable negative about a competitor
-as fact. Never disparage by name. Competitors to differentiate against without naming negatively:
-Adobe, Salesforce Marketing Cloud, Sitecore, Braze, CleverTap, MoEngage, Insider, Bloomreach, Emarsys,
-Netcore, WebEngage. NOTE: naming a competitor at all, even neutrally, needs the go-to-market carve-out
-to CLAUDE.md Section 5 signed off before it ships (Section 13, open item).
+### 6.3 Proof leads, it does not wait (the reversal)
+The one-line intro is movement 2 and carries our credibility up front, so a senior banker knows in three
+seconds we are a real, rated platform, not two people in a garage. Template:
+"I'm Salil from Dengage, the Composable AI Marketing Platform behind <3+ client brands, geography>, and
+G2's <one accolade> this year."
+- Descriptor: "Composable AI Marketing Platform" (from the verified G2 asset, "the only native
+  multi-channel marketing automation platform with a Composable CDP"). This is the standard descriptor,
+  not "CDP".
+- Brands: name THREE OR MORE verified customers, matched to segment and geography-annotated
+  collectively. Islamic banks lead with Meezan or Bank Islami (Pakistan); conventional with Isbank,
+  Akbank, or Fibabanka (Turkey); UBL and Allied Bank (Pakistan) widen the pool. NEVER imply a GCC logo,
+  we have none (CLAUDE.md Section 4). Our named-reference pool is Pakistan and Turkey, so names WILL
+  recycle across a large batch; keep each email distinct by rotating the accolade and the pairing.
+- Accolade: exactly ONE per email, ROTATED so no two leads in a batch get the same client-plus-accolade
+  pairing. Use the "#1" numeral where it is a number-one claim, it stands out. The pool, all from the
+  verified G2 asset: #1 Personalization Engine, #1 for time to value, #1 for return on investment, a
+  top-5 CDP, a G2 Momentum Leader, rated 4.6 out of 5. A G2 ranking or rating is an ACCOLADE and leads;
+  a customer OUTCOME number is a metric and is held to touch 2 (6.8).
+- Dengage is still named once (this intro line carries it). Later references are "we" or "the part we
+  do", never a second "at Dengage".
+- Sender writes as Salil, honestly ("I'm Salil from Dengage"). NEVER the founder frame ("I'm growing
+  Dengage"), Salil is not a founder (the founders are Aman Dotani and Osman Tufanogullari).
 
-### 6.4 Peer register, Dengage named once, no vendor-speak, no proof at first touch
-- Write as one senior operator comparing notes with another, not as a pre-sales architect pitching.
-- Name Dengage exactly once, humbly. BANNED phrases: "we give banks the layer that turns...", "the
-  activation layer we run for banks", "off one profile across every channel", and any channel list
-  used as a feature parade.
-- No proof logo or metric at first touch. Hold Meezan, Bank Islami, Isbank, Akbank, Fibabanka, Burgan,
-  and MCB for when they ask who we work with. When used later, annotate geography every time and never
-  imply a GCC customer logo (we have none: CLAUDE.md Section 4).
-- The rep writes as the rep (Salil). Never impersonate a founder to borrow the frame.
+### 6.4 The incumbent wedge (naming is approved, name it the right way)
+The go-to-market carve-out is SIGNED (Salil, session 01QUz6uSs9Y6odZgX79RASFj). You MAY name a
+competitor, and only under these rules:
+- Name it ONLY when corroborated to fact per Section 3.9 (two independent sources). A single-source or
+  vendor-side mention is `[VERIFY]` and softened, or verified first.
+- Frame it as COEXISTENCE or a fair comparison, never an attack. Proven framings: "Oracle holds the
+  record, we act on it"; "Adobe on the acquisition half, us on the retention half"; "it sits on top of
+  the CRM you already have rather than replacing it"; "if it is worth putting us side by side, I'd
+  welcome the comparison".
+- State only what WE do. NEVER assert what their incumbent cannot do, and never an unverifiable
+  negative as fact. Never disparage by name.
+- Competitors and incumbents surfaced in research to differentiate against, never negatively: Adobe,
+  Salesforce Marketing Cloud, Sitecore, Braze, CleverTap, MoEngage, Insider, Bloomreach, Emarsys,
+  Netcore, WebEngage, Dataroid, Avanza, plus legacy CRM, DMP, and campaign stacks (Oracle, SAS, Unica,
+  Infosys Finacle CRM) named as the system of record we activate on top of.
 
-### 6.5 The close (straight, senior, no tactics)
-The close must be honest and straight, matching the honesty of the body. It owns that the message is
-cold (CLAUDE.md Section 10) and states plainly what we want. It is varied per lead so it never becomes
-a template.
+### 6.5 What we do: concrete, no vendor-speak
+- Say what we do in plain, specific terms and STOP. BANNED phrases: "we give banks the layer that
+  turns...", "the activation layer we run for banks", "off one profile across every channel", and any
+  channel list used as a feature parade.
+- Use a COUPLE of concrete deliverables, not a list: unify each customer into one live profile, trigger
+  the next best action in real time, run event-driven journeys without leaning on developers. Two is
+  the ceiling for touch 1; a third clause tips into a feature parade.
+
+### 6.6 The close (warm, straight, no tactics)
+Retire "I'll be straight", it reads salesy and undoes the peer register. The close is warm,
+conversational, and varied per lead so it never becomes a template.
 
 HARD BANS in the close:
 - No naive diagnostic question that asks them to explain their own stack ("how is it set up?", "where
-  does that sit?"). At CxO level this asks a stranger to hand over internal architecture, and for a
-  bank it can read as reconnaissance.
+  does that sit?"). At CxO level this asks a stranger to hand over internal architecture.
 - No salesy meeting ask ("would a short call be worth your time?").
 - No sales tactics or fake reassurance ("no meeting, just the thinking", "no commitment").
-- No lame delegation fishing ("or whoever owns that on your side").
+- No delegation fishing ("or whoever owns that on your side").
 
-ACCEPTABLE straight forms (choose one, vary the wording per lead):
-- Own the cold approach plus a plain statement of intent: "A cold email is a cold email, so I'll be
-  straight: if that gap is worth a conversation, I'd like to have it."
-- A plain, specific offer with no tactic attached: "If it's useful, I can share how we'd approach it."
-- Where the contact clearly owns the area, address that directly and confidently: "Since it's your
-  area, I'll be straight: if it's worth a conversation, I'd welcome it."
+ACCEPTABLE warm forms (choose one, vary the wording per lead):
+- Owner-direct: "Since it's your area, if it's worth a conversation, I'd welcome it."
+- Bake-off (when an incumbent is named): "If it's worth putting us side by side as you build, I'd
+  welcome the comparison."
+- Plain offer: "If it's useful, I can share how we'd approach it."
 
-### 6.6 Anti-AI-tell hard bans (this is what keeps it human)
+### 6.7 Anti-AI-tell hard bans (this is what keeps it human)
 - No em dashes or en dashes anywhere. Commas, colons, periods, or rephrase.
 - No rule-of-three lists used for rhetorical effect.
 - No "it's not X, it's Y" antithesis.
@@ -288,9 +336,29 @@ ACCEPTABLE straight forms (choose one, vary the wording per lead):
 - No corporate filler: leverage, elevate, unlock, seamless, in today's fast-paced landscape.
 - Vary sentence openings across the message and across the batch. Contractions are fine.
 
-### 6.7 Length
-As short as it can be. LinkedIn connection note under 300 characters. Email and LinkedIn message body
-in the 60 to 140 word range, and every clause you add must be about them, not us. Aim for about 90.
+### 6.8 The multi-touch ladder (each touch changes the angle AND the proof type)
+Touches are +3 Gulf working days apart (Sun to Thu). The proof rotates by TYPE down the ladder so no
+touch reads like the last one resent.
+- Touch 1: the five-movement structure above. Proof type: client logos plus a G2 accolade (6.3).
+- Touch 2: one VERIFIED CUSTOMER METRIC tied to their situation, plus a soft offer. No logo repeat, no
+  re-pitch. The only metrics are Fibabanka 4.45M customers (Turkey), Burgan roughly a million messages
+  a day (Turkey and MENA), MCB 83% account-funding (Pakistan), all geography-annotated. Only three
+  exist, so match the metric to each prospect's angle (scale, throughput, funding) rather than repeating
+  a framing.
+- Touch 3: one concrete use-case, "the first journey I'd build for you". Value, not an escalated ask.
+- Touch 4: an honest permission close ("if now isn't the moment I'll leave it, just say the word").
+  Short. This is the highest reply-or-close touch.
+- A lead who received an OLD v1.1 first email gets the new voice as a soft RESET; that weak touch does
+  not count, give them the full ladder from here.
+
+### 6.9 Length and channel
+- Email: about 110 to 140 words, one idea per PARAGRAPH with line-by-line spacing (Yan and Paul: easier
+  to read in an overloaded inbox), a specific subject tied to their move, sign-off "Best, Salil", no
+  signature block (Salil adds his own).
+- LinkedIn: NO connection-request note, the request goes out note-less (Salil's standing instruction).
+  Message 1 goes on ACCEPT, about 50 to 80 words, the same five movements tightened, usually two client
+  names not three, no subject line. LinkedIn keeps its own clock (Message 1 on accept, then +3 working
+  days) and never carries the same content as the email on the same day.
 
 ---
 
@@ -299,10 +367,16 @@ in the 60 to 140 word range, and every clause you add must be about them, not us
 Before any opener ships, every logo, award, geography, and customer count is checked against the
 CLAUDE.md Section 2 and Section 4 verified constants. Fibabanka is 4.45M+, not 2M. Burgan is Turkey and
 MENA, roughly a million messages a day. Uptime is 99.9% only. No Wizz Air. No Sao Paulo office.
-Deterministic identity only. KSA equals GCP Dammam for residency. Vertical-matched verified proof, held
-until asked: banking to Burgan, Fibabanka, MCB, or UBL (all geography-annotated); Islamic banks to
-Meezan or Bank Islami; conventional to Isbank or Akbank. Route any commercial figure to Salil Gupta and
-any security item to Koksal for sign-off.
+Deterministic identity only. KSA equals GCP Dammam for residency. Route any commercial figure to Salil
+Gupta and any security item to Koksal for sign-off.
+
+Two kinds of proof, two different placements (see Section 6.3 and 6.8):
+- Client LOGOS and G2 ACCOLADES LEAD at touch 1, up top. Vertical-matched, geography-annotated: Islamic
+  banks to Meezan or Bank Islami (Pakistan), conventional to Isbank, Akbank, or Fibabanka (Turkey),
+  widened by UBL and Allied Bank (Pakistan). Three or more names, a rotated accolade, never a GCC logo.
+- Verified customer METRICS (Fibabanka 4.45M, Burgan ~1M a day, MCB 83% account-funding) are HELD to
+  touch 2, never used in the touch-1 opener. They are matched to the prospect's angle, geography
+  annotated every time.
 
 ---
 
@@ -322,19 +396,27 @@ any security item to Koksal for sign-off.
 
 ## 9. Pre-send self-check (run before emitting every message)
 
-- [ ] The hook is specific, current, and verifiable, and leads with the real stack where sourced.
+- [ ] Opens warm: names their specific current move AND is genuinely kudos, not a flat restatement.
+- [ ] The five movements are in order (6.0): warm hook, brands-and-accolade intro, hedged stack read,
+      a couple of concrete deliverables, warm close.
+- [ ] Intro leads with the "Composable AI Marketing Platform" descriptor, THREE+ verified client names
+      (segment-matched, geography-annotated), and exactly ONE rotated G2 accolade ("#1" numeral where
+      it is a number-one). No client-plus-accolade pairing repeated within the batch.
 - [ ] The stack read is HEDGED, not stated as fact. The web-side-only limit is acknowledged.
 - [ ] Any named incumbent is corroborated by two independent sources (Section 3.9), or flagged
-      `[VERIFY]` and softened.
-- [ ] The close is straight: owns the cold approach, no naive stack question, no call ask, no "no
-      meeting" tactic, no "whoever owns it" delegation. Varied, not templated.
-- [ ] Dengage is named once, humbly. No banned vendor-speak.
-- [ ] No proof logo or metric at first touch. Any later proof is verified and geography-annotated.
+      `[VERIFY]` and softened. It is framed as coexistence or a fair comparison, never an attack, and
+      makes no claim about what the incumbent cannot do.
+- [ ] The close is warm, not "I'll be straight": no naive stack question, no call ask, no "no meeting"
+      tactic, no "whoever owns it" delegation. Varied, not templated.
+- [ ] Dengage is named once. No banned vendor-speak. "What we do" is two concrete deliverables, not a
+      feature parade. Written as Salil, never the founder frame.
+- [ ] No verified customer METRIC at touch 1 (metrics are touch 2). Any metric used later is verified
+      and geography-annotated.
 - [ ] No em or en dashes. No rule of three. No "not X but Y". No colon enumerations. No filler.
 - [ ] No GCC customer logo implied. Deterministic identity only if identity is mentioned. Uptime 99.9%
       only if mentioned. KSA cites GCP Dammam. No internal module codes.
 - [ ] Role and seniority verified. Multi-thread target recorded if the buyer is wrong.
-- [ ] Within the word and character limits.
+- [ ] Within the word limits (email 110 to 140, LinkedIn 50 to 80). LinkedIn has no connect note.
 - [ ] Every uncertainty surfaced as a flag, not hidden.
 
 If any box fails, revise before output.
@@ -347,57 +429,75 @@ Two modes, same as v1.1.
 - Interactive (human review): markdown per lead with Lead, Tier, Hook, Stack (sourced and corroboration
   status), Angle, the assets, and Flags.
 - Automation (API and orchestrator): strict JSON with contact, account, tier, hook, stack_findings,
-  angle, reference_used (null at first touch), the asset fields, and flags. For a batch, also produce a
-  tracker and a message library ready to drop into sequencing.
+  angle, brands_used and accolade_used (present at touch 1), metric_used (null until touch 2), the asset
+  fields, and flags. For a batch, also produce a tracker and a message library ready to drop into
+  sequencing.
 
 Show drafts inline in chat by default. Persist to a file or Zoho only when the human approves.
 
 ---
 
-## 11. Worked examples (v1.2 voice anchors, calibrated to the batch-05 banks)
+## 11. Worked examples (final v1.2 voice anchors, from the batch-06 banks)
 
-### QIB, Dinos Constantinides (Chief Strategy and Chief Digital Officer)
-> Subject: your NBO engine, and where it gets delivered
-> Hi Dinos,
-> Your Next Best Offer engine taking the Global Finance AI award is the kind of thing most banks are
-> still slideware on. I only have the outside view, so I could be reading it wrong, but from the public
-> web it looks like measurement sitting on the site and not much stitching the NBO decisions across
-> app, email and web into one journey per customer. What runs inside the app I can't see, and that is
-> usually where this lives. Closing the gap between the decisioning and the delivery is what we do at
-> Dengage. A cold email is a cold email, so I'll be straight: if that gap is worth a conversation, I'd
-> like to have it.
+These three show the five-movement structure (6.0): warm kudos, brands-and-accolade intro up top,
+hedged sourced stack read, a couple of concrete deliverables, warm close. The first has a sourced stack
+but no nameable competitor; the second and third name a corroborated incumbent as coexistence.
+
+### BisB, Nasser Alawadhi (Head of Digital Banking): sourced stack, no competitor named
+> Subject: Best Islamic Digital Bank, and what acts on it
+> Hi Nasser,
+> Congrats on Best Islamic Digital Bank, and on the Tarabut and instant in-app financing launches.
+> I'm Salil from Dengage, the Composable AI Marketing Platform behind Meezan, Fibabanka and Akbank
+> across Pakistan and Turkey, and G2's #1 personalization engine this year.
+> From the outside it looks like you already watch behaviour with Contentsquare and run a Kore.ai
+> assistant up front, so the front door is well covered. What I can't tell from here is whether anything
+> acts on that in real time, turning a signal into a timely, personal next step per customer. What runs
+> in the app is invisible to me anyway.
+> That is the part we do, unifying your data into one live profile and triggering the next best action
+> for each customer in real time.
+> Since digital banking is your area, if it's worth a conversation, I'd welcome it.
 > Best, Salil
 
-Why it works: trigger first, stack read hedged, no proof logo, Dengage named once, straight close that
-owns the cold approach.
+Why it works: warm kudos, proof up top (three logos plus a #1 accolade), the sourced stack read
+(Contentsquare and Kore.ai, both corroborated) is hedged, two concrete deliverables, warm close with no
+"I'll be straight".
 
-### Emirates Islamic, Hassaan Munir (Head of Products, Digital and Personal Banking)
-> Subject: the Amazon card, and the Adobe stack behind it
-> Hi Hassaan,
-> Saw your post on the Amazon co-branded card, genuinely sharp Shariah-first play. From the outside it
-> looks like you already run a heavy stack, Adobe Experience Cloud with Sitecore on the web, so tooling
-> is not the issue. What I'd want to know in your seat is whether Adobe carries the post-activation card
-> journeys in real time, first spend then habit, or whether that still goes out as batch. That
-> real-time, per-customer piece is where enterprise stacks quietly fall back to batch. Running that
-> layer alongside Adobe is what we do at Dengage. If it's useful, I can share how banks have done it.
+### SAIB, Nader Al Khawaja (Chief Transformation Officer): Oracle named as coexistence
+> Subject: Strategy 2027, and the layer on top of Oracle
+> Hi Nader,
+> Strategy 2027 putting digital and customer experience at the centre is a clear line in the sand for
+> SAIB, well done on setting it.
+> I'm Salil from Dengage, the Composable AI Marketing Platform behind Isbank, Akbank and Fibabanka in
+> Turkey, and G2's #1 for time to value this year.
+> From the outside it looks like you have unified your CRM on Oracle Fusion, a solid system of record.
+> Where we tend to sit is the layer on top of it, turning what Oracle knows about a customer into a
+> real-time, personal next step rather than a batch campaign. Oracle holds the record, we act on it.
+> What runs in your app I can't see.
+> For a Saudi build we keep data in-country on GCP Dammam. If it's worth a conversation, I'd welcome it.
 > Best, Salil
 
-Why it works: the named incumbent (Adobe) is corroborated by two independent sources, the wedge is coexistence not
-displacement, and the close is a plain offer with no tactic.
+Why it works: the incumbent (Oracle Fusion, corroborated by a case study and LinkedIn) is named as the
+system of record we coexist with, "Oracle holds the record, we act on it", with no claim about what
+Oracle cannot do. KSA carries the GCP Dammam line.
 
-### OAB, Ziad Alshami (Head of CRM and Data Analytics, Retail)
-> Subject: Elite Exclusive, and where it gets activated
-> Hi Ziad,
-> Instant issuance and the Elite Exclusive segment are the kind of thing that pays off in the CRM and
-> data layer you own. As best I can tell from the outside, and I only see the public web, it looks like
-> WordPress and Google tags, with nothing there turning a segment like Elite Exclusive into a timely,
-> personal action per customer. What sits behind it, in the app or your CRM, I can't see. Turning a
-> segment like that into revenue off one live profile is what we do at Dengage. Since it's your area,
-> I'll be straight: if it's worth a conversation, I'd welcome it.
+### Bank Nizwa, Ahmed Al-Waily (Head of Marketing): a research correction, Avanza as coexistence
+> Subject: Apple Pay live, and the layer on top of your CRM
+> Hi Ahmed,
+> Getting Apple Pay and the Tranna app out shows Bank Nizwa moving fast on the things customers actually
+> feel. That is great to see, well done.
+> I'm Salil from Dengage, the Composable AI Marketing Platform behind Meezan, Bank Islami and UBL across
+> Pakistan, and a top-5 CDP on G2 this year.
+> From the outside it looks like you already run a CRM/CEM platform, so the foundation is there. What I
+> can't tell from here is whether it acts in real time, turning an Apple Pay first use or an app signal
+> into a timely, personal nudge that builds a habit, rather than a scheduled campaign.
+> That real-time layer is the part we do, and it sits on top of the CRM you already have rather than
+> replacing it, unifying each customer into one live profile and triggering the next best step.
+> Since marketing is your area, if it's worth a conversation, I'd welcome it.
 > Best, Salil
 
-Why it works: best persona fit, the stack read is humble, and the close addresses the owner directly
-without delegation fishing.
+Why it works: the SERP layer (3.6) found Bank Nizwa runs Avanza Unison ACE CRM/CEM, which CORRECTED an
+earlier "retention thin" read that would have insulted him. The opener coexists ("on top of the CRM you
+already have"), and keeps Avanza unnamed here only as a length choice; naming it is allowed (6.4).
 
 ---
 
@@ -417,16 +517,16 @@ reply data in `data/outreach-runs/` before treating any of this as settled.
 
 ## 13. Open items being finalized (do not treat as closed)
 
-- Close register: both acceptable forms in Section 6.5 are approved in principle. The default register
-  is still being locked with Salil.
-- Incumbent-naming carve-out: naming a competitor even neutrally needs the go-to-market sign-off on the
-  CLAUDE.md Section 5 carve-out before it ships.
+- CLOSED 22 July 2026, Close register: locked in Section 6.6. "I'll be straight" is retired; the close
+  is warm (owner-direct, bake-off, or plain offer).
+- CLOSED 22 July 2026, Incumbent-naming carve-out: SIGNED by Salil (session 01QUz6uSs9Y6odZgX79RASFj).
+  Competitors may be named under the Section 6.4 rules (corroborated, coexistence, no unverifiable
+  negative, never disparaging).
+- CLOSED 22 July 2026, Messaging framework: consolidated into Section 6 (the five-movement structure,
+  proof-leads reversal, warm close, incumbent-naming method, and the multi-touch ladder). No rule from
+  session 01QUz6uSs9Y6odZgX79RASFj is now held only in chat.
 - Batch-05 specifics still open: QIB MailJet/Mandrill pending a DNS SPF/MX check; SNB multi-thread past
   the Corporate Relations buyer; whether SNB's first touch carries the GCP Dammam residency line.
-- Messaging framework: the cross-session messaging-framework discussion (external session
-  01QUz6uSs9Y6odZgX79RASFj) is to be consolidated into Sections 5 and 6 so no rule is lost across
-  sessions. PENDING the human supplying that content; it cannot be read from another session and must
-  not be reconstructed from memory.
 
 ---
 
