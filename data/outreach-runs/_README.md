@@ -49,7 +49,7 @@ in the reply to Salil, without being asked. Never make him ask for it. Link form
 
 | Batch | Industry / region | Sent (touch 1) | Leads | Latest touch done | Next touch (due) |
 |---|---|---|---|---|---|
-| batch-01 | Gulf+Egypt banking | 2026-07-13 (Mon) | 10 | touch 2 (2026-07-16) | touch 3 → Wed 2026-07-22 |
+| batch-01 | Gulf+Egypt banking | 2026-07-13 (Mon) | 10 | touch 2 (2026-07-16) | touch 3 → Sun 2026-07-26 (moved from 07-22) |
 | batch-02 | Gulf+Egypt banking | 2026-07-14 (Tue) | 10 | touch 2 (2026-07-19, sent) | touch 3 → Thu 2026-07-23 |
 | batch-03 | Gulf+Egypt banking | 2026-07-15 (Wed) | 10 | touch 2 (sent 2026-07-20) | touch 3 → Sun 2026-07-26 |
 | batch-04 | Gulf+Egypt banking | 2026-07-16 (Thu) | 10 | touch 2 (v1.2 SENT + Zoho logged 2026-07-22; stale 07-21 v1.1 drafts deleted; LinkedIn Msg 2 generated for the 4 accepted) | touch 3 → Wed 2026-07-29 |
@@ -113,7 +113,7 @@ can read the schedule at a glance. Current live schedule:
 
 | Reminder | Fires |
 |---|---|
-| Outreach · batch-01 · touch-3 | Wed 2026-07-22 |
+| Outreach · batch-01 · touch-3 | Sun 2026-07-26 (moved from Wed 07-22 per Salil; shares the day with batch-03 touch-3) |
 | Outreach · batch-02 · touch-3 | Thu 2026-07-23 |
 | Outreach · batch-03 · touch-3 | Sun 2026-07-26 |
 | Outreach · batch-05 · touch-2 | Mon 2026-07-27 |
