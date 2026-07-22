@@ -3,8 +3,9 @@
 > Update 2026-07-22: batch-04 touch-2 emails SENT (10, v1.2) + Zoho logged; batch-04 LinkedIn Msg 2
 > SENT for the 4 accepted (Wafa, Mahmoud, Navaid, Sridhar) + Zoho logged; Okasha identity confirmed
 > (still at AAIB). Ahmed Taqi (BBK, b5) accepted the connection 07-20; his LinkedIn Msg 1 is due
-> (batch-05 leg). Plus batch-06 touch-1 regenerated v1.2: 10 emails drafted + 10 LinkedIn Msg 1
-> prepared, pending Salil send (10 note-less CRs to send). Adds 10 accounts (60 total prospected).
+> (batch-05 leg). Plus batch-06 touch-1 SENT v1.2 on 2026-07-22: 6 emails delivered, 3 bounced (CBI,
+> ABK, BisB -> LinkedIn-only), Atul/stc bank SUPPRESSED (left the bank); 9 note-less LinkedIn CRs live,
+> Message 1 on accept; Zoho logged. Adds 9 active accounts (59 active prospected, Atul suppressed).
 
 Gulf + Egypt banking prospecting. One buyer per account, hyper-personalized, LinkedIn (manual) +
 email (Gmail), tracked in Zoho. "Touch 1" = first contact day; follow-ups every 3 Gulf working days.

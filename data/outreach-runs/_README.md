@@ -134,6 +134,11 @@ can read the schedule at a glance. Current live schedule:
 - batch-05: Ziad Alshami (OAB) email ziad.alshami@oman-arabbank.com BOUNCED 2026-07-20 (Address not
   found) → suppress email, LinkedIn only. Sharif Rafei (NBF) sharif.rafei@nbf.ae BOUNCED 2026-07-20 →
   suppress email (was already LinkedIn-unlocatable, so parked). Apply on batch-05's Mon 07-27 run.
+- batch-06 (touch 1 sent 2026-07-22): email BOUNCED → suppress email, LinkedIn-only for Fida El Samad
+  (CBI, fida.elsamad@cbi.ae), Samir Al-Yakoob (ABK, samir.alyakoob@eahli.com), Nasser Alawadhi (BisB,
+  nasser.alawadhi@bisb.com). All three have a live LinkedIn CR; Message 1 on accept. Atul Choudrie
+  (stc bank) SUPPRESSED: left stc bank Jan 2026 (now Zag / Remitjunction) → stc bank needs a new buyer
+  or park. Remaining 6 (Faizal, Nader, Mohammed, Ahmed Al-Waily, Ahmed Ali, Hanan) delivered clean.
 
 ## LinkedIn follow-up lane — see `_LINKEDIN_TRACKER.md`
 
