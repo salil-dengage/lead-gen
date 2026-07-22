@@ -40,6 +40,15 @@ batch). Nothing waits for its own batch's next email date.
 11 leads on the LinkedIn lane. (The earlier "8 accepted" count missed the 3 already-connected leads,
 Ashraf, Mohamed Hamdy, Sridhar, who got Message 1 on Day 0 without an accept step.)
 
+## Screenshot review log
+- 2026-07-22: Reviewed Salil's latest "Recently added" connections screenshots, cross-referenced name
+  by name against every pending CR list below. ONE new acceptance matching a pending CR:
+  **Dr. Ahmed Taqi (BBK, b5), connected 2026-07-20** (role "Chief Retail Banking Officer, Bank of
+  Bahrain and Kuwait" confirmed current by the screenshot). His LinkedIn Msg 1 is now due/overdue and
+  will be generated in the batch-05 LinkedIn leg (cross-batch sweep). None of batch-01/02/03/04/06's
+  pending CRs appeared as newly accepted. Specifically, none of batch-04's six pending CRs (Amgad,
+  Mohammad Alomani, Said, Nawaf, Ali, Marian) accepted, so batch-04 has no new Msg 1.
+
 ## Correction log
 - 2026-07-20: Enrique Cuentas was previously parked "held / in conversation." That was an unverified
   assumption (accepted + Msg 1 sent, read as "active"), not a confirmed reply. Gmail shows no email
@@ -60,8 +69,10 @@ When Salil reports an acceptance, Message 1 is generated then and the lead moves
   Marian Kaisser [title VERIFY].
 - b5 (CR sent 2026-07-20, 8 profiles): Hassan Al-Omran (SNB), Hassaan Munir (Emirates Islamic),
   Luciano Di Pietro (KFH), Abdullah Al-Tuwaijri (Boubyan), Constantinos Constantinides (QIB),
-  Eiman Al-Naemi (CBQ, https://www.linkedin.com/in/eiman-al-naemi/), Ahmed Taqi (BBK,
-  https://www.linkedin.com/in/dr-ahmed-taqi-89aba215/), Karim Morcos (Banque du Caire).
+  Eiman Al-Naemi (CBQ, https://www.linkedin.com/in/eiman-al-naemi/), Karim Morcos (Banque du Caire).
+  ACCEPTED (per 2026-07-22 screenshots): Ahmed Taqi (BBK,
+  https://www.linkedin.com/in/dr-ahmed-taqi-89aba215/), connected 2026-07-20 -> LinkedIn Msg 1 DUE,
+  to be generated in the batch-05 LinkedIn leg.
   Email-only, no LinkedIn located: Sharif Rafei (NBF).
   OAB: Anuj Madan SUPPRESSED (left the bank). REPLACED by Ziad Alshami (Head of CRM & Data Analytics,
   OAB, https://www.linkedin.com/in/ziad-alshami-57a21a14, verified email, current since 2021).

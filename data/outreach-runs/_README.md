@@ -52,7 +52,7 @@ in the reply to Salil, without being asked. Never make him ask for it. Link form
 | batch-01 | Gulf+Egypt banking | 2026-07-13 (Mon) | 10 | touch 2 (2026-07-16) | touch 3 → Wed 2026-07-22 |
 | batch-02 | Gulf+Egypt banking | 2026-07-14 (Tue) | 10 | touch 2 (2026-07-19, sent) | touch 3 → Thu 2026-07-23 |
 | batch-03 | Gulf+Egypt banking | 2026-07-15 (Wed) | 10 | touch 2 (sent 2026-07-20) | touch 3 → Sun 2026-07-26 |
-| batch-04 | Gulf+Egypt banking | 2026-07-16 (Thu) | 10 | touch 2 (drafted 2026-07-21, no replies/bounces) | touch 3 → Wed 2026-07-29 |
+| batch-04 | Gulf+Egypt banking | 2026-07-16 (Thu) | 10 | touch 2 (v1.2 regenerated + drafted 2026-07-22, pending send; stale 07-21 v1.1 drafts to be trashed) | touch 3 → Wed 2026-07-29 |
 | batch-05 | Gulf+Egypt banking | 2026-07-20 (Mon) | 10 | touch 1 sent 2026-07-20 (10 emails, 9 CRs; OAB = Ziad Alshami) | touch 2 → Mon 2026-07-27 |
 
 | batch-06 | Gulf+Egypt banking | 2026-07-20 (Mon) | 10 | touch 1 (drafted) | touch 2 → Tue 2026-07-28 |
@@ -128,6 +128,10 @@ can read the schedule at a glance. Current live schedule:
 - batch-02: Sami Zadjali (BankDhofar) title [VERIFY] before any LinkedIn message.
 - batch-04: Marian Kaisser (CA Egypt) title CONFIRMED 2026-07-21 = Head of Proximity Banking
   Development, Marketing & Customer Experience (The Org / RocketReach / ZoomInfo). [VERIFY] cleared.
+  Mahmoud Okasha (AAIB) [VERIFY identity]: connected LinkedIn profile reads "Solutions Architect |
+  Digital Transformation & System Integration | CRM, Contact Center, RPA, AI Automation", not the
+  target "Head of CRM & Automation". Email mokasha@aaib.com did not bounce at touch 1; copy is
+  persona-neutral. Salil to eyeball the profile before his email + LinkedIn Msg 2 send.
 - batch-05: Ziad Alshami (OAB) email ziad.alshami@oman-arabbank.com BOUNCED 2026-07-20 (Address not
   found) → suppress email, LinkedIn only. Sharif Rafei (NBF) sharif.rafei@nbf.ae BOUNCED 2026-07-20 →
   suppress email (was already LinkedIn-unlocatable, so parked). Apply on batch-05's Mon 07-27 run.
