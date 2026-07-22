@@ -55,7 +55,7 @@ in the reply to Salil, without being asked. Never make him ask for it. Link form
 | batch-04 | Gulf+Egypt banking | 2026-07-16 (Thu) | 10 | touch 2 (v1.2 SENT + Zoho logged 2026-07-22; stale 07-21 v1.1 drafts deleted; LinkedIn Msg 2 generated for the 4 accepted) | touch 3 → Wed 2026-07-29 |
 | batch-05 | Gulf+Egypt banking | 2026-07-20 (Mon) | 10 | touch 1 sent 2026-07-20 (10 emails, 9 CRs; OAB = Ziad Alshami) | touch 2 → Mon 2026-07-27 |
 
-| batch-06 | Gulf+Egypt banking | 2026-07-20 (Mon) | 10 | touch 1 (drafted) | touch 2 → Tue 2026-07-28 |
+| batch-06 | Gulf+Egypt banking | 2026-07-22 (Wed, v1.2) | 10 | touch 1 (v1.2 regenerated + drafted 2026-07-22, pending send; stale v1.1 drafts to delete; 10 note-less CRs to send) | touch 2 → Tue 2026-07-28 |
 
 60 leads total; batch-05 is 10 active (Anuj Madan/OAB suppressed after he left the bank, replaced by
 Ziad Alshami, verified). batch-06: all 10 LinkedIn-confirmed, all 10 emails pattern-unverified
