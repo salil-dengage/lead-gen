@@ -4,3 +4,7 @@ batches/
 results/
 zoho_3country_accounts.tsv
 reconciliation_in.tsv
+write_data.tsv
+create_all.json
+enrich_all.json
+zoho_write_log.tsv
