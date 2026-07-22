@@ -2,3 +2,5 @@
 # Final deliverables (verified_master.*, README, candidate TSVs) are committed explicitly.
 batches/
 results/
+zoho_3country_accounts.tsv
+reconciliation_in.tsv
