@@ -9,17 +9,17 @@ Saudi Arabia	Adam Medical Company	adamonline.com	web_verified	B	ENRICH_name	3978
 Kuwait	aDawliah Electronics	adawliahstore.com	web_verified	B	ENRICH_name	3978798000015870013	aDawliah Electronics
 Saudi Arabia	مجموعة عادل كير الطبية	adelcare.sa	web_verified	A	CREATE		
 Saudi Arabia	Alesayi Electronics | العيسائي للإلكترونيات	aecksa.com	web_verified	B	ENRICH_name	3978798000084747263	Alesayi Electronics | العيسائي للإلكترونيات
-Saudi Arabia	Ahmad A. Abed		firmographic	na	CREATE		
+Saudi Arabia	Ahmad A. Abed		firmographic_reviewed	na	CREATE		
 Qatar	Al Anees Group		judged	na	CREATE		
-Saudi Arabia	Al Majed for Oud الماجد للعود		firmographic	na	ENRICH_name	3978798000012340248	Al Majed for oud
-Qatar	Al Meera Consumer Goods Company		firmographic	na	POSSIBLE_MATCH	3978798000070733009	Al Meera Group
-Kuwait	Al Nasser Kuwait		firmographic	na	POSSIBLE_MATCH	3978798000084745770	AL Nasser Investment Holding Company
-Saudi Arabia	Al Raya For Foodstuff Company Ltd.		firmographic	na	CREATE		
-Saudi Arabia	Al Sadhan Trading Co		firmographic	na	CREATE		
+Saudi Arabia	Al Majed for Oud الماجد للعود		firmographic_reviewed	na	ENRICH_name	3978798000012340248	Al Majed for oud
+Qatar	Al Meera Consumer Goods Company		firmographic_reviewed	na	POSSIBLE_MATCH	3978798000070733009	Al Meera Group
+Kuwait	Al Nasser Kuwait		firmographic_reviewed	na	POSSIBLE_MATCH	3978798000084745770	AL Nasser Investment Holding Company
+Saudi Arabia	Al Raya For Foodstuff Company Ltd.		firmographic_reviewed	na	CREATE		
+Saudi Arabia	Al Sadhan Trading Co		firmographic_reviewed	na	CREATE		
 Saudi Arabia	Al-Dawaa Medical Services Co.	al-dawaa.com.sa	web_verified	A	CREATE		
 Saudi Arabia	ALHADDAD | الحداد	al-haddad.com	web_verified	A	CREATE		
 Saudi Arabia	Al jazera Markets	al-jazera.sa	web_verified	B	ENRICH_domain	3978798000138949009	Al jazera Markets
-Saudi Arabia	Al-Maha Optical المها للبصريات		firmographic	na	CREATE		
+Saudi Arabia	Al-Maha Optical المها للبصريات		firmographic_reviewed	na	CREATE		
 Saudi Arabia	Al Sadhan Group	al-sadhan.com	web_verified	A	POSSIBLE_MATCH	3978798000084746822	Al Sadhan Stores
 Saudi Arabia	ALSAFA UNITED	al-safaunited.com	web_verified	A	CREATE		
 Saudi Arabia	Al Sawani Group	al-sawani.com	web_verified	A	CREATE		
@@ -35,7 +35,7 @@ Qatar	Al Aziziya Pharmacy	alaziziyapharmacy.com	web_verified	B	CREATE
 Saudi Arabia	Al Barakat Group Co Ltd.	albarakatgroup.com	web_verified	B	CREATE		
 Saudi Arabia	ALBASEM الباسم	albasem.com.sa	web_verified	B	CREATE		
 Saudi Arabia	ALdakheel Oud الدخيل للعود	aldakheeloud.com	web_verified	A	ENRICH_name	3978798000084746847	ALdakheel Oud الدخيل للعود
-Saudi Arabia	aldawaa		firmographic	na	CREATE		
+Saudi Arabia	aldawaa		firmographic_reviewed	na	CREATE		
 Kuwait	Aldawaeya	aldawaeya.com	web_verified	B	ENRICH_name	3978798000043259320	Aldawaeya
 Saudi Arabia	Aleef	aleef.com	web_verified	na	ENRICH_name	3978798000138949051	aleef
 Saudi Arabia	alephksa	alephksa.com	web_verified	B	ENRICH_domain	3978798000138833136	alephksa
@@ -45,344 +45,325 @@ Qatar	Ali Bin Ali Group	alibinali.com	web_verified	A	ENRICH_domain	3978798000008
 Saudi Arabia	شركة الجازع الطبية | Al-Jazea Medical Company	aljazeaonline.com	web_verified	na	CREATE		
 Qatar	Al Jazeera Perfumes	aljazeeraperfumes.com	web_verified	B	CREATE		
 Saudi Arabia	Abdul Latif Jameel Electronics	alje.com	web_verified	A	POSSIBLE_MATCH	3978798000104179230	Abdul Latif Jameel
-Saudi Arabia	Almadina Holding Company		firmographic	na	CREATE		
+Saudi Arabia	Almadina Holding Company		firmographic_reviewed	na	CREATE		
 Saudi Arabia	ALMAHA OPTICAL	almahaopt.com	web_verified	B	CREATE		
 Saudi Arabia	Al Majed Oud.co	almajed4oud.com	web_verified	A	ENRICH_name	3978798000012340248	Al Majed for oud
 Saudi Arabia	ALMAKTABA	almaktaba.com.sa	judged	na	ENRICH_name	3978798000084748270	ALMAKTABA
 Saudi Arabia	Almanea Co.	almanea.sa	judged	na	ENRICH_name	3978798000084746790	Almanea Co.
-Qatar	ALMEERA CONSUMER GOODS COMPANY QSC		firmographic	na	CREATE		
-Saudi Arabia	المذاق العربي	almthaqalarabi.com	firmographic	na	CREATE		
-Saudi Arabia	Al Mujtama Pharmacy	almujtama.com.sa	firmographic	B	CREATE		
-Saudi Arabia	Al Musbah Group	almusbah.com	firmographic	A	ENRICH_name	3978798000084746687	Al Musbah Group
+Qatar	ALMEERA CONSUMER GOODS COMPANY QSC		firmographic_reviewed	na	CREATE		
+Saudi Arabia	المذاق العربي	almthaqalarabi.com	firmographic_reviewed	na	CREATE		
+Saudi Arabia	Al Mujtama Pharmacy	almujtama.com.sa	firmographic_reviewed	B	CREATE		
+Saudi Arabia	Al Musbah Group	almusbah.com	firmographic_reviewed	A	ENRICH_name	3978798000084746687	Al Musbah Group
 Saudi Arabia	Almutlaq Company	almutlaqco.com.sa	judged	B	ENRICH_name	3978798000084745780	Almutlaq Group
-Saudi Arabia	AlNafea Foods	alnafeafoods.com	firmographic	na	CREATE		
-Saudi Arabia	Al Nahhas Pharmacie	alnahhas.com	firmographic	na	CREATE		
+Saudi Arabia	AlNafea Foods	alnafeafoods.com	firmographic_reviewed	na	CREATE		
+Saudi Arabia	Al Nahhas Pharmacie	alnahhas.com	firmographic_reviewed	na	CREATE		
 Kuwait	AL NASSER	alnasser.net	web_verified	A	POSSIBLE_MATCH	3978798000084745770	AL Nasser Investment Holding Company
 Saudi Arabia	Alomar Furniture Company شركة مفروشات العمر	alomar.com.sa	judged	na	CREATE		
-Kuwait	Al Ostoura International Company	alostoura.com	firmographic	B	CREATE		
+Kuwait	Al Ostoura International Company	alostoura.com	firmographic_reviewed	B	CREATE		
 Saudi Arabia	مفارش العييري	aloyayri.sa	judged	na	CREATE		
-Saudi Arabia	الرشيد Alrasheed	alrasheedsweet.com	firmographic	na	CREATE		
-Qatar	Al Rawabi Group of Companies W.L.L	alrawabigroup.com	firmographic	na	CREATE		
+Saudi Arabia	الرشيد Alrasheed	alrasheedsweet.com	firmographic_reviewed	na	CREATE		
+Qatar	Al Rawabi Group of Companies W.L.L	alrawabigroup.com	firmographic_reviewed	na	CREATE		
 Saudi Arabia	ALRAYA الراية	alraya.com.sa	web_verified	A	ENRICH_name	3978798000084744817	ALRAYA الراية
 Saudi Arabia	H. M. Al Rugaib & Sons Trading Co. - شركة حمد محمد الرقيب و أولاده التجارية	alrugaibfurniture.com	judged	B	ENRICH_name	3978798000017888307	H. M. Al Rugaib & Sons Trading Co. Ltd.
 Saudi Arabia	ALSAIF Trading Agencies Co.	alsaifco.com	judged	na	CREATE		
 Saudi Arabia	alsaifgallery	alsaifgallery.com	judged	B	ENRICH_domain	3978798000138824126	alsaifgallery
-Saudi Arabia	Alsalman Optics	alsalmanoptics.com	firmographic	na	CREATE		
-Saudi Arabia	Alshafi Medical Company	alshafi.sa	firmographic	na	CREATE		
-Saudi Arabia	Alshaya Watches  الشايع للساعات	alshayawatches.com	firmographic	na	ENRICH_name	3978798000084747256	Alshaya Watches
-Kuwait	Alyasra Group		firmographic	na	CREATE		
-Kuwait	Alyasra Fashion	alyasra.com	firmographic	A	CREATE		
-Saudi Arabia	Alymama اليمامة	alymama.net	firmographic	na	CREATE		
-Saudi Arabia	Hassan Misfer Al-Zahrani & Partners Group	alzahrani.com.sa	firmographic	na	CREATE		
-Kuwait	Amal Al-Kuwait	amalalkuwait.com	firmographic	na	CREATE		
-Saudi Arabia	A Market ماركت	amarkets.com.sa	firmographic	na	ENRICH_name	3978798000084747287	A Market
-Saudi Arabia	Anoosh Company	anoosh.sa	firmographic	na	CREATE		
-Kuwait	Green Wing Co. W.L.L	anotah.com	firmographic	na	CREATE		
-Qatar	Ansar Gallery	ansargallery.com	firmographic	na	CREATE		
-Kuwait	Apotheca Beauty	apothecabeauty.com	firmographic	na	CREATE		
-Saudi Arabia	Scent	arabianoud.com	firmographic	B	CREATE		
+Saudi Arabia	Alsalman Optics	alsalmanoptics.com	firmographic_reviewed	na	CREATE		
+Saudi Arabia	Alshafi Medical Company	alshafi.sa	firmographic_reviewed	na	CREATE		
+Saudi Arabia	Alshaya Watches  الشايع للساعات	alshayawatches.com	firmographic_reviewed	na	ENRICH_name	3978798000084747256	Alshaya Watches
+Kuwait	Alyasra Group		firmographic_reviewed	na	CREATE		
+Kuwait	Alyasra Fashion	alyasra.com	firmographic_reviewed	A	CREATE		
+Saudi Arabia	Alymama اليمامة	alymama.net	firmographic_reviewed	na	CREATE		
+Saudi Arabia	Hassan Misfer Al-Zahrani & Partners Group	alzahrani.com.sa	firmographic_reviewed	na	CREATE		
+Kuwait	Amal Al-Kuwait	amalalkuwait.com	firmographic_reviewed	na	CREATE		
+Saudi Arabia	A Market ماركت	amarkets.com.sa	firmographic_reviewed	na	ENRICH_name	3978798000084747287	A Market
+Saudi Arabia	Anoosh Company	anoosh.sa	firmographic_reviewed	na	CREATE		
+Kuwait	Green Wing Co. W.L.L	anotah.com	firmographic_reviewed	na	CREATE		
+Kuwait	Apotheca Beauty	apothecabeauty.com	firmographic_reviewed	na	CREATE		
+Saudi Arabia	Scent	arabianoud.com	firmographic_reviewed	B	CREATE		
 Saudi Arabia	مكتبه جرير	arabplaces.com	judged	na	CREATE		
-Saudi Arabia	Areej AL Khaleej  |  اريج الخليج	areejelkhaleej.net	firmographic	na	CREATE		
-Saudi Arabia	شركة عبداللطيف احمد العرفج وشريكه	arfajco.com	firmographic	na	CREATE		
-Kuwait	Armada Retail Concept	armadagroupco.com	firmographic	A	CREATE		
-Saudi Arabia	Armah Sports Company	armahsports.com	firmographic	B	CREATE		
+Saudi Arabia	Areej AL Khaleej  |  اريج الخليج	areejelkhaleej.net	firmographic_reviewed	na	CREATE		
+Saudi Arabia	شركة عبداللطيف احمد العرفج وشريكه	arfajco.com	firmographic_reviewed	na	CREATE		
+Kuwait	Armada Retail Concept	armadagroupco.com	firmographic_reviewed	A	CREATE		
+Saudi Arabia	Armah Sports Company	armahsports.com	firmographic_reviewed	B	CREATE		
 Saudi Arabia	Arriyadh Roaster محمصة الرياض	arriyadhroaster.com	judged	na	CREATE		
 Kuwait	ARTECASA	artecasa.bz	judged	na	CREATE		
-Saudi Arabia	Aster Pharmacy - صيدلية استر	asterpharmacy.sa	firmographic	na	POSSIBLE_MATCH	3978798000084746768	Aster Pharmacy | Saudi Arabia
-Kuwait	Atyab Al Marshoud	atyabalmarshoud.com	firmographic	na	CREATE		
-Saudi Arabia	بلاك نايت Black Knight	b-k.coffee	firmographic	na	CREATE		
-Saudi Arabia	Baazeem Trading Company	baazeem.com	firmographic	B	CREATE		
-Saudi Arabia	baba khabbaz  بابا خباز	babakhabaz.com	firmographic	na	CREATE		
+Saudi Arabia	Aster Pharmacy - صيدلية استر	asterpharmacy.sa	firmographic_reviewed	na	POSSIBLE_MATCH	3978798000084746768	Aster Pharmacy | Saudi Arabia
+Kuwait	Atyab Al Marshoud	atyabalmarshoud.com	firmographic_reviewed	na	CREATE		
+Saudi Arabia	بلاك نايت Black Knight	b-k.coffee	firmographic_reviewed	na	CREATE		
+Saudi Arabia	Baazeem Trading Company	baazeem.com	firmographic_reviewed	B	CREATE		
+Saudi Arabia	baba khabbaz  بابا خباز	babakhabaz.com	firmographic_reviewed	na	CREATE		
 Saudi Arabia	باك كمفورت - Backcomfort	backcomfort.com.sa	judged	na	CREATE		
-Kuwait	Baix Bakery	baixbakery.com	firmographic	na	CREATE		
-Qatar	BaladiMart	baladiexpress.com	firmographic	na	CREATE		
-Qatar	Al Baladi Holding	baladiholding.com	firmographic	na	CREATE		
-Saudi Arabia	Balsam Medical Care	balsemcare.com	firmographic	na	ENRICH_name	3978798000084744827	Balsam Medical Care Company
-Saudi Arabia	Balsharaf Group	balsharaf.com.sa	firmographic	na	CREATE		
-Saudi Arabia	Barakah	barakah.app	firmographic	B	ENRICH_name	3978798000084745392	Barakah
-Saudi Arabia	Barns	barns.com.sa	firmographic	na	CREATE		
-Kuwait	Bartone Cafe & Restaurant	bartone-me.com	firmographic	na	CREATE		
-Saudi Arabia	BATOOK HOLDING COMPANY	batook.com	firmographic	B	CREATE		
-Saudi Arabia	Bayt Aladwia Pharmacy	baytaladwia.com	firmographic	na	CREATE		
-Saudi Arabia	Bed Quarter Company	bedquarter.com	firmographic	na	ENRICH_name	3978798000084746878	Bed Quarter Company
-Kuwait	Beidoun Trading Co.	beidoun.com	firmographic	na	CREATE		
-Qatar	Belleza	belleza.qa	firmographic	na	CREATE		
-Saudi Arabia	BinDawood Holding	bindawoodholding.com	firmographic	A	ENRICH_name	3978798000084746769	BinDawood Holding
-Qatar	Bin Yousef	binyousef.com	firmographic	na	CREATE		
+Kuwait	Baix Bakery	baixbakery.com	firmographic_reviewed	na	CREATE		
+Qatar	BaladiMart	baladiexpress.com	firmographic_reviewed	na	CREATE		
+Qatar	Al Baladi Holding	baladiholding.com	firmographic_reviewed	na	CREATE		
+Saudi Arabia	Balsam Medical Care	balsemcare.com	firmographic_reviewed	na	ENRICH_name	3978798000084744827	Balsam Medical Care Company
+Saudi Arabia	Balsharaf Group	balsharaf.com.sa	firmographic_reviewed	na	CREATE		
+Kuwait	Baqala	baqala.me	firmographic_reviewed	na	CREATE		
+Saudi Arabia	Barakah	barakah.app	firmographic_reviewed	B	ENRICH_name	3978798000084745392	Barakah
+Saudi Arabia	Barns	barns.com.sa	firmographic_reviewed	na	CREATE		
+Kuwait	Bartone Cafe & Restaurant	bartone-me.com	firmographic_reviewed	na	CREATE		
+Saudi Arabia	BATOOK HOLDING COMPANY	batook.com	firmographic_reviewed	B	CREATE		
+Saudi Arabia	Bayt Aladwia Pharmacy	baytaladwia.com	firmographic_reviewed	na	CREATE		
+Saudi Arabia	Bed Quarter Company	bedquarter.com	firmographic_reviewed	na	ENRICH_name	3978798000084746878	Bed Quarter Company
+Kuwait	Beidoun Trading Co.	beidoun.com	firmographic_reviewed	na	CREATE		
+Qatar	Belleza	belleza.qa	firmographic_reviewed	na	CREATE		
+Saudi Arabia	BinDawood Holding	bindawoodholding.com	firmographic_reviewed	A	ENRICH_name	3978798000084746769	BinDawood Holding
+Qatar	Bin Yousef	binyousef.com	firmographic_reviewed	na	CREATE		
 Kuwait	ABYAT	blink.com.kw	judged	B	ENRICH_domain	3978798000014961175	ABYAT
-Saudi Arabia	Blooming Wear	bloomingwear.com	firmographic	na	ENRICH_name	3978798000084747833	Blooming Wear
-Qatar	Blue Salon	bluesalon.com	firmographic	B	POSSIBLE_MATCH	3978798000084748771	BLUE.sa
-Saudi Arabia	Blue Sky Company	blueskycoffe.com	firmographic	na	CREATE		
-Saudi Arabia	Bostani	bostani.com	firmographic	na	CREATE		
+Saudi Arabia	Blooming Wear	bloomingwear.com	firmographic_reviewed	na	ENRICH_name	3978798000084747833	Blooming Wear
+Qatar	Blue Salon	bluesalon.com	firmographic_reviewed	B	POSSIBLE_MATCH	3978798000084748771	BLUE.sa
+Saudi Arabia	Blue Sky Company	blueskycoffe.com	firmographic_reviewed	na	CREATE		
+Saudi Arabia	Bostani	bostani.com	firmographic_reviewed	na	CREATE		
 Kuwait	Boutiqat	boutiqat.com	judged	na	CREATE		
-Qatar	BTC Fashion	btcfashion.me	firmographic	na	CREATE		
-Saudi Arabia	خطوة جمل | Camel Step	camelstep.com	firmographic	B	CREATE		
-Qatar	Care n Cure Group	carencurepharmacy.com	firmographic	na	CREATE		
+Qatar	BTC Fashion	btcfashion.me	firmographic_reviewed	na	CREATE		
+Saudi Arabia	خطوة جمل | Camel Step	camelstep.com	firmographic_reviewed	B	CREATE		
+Qatar	Care n Cure Group	carencurepharmacy.com	firmographic_reviewed	na	CREATE		
 Saudi Arabia	Casa Piu	casapiu.com.sa	judged	na	CREATE		
 Saudi Arabia	Cenomi		judged	A	ENRICH_name	3978798000084746767	Cenomi Group
 Saudi Arabia	Cenomi Group	cenomi.com	judged	na	ENRICH_name	3978798000084746767	Cenomi Group
-Saudi Arabia	Circle K Alsulaiman	circlek.com.sa	firmographic	na	POSSIBLE_MATCH	3978798000084746842	Circle K Arabia
-Saudi Arabia	wholefoodmarket	cmcjuly2022.in	firmographic	na	CREATE		
 Saudi Arabia	Coffee Complex - كوفي كومبلكس	coffeecomplex.com	judged	na	ENRICH_name	3978798000084747422	Coffee Complex - كوفي كومبلكس
-Kuwait	Cozmo Group	cozmogroup.com	firmographic	na	CREATE		
+Kuwait	Cozmo Group	cozmogroup.com	firmographic_reviewed	na	CREATE		
 Qatar	CRYSTALS	crystals.qa	judged	na	CREATE		
-Saudi Arabia	Al Daajan Holding	daajan.com	firmographic	na	CREATE		
+Saudi Arabia	Al Daajan Holding	daajan.com	firmographic_reviewed	na	CREATE		
 Kuwait	Dabdoob	dabdoob.com	judged	B	CREATE		
-Qatar	Dana Group Qatar	danahypermarket.com	firmographic	na	CREATE		
-Saudi Arabia	Danube	danube.sa	firmographic	A	ENRICH_name	3978798000014947049	Danube
-Saudi Arabia	شركة دار الشاي العربي للتجارة DAR ALSHAI ALARABI TRADING .CO	daralshaistore.com	firmographic	na	CREATE		
-Saudi Arabia	Darat al-Qahwa	daratalqahwa.com	firmographic	na	CREATE		
-Qatar	Dawaa Pharmacy -صيدلية دواء	dawaapharma.com	firmographic	na	CREATE		
+Qatar	Dana Group Qatar	danahypermarket.com	firmographic_reviewed	na	CREATE		
+Saudi Arabia	Danube	danube.sa	firmographic_reviewed	A	ENRICH_name	3978798000014947049	Danube
+Saudi Arabia	شركة دار الشاي العربي للتجارة DAR ALSHAI ALARABI TRADING .CO	daralshaistore.com	firmographic_reviewed	na	CREATE		
+Saudi Arabia	Darat al-Qahwa	daratalqahwa.com	firmographic_reviewed	na	CREATE		
+Qatar	Dawaa Pharmacy -صيدلية دواء	dawaapharma.com	firmographic_reviewed	na	CREATE		
 Saudi Arabia	Delta Fitness | دلتا فتنس	delta-fitness.com	judged	na	CREATE		
 Saudi Arabia	DELTA (DMC)	deltamarketingco.com	judged	B	ENRICH_name	3978798000084746812	DELTA (DMC)
-Saudi Arabia	Deraah Trading Company	deraah.com.sa	firmographic	B	CREATE		
-Saudi Arabia	Dkhoon Emirates	dkhoonemirates.com	firmographic	na	ENRICH_name	3978798000084747202	Dkhoon Emirates
-Saudi Arabia	DKHOUN دخون	dkhoun.com	firmographic	B	ENRICH_name	3978798000084747209	DKHOUN دخون
-Saudi Arabia	doctorhouseshop	doctorhouseshop.com	firmographic	na	ENRICH_domain	3978798000138833189	doctorhouseshop
-Saudi Arabia	Doos دووس	doos.sa	firmographic	na	CREATE		
-Saudi Arabia	Dose Cafe | دوز كافيه	dosecafeksa.com	firmographic	na	CREATE		
-Saudi Arabia	dr.CAFE® COFFEE SAUDI ARABIA	drcafe.com	firmographic	B	CREATE		
+Saudi Arabia	Deraah Trading Company	deraah.com.sa	firmographic_reviewed	B	CREATE		
+Saudi Arabia	DKHOUN دخون	dkhoun.com	firmographic_reviewed	B	ENRICH_name	3978798000084747209	DKHOUN دخون
+Saudi Arabia	doctorhouseshop	doctorhouseshop.com	firmographic_reviewed	na	ENRICH_domain	3978798000138833189	doctorhouseshop
+Saudi Arabia	Doos دووس	doos.sa	firmographic_reviewed	na	CREATE		
+Saudi Arabia	Dose Cafe | دوز كافيه	dosecafeksa.com	firmographic_reviewed	na	CREATE		
+Saudi Arabia	dr.CAFE® COFFEE SAUDI ARABIA	drcafe.com	firmographic_reviewed	B	CREATE		
 Saudi Arabia	Dream Fitness حلم الرشاقة	dreamfitness.shop	judged	na	CREATE		
-Saudi Arabia	drslounge	drslounge.com	firmographic	na	ENRICH_domain	3978798000138833074	drslounge
-Saudi Arabia	Dukan Retailing Company	dukan.me	firmographic	na	ENRICH_name	3978798000084744820	Dukan Retailing Company
+Saudi Arabia	drslounge	drslounge.com	firmographic_reviewed	na	ENRICH_domain	3978798000138833074	drslounge
+Saudi Arabia	Dukan Retailing Company	dukan.me	firmographic_reviewed	na	ENRICH_name	3978798000084744820	Dukan Retailing Company
 Kuwait	EARTH ROASTERY	earthroastery.com	judged	na	CREATE		
 Saudi Arabia	EDDY - Home & Electronics	eddy.com.sa	judged	na	ENRICH_name	3978798000084746799	EDDY - Home & Electronics
 Qatar	TechnoBlue	electronyat.qa	judged	na	CREATE		
 Saudi Arabia	Elfaleh Sports House	elfaleh.sa	judged	B	ENRICH_name	3978798000084746838	Elfaleh Sports House
 Kuwait	Eureka Trading Co. W.L.L.	eureka.com.kw	judged	na	CREATE		
-Qatar	Ever Fashion Luxury Group	everfashionluxurygroup.com	firmographic	na	CREATE		
-Saudi Arabia	Express Food Company		firmographic	na	CREATE		
+Qatar	Ever Fashion Luxury Group	everfashionluxurygroup.com	firmographic_reviewed	na	CREATE		
+Saudi Arabia	Express Food Company		firmographic_reviewed	na	CREATE		
 Saudi Arabia	extra	extra.com	judged	A	ENRICH_domain	3978798000014369032	extra
 Kuwait	Extreme Sports	extreme.com.kw	judged	na	CREATE		
-Saudi Arabia	عطور فيصل الدايل | Faisal Aldayel Perfumes	faisalaldayel.com	firmographic	na	CREATE		
-Saudi Arabia	Fakeeh Vision	fakeehvision.com	firmographic	na	ENRICH_name	3978798000084747200	Fakeeh Vision
-Qatar	Family Food Centre	family.qa	firmographic	B	CREATE		
-Saudi Arabia	Farm	farm.com.sa	firmographic	A	ENRICH_name	3978798000084746784	Farm
+Saudi Arabia	عطور فيصل الدايل | Faisal Aldayel Perfumes	faisalaldayel.com	firmographic_reviewed	na	CREATE		
+Qatar	Family Food Centre	family.qa	firmographic_reviewed	B	CREATE		
+Saudi Arabia	Farm	farm.com.sa	firmographic_reviewed	A	ENRICH_name	3978798000084746784	Farm
 Kuwait	Future Communications Company	fcc-kuwait.com	judged	na	CREATE		
-Saudi Arabia	Fitaihi	fitaihi.com.sa	firmographic	B	CREATE		
+Saudi Arabia	Fitaihi	fitaihi.com.sa	firmographic_reviewed	B	CREATE		
 Saudi Arabia	Floward	floward.co	judged	B	ENRICH_name	3978798000020722262	Floward
-Kuwait	Food Industries Company		firmographic	na	POSSIBLE_MATCH	3978798000084734357	معهد الصناعات الغذائية-Food Industries Polytechnic
-Saudi Arabia	Food Gate	foodgate.com	firmographic	na	CREATE		
-Saudi Arabia	Food Unit Company	foodunitco.com	firmographic	na	CREATE		
-Saudi Arabia	Forsan Foods and Consumer Products Company Ltd.	forsan.com.sa	firmographic	na	CREATE		
-Kuwait	Froyo Cafe	froyo.com.kw	firmographic	na	CREATE		
+Kuwait	Food Industries Company		firmographic_reviewed	na	POSSIBLE_MATCH	3978798000084734357	معهد الصناعات الغذائية-Food Industries Polytechnic
+Saudi Arabia	Food Gate	foodgate.com	firmographic_reviewed	na	CREATE		
+Saudi Arabia	Food Unit Company	foodunitco.com	firmographic_reviewed	na	CREATE		
+Saudi Arabia	Forsan Foods and Consumer Products Company Ltd.	forsan.com.sa	firmographic_reviewed	na	CREATE		
+Kuwait	Froyo Cafe	froyo.com.kw	firmographic_reviewed	na	CREATE		
 Kuwait	Game Store Company	gamestore.com.kw	judged	na	CREATE		
-Saudi Arabia	Srya | سَرِيّا	ganache-sa.com	firmographic	na	CREATE		
-Saudi Arabia	Gazzaz قزاز		firmographic	B	ENRICH_name	3978798000084747935	Gazzaz قزاز
-Saudi Arabia	GET MENA	get.med.sa	firmographic	na	CREATE		
-Saudi Arabia	شركة اطياب غناتي التجارية	ghanaty.com	firmographic	na	CREATE		
-Saudi Arabia	Ghaya Pharmacies Limited	ghaya-pharmacy.com	firmographic	na	CREATE		
+Saudi Arabia	Srya | سَرِيّا	ganache-sa.com	firmographic_reviewed	na	CREATE		
+Saudi Arabia	Gazzaz قزاز		firmographic_reviewed	B	ENRICH_name	3978798000084747935	Gazzaz قزاز
+Saudi Arabia	GET MENA	get.med.sa	firmographic_reviewed	na	CREATE		
+Saudi Arabia	شركة اطياب غناتي التجارية	ghanaty.com	firmographic_reviewed	na	CREATE		
+Saudi Arabia	Ghaya Pharmacies Limited	ghaya-pharmacy.com	firmographic_reviewed	na	CREATE		
 Saudi Arabia	Gift Mart International	giftmart.net	judged	na	ENRICH_name	3978798000084746418	Gift Mart International
-Kuwait	GISSAH	gissah.com	firmographic	B	CREATE		
-Kuwait	Go Fresh	gofresh.com.kw	firmographic	na	CREATE		
-Saudi Arabia	Goodies Selections Saudi Arabia	goodies.com.sa	firmographic	na	CREATE		
+Kuwait	GISSAH	gissah.com	firmographic_reviewed	B	CREATE		
+Kuwait	Go Fresh	gofresh.com.kw	firmographic_reviewed	na	CREATE		
+Saudi Arabia	Goodies Selections Saudi Arabia	goodies.com.sa	firmographic_reviewed	na	CREATE		
 Saudi Arabia	Gozl Trading Company	gozl.com.sa	judged	na	CREATE		
-Qatar	GRAND HYPER MARKET		firmographic	na	CREATE		
-Qatar	Grand Mart Group	grandmartgroup.com	firmographic	B	CREATE		
-Kuwait	Groupxen	groupxen.com	firmographic	na	CREATE		
-Kuwait	Gulf Fashion General Trading Company	gulf-fashion.com	firmographic	na	CREATE		
-Qatar	Gulf Beauty International	gulfbeautytrading.com	firmographic	na	CREATE		
+Kuwait	Groupxen	groupxen.com	firmographic_reviewed	na	CREATE		
+Kuwait	Gulf Fashion General Trading Company	gulf-fashion.com	firmographic_reviewed	na	CREATE		
+Qatar	Gulf Beauty International	gulfbeautytrading.com	firmographic_reviewed	na	CREATE		
 Kuwait	Gulf Group	gulfgroupholding.com	judged	B	CREATE		
 Saudi Arabia	Hail House بيت هايل	hail-house.sa	judged	na	CREATE		
-Kuwait	Mohamed Naser Al-Hajery & Sons Ltd.	hajery.com	firmographic	B	ENRICH_domain	3978798000014961337	Mohamed Naser Al-Hajery & Sons Ltd.
-Saudi Arabia	Hakeem Oyoun | حكيم عيون	hakeem.sa	firmographic	na	ENRICH_name	3978798000084747950	Hakeem Oyoun | حكيم عيون
-Kuwait	Hanan Dashti Company	hanandashtishop.com	firmographic	na	CREATE		
+Kuwait	Mohamed Naser Al-Hajery & Sons Ltd.	hajery.com	firmographic_reviewed	B	ENRICH_domain	3978798000014961337	Mohamed Naser Al-Hajery & Sons Ltd.
+Saudi Arabia	Hakeem Oyoun | حكيم عيون	hakeem.sa	firmographic_reviewed	na	ENRICH_name	3978798000084747950	Hakeem Oyoun | حكيم عيون
+Kuwait	Hanan Dashti Company	hanandashtishop.com	firmographic_reviewed	na	CREATE		
 Kuwait	Hassan Abul Co.	hassanabul.com	judged	B	CREATE		
 Kuwait	Hassan's Optician Co.	hassans.com	judged	B	CREATE		
 Qatar	AL MAKTAB AL QATARI AL HOLLANDI WLL	hollandi.com	judged	na	CREATE		
 Kuwait	Home & Garden	homeandgarden.cc	judged	na	CREATE		
-Saudi Arabia	Ibrand - اي براند	ibrand.com.sa	firmographic	na	ENRICH_name	3978798000084746808	iBRAND
-Saudi Arabia	إبراق | IBRAQ	ibraqperfumes.com	firmographic	na	CREATE		
+Saudi Arabia	Ibrand - اي براند	ibrand.com.sa	firmographic_reviewed	na	ENRICH_name	3978798000084746808	iBRAND
+Saudi Arabia	إبراق | IBRAQ	ibraqperfumes.com	firmographic_reviewed	na	CREATE		
 Saudi Arabia	iHome-آي هوم	ihomestore.com	judged	na	CREATE		
-Qatar	IMC Kulud Pharmacy		firmographic	na	CREATE		
-Qatar	International Medical Company (Kulud Pharmacy)	imcqatar.com	firmographic	na	CREATE		
-Saudi Arabia	صيدليات انوفا - Innova Pharmacy	innovapharmacy.com	firmographic	B	CREATE		
-Saudi Arabia	Rolly	itsrolly.com	firmographic	na	CREATE		
-Saudi Arabia	Jamjoom Fashion	jamjoomfashion.com	firmographic	B	CREATE		
-Saudi Arabia	Kabbani Trading Center	jareersweets.com	firmographic	B	CREATE		
+Qatar	IMC Kulud Pharmacy		firmographic_reviewed	na	CREATE		
+Qatar	International Medical Company (Kulud Pharmacy)	imcqatar.com	firmographic_reviewed	na	CREATE		
+Saudi Arabia	صيدليات انوفا - Innova Pharmacy	innovapharmacy.com	firmographic_reviewed	B	CREATE		
+Saudi Arabia	Rolly	itsrolly.com	firmographic_reviewed	na	CREATE		
+Saudi Arabia	Jamjoom Fashion	jamjoomfashion.com	firmographic_reviewed	B	CREATE		
+Saudi Arabia	Kabbani Trading Center	jareersweets.com	firmographic_reviewed	B	CREATE		
 Saudi Arabia	Jarir Bookstore	jarir.com	judged	A	ENRICH_name	3978798000009702238	Jarir Bookstore
-Saudi Arabia	Saudi Jawahir	jawahir.sa	firmographic	B	ENRICH_name	3978798000084746817	Saudi Jawahir
+Saudi Arabia	Saudi Jawahir	jawahir.sa	firmographic_reviewed	B	ENRICH_name	3978798000084746817	Saudi Jawahir
 Saudi Arabia	مكتبة الجزيرة	jazeara.com	judged	na	CREATE		
-Saudi Arabia	Jazirat Samaa Fashion		firmographic	na	CREATE		
+Saudi Arabia	Jazirat Samaa Fashion		firmographic_reviewed	na	CREATE		
 Saudi Arabia	Jeddah Duty Free  السوق الحرة جدة		judged	na	CREATE		
-Saudi Arabia	Kafak International Company	kafak.net	firmographic	na	ENRICH_name	3978798000084746832	Kafak International Company
-Kuwait	Kana Group	kanagroup.com	firmographic	na	CREATE		
-Kuwait	KAPICO	kapicogroup.com	firmographic	na	CREATE		
-Saudi Arabia	KartNGo	kartngo.co	firmographic	na	ENRICH_name	3978798000084747334	KartNGo
-Saudi Arabia	kayanee	kayanee.com	firmographic	na	ENRICH_domain	3978798000084747327	kayanee
-Saudi Arabia	Kenz Woman	kenzwoman.com	firmographic	B	ENRICH_domain	3978798000138833077	kenzwoman
+Saudi Arabia	Kafak International Company	kafak.net	firmographic_reviewed	na	ENRICH_name	3978798000084746832	Kafak International Company
+Kuwait	Kana Group	kanagroup.com	firmographic_reviewed	na	CREATE		
+Kuwait	KAPICO	kapicogroup.com	firmographic_reviewed	na	CREATE		
+Saudi Arabia	KartNGo	kartngo.co	firmographic_reviewed	na	ENRICH_name	3978798000084747334	KartNGo
+Saudi Arabia	kayanee	kayanee.com	firmographic_reviewed	na	ENRICH_domain	3978798000084747327	kayanee
+Saudi Arabia	Kenz Woman	kenzwoman.com	firmographic_reviewed	B	ENRICH_domain	3978798000138833077	kenzwoman
 Saudi Arabia	Al Khairat Company	khairat.com	judged	na	CREATE		
 Qatar	KIDDY ZONE	kiddyzone.com	judged	na	CREATE		
-Saudi Arabia	Knoz El Hekma - شركة كنوز الحكمة	knozelhekma.com	firmographic	na	ENRICH_name	3978798000084746814	Knoz El Hekma - شركة كنوز الحكمة
-Saudi Arabia	Laverne Group | مجموعة لافيرن	laverne.com	firmographic	na	CREATE		
-Saudi Arabia	lazurde	lazurde.com	firmographic	A	ENRICH_domain	3978798000030304454	lazurde
-Saudi Arabia	Lemon Pharmacy	lemon.sa	firmographic	na	ENRICH_name	3978798000078266008	Lemon Pharmacy
+Saudi Arabia	Knoz El Hekma - شركة كنوز الحكمة	knozelhekma.com	firmographic_reviewed	na	ENRICH_name	3978798000084746814	Knoz El Hekma - شركة كنوز الحكمة
+Saudi Arabia	Laverne Group | مجموعة لافيرن	laverne.com	firmographic_reviewed	na	CREATE		
+Saudi Arabia	lazurde	lazurde.com	firmographic_reviewed	A	ENRICH_domain	3978798000030304454	lazurde
+Saudi Arabia	Lemon Pharmacy	lemon.sa	firmographic_reviewed	na	ENRICH_name	3978798000078266008	Lemon Pharmacy
 Saudi Arabia	Line Furniture	linefurniture.net	judged	na	ENRICH_name	3978798000084747339	Line Furniture
-Saudi Arabia	ليوان | Liwan	liwan.sa	firmographic	na	CREATE		
-Saudi Arabia	lomar	lomar.sa	firmographic	na	ENRICH_domain	3978798000084747837	lomar
-Saudi Arabia	عطور لوريس	lorisksa.com	firmographic	na	CREATE		
-Kuwait	La Plus Belle	lpbkuwait.com	firmographic	na	CREATE		
-Kuwait	LSH ( Homaizi Group)	lshinternational.com	firmographic	na	CREATE		
-Qatar	Lubnaas Boutique		firmographic	na	CREATE		
-Saudi Arabia	Adyaf Gulf Co. Ltd.	madeleine.sa	firmographic	na	CREATE		
+Saudi Arabia	ليوان | Liwan	liwan.sa	firmographic_reviewed	na	CREATE		
+Saudi Arabia	lomar	lomar.sa	firmographic_reviewed	na	ENRICH_domain	3978798000084747837	lomar
+Saudi Arabia	عطور لوريس	lorisksa.com	firmographic_reviewed	na	CREATE		
+Kuwait	La Plus Belle	lpbkuwait.com	firmographic_reviewed	na	CREATE		
+Kuwait	LSH ( Homaizi Group)	lshinternational.com	firmographic_reviewed	na	CREATE		
+Qatar	Lubnaas Boutique		firmographic_reviewed	na	CREATE		
+Saudi Arabia	Adyaf Gulf Co. Ltd.	madeleine.sa	firmographic_reviewed	na	CREATE		
 Qatar	Magaza	magaza.me	judged	na	CREATE		
-Saudi Arabia	Magrabi Hospitals & Centers	magrabihealth.com	firmographic	B	ENRICH_name	3978798000007460296	Magrabi Hospitals & Centers
-Saudi Arabia	مخازن العناية | Makhazen Alenayah	makhazenalenaya.sa	firmographic	na	CREATE		
-Saudi Arabia	Makkah Hypermarket Saudi Arabia	makkahhyper.com	firmographic	na	ENRICH_name	3978798000084746833	Makkah Hypermarket Saudi Arabia
+Saudi Arabia	مخازن العناية | Makhazen Alenayah	makhazenalenaya.sa	firmographic_reviewed	na	CREATE		
+Saudi Arabia	Makkah Hypermarket Saudi Arabia	makkahhyper.com	firmographic_reviewed	na	ENRICH_name	3978798000084746833	Makkah Hypermarket Saudi Arabia
 Saudi Arabia	Maktab	maktab.com	judged	na	CREATE		
 Kuwait	maktaba	maktabakw.com	judged	na	CREATE		
-Saudi Arabia	Manuel Market	manuelsupermarket.com	firmographic	B	ENRICH_name	3978798000084744818	Manuel Market
-Saudi Arabia	Maraya	maraya.sa	firmographic	na	CREATE		
+Saudi Arabia	Manuel Market	manuelsupermarket.com	firmographic_reviewed	B	ENRICH_name	3978798000084744818	Manuel Market
+Saudi Arabia	Maraya	maraya.sa	firmographic_reviewed	na	CREATE		
 Saudi Arabia	Masdar - مصدر	masdaronline.com	judged	na	CREATE		
-Saudi Arabia	Matajer Al Saudia	matajeralsaudia.com	firmographic	na	ENRICH_name	3978798000084746900	Matajer Al Saudia
-Qatar	MATALAN Middle East	matalan-me.com	firmographic	B	CREATE		
-Saudi Arabia	Match | ماتش	matchperfumes.com	firmographic	na	CREATE		
-Saudi Arabia	Meed Trading Company	meed.sa	firmographic	na	ENRICH_name	3978798000084746791	Meed Trading Company
-Saudi Arabia	Modern Electronics - MEC (AL-Faisaliah Group)	mestores.com	firmographic	na	ENRICH_name	3978798000084746868	Modern Electronics - MEC (AL-Faisaliah Group)
+Saudi Arabia	Matajer Al Saudia	matajeralsaudia.com	firmographic_reviewed	na	ENRICH_name	3978798000084746900	Matajer Al Saudia
+Saudi Arabia	Match | ماتش	matchperfumes.com	firmographic_reviewed	na	CREATE		
+Saudi Arabia	Meed Trading Company	meed.sa	firmographic_reviewed	na	ENRICH_name	3978798000084746791	Meed Trading Company
+Saudi Arabia	Modern Electronics - MEC (AL-Faisaliah Group)	mestores.com	firmographic_reviewed	na	ENRICH_name	3978798000084746868	Modern Electronics - MEC (AL-Faisaliah Group)
 Saudi Arabia	Marketing Home Group	mhg-int.com	judged	B	CREATE		
 Kuwait	Midas Furniture	midasfurniture.com	judged	B	CREATE		
-Saudi Arabia	Alwazn Almithaly الوزن المثالي	mithaly.sa	firmographic	B	ENRICH_name	3978798000084746805	Alwazn Almithaly الوزن المثالي
-Kuwait	Mobile 2000	mobile2000.com	firmographic	B	CREATE		
-Kuwait	Morad Yousuf Behbehani	moradbehbehani.com	firmographic	na	CREATE		
+Saudi Arabia	Alwazn Almithaly الوزن المثالي	mithaly.sa	firmographic_reviewed	B	ENRICH_name	3978798000084746805	Alwazn Almithaly الوزن المثالي
+Kuwait	Mobile 2000	mobile2000.com	firmographic_reviewed	B	CREATE		
+Kuwait	Morad Yousuf Behbehani	moradbehbehani.com	firmographic_reviewed	na	CREATE		
 Kuwait	MS Retail		judged	na	CREATE		
-Kuwait	mubkhar	mubkhar.com	firmographic	na	CREATE		
-Saudi Arabia	Munch Bakery منش بيكري	munchbakery.com	firmographic	B	CREATE		
-Saudi Arabia	Muntazah Holding	muntazaholding.com	firmographic	na	CREATE		
+Kuwait	mubkhar	mubkhar.com	firmographic_reviewed	na	CREATE		
+Saudi Arabia	Munch Bakery منش بيكري	munchbakery.com	firmographic_reviewed	B	CREATE		
+Saudi Arabia	Muntazah Holding	muntazaholding.com	firmographic_reviewed	na	CREATE		
 Saudi Arabia	My Little Home | بيتي الصغير	mylittlehome.com.sa	judged	na	ENRICH_name	3978798000084747265	My Little Home |
-Qatar	Nabco Furniture Center	nabcostore.com	firmographic	na	CREATE		
-Kuwait	NAD United General Trading.	nadkw.com	firmographic	na	CREATE		
-Kuwait	Nagwa Boutique & Café	nagwaboutique.com	firmographic	na	CREATE		
+Qatar	Nabco Furniture Center	nabcostore.com	firmographic_reviewed	na	CREATE		
+Kuwait	NAD United General Trading.	nadkw.com	firmographic_reviewed	na	CREATE		
+Kuwait	Nagwa Boutique & Café	nagwaboutique.com	firmographic_reviewed	na	CREATE		
 Saudi Arabia	نسق	nasaq.info	judged	na	CREATE		
 Saudi Arabia	Naseem	naseemsa.com	judged	na	ENRICH_name	3978798000084747274	Naseem
-Kuwait	Natureland	natureland.net	firmographic	na	CREATE		
-Qatar	NBK FASHION		firmographic	na	CREATE		
-Saudi Arabia	مخابز وحلويات نعمه	neamah.com	firmographic	na	CREATE		
-Saudi Arabia	NESK Group of Trading Projects	nesk.com.sa	firmographic	B	CREATE		
-Kuwait	Nesto Hypermarket Kuwait		firmographic	na	POSSIBLE_MATCH	3978798000084746797	Nesto Hypermarket Saudi Arabia نستو هايبر ماركت السعودية
-Saudi Arabia	Nesto Hypermarket Saudi Arabia نستو هايبر ماركت السعودية	nestooffers.com	firmographic	na	ENRICH_name	3978798000084746797	Nesto Hypermarket Saudi Arabia نستو هايبر ماركت السعودية
+Kuwait	Natureland	natureland.net	firmographic_reviewed	na	CREATE		
+Qatar	NBK FASHION		firmographic_reviewed	na	CREATE		
+Saudi Arabia	مخابز وحلويات نعمه	neamah.com	firmographic_reviewed	na	CREATE		
+Saudi Arabia	NESK Group of Trading Projects	nesk.com.sa	firmographic_reviewed	B	CREATE		
 Saudi Arabia	nice	nice.com.sa	judged	B	ENRICH_domain	3978798000138824120	nice
-Saudi Arabia	NICE ONE | نايس ون	niceonesa.com	firmographic	B	ENRICH_domain	3978798000024620158	nice one
-Saudi Arabia	NOLOR Fragrances | عطور نولور	nolorfragrances.com	firmographic	na	CREATE		
-Kuwait	Nor Noyau® | Artisan Chocolatier	nornoyau.com	firmographic	na	CREATE		
-Saudi Arabia	Natural Touch ناتشورال تاتش	ntshop.sa	firmographic	na	CREATE		
-Saudi Arabia	oceanpharmacy	oceanpharmacy.sa	firmographic	na	ENRICH_domain	3978798000138833146	oceanpharmacy
-Kuwait	Oncost Trading Company	oncost.com	firmographic	B	ENRICH_name	3978798000017886784	Oncost Trading Company
-Saudi Arabia	Mazaya Food	onlinemazaya.com	firmographic	na	ENRICH_name	3978798000084744823	Mazaya Food
+Saudi Arabia	NICE ONE | نايس ون	niceonesa.com	firmographic_reviewed	B	ENRICH_domain	3978798000024620158	nice one
+Saudi Arabia	NOLOR Fragrances | عطور نولور	nolorfragrances.com	firmographic_reviewed	na	CREATE		
+Kuwait	Nor Noyau® | Artisan Chocolatier	nornoyau.com	firmographic_reviewed	na	CREATE		
+Saudi Arabia	Natural Touch ناتشورال تاتش	ntshop.sa	firmographic_reviewed	na	CREATE		
+Saudi Arabia	oceanpharmacy	oceanpharmacy.sa	firmographic_reviewed	na	ENRICH_domain	3978798000138833146	oceanpharmacy
+Kuwait	Oncost Trading Company	oncost.com	firmographic_reviewed	B	ENRICH_name	3978798000017886784	Oncost Trading Company
+Saudi Arabia	Mazaya Food	onlinemazaya.com	firmographic_reviewed	na	ENRICH_name	3978798000084744823	Mazaya Food
 Qatar	Otantik Home	otantik-home.com	judged	na	CREATE		
-Saudi Arabia	Abdullah Al-Othaim Markets	othaimmarkets.com	firmographic	A	ENRICH_name	3978798000016535652	Abdullah Al-Othaim Markets
-Kuwait	Otoraat - عطورات	otoraat.com	firmographic	na	CREATE		
-Saudi Arabia	Oud Elite	oudelite.com	firmographic	na	ENRICH_name	3978798000084746786	Oud Elite
-Saudi Arabia	Hyper Panda	panda-offers.com	firmographic	na	CREATE		
-Saudi Arabia	Panda Retail Company - Savola Group	panda.com.sa	firmographic	A	ENRICH_name	3978798000008419077	Panda Retail Company - Savola Group
-Qatar	Pari Gallery Qatar	parigallery.com	firmographic	na	CREATE		
-Qatar	Paris United Group	parisunitedgroup.com	firmographic	na	CREATE		
-Kuwait	Pastry & Coffee	pastry.coffee	firmographic	na	CREATE		
-Saudi Arabia	شركة شموع الماضي	pcandles.com	firmographic	na	CREATE		
-Saudi Arabia	KH Perfumes | عطور كي إتش	perfumekh.com	firmographic	na	CREATE		
+Saudi Arabia	Abdullah Al-Othaim Markets	othaimmarkets.com	firmographic_reviewed	A	ENRICH_name	3978798000016535652	Abdullah Al-Othaim Markets
+Kuwait	Otoraat - عطورات	otoraat.com	firmographic_reviewed	na	CREATE		
+Saudi Arabia	Oud Elite	oudelite.com	firmographic_reviewed	na	ENRICH_name	3978798000084746786	Oud Elite
+Saudi Arabia	Hyper Panda	panda-offers.com	firmographic_reviewed	na	CREATE		
+Saudi Arabia	Panda Retail Company - Savola Group	panda.com.sa	firmographic_reviewed	A	ENRICH_name	3978798000008419077	Panda Retail Company - Savola Group
+Qatar	Pari Gallery Qatar	parigallery.com	firmographic_reviewed	na	CREATE		
+Qatar	Paris United Group	parisunitedgroup.com	firmographic_reviewed	na	CREATE		
+Kuwait	Pastry & Coffee	pastry.coffee	firmographic_reviewed	na	CREATE		
+Saudi Arabia	شركة شموع الماضي	pcandles.com	firmographic_reviewed	na	CREATE		
+Saudi Arabia	KH Perfumes | عطور كي إتش	perfumekh.com	firmographic_reviewed	na	CREATE		
 Kuwait	Petzone	petzone.com	judged	B	CREATE		
-Qatar	Pharmacare Group Retail Pharmacy Chain	pharmacareonline.qa	firmographic	na	CREATE		
-Saudi Arabia	Pharmaciaty	pharmaciaty.com	firmographic	na	ENRICH_name	3978798000084747331	Pharmaciaty
-Kuwait	pharmalife		firmographic	na	CREATE		
-Kuwait	Pharmalife Co.	pharmalife-kw.com	firmographic	na	CREATE		
-Kuwait	Pharmazone Kuwait	pharmazone.com	firmographic	na	CREATE		
-Qatar	PREMIUM LIMITED GROUP	plgtrade.com	firmographic	na	CREATE		
+Qatar	Pharmacare Group Retail Pharmacy Chain	pharmacareonline.qa	firmographic_reviewed	na	CREATE		
+Saudi Arabia	Pharmaciaty	pharmaciaty.com	firmographic_reviewed	na	ENRICH_name	3978798000084747331	Pharmaciaty
+Kuwait	pharmalife		firmographic_reviewed	na	CREATE		
+Kuwait	Pharmalife Co.	pharmalife-kw.com	firmographic_reviewed	na	CREATE		
+Kuwait	Pharmazone Kuwait	pharmazone.com	firmographic_reviewed	na	CREATE		
+Qatar	PREMIUM LIMITED GROUP	plgtrade.com	firmographic_reviewed	na	CREATE		
 Saudi Arabia	Point Plus	pointplusksa.com	judged	na	ENRICH_name	3978798000084743214	Point Plus
-Saudi Arabia	POWR	powr.sa	firmographic	na	ENRICH_name	3978798000084743178	POWR
-Saudi Arabia	Primary Care Medical Co.	primarycare.sa	firmographic	na	CREATE		
-Saudi Arabia	UNIVERSAL COLD STORE TRADING COMPANY LIMITED	primemarkets.com.sa	firmographic	na	ENRICH_name	3978798000084744324	UNIVERSAL COLD STORE TRADING COMPANY LIMITED
-Qatar	Printemps Doha	printemps.com	firmographic	A	CREATE		
-Saudi Arabia	Qaf Coffee Roasters - مجموعة قاف لتقديم المشروبات	qafcoffee.com	firmographic	na	CREATE		
-Saudi Arabia	Q Mart | كيو	qmartstores.com	firmographic	na	CREATE		
-Saudi Arabia	Bafarat Industrial Group	ranafood.com	firmographic	na	CREATE		
+Saudi Arabia	POWR	powr.sa	firmographic_reviewed	na	ENRICH_name	3978798000084743178	POWR
+Saudi Arabia	Primary Care Medical Co.	primarycare.sa	firmographic_reviewed	na	CREATE		
+Saudi Arabia	Qaf Coffee Roasters - مجموعة قاف لتقديم المشروبات	qafcoffee.com	firmographic_reviewed	na	CREATE		
+Saudi Arabia	Q Mart | كيو	qmartstores.com	firmographic_reviewed	na	CREATE		
+Saudi Arabia	Bafarat Industrial Group	ranafood.com	firmographic_reviewed	na	CREATE		
 Saudi Arabia	رنين | Raneen	raneen.com.sa	judged	na	CREATE		
-Saudi Arabia	Rasees Perfumes	rasees.net	firmographic	na	CREATE		
-Qatar	Rawabi Hypermarket		firmographic	na	CREATE		
-Qatar	Al Rawabi Group of Companies	rawabihypermarket.com	firmographic	na	CREATE		
-Saudi Arabia	صيدلية الرازي	razi.sa	firmographic	B	CREATE		
+Saudi Arabia	Rasees Perfumes	rasees.net	firmographic_reviewed	na	CREATE		
+Qatar	Rawabi Hypermarket		firmographic_reviewed	na	CREATE		
+Qatar	Al Rawabi Group of Companies	rawabihypermarket.com	firmographic_reviewed	na	CREATE		
+Saudi Arabia	صيدلية الرازي	razi.sa	firmographic_reviewed	B	CREATE		
 Saudi Arabia	Two	reefi.me	judged	na	ENRICH_name	3978798000084746885	Two
-Saudi Arabia	reefperfumes	reefperfumes.com	firmographic	na	ENRICH_domain	3978798000138826061	reefperfumes
-Saudi Arabia	Richy Group	richy.sa	firmographic	na	CREATE		
-Kuwait	RIVA	rivafashion.com	firmographic	na	CREATE		
-Saudi Arabia	roastinghouse	roastinghouse.sa	firmographic	na	ENRICH_domain	3978798000138833159	roastinghouse
-Saudi Arabia	RojoCoral Boutique | Children's Fashion & Accessories		firmographic	na	CREATE		
-Saudi Arabia	rubaiyat	rubaiyat.com	firmographic	B	ENRICH_domain	3978798000027018296	rubaiyat
-Saudi Arabia	Saadeddinpastry	saadeddin.com	firmographic	na	CREATE		
-Qatar	Saadeddin Sweets Qatar حلويات سعدالدين	saadeddin.qa	firmographic	na	CREATE		
+Saudi Arabia	reefperfumes	reefperfumes.com	firmographic_reviewed	na	ENRICH_domain	3978798000138826061	reefperfumes
+Saudi Arabia	Richy Group	richy.sa	firmographic_reviewed	na	CREATE		
+Kuwait	RIVA	rivafashion.com	firmographic_reviewed	na	CREATE		
+Saudi Arabia	roastinghouse	roastinghouse.sa	firmographic_reviewed	na	ENRICH_domain	3978798000138833159	roastinghouse
+Saudi Arabia	RojoCoral Boutique | Children's Fashion & Accessories		firmographic_reviewed	na	CREATE		
+Saudi Arabia	rubaiyat	rubaiyat.com	firmographic_reviewed	B	ENRICH_domain	3978798000027018296	rubaiyat
+Saudi Arabia	Saadeddinpastry	saadeddin.com	firmographic_reviewed	na	CREATE		
+Qatar	Saadeddin Sweets Qatar حلويات سعدالدين	saadeddin.qa	firmographic_reviewed	na	CREATE		
 Saudi Arabia	saco	saco.sa	judged	B	ENRICH_domain	3978798000138833113	saco
 Saudi Arabia	Safari Co Ltd. Riyadh		judged	na	CREATE		
-Qatar	Safari Group	safarigroup.net	firmographic	A	CREATE		
-Qatar	Safari Hypermarket	safarihypermarket.com	firmographic	B	CREATE		
+Qatar	Safari Group	safarigroup.net	firmographic_reviewed	A	CREATE		
+Qatar	Safari Hypermarket	safarihypermarket.com	firmographic_reviewed	B	CREATE		
 Kuwait	Safat Home by Alghanim Industries	safathome.com	judged	B	CREATE		
-Kuwait	Safi	saficosmetics.com	firmographic	na	CREATE		
-Qatar	Salam Studio and Stores	salams.com	firmographic	A	CREATE		
-Qatar	Saudia Group Of Companies		firmographic	na	CREATE		
-Qatar	Saudia Group	saudiagroup.com	firmographic	na	CREATE		
-Saudi Arabia	Savola Group	savola.com	firmographic	A	ENRICH_name	3978798000084482196	Savola Group
-Saudi Arabia	Season | سيزون		firmographic	na	ENRICH_name	3978798000084747936	Season | سيزون
-Saudi Arabia	سدر الخليج للعطور( Sedr Alkhaleej Perfumes )	sedralkhaleej.com	firmographic	na	CREATE		
-Saudi Arabia	Shafy	shafy.com.sa	firmographic	na	CREATE		
-Saudi Arabia	shakersa	shaker.com.sa	firmographic	A	ENRICH_name	3978798000138832983	shakersa
-Qatar	Saleh Al Hamad Al Mana Co.	shalmana.com	firmographic	B	CREATE		
-Qatar	Shine Gold and Diamonds	shinegd.com	firmographic	na	CREATE		
-Kuwait	Raha	shopraha.com	firmographic	na	CREATE		
-Saudi Arabia	Mohammed Siraj Attar & Bros	sirajattarbros.com	firmographic	na	CREATE		
-Saudi Arabia	Siwar Foods (SF)	siwar.com	firmographic	B	CREATE		
-Saudi Arabia	SPAR Saudi Arabia	spar.sa	firmographic	na	POSSIBLE_MATCH	3978798000084746884	SPAR Saudi Arabia "SPAR Stores Company"
-Qatar	SPAR QATAR	sparqatar.shop	firmographic	na	CREATE		
-Saudi Arabia	Saudi Perfume & Cosmetics Company Limited	spci-sa.com	firmographic	na	CREATE		
-Qatar	Spinneys Middle East		firmographic	na	CREATE		
+Kuwait	Safi	saficosmetics.com	firmographic_reviewed	na	CREATE		
+Qatar	Salam Studio and Stores	salams.com	firmographic_reviewed	A	CREATE		
+Qatar	Saudia Group Of Companies		firmographic_reviewed	na	CREATE		
+Qatar	Saudia Group	saudiagroup.com	firmographic_reviewed	na	CREATE		
+Saudi Arabia	Season | سيزون		firmographic_reviewed	na	ENRICH_name	3978798000084747936	Season | سيزون
+Saudi Arabia	سدر الخليج للعطور( Sedr Alkhaleej Perfumes )	sedralkhaleej.com	firmographic_reviewed	na	CREATE		
+Saudi Arabia	Shafy	shafy.com.sa	firmographic_reviewed	na	CREATE		
+Saudi Arabia	shakersa	shaker.com.sa	firmographic_reviewed	A	ENRICH_name	3978798000138832983	shakersa
+Qatar	Saleh Al Hamad Al Mana Co.	shalmana.com	firmographic_reviewed	B	CREATE		
+Qatar	Shine Gold and Diamonds	shinegd.com	firmographic_reviewed	na	CREATE		
+Kuwait	Raha	shopraha.com	firmographic_reviewed	na	CREATE		
+Saudi Arabia	Mohammed Siraj Attar & Bros	sirajattarbros.com	firmographic_reviewed	na	CREATE		
+Saudi Arabia	Siwar Foods (SF)	siwar.com	firmographic_reviewed	B	CREATE		
+Saudi Arabia	Saudi Perfume & Cosmetics Company Limited	spci-sa.com	firmographic_reviewed	na	CREATE		
 Saudi Arabia	SPORT GHORNATAH	sportghornatah.com	judged	na	CREATE		
 Qatar	Sports Corner	sportscorner.qa	judged	B	CREATE		
-Kuwait	Starco Holding	starcoholding.com	firmographic	na	CREATE		
 Qatar	Store 974	store974.com	judged	na	CREATE		
 Saudi Arabia	sulalat	sulalat.com	judged	B	ENRICH_domain	3978798000138833185	sulalat
-Kuwait	The Sultan Center	sultan-center.com	firmographic	A	CREATE		
-Saudi Arabia	SWAJ | سواج		firmographic	na	CREATE		
+Kuwait	The Sultan Center	sultan-center.com	firmographic_reviewed	A	CREATE		
+Saudi Arabia	SWAJ | سواج		firmographic_reviewed	na	CREATE		
 Saudi Arabia	cool.sa	takeef.store	judged	na	CREATE		
-Saudi Arabia	TAMIMI GROUP OF COMPANIES		firmographic	na	CREATE		
-Saudi Arabia	Tamimi Group	tamimigroup.com.sa	firmographic	B	CREATE		
-Saudi Arabia	Tamimi Markets	tamimimarkets.com	firmographic	A	ENRICH_name	3978798000017888375	Tamimi Markets
+Saudi Arabia	TAMIMI GROUP OF COMPANIES		firmographic_reviewed	na	CREATE		
+Saudi Arabia	Tamimi Group	tamimigroup.com.sa	firmographic_reviewed	B	CREATE		
+Saudi Arabia	Tamimi Markets	tamimimarkets.com	firmographic_reviewed	A	ENRICH_name	3978798000017888375	Tamimi Markets
 Saudi Arabia	Tamkeen Stores	tamkeenstores.com.sa	judged	na	ENRICH_name	3978798000084746801	Tamkeen Stores
 Qatar	Techno Blue WLL	techno-blue.com	judged	na	CREATE		
-Saudi Arabia	TGC	tgc-ksa.com	firmographic	na	CREATE		
-Saudi Arabia	بيوتي سيكرتس	thebeautysecrets.com	firmographic	B	CREATE		
+Saudi Arabia	TGC	tgc-ksa.com	firmographic_reviewed	na	CREATE		
+Saudi Arabia	بيوتي سيكرتس	thebeautysecrets.com	firmographic_reviewed	B	CREATE		
 Kuwait	The Beauty Station | Nail Station KW	thebeautystation.com	judged	na	CREATE		
 Kuwait	THE BED SHOP	thebedshop.co	judged	na	CREATE		
-Kuwait	TheHub Hypermarket		firmographic	na	CREATE		
-Kuwait	OLE Coffee	theolecoffee.com	firmographic	na	CREATE		
-Saudi Arabia	سايتوتيك من امازون السعودية 00966538159747 تليجرام  Cytotec pills in Saudi	thesaudiwomen.com	firmographic	na	CREATE		
-Saudi Arabia	Special Food Company	thespecialfood.com	firmographic	na	CREATE		
+Kuwait	TheHub Hypermarket		firmographic_reviewed	na	CREATE		
+Kuwait	OLE Coffee	theolecoffee.com	firmographic_reviewed	na	CREATE		
+Saudi Arabia	Special Food Company	thespecialfood.com	firmographic_reviewed	na	CREATE		
 Qatar	Tivoli Group	tivoligroup.com	judged	B	ENRICH_name	3978798000014606303	Tivoli Group
 Saudi Arabia	Toyland	toyland.world	judged	na	ENRICH_name	3978798000084747314	TOYLAND KSA
-Kuwait	Trafalgar Luxury Group	trafalgarluxurygroup.com	firmographic	na	CREATE		
-Qatar	Transind Holding	transindgroup.com	firmographic	na	CREATE		
-Kuwait	Trolley Convenience Store	trolley.com.kw	firmographic	A	ENRICH_domain	3978798000014961486	Trolley Convenience Store
-Saudi Arabia	تركي للذبائح	turkieshop.com	firmographic	na	CREATE		
-Qatar	United International Trading Company W.L.L	uitcqatar.com	firmographic	na	CREATE		
-Saudi Arabia	UniPharma	unipharma.sa	firmographic	na	CREATE		
-Saudi Arabia	United Group	unitedgroup.com.sa	firmographic	na	CREATE		
-Kuwait	United Pharma Company	unitedpharma-kw.com	firmographic	na	POSSIBLE_MATCH	3978798000084746793	United Pharmaceuticals Company
-Saudi Arabia	United Pharmaceuticals Company	unitedpharmacy.sa	firmographic	na	ENRICH_name	3978798000084746793	United Pharmaceuticals Company
-Kuwait	Union Trading Co.	utc.com.kw	firmographic	na	CREATE		
-Saudi Arabia	وكف | wacafe	wacafe.sa	firmographic	na	CREATE		
-Saudi Arabia	Wahag Medical Company	wahagco.com	firmographic	na	CREATE		
-Kuwait	Wahran Trading Company-Kuwait	wahrantrading.com	firmographic	B	CREATE		
-Qatar	Wathnan Holding	wathnanholding.com	firmographic	na	CREATE		
-Kuwait	Wawan Protein	wawanpro.com	firmographic	na	CREATE		
-Qatar	Wellcare Pharmacy Qatar	wellcaregroup.com	firmographic	na	CREATE		
-Saudi Arabia	werecle	werecle.com	firmographic	na	ENRICH_domain	3978798000138833137	werecle
-Saudi Arabia	WHITES	whites.net	firmographic	na	ENRICH_name	3978798000016004114	WHITES
-Saudi Arabia	Wooden Coffee	wooden.sa	firmographic	na	CREATE		
+Kuwait	Trafalgar Luxury Group	trafalgarluxurygroup.com	firmographic_reviewed	na	CREATE		
+Qatar	Transind Holding	transindgroup.com	firmographic_reviewed	na	CREATE		
+Kuwait	Trolley Convenience Store	trolley.com.kw	firmographic_reviewed	A	ENRICH_domain	3978798000014961486	Trolley Convenience Store
+Saudi Arabia	تركي للذبائح	turkieshop.com	firmographic_reviewed	na	CREATE		
+Qatar	United International Trading Company W.L.L	uitcqatar.com	firmographic_reviewed	na	CREATE		
+Saudi Arabia	UniPharma	unipharma.sa	firmographic_reviewed	na	CREATE		
+Saudi Arabia	United Group	unitedgroup.com.sa	firmographic_reviewed	na	CREATE		
+Kuwait	United Pharma Company	unitedpharma-kw.com	firmographic_reviewed	na	POSSIBLE_MATCH	3978798000084746793	United Pharmaceuticals Company
+Saudi Arabia	United Pharmaceuticals Company	unitedpharmacy.sa	firmographic_reviewed	na	ENRICH_name	3978798000084746793	United Pharmaceuticals Company
+Kuwait	Union Trading Co.	utc.com.kw	firmographic_reviewed	na	CREATE		
+Saudi Arabia	وكف | wacafe	wacafe.sa	firmographic_reviewed	na	CREATE		
+Saudi Arabia	Wahag Medical Company	wahagco.com	firmographic_reviewed	na	CREATE		
+Kuwait	Wahran Trading Company-Kuwait	wahrantrading.com	firmographic_reviewed	B	CREATE		
+Qatar	Wathnan Holding	wathnanholding.com	firmographic_reviewed	na	CREATE		
+Kuwait	Wawan Protein	wawanpro.com	firmographic_reviewed	na	CREATE		
+Qatar	Wellcare Pharmacy Qatar	wellcaregroup.com	firmographic_reviewed	na	CREATE		
+Saudi Arabia	werecle	werecle.com	firmographic_reviewed	na	ENRICH_domain	3978798000138833137	werecle
+Saudi Arabia	WHITES	whites.net	firmographic_reviewed	na	ENRICH_name	3978798000016004114	WHITES
+Saudi Arabia	Wooden Coffee	wooden.sa	firmographic_reviewed	na	CREATE		
 Kuwait	xcite by alghanim electronics	xcite.com	judged	B	ENRICH_name	3978798000033427127	xcite by alghanim electronics
-Kuwait	YIACO Medical Company	yiaco.com	firmographic	B	CREATE		
+Kuwait	YIACO Medical Company	yiaco.com	firmographic_reviewed	B	CREATE		
 Saudi Arabia	Zagzoog for home Appliances	zagzoog.com	judged	B	ENRICH_name	3978798000084746815	Zagzoog for home Appliances
-Saudi Arabia	Zahrat Al-Rawdah Pharmacies Co.	zahra.com.sa	firmographic	B	CREATE		
-Saudi Arabia	Zohoor Al Reef	zohooralreef.com	firmographic	na	CREATE		
-Saudi Arabia	الخياطة العربية		firmographic	na	CREATE		
+Saudi Arabia	Zahrat Al-Rawdah Pharmacies Co.	zahra.com.sa	firmographic_reviewed	B	CREATE		
+Saudi Arabia	Zohoor Al Reef	zohooralreef.com	firmographic_reviewed	na	CREATE		
+Saudi Arabia	الخياطة العربية		firmographic_reviewed	na	CREATE		
 Saudi Arabia	الغانم للأجهزة الكهربائية AL-GHANIM STORE		judged	na	ENRICH_name	3978798000084734231	الغانم للأجهزة الكهربائية AL-GHANIM STORE
-Saudi Arabia	حلويات نبيل نفيسة		firmographic	na	CREATE		
-Saudi Arabia	شركة ركاز الاخوان المتحدة المتميزة - اي مارت		firmographic	na	CREATE		
-Saudi Arabia	صيدليات باب الشفاء		firmographic	na	CREATE		
-Saudi Arabia	صيدلية		firmographic	na	CREATE		
-Saudi Arabia	صيدلية النهدي		firmographic	na	CREATE		
-Saudi Arabia	منتجات فورايفر الامريكية في العراق والعالم		firmographic	na	CREATE		
+Saudi Arabia	حلويات نبيل نفيسة		firmographic_reviewed	na	CREATE		
+Saudi Arabia	شركة ركاز الاخوان المتحدة المتميزة - اي مارت		firmographic_reviewed	na	CREATE		
+Saudi Arabia	صيدليات باب الشفاء		firmographic_reviewed	na	CREATE		
+Saudi Arabia	صيدلية		firmographic_reviewed	na	CREATE		
+Saudi Arabia	صيدلية النهدي		firmographic_reviewed	na	CREATE		
