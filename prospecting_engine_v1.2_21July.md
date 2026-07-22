@@ -4,6 +4,10 @@
 > outreach. It supersedes `PROSPECTING_ENGINE.md` (v1.1), `COLD_OPENER_TEARDOWN.md`, and
 > `PROSPECTING_SESSION_HANDOFF.md`, all now archived in `OLD DOCS/` and NOT to be used.
 >
+> UPDATED 22 July 2026: Section 3 was rebuilt into the de-duplicated pre-draft intelligence pipeline
+> (one tool per insight, keys held as repository secrets, see Section 3.0). The messaging framework is
+> unchanged here; its cross-session consolidation is tracked as an open item in Section 13.
+>
 > COMPULSION: read this file in full and apply it before generating ANY outreach content of any kind:
 > cold email, follow-up email, LinkedIn connection note, LinkedIn message, LinkedIn follow-up, a batch
 > built from a Zoho or Apollo export, or a single ad-hoc message. No exceptions. If you are about to
@@ -52,10 +56,43 @@ not surface a specific, checkable hook, do not fall back to generic copy. Flag t
 
 ---
 
-## 3. Research protocol: multi-source stack profiling (the core of v1.2)
+## 3. Research protocol: the pre-draft intelligence pipeline (the core of v1.2)
 
 Personalization comes from researching the prospect. Proof comes from the verified knowledge base.
-Never invent proof to fill a personalization gap.
+Never invent proof to fill a personalization gap. This section is the fixed sequence of tools to run
+before ANY LinkedIn or email message is drafted.
+
+### 3.0 The one-owner rule and the tool map (READ THIS FIRST)
+Every insight below has exactly ONE owner tool. Do not run a second tool to get an insight another
+tool already owns. The only sanctioned overlap is the deliberate corroboration pass before naming an
+incumbent (3.9). Running two scanners for the same field is wasted budget, wasted time, and how
+duplicated, contradictory notes end up in a lead file.
+
+API keys live as GitHub repository secrets and are injected as environment variables in every
+session, so the toolkit survives a fresh session with nothing lost. Read each key from the env var
+named below, or from a scratchpad file OUTSIDE the repo. Never commit a key.
+
+Run the pipeline top to bottom and STOP as soon as you have a hook of the depth the lead's tier
+requires (Section 4). You rarely need every row.
+
+| # | Insight you need | Owner tool | Key / access | Never use it for |
+|---|---|---|---|---|
+| 1 | Contact still in role, buyer fit, direct mobile | Apollo people (3.2) | Apollo MCP | naming the stack |
+| 2 | Firmographics: size, revenue, HQ | Apollo org enrich (3.2) | Apollo MCP | re-pulling elsewhere |
+| 3 | Group tree (sister brands) and look-alike accounts | ScrapingDog LinkedIn company (3.6) | `SCRAPINGDOG_API` | firmographics |
+| 4 | Client-side martech that loads on the site | urlscan.io (3.3) | `URLSCAN_IO_API` | announced deals |
+| 5 | Cookie and hostname corroboration | Lookyloo (3.4) | none | naming alone |
+| 6 | Consent-gated martech (loads after the cookie banner) | Apify CSP header (3.5) | `APIFY_API`, `APIFY_USER_ID` | firmographics, products |
+| 7 | Announced partnerships, incumbent corroboration, server-side vendors | ScrapingDog SERP or Serper (3.6) | `SCRAPINGDOG_API`, `SERPER_API` | jobs, firmographics |
+| 8 | Recent trigger events and the executive's own quoted words | Firecrawl (3.7) | `FIRECRAWL_API` | products, segments, firmographics |
+| 9 | Hiring and buying-center intent | JobsPipe (3.8) | `JOBS_PIPE_API` | tech detection |
+| 10 | Backend ESP or sender (DNS level) | Apollo enrich plus DNS (3.2) | Apollo MCP | client-side tech |
+| 11 | Free 10-second tech triage (optional) | WebReveal, POST `https://webreveal.io/api/scan` `{"url":...}` | none | naming anything, corroborate first |
+
+REJECTED as duplicative, do NOT waste a session re-testing these: Microlink (its free tier is
+Cloudflare-blocked on bank sites and its data overlaps Firecrawl and Apollo), the DuckDuckGo MCP
+server (redundant with built-in web search and fragile), and ScrapingDog's LinkedIn Jobs endpoint
+(a straight duplicate of JobsPipe, keep JobsPipe).
 
 ### 3.1 Tooling prerequisites (egress and honesty)
 - Outbound access is governed by the environment network egress policy. It binds at container start,
@@ -66,17 +103,28 @@ Never invent proof to fill a personalization gap.
 - Direct fetches of bank sites usually 403 (their WAF blocks datacenter IPs). Do not rely on fetching
   bank domains directly. Use the capture engines below, which scan from their own infrastructure.
 
-### 3.2 urlscan.io (script-level, primary)
-- Requires a urlscan API key (provided by the human, held as an env var or in a scratchpad file OUTSIDE
-  the repo). Never commit the key.
-- Existing public scans of bank domains are usually thin (homepage stubs). Submit FRESH scans of the
-  live marketing site (`https://www.<domain>/`), visibility `unlisted` so recon is not broadcast.
-- Retrieve the result and read `meta.processors.wappa` (Wappalyzer technologies with categories) and
-  `lists.domains` (third-party hosts, which reveal martech: adobedtm/demdex/omtrdc, segment, tealium,
-  useinsider, moengage, smartech, webengage, clevertap/wzrkt, braze/appboycdn, emarsys/scarab,
-  exponea, lemnisk, mailjet, mandrillapp, salesforce/exacttarget, and so on).
+### 3.2 Apollo, owner of the buyer and the firmographics
+- People search or match: confirm the contact still holds the role and owns CRM, marketing, digital,
+  or the P&L (Section 8), and pull the direct mobile. Per CLAUDE.md Section 14, mobile hits about 60
+  percent on GCC and Egypt banking and corporate email is a dead end there, so invest in the mobile and
+  do not burn credits chasing email.
+- Org enrich(domain): size, revenue, HQ, and `technology_names` or `current_technologies`, which can
+  surface BACKEND senders (for example MailJet, Mandrill) that never load as a page script. Verify a
+  sender honestly via DNS, an SPF or MX record naming the ESP.
+- PAID. Exactly 1 credit per company if found, 0 if not. MANDATORY: before any Apollo enrich call,
+  state the exact total credit cost and get the human's explicit approval. Never proactively show the
+  remaining credit balance. Do not call without approval.
+- Once Apollo has returned a firmographic field, no other tool re-pulls it.
 
-### 3.3 Lookyloo (CIRCL, independent corroboration)
+### 3.3 urlscan.io, owner of the client-side stack (primary)
+- Submit FRESH scans of the live marketing site (`https://www.<domain>/`), visibility `unlisted` so
+  recon is not broadcast. Public scans of bank domains are usually thin homepage stubs.
+- Read `meta.processors.wappa` (Wappalyzer technologies with categories) and `lists.domains`
+  (third-party hosts, which reveal martech: adobedtm/demdex/omtrdc, segment, tealium, useinsider,
+  moengage, smartech, webengage, clevertap/wzrkt, braze/appboycdn, emarsys/scarab, exponea, lemnisk,
+  mailjet, mandrillapp, salesforce/exacttarget, and so on).
+
+### 3.4 Lookyloo, owner of cookie and hostname corroboration
 - `https://lookyloo.circl.lu/`. Submit a capture: POST `/submit` with `{"url":..., "listing":0}`, poll
   `GET /json/<uuid>/status` until `status_code` is 1, then read `/json/<uuid>/hostnames` and
   `/json/<uuid>/cookies`.
@@ -84,24 +132,70 @@ Never invent proof to fill a personalization gap.
   `shell#lang` plus a `SectionId` GUID is a Sitecore signature. Match hostnames and cookies against the
   same vendor list.
 
-### 3.4 Apollo org-enrichment (backend and DNS-level, gap-filler)
-- `apollo_organizations_enrich(domain)` returns `technology_names` and `current_technologies`. It can
-  surface backend senders (for example MailJet, Mandrill) that never load as page scripts.
-- PAID. Exactly 1 credit per company if found, 0 if not. MANDATORY: before any Apollo enrich call,
-  state the exact total credit cost and get the human's explicit approval. Never proactively show the
-  remaining credit balance. Do not call without approval.
+### 3.5 Apify CSP header, owner of consent-gated martech
+- A bank often loads its real CDP or engagement vendor only AFTER the consent banner, so urlscan and
+  Lookyloo can miss it. The site's Content-Security-Policy response header is a declared allow-list of
+  every martech and adtech host, and it exposes those vendors anyway.
+- Run: `POST https://api.apify.com/v2/acts/apify~website-content-crawler/run-sync-get-dataset-items?token=$APIFY_API`
+  with `{"startUrls":[{"url":"https://www.<domain>"}],"maxCrawlPages":1,"proxyConfiguration":{"useApifyProxy":true}}`.
+  Read the CSP in the item's `metadata.headers` and match hosts against the 3.3 vendor list. This is how
+  Lemnisk and Adobe surfaced on Emirates NBD when a plain scan showed nothing.
+- About 0.004 USD per page. Use it ONLY for the CSP martech allow-list. Do not re-extract firmographics
+  or products here, Apollo owns firmographics and 3.7 owns page content.
 
-### 3.5 The corroboration standard (this protects every named-incumbent claim)
-- Name an incumbent as fact in an opener ONLY when two independent engines agree (urlscan Wappalyzer or
-  third-party domains, plus Lookyloo hostnames or cookies). Two engines from different infrastructure
-  agreeing is the bar before you write a vendor's name to a senior banker.
-- A single-source detection (for example a CMS seen only by Wappalyzer HTML fingerprint, or a sender
-  seen only by Apollo) is usable but must be flagged `[VERIFY]` and softened in the copy, or verified
-  first. For email senders, the honest verification is DNS: an SPF or MX record naming the ESP.
+### 3.6 ScrapingDog SERP (or Serper), owner of announced partnerships and corroboration
+- This layer turns a single-source stack guess into a nameable fact, and it finds SERVER-SIDE vendors no
+  scanner can see. On Emirates NBD it confirmed Lemnisk through press, confirmed Sitecore through
+  Sitecore's own case study, and found SAS Marketing Automation, which never loads on the page.
+- Targeted SERP: `GET https://api.scrapingdog.com/google?api_key=$SCRAPINGDOG_API&country=<cc>&query="<Company>" (Lemnisk OR Adobe OR CleverTap OR MoEngage OR Braze OR Insider OR "Salesforce Marketing" OR SAS OR "customer data platform" OR "marketing automation")`.
+  Serper is the interchangeable alternative: `POST https://google.serper.dev/search`, header
+  `X-API-KEY: $SERPER_API`. Use ONE of the two for a given query, never both.
+- A vendor-side customer-list or careers page that names the bank is a soft, single source: flag it
+  `[VERIFY]`, never name it as fact alone.
+- Group tree and look-alikes: `GET https://api.scrapingdog.com/linkedin?api_key=$SCRAPINGDOG_API&type=company&linkId=<slug>`,
+  read ONLY `affiliated_companies` (sister brands, for example the KSA entity for the GCP Dammam angle,
+  or the digital sub-brand) and `similar_companies` (a ready-made look-alike prospect list). Do not use
+  it for firmographics, Apollo owns those.
 
-### 3.6 The web-side-only caveat (never overclaim)
-- Capture engines see the PUBLIC WEB only. They do not see the mobile app push and in-app vendor, or
-  any server-side campaign system, which for a bank is often where the real engagement runs.
+### 3.7 Firecrawl, owner of triggers and executive quotes
+- Firecrawl owns the HOOK: the recent, dated, verifiable move plus the executive's own public words,
+  which no contact database holds.
+- Map the newsroom: `POST https://api.firecrawl.dev/v2/map` with `{"url":"https://www.<domain>","limit":300}`,
+  keep URLs matching media, news, press, investor, or careers. Then `POST https://api.firecrawl.dev/v2/scrape`
+  with a `json` format extraction schema (headline, published_date, one-line summary, executives_quoted
+  with name, title and quote, notable_numbers) on the 3 to 5 most relevant releases. Use
+  `POST https://api.firecrawl.dev/v2/search` for web-wide news. Auth is `Authorization: Bearer $FIRECRAWL_API`.
+- ALWAYS read published_date and DISCARD anything stale. This is what caught a 2015 story being passed
+  off as current on Emirates NBD. Do not use Firecrawl to re-pull products, segments, or firmographics,
+  that is repetitive with Apollo and 3.5.
+
+### 3.8 JobsPipe, owner of the hiring signal
+- The only source of open-role intent. A prospect hiring a CRM, martech, CDP, personalization, or
+  lifecycle lead is budget forming and a live multi-thread target, so lead the opener with it. General
+  digital, data, or engineering hiring is a hedged supporting signal, not a hook on its own.
+- Run: `POST https://api.jobspipe.dev/v1/jobs/search`, header `Authorization: Bearer $JOBS_PIPE_API`,
+  body `{"company_name_partial_match_or":["<Company>"],"job_title_or":["CRM","martech","marketing automation","personalization","customer data","campaign","lifecycle","digital marketing"]}`.
+- Coverage is partial, it indexes what job boards expose and a bank's own Workday or careers portal may
+  hold more. If it is thin, Firecrawl-scrape the `/careers` page found in 3.7 rather than reaching for a
+  second jobs tool. Report the coverage limit honestly, a thin result is an account reality, not proof
+  that nobody is hiring.
+
+### 3.9 The corroboration standard (this protects every named-incumbent claim)
+- Name an incumbent as fact in an opener ONLY when two INDEPENDENT sources agree, drawn from: urlscan
+  (Wappalyzer or third-party domains), Lookyloo (hostnames or cookies), the Apify CSP header, a SERP
+  press or case-study hit (3.6), or Apollo enrich. Two sources from different infrastructure is the bar
+  before you write a vendor's name to a senior banker.
+- A single-source detection, or a vendor-side customer-list mention, is usable but must be flagged
+  `[VERIFY]` and softened in the copy, or verified first. For email senders, the honest verification is
+  DNS, an SPF or MX record naming the ESP.
+- Corroboration is necessary but not sufficient. Naming any competitor at all, even neutrally, still
+  needs the go-to-market carve-out sign-off (CLAUDE.md Section 5, and the Section 13 open item) before
+  it ships.
+
+### 3.10 The web-side-only caveat (never overclaim)
+- Every engine here sees the PUBLIC WEB and public record. Even with the SERP layer recovering some
+  server-side and contracted vendors, none of them see the mobile app push and in-app vendor, which for
+  a bank is often where the real engagement runs.
 - Therefore "no CDP or orchestration" is NEVER stated as a fact. It is always framed as a hedged
   observation from the outside (Section 6.2). Tools are good, not infallible. Say so in the copy.
 
@@ -149,7 +243,7 @@ web", "what runs inside the app I can't see, and that is usually where this live
 it is also the single most repeated winning move in the corpus. It is not weakness, it is accuracy.
 
 ### 6.3 The honest incumbent wedge
-Name the incumbent stack only when we actually observe it and it is corroborated (Section 3.5). Name it
+Name the incumbent stack only when we actually observe it and it is corroborated (Section 3.9). Name it
 to frame the gap and ask nothing accusatory. Never assert an unverifiable negative about a competitor
 as fact. Never disparage by name. Competitors to differentiate against without naming negatively:
 Adobe, Salesforce Marketing Cloud, Sitecore, Braze, CleverTap, MoEngage, Insider, Bloomreach, Emarsys,
@@ -230,7 +324,8 @@ any security item to Koksal for sign-off.
 
 - [ ] The hook is specific, current, and verifiable, and leads with the real stack where sourced.
 - [ ] The stack read is HEDGED, not stated as fact. The web-side-only limit is acknowledged.
-- [ ] Any named incumbent is corroborated by two engines, or flagged `[VERIFY]` and softened.
+- [ ] Any named incumbent is corroborated by two independent sources (Section 3.9), or flagged
+      `[VERIFY]` and softened.
 - [ ] The close is straight: owns the cold approach, no naive stack question, no call ask, no "no
       meeting" tactic, no "whoever owns it" delegation. Varied, not templated.
 - [ ] Dengage is named once, humbly. No banned vendor-speak.
@@ -287,7 +382,7 @@ owns the cold approach.
 > layer alongside Adobe is what we do at Dengage. If it's useful, I can share how banks have done it.
 > Best, Salil
 
-Why it works: the named incumbent (Adobe) is corroborated by two engines, the wedge is coexistence not
+Why it works: the named incumbent (Adobe) is corroborated by two independent sources, the wedge is coexistence not
 displacement, and the close is a plain offer with no tactic.
 
 ### OAB, Ziad Alshami (Head of CRM and Data Analytics, Retail)
@@ -328,6 +423,10 @@ reply data in `data/outreach-runs/` before treating any of this as settled.
   CLAUDE.md Section 5 carve-out before it ships.
 - Batch-05 specifics still open: QIB MailJet/Mandrill pending a DNS SPF/MX check; SNB multi-thread past
   the Corporate Relations buyer; whether SNB's first touch carries the GCP Dammam residency line.
+- Messaging framework: the cross-session messaging-framework discussion (external session
+  01QUz6uSs9Y6odZgX79RASFj) is to be consolidated into Sections 5 and 6 so no rule is lost across
+  sessions. PENDING the human supplying that content; it cannot be read from another session and must
+  not be reconstructed from memory.
 
 ---
 
@@ -342,5 +441,10 @@ reply data in `data/outreach-runs/` before treating any of this as settled.
   only place claims and proof come from.
 - `data/outreach-runs/`: batch records, trackers, send-style, and stats.
 - `data/gulf-banking-icp/`: the target universe and persona coverage.
-- Research tools: urlscan (API key, fresh scans), Lookyloo (independent corroboration), Apollo enrich
-  (paid, approval required), DNS for ESP verification.
+- Research tools (Section 3, one owner per insight, keys as repository secrets): Apollo (buyer,
+  firmographics, backend senders), urlscan `URLSCAN_IO_API` and Lookyloo (client-side stack and cookie
+  corroboration), Apify `APIFY_API` (consent-gated martech via the CSP header), ScrapingDog
+  `SCRAPINGDOG_API` and Serper `SERPER_API` (announced partnerships, incumbent corroboration,
+  server-side vendors, group tree, look-alikes), Firecrawl `FIRECRAWL_API` (triggers and executive
+  quotes), JobsPipe `JOBS_PIPE_API` (hiring intent), WebReveal (free tech triage), DNS for ESP
+  verification. Rejected as duplicative: Microlink, DuckDuckGo MCP, ScrapingDog LinkedIn Jobs.
