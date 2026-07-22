@@ -13,11 +13,11 @@ email (Gmail), tracked in Zoho. "Touch 1" = first contact day; follow-ups every 
 | Batch (Day · sent) | Leads | Email touch-1 | Email touch-2 | LinkedIn requests | LinkedIn connected | LinkedIn Msg 1 | LinkedIn Msg 2 | Email replies | Bounces |
 |---|---|---|---|---|---|---|---|---|---|
 | batch-01 (Mon 07-13) | 10 | 10 | 10 (07-16) | 9 | 2 (Enrique + Ashraf) | 2 | 2 (Ashraf, Enrique) | 0 | 1 (Haifa/Riyad) |
-| batch-02 (Tue 07-14) | 10 | 10 | 10 (07-19) | 9 | 2 (Moayad + Mohamed H.) | 2 | 1 (Mohamed H.) | 0 | 0 |
-| batch-03 (Wed 07-15) | 10 | 10 | 10 (07-20) | 10 | 3 (Bahaa, Adam, Amir) | 3 | 0 (due 07-21) | 0 | 0 |
+| batch-02 (Tue 07-14) | 10 | 10 | 10 (07-19) | 9 | 2 (Moayad + Mohamed H.) | 2 | 2 (Mohamed H.; Moayad 07-22) | 0 | 0 |
+| batch-03 (Wed 07-15) | 10 | 10 | 10 (07-20) | 10 | 3 (Bahaa, Adam, Amir) | 3 | 3 (07-22) | 0 | 0 |
 | batch-04 (Thu 07-16) | 10 | 10 | 10 (07-22) | 9 | 4 (Wafa, Mahmoud, Navaid + Sridhar) | 4 | 4 (07-22, sent) | 0 | 0 |
 | batch-05 (Mon 07-20) | 10 | 10 | due 07-27 | 9 | 1 (Ahmed Taqi acc. 07-20) | 0 (Taqi Msg 1 due) | 0 | 0 | 0 (6 pattern emails on watch) |
-| **TOTAL** | **50** | **50** | **40** | **46** | **12** | **11** | **7** | **0** | **1 confirmed** |
+| **TOTAL** | **50** | **50** | **40** | **46** | **12** | **11** | **11** | **0** | **1 confirmed** |
 
 "LinkedIn connected" counts new acceptances plus leads already connected who received Message 1.
 

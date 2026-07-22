@@ -28,10 +28,10 @@ batch). Nothing waits for its own batch's next email date.
 | Ashraf Elsaghir | NBE, Egypt | b1 | Msg 2 sent 2026-07-20 | Msg 3 · 2026-07-23 (Thu) | Silent, no reply |
 | Enrique Cuentas | CIB, Egypt | b1 | Msg 2 sent 2026-07-20 | Msg 3 · 2026-07-23 (Thu) | Silent, no reply. [CONFIRM: did he reply on LinkedIn? If yes, stop and mark Replied.] |
 | Mohamed Hamdy | Banque Misr, Egypt | b2 | Msg 2 sent 2026-07-20 | Msg 3 · 2026-07-23 (Thu) | Silent, no reply |
-| Moayad Aldawood | Bank Albilad, KSA | b2 | Msg 2 (v1.2) prepared 2026-07-22 (pending send) | Msg 3 · 2026-07-27 (Mon) | Silent |
-| Bahaa Farouk | Suez Canal Bank, Egypt | b3 | Msg 2 (v1.2) prepared 2026-07-22 (pending send) | Msg 3 · 2026-07-27 (Mon) | Silent |
-| Adam Jabry | Alizz, Oman | b3 | Msg 2 (v1.2) prepared 2026-07-22 (pending send) | Msg 3 · 2026-07-27 (Mon) | Silent |
-| Amir Alsalous | Bank of Sharjah, UAE | b3 | Msg 2 (v1.2) prepared 2026-07-22 (pending send) | Msg 3 · 2026-07-27 (Mon) | Silent |
+| Moayad Aldawood | Bank Albilad, KSA | b2 | Msg 2 (v1.2) sent 2026-07-22 | Msg 3 · 2026-07-27 (Mon) | Silent |
+| Bahaa Farouk | Suez Canal Bank, Egypt | b3 | Msg 2 (v1.2) sent 2026-07-22 | Msg 3 · 2026-07-27 (Mon) | Silent |
+| Adam Jabry | Alizz, Oman | b3 | Msg 2 (v1.2) sent 2026-07-22 | Msg 3 · 2026-07-27 (Mon) | Silent |
+| Amir Alsalous | Bank of Sharjah, UAE | b3 | Msg 2 (v1.2) sent 2026-07-22 | Msg 3 · 2026-07-27 (Mon) | Silent |
 | Sridhar Iyer | GIB (meem), KSA/Bahrain | b4 | Msg 2 (v1.2) sent 2026-07-22 | Msg 3 · 2026-07-27 (Mon) | Silent |
 | Wafa Al Harbi | Sharjah Islamic, UAE | b4 | Msg 2 (v1.2) sent 2026-07-22 | Msg 3 · 2026-07-27 (Mon) | Silent |
 | Mahmoud Okasha | AAIB, Egypt | b4 | Msg 2 (v1.2) sent 2026-07-22 (identity confirmed 07-22) | Msg 3 · 2026-07-27 (Mon) | Silent |
