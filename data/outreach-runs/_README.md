@@ -74,7 +74,10 @@ each batch's files.
 
 ## Message rules (every draft)
 
-- One earned, current, verifiable hook per lead (research, see PROSPECTING_ENGINE.md).
+- One earned, current, DATED, verifiable hook per lead (research + freshness gate, see
+  `prospecting_engine_v1.2_21July.md`; the old `PROSPECTING_ENGINE.md` is archived in OLD DOCS and must
+  NOT be used). The v1.2 messaging voice (Section 6: proof-led intro, warm close, no connect note,
+  multi-touch ladder) governs all message content.
 - Persona-matched angle; soft single CTA.
 - **Plain text only. No HTML signature. End at "Best, Salil"** — Salil adds his own signature in
   Gmail. (An embedded signature broke Gmail rendering once; see `_SEND_STYLE.md`.)

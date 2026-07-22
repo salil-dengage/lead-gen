@@ -45,6 +45,14 @@ that observation now leads with their real technology stack wherever we can sour
 not surface a specific, checkable hook, do not fall back to generic copy. Flag the lead
 `[NEEDS RESEARCH]` and stop. A missing hook is a research problem, not a writing problem.
 
+The freshness gate (both halves are mandatory before a word is drafted): the trigger must be DATED and
+verified recent, and the buyer's role must be confirmed CURRENT. A stale trigger is worse than no
+trigger. Read the published_date on every hook (Section 3.7) and discard anything old, and confirm the
+contact still holds the role via LinkedIn (Section 3.2), never from a Zoho or CSV export alone. Learned
+22 July 2026: a not-contacted manifest listed a Head of Personalization who had already moved to another
+bank, and a press release that read as a fresh trigger was a deal from years earlier. No draft ships
+until both the trigger date and the current role are independently verified.
+
 ---
 
 ## 2. The end-to-end process (run in this order, every time)
@@ -54,7 +62,8 @@ not surface a specific, checkable hook, do not fall back to generic copy. Flag t
    role check). If seniority is wrong, record the multi-thread target.
 3. Run the multi-source stack research (Section 3). Corroborate any incumbent you intend to name.
 4. Score and tier the lead (Section 4).
-5. Select the persona angle (Section 5) and the verified reference to hold in reserve (Section 7).
+5. Select the persona angle (Section 5), the client logos and accolade that LEAD the intro, and the
+   verified metric held back for touch 2 (Section 7).
 6. Draft the assets in the v1.2 voice (Section 6).
 7. Run the pre-send self-check (Section 9). Fix every violation before emitting.
 8. Output in the requested mode (Section 10). Persist to a file or Zoho only when the human approves.
@@ -396,7 +405,8 @@ Two kinds of proof, two different placements (see Section 6.3 and 6.8):
 
 ## 9. Pre-send self-check (run before emitting every message)
 
-- [ ] Opens warm: names their specific current move AND is genuinely kudos, not a flat restatement.
+- [ ] The trigger is DATED and verified recent (published_date read, anything stale discarded).
+- [ ] Opens warm: names that current move AND is genuinely kudos, not a flat restatement.
 - [ ] The five movements are in order (6.0): warm hook, brands-and-accolade intro, hedged stack read,
       a couple of concrete deliverables, warm close.
 - [ ] Intro leads with the "Composable AI Marketing Platform" descriptor, THREE+ verified client names
@@ -415,7 +425,8 @@ Two kinds of proof, two different placements (see Section 6.3 and 6.8):
 - [ ] No em or en dashes. No rule of three. No "not X but Y". No colon enumerations. No filler.
 - [ ] No GCC customer logo implied. Deterministic identity only if identity is mentioned. Uptime 99.9%
       only if mentioned. KSA cites GCP Dammam. No internal module codes.
-- [ ] Role and seniority verified. Multi-thread target recorded if the buyer is wrong.
+- [ ] Role and seniority verified CURRENT via LinkedIn (not a Zoho or CSV export alone). Multi-thread
+      target recorded if the buyer is wrong.
 - [ ] Within the word limits (email 110 to 140, LinkedIn 50 to 80). LinkedIn has no connect note.
 - [ ] Every uncertainty surfaced as a flag, not hidden.
 
