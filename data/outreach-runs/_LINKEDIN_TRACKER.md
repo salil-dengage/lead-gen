@@ -78,13 +78,14 @@ When Salil reports an acceptance, Message 1 is generated then and the lead moves
   OAB, https://www.linkedin.com/in/ziad-alshami-57a21a14, verified email, current since 2021).
   CR + Email 1 SENT 2026-07-20, pending acceptance. So b5 CR-sent = 9 profiles now.
 
-- b6 (note-less CR SENT 2026-07-22, 9 of 10; v1.2 Message 1 ready on accept, in
-  batch-06/01_initial_2026-07-22.md; none accepted as of 07-22 screenshots. Atul Choudrie / stc bank
-  SUPPRESSED, left the bank Jan 2026. Email bounced for Fida/CBI, Samir/ABK, Nasser/BisB, so those three
+- b6 (note-less CR SENT: 9 on 2026-07-22 + Abdulkarim/stc on 2026-07-23 = 10 of 10; v1.2 Message 1 ready
+  on accept, in batch-06/01_initial_2026-07-22.md; none accepted as of 07-22 screenshots. Atul Choudrie /
+  stc bank SUPPRESSED, left the bank Jan 2026, REPLACED by Abdulkarim Giraud (Marketing & Comms Director,
+  Email 1 + CR sent 07-23). Email bounced for Fida/CBI, Samir/ABK, Nasser/BisB, so those three
   are LinkedIn-only): Faizal Kundil (Ajman), Fida El Samad
-  (CBI), Nader Al Khawaja (SAIB), Atul Choudrie (stc bank), Mohammed Al-Emadi (QIIB), Samir Al-Yakoob
+  (CBI), Nader Al Khawaja (SAIB), Abdulkarim Giraud (stc bank), Mohammed Al-Emadi (QIIB), Samir Al-Yakoob
   (ABK), Nasser Alawadhi (BisB), Ahmed Al-Waily (Bank Nizwa), Ahmed Ali (QNB Alahli), Hanan Fahmi
-  (AlexBank). All emails pattern-unverified, so LinkedIn is the primary channel for this batch.
+  (AlexBank). All emails pattern-unverified except Abdulkarim (Apollo-verified), so LinkedIn is the primary channel for this batch.
 
 None of the batch 1-4 pending appeared as newly connected in Salil's 2026-07-20 screenshots
 (validated name by name).

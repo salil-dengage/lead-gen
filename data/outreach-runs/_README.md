@@ -55,7 +55,7 @@ in the reply to Salil, without being asked. Never make him ask for it. Link form
 | batch-04 | Gulf+Egypt banking | 2026-07-16 (Thu) | 10 | touch 2 (v1.2 SENT + Zoho logged 2026-07-22; stale 07-21 v1.1 drafts deleted; LinkedIn Msg 2 generated for the 4 accepted) | touch 3 → Wed 2026-07-29 |
 | batch-05 | Gulf+Egypt banking | 2026-07-20 (Mon) | 10 | touch 1 sent 2026-07-20 (10 emails, 9 CRs; OAB = Ziad Alshami) | touch 2 → Mon 2026-07-27 |
 
-| batch-06 | Gulf+Egypt banking | 2026-07-22 (Wed, v1.2) | 10 | touch 1 (v1.2 regenerated + drafted 2026-07-22, pending send; stale v1.1 drafts to delete; 10 note-less CRs to send) | touch 2 → Tue 2026-07-28 |
+| batch-06 | Gulf+Egypt banking | 2026-07-22 (Wed, v1.2) | 10 | touch 1 SENT (9 emails 2026-07-22 + Abdulkarim/stc 2026-07-23 = 7 clean, 3 bounces LinkedIn-only; 10 note-less CRs sent; Zoho logged) | touch 2 → Tue 2026-07-28 |
 
 60 leads total; batch-05 is 10 active (Anuj Madan/OAB suppressed after he left the bank, replaced by
 Ziad Alshami, verified). batch-06: all 10 LinkedIn-confirmed, all 10 emails pattern-unverified
@@ -111,19 +111,23 @@ each batch's files.
 Reminders are named **`Outreach · batch-0N · touch-0M · <weekday date>`** so both Salil and Claude
 can read the schedule at a glance.
 
-> NOTE (2026-07-22): Salil deleted ALL live routines for a clean re-create. The table below is the
-> AUTHORITATIVE schedule to re-create as live reminders (option (a): b1 t3 and b3 t3 both on Sun 07-26,
-> per Salil). Live re-creation is PENDING the Claude_Code_Remote server, the create_trigger tool is
-> currently unavailable. Until the reminders exist, each date's run must be kicked off manually. Each
-> reminder runs BOTH legs: its batch's email touch AND the cross-batch LinkedIn sweep (every LinkedIn
-> touch due or overdue that day, across ALL batches, keyed to accept dates).
+> NOTE (updated 2026-07-23): Salil deleted ALL live routines for a clean re-create. The table below is the
+> AUTHORITATIVE schedule (option (a): b1 t3 and b3 t3 both on Sun 07-26, per Salil). The create_trigger
+> tool is unavailable on Claude's side, so SALIL is re-creating these reminders himself from the
+> copy-ready specs Claude provided on 2026-07-23. Recommended fire time 08:00 Asia/Dubai (04:00 UTC).
+> The batch-02 · touch-3 reminder was due TODAY (Thu 07-23); its morning window had passed by the time the
+> specs were finalised, so that run is to be handled MANUALLY in-session on 07-23 (pending Salil's go),
+> not scheduled. The five FUTURE reminders (07-26 x2, 07-27, 07-28, 07-29) are the ones being created.
+> Each reminder runs BOTH legs: its batch's email touch AND the cross-batch LinkedIn sweep (every LinkedIn
+> touch due or overdue that day, across ALL batches, keyed to accept dates). On 07-26, run the LinkedIn
+> cross-batch sweep only ONCE across the two same-day reminders (batch-01 first, then batch-03 email-only).
 
 Authoritative schedule to re-create:
 
 | Reminder | Fires |
 |---|---|
 | Outreach · batch-01 · touch-3 | Sun 2026-07-26 (moved from Wed 07-22 per Salil; shares the day with batch-03 touch-3) |
-| Outreach · batch-02 · touch-3 | Thu 2026-07-23 |
+| Outreach · batch-02 · touch-3 | Thu 2026-07-23 (TODAY, handled manually in-session, not scheduled; morning window passed) |
 | Outreach · batch-03 · touch-3 | Sun 2026-07-26 |
 | Outreach · batch-05 · touch-2 | Mon 2026-07-27 |
 | Outreach · batch-06 · touch-2 | Tue 2026-07-28 |
@@ -132,8 +136,13 @@ Authoritative schedule to re-create:
 ## Per-lead standing flags
 
 - batch-01: Haifa Binahmed (Riyad Bank) email BOUNCED → LinkedIn only (stack angle: Segment + Oracle
-  Analytics). George Yaryura (Mashreq) was OOO to 2026-07-17. Enrique Cuentas (CIB) accepted, in
-  conversation. Mohammed Alabdullah (Al Rajhi) LinkedIn: https://sa.linkedin.com/in/mohammed-alabdullah-383bb140
+  Analytics). George Yaryura (Mashreq, georgesy@mashreq.com) and Enrique Cuentas (CIB,
+  enrique.cuentas@cibeg.com) each received ONLY Email 1 (2026-07-13); their Email 2 was held (George OOO
+  to 07-17; Enrique wrongly parked "in conversation") and Gmail confirms it never went out (verified
+  2026-07-23). So on the Sun 2026-07-26 batch-01 run, George and Enrique get Email 2 (touch-2), while the
+  other 8 leads get Email 3 (touch-3). Enrique: no email reply in Gmail as of 07-23; continue his cadence
+  unless Salil has seen a LinkedIn reply. Mohammed Alabdullah (Al Rajhi) LinkedIn:
+  https://sa.linkedin.com/in/mohammed-alabdullah-383bb140
 - batch-02: Sami Zadjali (BankDhofar) title [VERIFY] before any LinkedIn message.
 - batch-04: Marian Kaisser (CA Egypt) title CONFIRMED 2026-07-21 = Head of Proximity Banking
   Development, Marketing & Customer Experience (The Org / RocketReach / ZoomInfo). [VERIFY] cleared.
@@ -142,12 +151,15 @@ Authoritative schedule to re-create:
   Automation") is cleared; he is a valid current AAIB contact.
 - batch-05: Ziad Alshami (OAB) email ziad.alshami@oman-arabbank.com BOUNCED 2026-07-20 (Address not
   found) → suppress email, LinkedIn only. Sharif Rafei (NBF) sharif.rafei@nbf.ae BOUNCED 2026-07-20 →
-  suppress email (was already LinkedIn-unlocatable, so parked). Apply on batch-05's Mon 07-27 run.
-- batch-06 (touch 1 sent 2026-07-22): email BOUNCED → suppress email, LinkedIn-only for Fida El Samad
-  (CBI, fida.elsamad@cbi.ae), Samir Al-Yakoob (ABK, samir.alyakoob@eahli.com), Nasser Alawadhi (BisB,
-  nasser.alawadhi@bisb.com). All three have a live LinkedIn CR; Message 1 on accept. Atul Choudrie
-  (stc bank) SUPPRESSED: left stc bank Jan 2026 (now Zag / Remitjunction) → stc bank needs a new buyer
-  or park. Remaining 6 (Faizal, Nader, Mohammed, Ahmed Al-Waily, Ahmed Ali, Hanan) delivered clean.
+  suppress email (was already LinkedIn-unlocatable, so parked). Re-confirmed unreachable 2026-07-23
+  (Gmail bounce, no LinkedIn located) → DROP from the batch-05 cadence. Apply on batch-05's Mon 07-27 run.
+- batch-06 (touch 1 sent 2026-07-22; Abdulkarim/stc 2026-07-23): email BOUNCED → suppress email,
+  LinkedIn-only for Fida El Samad (CBI, fida.elsamad@cbi.ae), Samir Al-Yakoob (ABK, samir.alyakoob@eahli.com),
+  Nasser Alawadhi (BisB, nasser.alawadhi@bisb.com). All three have a live LinkedIn CR; Message 1 on accept.
+  Atul Choudrie (stc bank) SUPPRESSED: left stc bank Jan 2026 (now Zag / Remitjunction). REPLACED by
+  Abdulkarim Giraud (Marketing & Comms Director, agiraud@stcbank.com.sa Apollo-verified + mobile enriched);
+  his Email 1 + note-less CR SENT 2026-07-23, Zoho logged. The other 6 (Faizal, Nader, Mohammed, Ahmed
+  Al-Waily, Ahmed Ali, Hanan) delivered clean 07-22; Abdulkarim delivered clean 07-23.
 
 ## LinkedIn follow-up lane — see `_LINKEDIN_TRACKER.md`
 
