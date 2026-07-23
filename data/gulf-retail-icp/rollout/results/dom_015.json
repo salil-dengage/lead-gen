@@ -1,0 +1,182 @@
+[
+  {
+    "name": "EMAAR ALWATAN",
+    "domain": "emac.sa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "building_materials_construction",
+    "qualification_path": "n/a",
+    "reason": "Building materials distributor/manufacturer (marble, granite, ceramics, sanitary ware) supplying construction - explicit Gate 2 hard-fail category regardless of live operations or Saudi HQ.",
+    "evidence": "Live site served a custom JS 'checking your browser' anti-bot challenge (inconclusive alone). WebSearch corroborates: HQ Riyadh, Saudi Arabia (7002 Abi Ash Shukr As Sabuni Street); described as 'a leading Saudi building materials provider... supplying and manufacturing natural marble, granite and ceramic works' plus sanitary ware. Confirms prior_category home_improvement/building materials as an excluded category."
+  },
+  {
+    "name": "eSpare | Spare Parts Company Ltd.",
+    "domain": "espare.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive_parts",
+    "qualification_path": "n/a",
+    "reason": "Automotive spare parts / car accessories / car-care products retailer (app + web) - explicit Gate 2 hard-fail (automotive parts) regardless of live/app presence.",
+    "evidence": "Domain dead on all attempts (https timeout exit 28, http 503, and 'no route to host' with -k). WebSearch confirms nature: 'eSpare app... genuine and reliable alternative spare parts, as well as car accessories and car care products,' with listings on Apple App Store and Google Play. Attempted Gate 5b app-download rescue since it is an app-centric marketplace: direct fetch of the identified Google Play listing (com.espare.android) returned 'Not Found', and searches surfaced no confirmed 50k+ install/download figure, so rescue was not applied."
+  },
+  {
+    "name": "Eureka Trading Co. W.L.L.",
+    "domain": "eureka.com.kw",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "electronics",
+    "qualification_path": "substantiality",
+    "reason": "Live Kuwait-HQ'd electronics e-commerce retailer (TVs, mobile phones, home appliances) with real cart/pricing infrastructure and a marketing retargeting stack, consistent with a substantial ongoing operation.",
+    "evidence": "curl fetch returned genuine retail meta content: 'Buy Electronics, TVs, Mobile Phones & Home Appliances @Best Price | Eureka', og:site_name 'Eureka Electronics', en-KW locale, GTM + AdRoll retargeting pixels. Follow-up fetch confirmed real 'Cart' (5) and 'Price' (7) mentions on-page."
+  },
+  {
+    "name": "Eurocom",
+    "domain": "eurocomonline.net",
+    "verdict": "OUT",
+    "gate_failed": "digital_channel",
+    "category_final": "electronics_mobile_retail",
+    "qualification_path": "n/a",
+    "reason": "Real, substantial physical retail chain (34+ mobile-phone/electronics showrooms in Kuwait since 1993) per WebSearch, but no live website could be found at either the given domain or the alternate domain WebSearch identified as their real site - both fail to resolve, so no confirmed live transactional store or app.",
+    "evidence": "eurocomonline.net: DNS resolution failure (curl exit 6, could not resolve host). WebSearch identified 'www.eurocomonline.com' as their actual site ('Eurocom specializes in the retail of mobile phones, phone accessories and telecommunications services, with over 34 showrooms throughout Kuwait... established in 1993'); re-checked eurocomonline.com via curl (HTTP 000 connection failure) and via WebFetch (ENOTFOUND) - both confirm unreachable. No live site found anywhere despite the cross-check."
+  },
+  {
+    "name": "Ever Fashion Luxury Group",
+    "domain": "everfashionluxurygroup.com",
+    "verdict": "OUT",
+    "gate_failed": "digital_channel",
+    "category_final": "fashion_luxury_franchisee",
+    "qualification_path": "n/a",
+    "reason": "Genuine, substantial luxury multi-brand franchisee in Qatar (55+ boutiques, 26+ international luxury brands, Doha HQ, est. 2010, 300+ staff) passes geography/category/narrow-purchase gates, but operates purely through physical mall boutiques with no online store: the site is pure brand-storytelling content, its XML sitemap index contains no product-sitemap, and every shop/product/boutique path tested 404s.",
+    "evidence": "Full homepage text (210KB fetched, scripts/styles stripped) shows only Home/About/Brands/Events/News/Careers/Contact, boutique locations at four Doha malls (Place Vendome, Villaggio, Printemps Doha, The Gate Mall), no shop CTA or pricing. sitemap_index.xml lists only post-sitemap, page-sitemap, e-landing-page-sitemap, category-sitemap, author-sitemap - no product-sitemap (Yoast/WooCommerce auto-generates one if real products exist). /shop/, /product-category/, /product/, /en/shop/, /boutique/ all returned 404. On-page 'cart'/'woocommerce' hits are unused Astra-theme/plugin boilerplate CSS classes, not an active storefront. This reverses prior_verdict IN."
+  },
+  {
+    "name": "extra",
+    "domain": "extra.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "electronics",
+    "qualification_path": "substantiality",
+    "reason": "Major, well-known, publicly traded Saudi electronics retailer (eXtra / United Electronics Co.) with a large live transactional Arabic/English e-commerce site.",
+    "evidence": "curl fetch shows real Arabic retail content ('إكسترا السعودية | اشترِ الإلكترونيات بثقة' - 'eXtra Saudi Arabia, shop electronics with confidence'), confirmed real pricing content (سعر x41, ريال x2), and full retail infrastructure (media/CDN subdomains, Unbxd search, Emarsys, Mixpanel)."
+  },
+  {
+    "name": "Extreme Sports",
+    "domain": "extreme.com.kw",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "sporting_goods",
+    "qualification_path": "substantiality",
+    "reason": "Live Kuwait-HQ'd Shopify storefront selling cycling/sports gear across multiple sub-categories (bikes, lights, saddles, running, action sports) with physical stores in Salmiya and Shuwaikh; confirmed 250+ real SKUs, not a narrow single product line.",
+    "evidence": "Live Shopify site 'Extreme Sports Kuwait | Cycling, Sports Gear, Bicycles & Accessories'. products.json returned 250 real distinct products with real KWD pricing (e.g. Marlin 5 Gen 3 mountain bike 259.000 KWD, Garmin Varia RTL515 radar tail light 59.000 KWD, various BMX saddles) across multiple categories, confirming a real non-demo catalog well past the 50-SKU floor."
+  },
+  {
+    "name": "Fouad Alghanim & Sons Automotive",
+    "domain": "faa.com.kw",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive",
+    "qualification_path": "n/a",
+    "reason": "Explicit automotive dealer/distributor - Gate 2 hard-fail regardless of live, real operation.",
+    "evidence": "Page title itself: 'Fouad Alghanim & Sons Automotive Company'; live WordPress corporate site confirming an automotive dealership business."
+  },
+  {
+    "name": "عطور فيصل الدايل | Faisal Aldayel Perfumes",
+    "domain": "faisalaldayel.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "health_beauty_pharmacy",
+    "qualification_path": "substantiality",
+    "reason": "Live Saudi perfume e-commerce retailer (Zid platform) with real product pages, real SAR pricing, add-to-cart, and multiple named product lines/collections - a consumable, high-repeat-purchase beauty category.",
+    "evidence": "Confirmed real product page for 'Dantil' perfume (SAR 499, fragrance notes Mandarin-Amber-Jasmine, quantity selector, 'إضافة للسلة'/Add to Cart, product reviews section); multiple distinct product/category links found on homepage (100ml, 200ml, best-sellers, two named collections '1983'/'1988', niche collection, private collection, multi-use, outlet, new arrivals); brand story dates to 2002, Saudi tax-registration number displayed on-page, own mobile app offered for download."
+  },
+  {
+    "name": "Fakeeh Vision",
+    "domain": "fakeehvision.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "health_beauty_pharmacy",
+    "qualification_path": "substantiality",
+    "reason": "Live Shopify eyewear/optical retailer headquartered in Jeddah, Saudi Arabia (Fakeeh Care Group, est. 1999), selling genuine consumer eyewear, sunglasses, and contact lenses direct-to-consumer online; confirmed large, real (non-demo) catalog.",
+    "evidence": "products.json returned genuine distinct SKUs with real prices (e.g. Bausch+Lomb SofLens Daily Disposable contact lenses at multiple prescription powers, SAR 150; Centro Style Spray Clean lens cleaner, SAR 20); products sitemap paginated across 4 files (first file alone hit the 1000-URL cap), confirming a catalog far past the 50-SKU floor. WebSearch confirms Jeddah HQ: 'Fakeeh Complementary is headquartered in Jeddah with a branch in Riyadh and Dubai... Fakeeh Vision is a prominent optical retailer... established in 1999,' matching the row's Saudi Arabia geography."
+  },
+  {
+    "name": "Family Food Centre",
+    "domain": "family.qa",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "grocery",
+    "qualification_path": "substantiality",
+    "reason": "Live, large-scale Qatar grocery e-commerce site with real cart/checkout and an extensive product catalog.",
+    "evidence": "Fetched homepage (870KB) contains extensive real commerce markers: 'Add to Cart' (2), 'Cart' (13), 'Checkout' (5), 'Delivery' (69), 'Grocery' (9), 'Product' (70), 'QAR' (439 - the price currency), confirming a large, live, transactional grocery storefront."
+  },
+  {
+    "name": "Farm",
+    "domain": "farm.com.sa",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "grocery",
+    "qualification_path": "substantiality",
+    "reason": "Long-established (1978), Dammam-HQ'd Saudi supermarket chain (107 physical stores) with a real, live, published consumer mobile app ('FarmGo') satisfying Gate 4's mobile-app alternative; clearly a substantial ongoing grocery operation.",
+    "evidence": "Own-site Arabic copy confirms: 'الشركة السعودية للتسويق (سامكو) ... أنشئت في عام 1978 ... يقع مقر إدارتها العامة في مدينة الدمام ... تدير سلسلة تضم 90 متجرا ... بالإضافة إلى 17 متجرا صغيرا' (est. 1978, HQ Dammam, 90 large stores + 17 small stores = 107 total). Confirmed live app listings directly linked from the corporate nav: apps.apple.com/sa/app/farmgo-app/id1596874084 and play.google.com id=com.itsquad.app.FarmGO."
+  },
+  {
+    "name": "Fast Auto Technic | Ferrari Saudi Arabia",
+    "domain": "fastautotechnic.com.sa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive",
+    "qualification_path": "n/a",
+    "reason": "Automotive dealership/service center (Ferrari authorized sales/service in Saudi Arabia) - Gate 2 hard-fail regardless of site availability.",
+    "evidence": "Domain itself unreachable on all attempts (SSL/connect failures, curl exit 60 and exit 6). Business identity is unambiguous from the company name itself ('Fast Auto Technic | Ferrari Saudi Arabia') and matches prior_category non_retail; automotive dealer/service is an explicit Gate 2 exclusion, so no further site verification was pursued."
+  },
+  {
+    "name": "Future Communications Company",
+    "domain": "fcc-kuwait.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "electronics",
+    "qualification_path": "substantiality",
+    "reason": "27-year-old Kuwait conglomerate with a genuine consumer 'Retail & Distribution' arm (mobile phones, accessories, computers, tablets, gaming, smart gadgets via physical outlets) plus a confirmed, massive, live e-commerce platform (Soooq) satisfying Gate 4.",
+    "evidence": "fcc-kuwait.com corporate page describes real physical retail outlets in Kuwait and directly links to soooq.com ('SOOOQ is an e-commerce platform for local and global online shopping for customers based in Kuwait'). Fetched soooq.com directly: confirmed live Shopify storefront with hundreds of real 'Add to Cart'/'Checkout' instances and KWD pricing across a large catalog (2.4MB page, 2927 'price' mentions)."
+  },
+  {
+    "name": "Fitaihi",
+    "domain": "fitaihi.com.sa",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "fashion",
+    "qualification_path": "substantiality",
+    "reason": "Century-old (est. 1907), Tadawul-listed Saudi jewelry/luxury goods retailer. The row's domain (fitaihi.com.sa) is the holding company's investor-relations portal (no cart), but that same official page names fitaihi.com as the operating retail entity's site, which is confirmed to be a genuine live WooCommerce jewelry storefront with real cart/checkout and an extensive multi-category catalog.",
+    "evidence": "fitaihi.com.sa is 'Fitaihi Holding Group' (investor relations/board/dividends/Tadawul ticker 4180 portal); its own 'Retail' practice-area page states 'The Retail Sector of the Group is through Fitaihi Retail Company, which is active in the trade of luxury goods, gold, jewelry, watches...' and directly names 'https://fitaihi.com/' as that entity's site. Confirmed fitaihi.com is a live WooCommerce store branded 'Fitaihi Jewellery' with working /cart/ and /checkout/ links and dozens of real product categories (Gold: Bracelets/Earrings/Anklets/Engagement/Kids/Necklaces/Rings/Zodiac/Letters/Set; High Jewellery; Gifts & Occasions: Love Collection/Mother's Day/Wedding & Engagement)."
+  },
+  {
+    "name": "FL Development",
+    "domain": "fl.sa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "interior_design_b2b_services",
+    "qualification_path": "n/a",
+    "reason": "Interior design / project execution / fit-out firm - an explicit Gate 2 hard-fail category ('B2B services/agencies/interior-design-project firms'), independent of the site's own 'coming soon' status.",
+    "evidence": "Live site is a literal 'FL Development - Coming soon' placeholder page (would also independently fail Gate 4). WebSearch corroborates business nature: 'FL Development... full-service interior design firm located in Riyadh, Saudi Arabia... specialized in interior design, project execution, finishing works, and the supply of various finishing materials, furniture, accessories.'"
+  },
+  {
+    "name": "Flora Group W.L.L",
+    "domain": "floragroup.net",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "diversified_trading_b2b",
+    "qualification_path": "n/a",
+    "reason": "Diversified B2B trading/holding conglomerate (technology, security solutions, food/vegetable trading, flowers, construction, office furniture, medical equipment) - not a focused consumer retail operation; falls under Gate 2's wholesale/trading/distribution and construction/B2B-services exclusions.",
+    "evidence": "Site's own meta description: 'Flora Group's business domains span a range of 8 core - Technology and services, Security solutions, Retail solutions, Food and vegetables trading, Flowers and flower products, Construction, Office furniture, Medical equipment.' Confirms prior_category diversified_trading."
+  },
+  {
+    "name": "Floward",
+    "domain": "floward.co",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "ecommerce_gifting",
+    "qualification_path": "substantiality",
+    "reason": "Riyadh, Saudi Arabia HQ'd (founded 2017) flower & gift delivery company with major, real, verified scale (Forbes ME Top 50 Most-Funded Startups, 'million+' app users, 40+ cities across 9 countries). floward.co is the corporate/press arm and links directly to floward.com, the confirmed live transactional storefront.",
+    "evidence": "floward.co body copy: 'Floward is the leading online flowers and gifting company in the Middle East and the UK... founded in 2017... expanded... to include nine countries... Million+ users of our app,' plus press mentions (Forbes ME Top 50 Most-Funded Startups, Harvard Business School / London Business School case studies, multiple industry awards) and a direct 'Visit Our Store' link to https://floward.com/. WebSearch independently confirms floward.com serves live, city-specific transactional pages (e.g. floward.com/en-sa/riyadh 'Same-Day Flowers Delivery') and HQ in Riyadh."
+  }
+]

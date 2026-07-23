@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Bostani",
+    "domain": "bostani.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "specialty_fnb_confectionery",
+    "qualification_path": "substantiality",
+    "reason": "Passes all gates. Genuinely Saudi HQ'd (Dammam factory/HQ), luxury chocolate gifting is a repeat-purchase F&B consumable rather than a durable one-off good, real online ordering is confirmed externally, and scale is substantial via 27 physical showrooms across nine Saudi cities.",
+    "evidence": "Direct fetch (curl, HTTP 200) redirected to a client-side country-selector shell (bostani.com/choose-country, a Nuxt SPA) that would not render past the gate even with cookie attempts, so the live catalog could not be read directly; meta description confirms Arabic copy for 'order online' premium chocolate gifting. WebSearch corroboration: Bostani Chocolatier HQ and factory in Dammam, Saudi Arabia, with 27 showrooms across Riyadh, Jeddah, Tabuk, Khobar, Abha, Madina, Qassim, Taif and Hofuf; also sold via FNP.sa, HungerStation and the Ninja delivery app, confirming a real, live commercial operation. [VERIFY] exact live SKU count not directly confirmed due to the SPA access block."
+  },
+  {
+    "name": "Boutiqat",
+    "domain": "boutiqat.com",
+    "verdict": "OUT",
+    "gate_failed": "geography",
+    "category_final": "fashion_beauty_ecommerce",
+    "qualification_path": "n/a",
+    "reason": "The operating entity behind boutiqat.com (single \"a\") is HQ'd in the UAE, not Kuwait; Kuwait is listed only as a branch market. This is a distinct company from the similarly named Kuwait/Hawalli-HQ'd \"Boutiqaat\" (double \"a\"). Fails Gate 1 even though it has real local Kuwait operations.",
+    "evidence": "Direct fetch of the boutiqat.com About Us page (HTTP 200) states verbatim: 'Founded: BOUTIQAT was established in 2013 by Emirati entrepreneur Mohamed Alkendi... Headquarters and Branches: Head Office: United Arab Emirates. Current Branches: Kuwait. Coming Soon: Saudi Arabia and other GCC countries.' The page also explicitly disclaims affiliation with any similarly spelled competitor. Otherwise a real, large multi-category fashion/beauty/fragrance e-commerce mall with a live cart, real KWD pricing and hundreds of SKUs across clothing, footwear, fragrance and accessories."
+  },
+  {
+    "name": "Bradma Group",
+    "domain": "bradmagroup.com.qa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "diversified_trading_wholesale_construction_automotive",
+    "qualification_path": "n/a",
+    "reason": "Genuinely Doha, Qatar HQ'd, but the group's three divisions are food wholesale/import/distribution (largest rice and pulses importer in Qatar), automotive spare-parts trading, and building materials for construction (electrical, plumbing, scaffolding items). All three are explicit hard-fail categories, and no direct consumer retail storefront exists on this domain.",
+    "evidence": "Direct fetch (HTTP 200): 'largest importer of rice & pulses in the State of Qatar'; 'Bradma Group of Companies indulged in...automobile trade...Central Auto Parts...replacement parts'; 'Bradma Qatar building materials are widely available in ten outlets...Electrical items, industrial items, plumbing tools...scaffolding, safety equipment.' Address confirmed: Zone B2, Milaha Building, East Industrial Area Road, Doha, Qatar. No cart or checkout anywhere on the corporate site."
+  },
+  {
+    "name": "BTC Fashion",
+    "domain": "btcfashion.me",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "fashion_lifestyle_multibrand_franchise",
+    "qualification_path": "substantiality",
+    "reason": "Genuinely Doha, Qatar HQ'd franchise retail arm of the Business Trading Company. Operates approved-category fashion/lifestyle brands (Matalan, Superdry, Balabala, MINISO) across roughly 15 to 20 mall stores in Qatar, with real online sales via the bFab.com marketplace. Passes all gates.",
+    "evidence": "Direct fetch returned only an Angular app shell, but an embedded JS string held real franchise brand descriptions (Matalan acquired 2009, Superdry, Balabala, MINISO). WebSearch confirmed: 'BTC Fashion is the retail arm of the Business Trading Company (BTC)...based in Doha, Qatar'; Matalan at 3 Qatar malls, Superdry at 4, MINISO at 4+ malls (BTC-operated per company LinkedIn), Balabala at 5; 'Official Superdry Qatar Online Store at bfab' and 'bFab: Qatar's online marketplace for fashion, sports, home and lifestyle' confirm a real transactional online channel."
+  },
+  {
+    "name": "Build Station LLC",
+    "domain": "build-station.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "building_materials_construction_lighting_electrical",
+    "qualification_path": "n/a",
+    "reason": "Live, real Arabic-language e-commerce site, but the entire catalog is lighting fixtures, electrical wiring/switches/transformers, and ceramic/porcelain tiles, i.e. building materials and construction fittings, a hard-fail category and also a narrow, low-repeat-purchase product line.",
+    "evidence": "Direct fetch (HTTP 200, 511KB page): the full navigation tree is lighting (recessed/track/strip/decorative), electrical wiring accessories, switches and sockets, transformers, then 'flooring and walls, ceramic and porcelain'. No fashion, grocery, beauty, or general-merchandise categories appear anywhere on the site."
+  },
+  {
+    "name": "BYD KSA",
+    "domain": "byd.sa",
+    "verdict": "OUT",
+    "gate_failed": "geography",
+    "category_final": "automotive",
+    "qualification_path": "n/a",
+    "reason": "byd.sa is operated by Al-Futtaim, whose global HQ is Dubai, UAE, not Saudi Arabia. This is a direct instance of the Gate 1 example of a storefront merely run by a UAE-HQ'd group. It also independently fails Gate 2 as an automotive dealership/distributor.",
+    "evidence": "Direct fetch (HTTP 200) footer states verbatim on every page: '(c) Al-Futtaim 2026' on the BYD Saudi Arabia site. Content is entirely car model listings (BYD Sealion, Atto, Song Plus, Han, Seal, Shark, etc.), plus test-drive and finance pages."
+  },
+  {
+    "name": "Cadillac Alghanim كاديلاك الغانم‎",
+    "domain": "cadillacalghanim.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive",
+    "qualification_path": "n/a",
+    "reason": "Cadillac car dealership operated by Alghanim Industries (genuinely Kuwait-HQ'd, so Gate 1 passes), which makes automotive dealer the hard-fail category regardless of the site's current reachability.",
+    "evidence": "Direct fetch failed to connect (curl HTTP code 000). Confirmed as an automotive dealership by name pattern and by two sibling Alghanim-branded car sites in this same batch (Chery Alghanim, Chevrolet Alghanim) that did load and explicitly show Alghanim Industries' automotive division (showrooms, test drives, service booking) for other GM/Chery brands in Kuwait."
+  },
+  {
+    "name": "خطوة جمل | Camel Step",
+    "domain": "camelstep.com",
+    "verdict": "OUT",
+    "gate_failed": "scale",
+    "category_final": "specialty_coffee_fnb",
+    "qualification_path": "n/a",
+    "reason": "Genuinely Riyadh HQ'd, real live Salla e-commerce store (cart, checkout, commercial registration 1010412094, loyalty points, shipping/returns policies) selling specialty coffee equipment and beans, a consumable F&B category with real repeat-purchase frequency, so Gates 1 to 4 pass. However the full product sitemap lists only 31 total SKUs across every category combined, meaningfully below the roughly 50-SKU substantiality floor, and there is no evidence of a companion mobile app to qualify for the app-download rescue.",
+    "evidence": "Direct fetch (HTTP 200): real cart/checkout/loyalty program confirmed, address 'Saudi Arabia, Riyadh, At Taawun', CR number 1010412094. sitemap_products.xml (HTTP 200) contains exactly 31 <url> product entries: various coffee origins (Saudi Guji, Brazil, Ethiopia, Guatemala, Rwanda, Colombia, Panama, Costa Rica), grinders (Baratza, Marco, City), a siphon brewer, pour-over/Chemex filters, an airpot and a smart scale, with no numbered/paginated sitemap files found, so this is the complete catalog."
+  },
+  {
+    "name": "Care n Cure Group",
+    "domain": "carencurepharmacy.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "health_beauty_pharmacy",
+    "qualification_path": "substantiality",
+    "reason": "Genuinely Doha, Qatar founded and HQ'd (est. 2000 by Abdurahiman EP). Pharmacy retail is an explicit approved, recurring-purchase category. Real, large-scale live e-commerce with cart/checkout and 65 physical outlets. Passes all gates cleanly.",
+    "evidence": "Direct fetch (HTTP 200, 1MB+ page): live cart with real QAR pricing, 'Add to Cart' buttons throughout, customer reviews (e.g. 68 reviews on one product), '65 pharmacy outlets spread all over Qatar', 'Trusted by 5,00,000+ Customers'. WebSearch confirms Care n Cure headquartered at Barwa Commercial Avenue, Doha, Qatar, founded 2000 by Abdurahiman EP."
+  },
+  {
+    "name": "MAF HYPERMARKETS QATAR CARREFOUR",
+    "domain": "carrefourqatar.com",
+    "verdict": "OUT",
+    "gate_failed": "geography",
+    "category_final": "grocery_hypermarket",
+    "qualification_path": "n/a",
+    "reason": "Carrefour Qatar is operated by MAF Hypermarket WLL, a Majid Al Futtaim Group company; Majid Al Futtaim Holding's global HQ is Dubai, UAE. This is a direct instance of a storefront run by a UAE-HQ'd group, so it fails Gate 1 despite Carrefour's real, large-scale Qatar operations.",
+    "evidence": "Direct fetch returned HTTP 200 with an empty 53-byte body (an Akamai-fronted stub with no renderable content). WebSearch confirms: 'Majid Al Futtaim Holding (MAF) is the sole franchise operator of hypermarket chain Carrefour in the Gulf' and 'MAF Hypermarket WLL (a Majid Al Futtaim Group company) operates locations in Doha, Qatar.' Majid Al Futtaim is headquartered in Dubai, UAE."
+  },
+  {
+    "name": "Casa Piu",
+    "domain": "casapiu.com.sa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "building_materials_construction_sanitaryware",
+    "qualification_path": "n/a",
+    "reason": "The live domain is currently broken (Wix domain-connect error), so per protocol a WebSearch was run before failing on reachability alone. That search revealed the underlying business is a B2B importer/supplier of sanitary ware, tiles and kitchens for hotel, tower, palace and villa projects, i.e. a construction-materials supplier, a hard-fail category, correcting the prior \"home_furniture_appliance\" classification.",
+    "evidence": "Direct fetch returned HTTP 404 'ConnectYourDomain Error | Wix.com', i.e. the domain is not properly pointed at a live site. WebSearch: 'Casa Piu is known as one of the biggest importers of sanitary ware, tiles, and kitchens...supplier for numerous projects such as hotels, commercial complexes, towers, palaces and villas', address on Al-Tahassusi Street, Riyadh. No evidence found of a functioning consumer-facing storefront that would justify the prior furniture/appliance categorization."
+  },
+  {
+    "name": "Cenomi Group",
+    "domain": "cenomi.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "specialty_retail_fashion_franchise_conglomerate",
+    "qualification_path": "substantiality",
+    "reason": "Genuinely Riyadh, Saudi Arabia HQ'd. Self-described as \"the largest franchise retailer in the Kingdom of Saudi Arabia, with international presence across MENA and CIS,\" operating dozens of international fashion/lifestyle brand franchises, an approved and non-narrow category with clear at-scale physical and digital retail operations across the group's brand portfolio.",
+    "evidence": "Direct fetch of cenomi.com (HTTP 200) renders only a thin corporate/cookie-banner shell ('View All Malls', 'Ask About Cenomi'), consistent with an investor-relations style holding-company page rather than a storefront. The site's own meta tags read: title 'Cenomi Retail', description 'The largest franchise retailer in the Kingdom of Saudi Arabia, with international presence across MENA and CIS.' Riyadh contact numbers (+966 11 435 0000) confirmed on the retail subsite. Note: the parent \"Cenomi\" umbrella also includes Cenomi Centers, a mall/REIT operator that would independently fail Gate 2; this verdict follows the Cenomi Retail franchise business that the domain's own metadata self-identifies as."
+  },
+  {
+    "name": "Chayah Group",
+    "domain": "chayahgroup.com",
+    "verdict": "OUT",
+    "gate_failed": "digital_channel",
+    "category_final": "diversified_holding_fnb_electronics_unconfirmed",
+    "qualification_path": "n/a",
+    "reason": "Kuwait-based multi-sector holding company reportedly active in F&B and electronics (both individually approved categories), but the corporate domain is a literal \"Coming Soon\" placeholder with no products, cart, or identifiable operating brand to verify, so no live transactional channel can be confirmed.",
+    "evidence": "Direct fetch (HTTP 200): the entire page reads 'Comming Soon - Chayah Group' with only About Us / Portfolio / Gallery / News Hub / Careers / Contact Us navigation; no products or storefront of any kind. WebSearch: described as 'a multi-sector holding company redefining lifestyle, pioneering growth in electronics and food and beverage with operations in Kuwait and Bahrain,' but no specific consumer brand or live site/app could be identified to verify a real digital channel."
+  },
+  {
+    "name": "Chery Alghanim",
+    "domain": "cheryalghanim.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive",
+    "qualification_path": "n/a",
+    "reason": "Chery car dealership operated by Alghanim Industries (genuinely Kuwait-HQ'd, so Gate 1 passes); automotive dealer is a hard-fail category.",
+    "evidence": "Direct fetch (HTTP 200): the full site is Chery TIGGO/ARRIZO model pages, 'Book a Test Drive', 'Book a Service Appointment', three Kuwait showrooms (Shuwaikh, Fahaheel, Al-Rai), footer 'Alghanim Automobile...registered trade mark of Al Qimma Motive for Sale and Purchase of Cars Co. SPC'."
+  },
+  {
+    "name": "Sanabel Modern Motors",
+    "domain": "cheryksa.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive",
+    "qualification_path": "n/a",
+    "reason": "The company name (\"Modern Motors\") and domain (cheryksa.com, i.e. Chery + KSA) identify this as a Chery car dealership/distributor in Saudi Arabia, a hard-fail automotive category regardless of the site's reachability.",
+    "evidence": "Direct fetch failed to connect (HTTP code 000). Business identity is unambiguous from the company name 'Sanabel Modern Motors' and domain 'cheryksa.com', consistent with the Chery-brand automotive pattern independently confirmed elsewhere in this same batch (Chery Alghanim, Kuwait)."
+  },
+  {
+    "name": "Chevrolet Alghanim شفروليه الغانم",
+    "domain": "chevroletalghanim.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive",
+    "qualification_path": "n/a",
+    "reason": "Chevrolet car dealership operated by Alghanim Industries (genuinely Kuwait-HQ'd); automotive dealer is a hard-fail category regardless of the site's reachability.",
+    "evidence": "Direct fetch failed to connect (HTTP code 000). Categorized with high confidence from the 'Alghanim' automotive naming pattern shared with two sibling sites in this same batch that did load (Chery Alghanim, Cadillac Alghanim), both confirmed as Alghanim Industries' automotive dealership division in Kuwait."
+  },
+  {
+    "name": "CHIPS",
+    "domain": "chipsstore.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "electronics",
+    "qualification_path": "substantiality",
+    "reason": "Genuinely Kuwait HQ'd (Shuweikh), broad multi-category consumer electronics retailer, an approved category. Direct fetch could not connect, but independent WebSearch corroboration is specific and strong enough to confirm a real, live, at-scale online store.",
+    "evidence": "Direct fetch failed to connect (HTTP code 000) on two separate attempts. WebSearch confirms: 'CHIPS: Largest Online Electronics Store in Kuwait' at chipsstore.com, founded 2014, based in Shuweikh, Kuwait, 51-200 employees, sells mobiles/tablets/accessories/smart devices online with fast delivery; specific indexed sub-pages were found (e.g. chipsstore.com/page/home-shop and .../page/website.contactus), indicating the site is genuinely live and indexed even though unreachable from this environment."
+  },
+  {
+    "name": "Circle K Alsulaiman",
+    "domain": "circlek.com.sa",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "grocery_convenience_fuel_retail",
+    "qualification_path": "substantiality",
+    "reason": "The Saudi operating entity is Alsulaiman Group (Jeddah, founded 1983), a genuine Saudi conglomerate holding the exclusive Circle K (and IKEA) franchise rights for the Kingdom, matching the Gate 1 worked example precisely, so it passes despite the brand's US/Canadian origin. Convenience/fuel retail is an approved, high-frequency category, and Circle K's global app plus confirmed HungerStation delivery integration in Riyadh provide a real digital channel. This reverses the prior OUT verdict.",
+    "evidence": "Direct fetch (HTTP 200): real multi-city footprint confirmed (stores named at King Abdel Aziz University Hospital Jeddah, Winter Wonderland Riyadh, Petromin Qawafil Makkah, Saudi German Hospital Riyadh/Dammam, Al Hayat National Hospital Qassim), Central/Eastern/Western region coverage, product lines including bakery, coffee, fresh food and groceries. WebSearch confirms: 'Jeddah-based Alsulaiman Group has acquired the exclusive franchise rights for...Circle K in Saudi Arabia'; 'AGT is the Official Master Franchisee...founded in 2021 in Jeddah'; Alsulaiman Group (founded 1983) 'also operates...IKEA in Saudi Arabia and Bahrain'; goal of 500 fuel stations by 2030. Also confirmed: the Circle K app on the Apple App Store with loyalty/rewards and station locator, plus a 'Circle K Delivery Menu in Riyadh' listing on HungerStation."
+  }
+]

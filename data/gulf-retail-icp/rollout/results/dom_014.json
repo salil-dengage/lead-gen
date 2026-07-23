@@ -1,0 +1,182 @@
+[
+  {
+    "name": "DKHOUN دخون",
+    "domain": "dkhoun.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "beauty/personal care (perfume, oud & incense retail)",
+    "qualification_path": "substantiality",
+    "reason": "Genuine Saudi joint-stock company operating a live e-commerce store selling perfumes, oud/incense and related fragrance products with real cart, pricing, and a broad multi-category catalog. Perfume/oud is a consumable, repeat-purchase beauty category (explicitly passes Gate 3).",
+    "evidence": "curl https://dkhoun.com -> HTTP 200. Homepage shows real SAR-priced SKUs with \"أضف إلى السلة\" (Add to Cart) / \"نفذ\" (Out of stock) states across categories: العطور (perfumes), العود والبخور (oud & incense), دهن العود والخمريات, البوكسات والهدايا (gift boxes), عطور منزلية/الشعر/الجسم (home/hair/body fragrance). Footer copyright: \"شركة دخون الوطنية للتجارة شركة مساهمة سعودية\" (Dukhoun National Trading Co., a Saudi Joint Stock Company); free-shipping banner \"شحن مجاني داخل السعودية...399.00 ريال\"."
+  },
+  {
+    "name": "doctorhouseshop",
+    "domain": "doctorhouseshop.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "fashion/apparel (medical scrub & uniform retail)",
+    "qualification_path": "substantiality",
+    "reason": "Live Saudi apparel e-commerce store selling medical scrubs, lab coats and uniforms across 8 international brands for men and women, with confirmed physical branches in Riyadh. Multi-brand, multi-color apparel with accessories and gift cards; consistent with a fashion/apparel vertical rather than a single narrow SKU line.",
+    "evidence": "curl https://doctorhouseshop.com -> HTTP 200. Real cart (\"أضف للسلة\"), live percentage discounts, and per-product customer reviews (45, 29, 48 reviews); brand nav: Grey's Anatomy, Skechers, Healing Hands, Cherokee, Barco, MOBB, Landau, White Cross. Embedded store-locator JSON lists physical branches \"العليا الرياض\", \"الندى الرياض\", \"المعذر الرياض\", each with country \"Saudi Arabia\"; site contact phone +966-547338889."
+  },
+  {
+    "name": "Doha Oasis",
+    "domain": "dohaoasis.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "real estate / mall / mixed-use landlord",
+    "qualification_path": "n/a",
+    "reason": "Doha Oasis is a 440,000 sqm mixed-use real-estate development (shopping mall plus Banyan Tree hotel, an indoor theme park, a department-store anchor, and dining/cinema) -- i.e. a mall/landlord entity, not a retailer itself. This is an explicit Gate 2 hard-fail category regardless of how polished the site is.",
+    "evidence": "curl https://dohaoasis.com -> HTTP 200 but a JS-only Salesforce Commerce Cloud shell with zero server-rendered text (empty title/body; CSP references dohaoasis.my.salesforce.com, Adyen/PayPal/Stripe). WebSearch (visitqatar.com, dohaoasis.com/about-us, tripadvisor.com) confirms: \"Doha Oasis is the premier destination that brings together the finest in luxury, entertainment, and hospitality... home to the five-star Banyan Tree Doha Hotel & Residences, Qatar's first indoor theme park (Quest), and the largest luxury department store in the Middle East, Printemps Doha,\" plus 17+ dining concepts and a cinema -- a mall/lifestyle development, not a retail operator."
+  },
+  {
+    "name": "Doha Marketing Services Company, an Al-Futtaim Group company",
+    "domain": "domasco.com",
+    "verdict": "OUT",
+    "gate_failed": "geography",
+    "category_final": "automotive dealer/distributor (foreign-managed)",
+    "qualification_path": "n/a",
+    "reason": "DOMASCO is \"managed by Al Futtaim,\" a trading house headquartered in the UAE (Dubai) -- the true operating control of the entity sits outside Qatar, matching the gate's \"store merely run by a UAE-HQ'd group\" fail pattern even though it is a JV with Qatari shareholders. Independently, its business (Honda/Volvo/GAC car sales and watch distribution) is an automotive dealer, a Gate 2 hard fail regardless of geography.",
+    "evidence": "curl https://www.domasco.com -> HTTP 200 (root domain without www failed at proxy level; www resolved). Site content: \"we are a leading multi-brand company... Honda, Volvo Cars, Volvo Trucks, GAC, Carrier, Raymond Weil, Titan, Police, Gant, Casio,\" \"ranked 1st in Qatar for aftersales service\" per JAMA study. WebSearch corroborates: \"DOMASCO continues to be managed by Al Futtaim, one of the leading trading houses headquartered in the UAE,\" formed 1995 as a JV between Al-Futtaim and Qatari shareholders; HQ address Al Mirqab Complex, Khalifa Street, Doha."
+  },
+  {
+    "name": "Doos دووس",
+    "domain": "doos.sa",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "grocery / quick-commerce",
+    "qualification_path": "substantiality",
+    "reason": "Live Saudi quick-commerce grocery app/site with a very large multi-category catalog (30+ categories spanning produce, dairy, meat, bakery, drinks, cleaning, snacks, frozen, pharmacy, beauty, pet) and real per-SKU SAR pricing plus delivery/account/order infrastructure. Grocery is the highest-frequency approved category.",
+    "evidence": "curl https://doos.sa -> HTTP 200, title \"Doos Store | Groceries and Beyond delivered in a minutes in Saudi Arabia.\" Homepage lists dozens of real priced SKUs (e.g. \"Freshco Extra Hot Sauce 88 ml - 3.00\", \"Tiffany Tomato Ketchup 340 g - 5.40\") with Login/Orders/Account/Deliver-to-address UI. WebSearch confirms operations in Jeddah and Riyadh, Saudi Arabia; .sa ccTLD requires Saudi commercial registration; Google Play package id \"sa.doos.app\"."
+  },
+  {
+    "name": "Dose Cafe | دوز كافيه",
+    "domain": "dosecafeksa.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "F&B / QSR (specialty coffee chain)",
+    "qualification_path": "substantiality",
+    "reason": "dosecafeksa.com itself would not resolve from this environment (curl proxy failure and WebFetch DNS failure alike, confirmed via a direct socket DNS lookup showing genuine non-resolution), so the domain could not be verified directly. However cross-checks confirm Dose Cafe is a genuine, substantial Saudi specialty-coffee chain with real, live online ordering through major delivery platforms across many Saudi cities, satisfying the digital-channel and scale requirements despite the primary domain being unreachable today.",
+    "evidence": "curl/WebFetch to dosecafeksa.com both failed to connect (proxy 502 \"policy denial or upstream failure\"; WebFetch \"getaddrinfo ENOTFOUND\"; confirmed via python socket.gethostbyname failure). National Franchise Company listing (nf.com.sa/our-brand-1/dose): \"Dose... Category: Coffee Shops, No. of Branches: 52, Country: Saudi Arabia, Center Office: khobar, Establish Year: 2017.\" WebSearch further found live HungerStation and Jahez branch-specific delivery menus for Dose in Riyadh, Mecca, Tabuk, Najran, Al Khobar and elsewhere, confirming real transactional ordering infrastructure at scale. Note: Dose's own iOS app exists but has only 11 ratings at 1.7 stars with reviews saying it \"doesn't work\" -- scale verification rests on the franchise listing and delivery-platform presence, not the branded app."
+  },
+  {
+    "name": "dr.CAFE® COFFEE SAUDI ARABIA",
+    "domain": "drcafe.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "F&B / QSR (specialty coffee chain)",
+    "qualification_path": "substantiality",
+    "reason": "Long-established Saudi café chain (store #265+, drive-thru/24-7 locations across multiple Saudi cities) that also operates a genuine separate e-commerce storefront with 200+ products, real cart, sign-in and order/subscription history, plus a mobile ordering app -- comfortably clears digital-channel and scale requirements.",
+    "evidence": "curl https://drcafe.com -> HTTP 200, title \"Best Coffee Chain in Riyadh | Dammam | Qassim Saudi Arabia\"; news items document store openings in Buraydah/Qassim, Riyadh (Namar, Dammam Road, King Fahad Rd), Jeddah (KAIA airport), and Imam Mohammed Ibn Saud University. Linked online store drcafestore.com (HTTP 200): \"Sign In / Cart / My Orders / My Subscription / Rewards\" and \"BROWSE MORE THAN 200 PRODUCTS WITHIN dr.CAFE COLLECTION\"; toll-free support 800 122 8222, orders@drcafe.com, Terms of Sale/Subscription T&C; Google Play app com.cs.drcafe linked from main site."
+  },
+  {
+    "name": "Dream Fitness حلم الرشاقة",
+    "domain": "dreamfitness.shop",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "healthcare/clinic (weight-management centers)",
+    "qualification_path": "n/a",
+    "reason": "Operates as a chain of \"مراكز\" (weight-loss/slimming centers, with branches confirmed in Al-Ahsa and Jazan) providing dietitian-supervised subscription programs with free body-composition assessment (weight, fat %, muscle mass, metabolic rate) and daily WhatsApp/call follow-up -- a clinic/healthcare service model, an explicit Gate 2 hard fail. The homepage shows no per-item add-to-cart or price grid, reinforcing that products are secondary to the supervised clinical program rather than a standalone retail catalog.",
+    "evidence": "curl https://dreamfitness.shop -> HTTP 200. FAQ: \"يقدم حلم الرشاقة حلولاً متكاملة...من خلال فريق من المختصين لمتابعة حالتك\" (comprehensive solutions via a team of specialists monitoring your condition) and \"فحص مجاني لأول مرة يشمل (الوزن، نسبة الدهون، الكتلة العضلية، السوائل، معدل الحرق، والعمر البيولوجي)\"; customer reviews reference specific branch/specialist visits (\"مركز حلم الرشاقة فرع الاحساء\", \"فرع جازان\", specialist \"غادة\"); zero occurrences of an add-to-cart control in the fetched HTML despite a \"منتجاتنا\" (our products) nav. Saudi VAT number 313360515100003 confirms Saudi registration but does not change the clinic categorization."
+  },
+  {
+    "name": "Drops",
+    "domain": "dropsgroup.com",
+    "verdict": "IN",
+    "gate_failed": "digital_channel",
+    "category_final": "grocery / quick-commerce (rescued via app downloads)",
+    "qualification_path": "app_download_rescue",
+    "reason": "The domain dropsgroup.com is a corporate/investor-relations microsite (About Us, Investors, Careers, Partners) with no cart or product listings, so Gate 4 fails for this specific domain. However Drops is a substantial, real Kuwaiti grocery/general-merchandise delivery business, and its consumer app shows 100K+ downloads on Google Play -- comfortably over the 50,000 threshold -- so it qualifies via the app-download rescue path regardless of the corporate domain's lack of a storefront.",
+    "evidence": "curl https://dropsgroup.com -> HTTP 200. Body text: \"Drops launched as a water and beverage e-commerce platform...later expanded into all food categories, cleaning & household, personal care, pet care, frozen, and baby needs categories\"; \"more than 200 subcategories and 3,400 brands from more than 1,000 suppliers\"; footer \"Drops General Trading Company is a part of Drops Group Holdings,\" phone (+965) 220 20235, warehouses in Ardiya and Ahmadi, Kuwait. Google Play listing for com.nizek.drops (\"Drops - food & grocery shopping\") shows \"100K+ Downloads\" -- confirmed via direct fetch of the Play Store page."
+  },
+  {
+    "name": "drslounge",
+    "domain": "drslounge.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "fashion/apparel (medical scrub & uniform retail)",
+    "qualification_path": "substantiality",
+    "reason": "Live Saudi (Riyadh) medical-apparel e-commerce store, multi-brand, with real SAR pricing, a working cart/quick-buy flow, product reviews, and a franchise/physical-store network. Same apparel-vertical reasoning as doctorhouseshop.com.",
+    "evidence": "curl https://drslounge.com -> HTTP 200. Real SKUs at 70.00 SAR with multiple color variants and reviews (e.g. 4.29/5.0 from 7 reviews); brand nav: FIGS, Parkley, Jaanuu, Classico, Barco, Medelita, White Cross, Wonder Wink. Footer: \"Phone: 0114097260\" (011 = Riyadh landline prefix), \"VAT Number: 31026531180003\", \"CR Number: 1010387931\" (1010-series = Riyadh commercial registration); nav includes \"Stores\" and \"Franchise\"."
+  },
+  {
+    "name": "Dukan Retailing Company",
+    "domain": "dukan.me",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "electronics / home appliances",
+    "qualification_path": "substantiality",
+    "reason": "Live Saudi electronics/appliance e-commerce store with confirmed real checkout infrastructure (order tracking, payment methods, 6-day returns, 2-year warranty, loyalty program) and a sitemap confirming 200+ unique real branded product listings across phones, TVs, and major/small appliances -- a broad multi-category electronics store, which explicitly passes Gate 3.",
+    "evidence": "curl https://dukan.me -> HTTP 200, title \"تسوق الإلكترونيات أونلاين من الدكان بأفضل الأسعار في السعودية\"; Saudi VAT number 301043563500003. sitemap-2.xml (fetched separately) contains 219 unique product IDs (438 loc entries for ar/en pairs) with specific real SKUs, e.g. \"ايفون-16-برو-256-جيجا-بايت\" (iPhone 16 Pro 256GB), \"تي-سي-ال-شاشة-58-بوصة-4-كيه\" (TCL 58\" 4K TV), Moulinex/Philips/Kenwood blenders, KLG washer/refrigerator, Xbox Series X. Homepage FAQ covers order tracking, payment methods, 6-day returns, 3-7 day delivery, 2-year agent warranty."
+  },
+  {
+    "name": "EARTH ROASTERY",
+    "domain": "earthroastery.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "F&B (specialty coffee retail)",
+    "qualification_path": "substantiality",
+    "reason": "Live Kuwait specialty-coffee e-commerce store (root domain meta-refreshes to a kw. subdomain) with real cart, KWD pricing across coffee beans, drip coffee, capsules, branded tumblers/mugs/brewing equipment and bundles, plus B2B coffee-supply/training and a franchise/branches network. Coffee is a consumable, repeat-purchase category.",
+    "evidence": "curl https://earthroastery.com -> HTTP 200 but a bare WordPress shell containing <meta http-equiv=\"refresh\" content=\"0;url=https://kw.earthroastery.com/\">; following that redirect (HTTP 200) shows real cart and KD-priced SKUs, e.g. \"Just Like Cacao - From 2.600 KD\", \"Kinto Day Off Tumbler - From 12.200 KD\", \"Kinto Brewing Stand - 60.600 KD\"; \"Kuwait\" appears 8 times on the page; nav includes Branches, Franchise, and Training/Coffee Supply/Consultation for B2B customers."
+  },
+  {
+    "name": "Eastern Gate",
+    "domain": "easterngate.online",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "B2B industrial hardware / fasteners distribution",
+    "qualification_path": "n/a",
+    "reason": "Eastern Gate is a B2B fastener/industrial-hardware distributor (bolts, nuts, screws, fixings, abrasives, stud welding, lifting & rigging) serving construction, oil & gas, marine and petrochemical sectors -- a hard Gate 2 fail on two independent grounds (wholesale/trading/distribution B2B, and building-materials/construction hardware). No consumer cart/checkout is present; the \"showroom\" exists for B2B quality assessment, not retail sale.",
+    "evidence": "curl https://easterngate.online -> HTTP 200, title \"Fastener & Industrial Supplier in Qatar.\" Homepage: \"Showroom access to 10000+ SKUs for hands-on Quality Assessment,\" \"ISO 9001:2015 certified,\" blog topics \"ASTM Standard PTFE Coated Stud Bolts,\" \"A2 (AISI 304) and A4 (AISI 316) Stainless Steel Fasteners\" for \"oil & gas, marine, petrochemical, and power generation sectors.\" Head Office listed at The Commercial Avenue, Arkan Building, Doha, Qatar (+974 4405 1900), with a separate Processing Unit in Sharjah, UAE; copyright \"Eastern Gate LLC.\""
+  },
+  {
+    "name": "Mohammad Saleh & Reza Yousuf Behbehani Co.",
+    "domain": "ebehbehani.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive dealer / diversified conglomerate",
+    "qualification_path": "n/a",
+    "reason": "A Kuwaiti conglomerate holding company since 1963 whose core businesses are automotive dealership/distribution, car rental, tire distribution, and a travel agency, plus bank/insurance shareholdings and shipping/beverage joint ventures -- automotive dealer, car rental and travel agency are all explicit Gate 2 hard-fail categories. The domain is a pure corporate \"our businesses\" site with no cart/checkout for any division.",
+    "evidence": "curl https://ebehbehani.com -> HTTP 200. \"Explore our Business Sectors\": GMC sole distributor since 1967, Subaru authorized dealership 2004, Isuzu dealership 1973, ACDelco service center, \"Automall Car Rental...operating since 2005,\" \"Behbehani Tire Center...distribution of Pirelli Tires,\" \"Shereen Travel is a travel agency with more than four decades\"; Major Shareholders: Al-Ahli Bank of Kuwait, Kuwait Insurance Company, New India Assurance; address \"Mohammad Bin Al Qassem St AlRai, 13004, Kuwait.\" No product cart anywhere on the site."
+  },
+  {
+    "name": "EDDY - Home & Electronics",
+    "domain": "eddy.com.sa",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "electronics / home & furniture",
+    "qualification_path": "substantiality",
+    "reason": "eddy.com.sa could not be reached directly after repeated attempts (consistent proxy CONNECT failures logged as \"policy denial or upstream failure,\" not a site-side block), but WebSearch confirms EDDY is a genuine, large Saudi retail chain owned by a long-established Jeddah-based Saudi conglomerate, selling furniture, home appliances and electronics with its own live online store plus third-party marketplace listings.",
+    "evidence": "curl to https://eddy.com.sa and https://testing.eddy.com.sa both failed at the proxy (\"gateway answered 502 to CONNECT\", confirmed in the agent proxy's own recentRelayFailures log across multiple retries). WebSearch results: \"EDDY has twenty-eight stores in six major cities [Saudi Arabia]... offering furniture...and a large range of electronic appliances, including TVs, audio equipment, gaming systems, mobile phones, computers, washing machines, stoves, refrigerators, dishwashers, microwaves\"; \"an innovative concept introduced by United Yousef Naghi Group, one of the most established...companies in the Saudi market\"; \"EDDY's user-friendly online store, where customers across the Kingdom can purchase.\" Corroborating third-party listings: noon.com/saudi-en/eddy_home, amazon.sa Eddy Home storefront."
+  },
+  {
+    "name": "TechnoBlue",
+    "domain": "electronyat.qa",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "electronics / appliances",
+    "qualification_path": "substantiality",
+    "reason": "Live Qatar electronics/appliances e-commerce store with real \"Add to Cart\" buttons and QAR pricing across a large branded catalog spanning phones, TVs, home and kitchen appliances, personal/health care and networking -- a broad multi-category electronics retailer, which explicitly passes Gate 3.",
+    "evidence": "curl https://electronyat.qa -> HTTP 200, title \"Online Shopping Site in Qatar | Buy Electronics & Gadgets - Electronyat.qa.\" Real discounted SKUs with \"+ Add to Cart / Compare\", e.g. \"Samsung Galaxy S26 Ultra 256GB - QAR 3,699\", \"Samsung 100 Inch Neo QLED... - QAR 11,299\", \"Panasonic 559L Side By Side Refrigerator - QAR 1,999\". Embedded schema.org JSON-LD: \"addressLocality\":\"Doha\",\"addressRegion\":\"Qatar\",\"postalCode\":\"55572\",\"addressCountry\":\"QA\"; company LinkedIn \"techno-blue-wll-qatar\"."
+  },
+  {
+    "name": "Elfaleh Sports House",
+    "domain": "elfaleh.sa",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "fashion/apparel & footwear (sporting goods / sportswear)",
+    "qualification_path": "substantiality",
+    "reason": "Long-established (since 1957) Saudi sporting-goods/sportswear retailer with an extremely broad live catalog (men's/women's/boys'/girls' activewear, school sports uniforms, athletic footwear, fitness equipment, sports toys/games, and swim/football/basketball/tennis/martial-arts gear) and confirmed real cart and SAR pricing throughout -- predominantly apparel and footwear, an approved category.",
+    "evidence": "curl https://elfaleh.sa -> HTTP 200. Page text: \"...في المملكة منذ عام 1957 اكبر تشكيلة منتجات تناسب كل الفئات\" (in the Kingdom [Saudi Arabia] since 1957, the largest range of products for all categories); \"ريال\" (SAR) appears 72 times and \"السلة\" (cart) 17 times on the homepage; nav spans men/women/boys/girls apparel, school PE uniforms, fitness equipment (treadmills, ellipticals, bikes, weights, rowing machines), and dedicated games/toys and multi-sport (swimming, football, volleyball, basketball, racket sports, boxing/martial arts, skating, tennis) sections."
+  },
+  {
+    "name": "Elite Motors Qatar",
+    "domain": "elitemotorsqatar.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive dealer",
+    "qualification_path": "n/a",
+    "reason": "Elite Motors is a Qatari car dealership selling new/used/certified pre-owned vehicles plus car rental, spare parts and insurance -- automotive dealer and car rental are both explicit Gate 2 hard-fail categories. The live domain currently shows only a maintenance placeholder, which would independently fail Gate 4.",
+    "evidence": "curl https://elitemotorsqatar.com -> HTTP 200 but a WordPress maintenance page: title \"Site is undergoing maintenance\", \"Under Maintenance / Site will be available soon. Thank you for your patience!\", footer \"© Elite Motors Qatar 2026.\" WebSearch (qmotor.com, qatarsale.com, naviqatar.com) confirms: \"Elite Motors offers a wide selection of new, used, and certified pre-owned cars in Qatar... car trading, rent a car, after-sale services, insurance, and a comprehensive range of spare parts trading,\" located on Salwa Road, Doha, founded 2007."
+  }
+]

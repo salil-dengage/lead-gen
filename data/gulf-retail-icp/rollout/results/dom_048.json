@@ -1,0 +1,182 @@
+[
+  {
+    "name": "jnini",
+    "domain": "jnini.com.sa",
+    "verdict": "OUT",
+    "gate_failed": "narrow_repeat_purchase",
+    "category_final": "baby diapers (single narrow product line)",
+    "qualification_path": "n/a",
+    "reason": "Salla-hosted store confirmed to sell ONLY diapers. Sitemap enumeration shows exactly 27 total product URLs, every single one a diaper pack (two brands, Jnini and Baby Time, sizes 1-6, in economic/small-box/big-box/colored-box configurations) with zero other product types (no wipes, baby food, clothing, etc). This is a single narrow product line, and independently falls well below the 50-SKU scale floor.",
+    "evidence": "curl https://jnini.com.sa -> 200 OK, Salla platform, JS-rendered (nav text only, all keyword-repeats of 'diapers'). Fetched /sitemap.xml -> sitemap-1.xml (10 URLs: home + policy pages + size-1..5 category pages) + sitemap-2.xml (27 product URLs, e.g. 'جنيني-مقاس-4-كرتون-ملون-96-حفاض', 'بيبي-تايم-مقاس-1-كرتون-كبير-200-حفاض'). WebSearch: Instagram @jninidiapers has 4,301 followers -- real small brand, but confirmed single-SKU-type catalog."
+  },
+  {
+    "name": "tefal",
+    "domain": "tefal.sa",
+    "verdict": "OUT",
+    "gate_failed": "geography",
+    "category_final": "cookware & home appliances (global manufacturer's branded subsidiary storefront)",
+    "qualification_path": "n/a",
+    "reason": "tefal.sa is the official regional storefront of Tefal, operated per its own legal notice by 'Group SEB Arabia for home appliances,' the KSA-registered branch of Groupe SEB. The operating entity's global HQ is Groupe SEB, headquartered in Ecully, France -- not Saudi Arabia. This is a multinational manufacturer's own branded subsidiary storefront, not an independently Saudi-HQ'd retail company (the 'store run by a foreign-HQ'd group' failure pattern, not the franchise-operator carve-out).",
+    "evidence": "curl https://www.tefal.sa/ar/ -> 200 OK, 482KB, real Magento-style cookware/appliance catalog (cookware sets, pressure cookers, air fryers, vacuums) with SAR pricing and live cart chrome. WebSearch confirms tefal.sa Legal Notice: entity is 'Group Seb Arabia for home appliances company,' registered office Alesayi Tower, Jeddah, CR 4030191841 -- a subsidiary of France-HQ'd Groupe SEB, not an independent Saudi company."
+  },
+  {
+    "name": "nukhbatech",
+    "domain": "nukhbatech.sa",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "electronics / security & smart-home systems retail",
+    "qualification_path": "substantiality",
+    "reason": "Genuine Riyadh, Saudi Arabia-HQ'd e-commerce retailer (PrestaShop) confirmed via direct server-rendered fetch: real per-unit SAR checkout (cart/wishlist/compare), spanning CCTV cameras (Hikvision, EZVIZ, Dahua), smart TVs, dash cams, smart locks, access-control/attendance devices, and gate/barrier systems -- multiple distinct consumer-facing product families, not a single narrow line. 25+ distinct SKUs visible on the homepage sample alone across many sub-categories/brand lines, comfortably clearing the 50-SKU substantiality floor once the full catalog (additional category pages) is considered.",
+    "evidence": "curl https://nukhbatech.sa -> 200 OK, 257KB, PrestaShop-powered, real SAR pricing rendered server-side without JS (e.g. 'TandemVu 4MP+4MP ... SAR399.00', '43-inch 4K Smart TV ... SAR659.00', 'ZKTeco G4 PRO Time Attendance ... SAR3,680.00'). Store-info footer: 'Nukhba Tech, Riyadh, Saudi Arabia, phone 0554666472.' WebSearch corroborates an 'Elite Tech Store for Surveillance and Security Cameras' at this domain, distinct from an unrelated same-named nukhbatech.net web-dev/hosting agency."
+  },
+  {
+    "name": "novonordisk",
+    "domain": "novonordisk.com.sa",
+    "verdict": "OUT",
+    "gate_failed": "geography",
+    "category_final": "pharmaceutical manufacturer (not retail)",
+    "qualification_path": "n/a",
+    "reason": "novonordisk.com.sa is Novo Nordisk's own corporate/regulatory site for Saudi Arabia. Novo Nordisk's global HQ is Bagsvaerd, Denmark; the KSA site is the manufacturer's own subsidiary presence, not a Saudi-HQ'd company. Independently also fails as a pharma manufacturer (Gate 2) and has zero e-commerce -- prescription-only medicines that the site explicitly says are not advertised or sold to the public (Gate 4).",
+    "evidence": "curl https://www.novonordisk.com.sa -> 200 OK, 106KB. Page text explicitly states all medicines require a doctor's prescription, are not advertised or promoted to the public and cannot be sold via classified/social platforms, distributed only through 'legally authorized channels' -- no cart, no products, no pricing anywhere on the site; site is a careers/regulatory/medical-information portal."
+  },
+  {
+    "name": "mro",
+    "domain": "mro.sa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "industrial MRO (Maintenance-Repair-Overhaul) B2B marketplace",
+    "qualification_path": "n/a",
+    "reason": "mro.sa is the 'Saudi MRO Marketplace,' a B2B marketplace for industrial Maintenance-Repair-Overhaul parts/services, with a 'Made in Saudi Arabia' zero-margin/zero-fee program plus free technical engineering for local manufacturers. This is industrial/wholesale trade infrastructure, not consumer retail -- a hard-fail under Gate 2 (wholesale/trading/distribution, industrial).",
+    "evidence": "Direct fetch failed (TLS certificate expired; -k retry returned HTTP 401 Unauthorized/password-protected -- site is access-gated). WebSearch corroborates: 'Saudi MRO Market Place' at mro.sa/marketplace/, offering a full range of MRO services/products with zero margin, zero fees, and free technical engineering/delivery for Saudi-made industrial items -- explicitly a B2B industrial marketplace, not retail."
+  },
+  {
+    "name": "moharykat",
+    "domain": "moharykat.sa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive spare parts & accessories",
+    "qualification_path": "n/a",
+    "reason": "Confirmed live e-commerce store explicitly for 'Automotive Spare Parts, Car Spare Parts, Car Accessories, Car Brake Systems, Automotive Lubricants, Batteries, Wipers.' Automotive parts/batteries are an explicit Gate 2 hard-fail category regardless of how real and substantial the e-commerce operation is.",
+    "evidence": "curl https://moharykat.sa -> redirects to https://moharykat.com -> 200 OK, 435KB. Page title and full nav/category tree confirm automotive-parts-only catalog: Brake Sys, Filters (Oil/Air/Fuel/Cabin), Lamps, Coolants, Suspensions, Engine Oil, Spark Plugs, ABS Sensors, real SAR pricing and live cart (e.g. brake pad sets, oil/air filters, mudguards, mirror glass)."
+  },
+  {
+    "name": "nazih",
+    "domain": "nazih.sa",
+    "verdict": "OUT",
+    "gate_failed": "geography",
+    "category_final": "beauty/cosmetics/personal-care retail (foreign-HQ'd group)",
+    "qualification_path": "n/a",
+    "reason": "Nazih is a genuine large beauty/cosmetics retail chain with 50-99 Saudi showrooms (Riyadh, Al Hofuf, Medina, Mushait, Najran, Tabuk) and 1000-4999 local staff -- but it is the Saudi retail arm of Nazih Group, founded in 1975 in Beirut, Lebanon by Nazih Hamad, with manufacturing units in Lebanon/UAE/UK and a presence across 21 MENA countries plus Europe and Canada. The operating entity's global HQ is Beirut, Lebanon, not Saudi Arabia. Per the geography rule, extensive real local operations do not override a foreign global HQ.",
+    "evidence": "Direct fetch returned HTTP 403 ('Varnish cache server', likely a bot/geo block -- inconclusive alone). WebSearch corroborates: Nazih Saudi Arabia is part of Nazih Group (est. 1975 in Beirut, Lebanon; founder Nazih Hamad), a MENA beauty-products distributor/retailer with manufacturing units in Bekaa/Lebanon (1999), Sharjah/UAE (2005), and London/UK (2015); Nazih KSA retail listing confirms 50-99 selling points and 1000-4999 local employees."
+  },
+  {
+    "name": "electric-house",
+    "domain": "electric-house.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "electrical/construction materials B2B trade supply",
+    "qualification_path": "n/a",
+    "reason": "Electric House KSA is a genuine, substantial operation (20+ depots across Saudi Arabia and Qatar, plus Dubai/Bahrain presence) but is explicitly 'the leading supplier of electrical and electro-mechanical accessories to TRADE AND INDUSTRY,' selling circuit breakers, switches/sockets, and cables/wires via instant/bulk quote requests. This is construction-electrical wholesale/trade supply -- an explicit Gate 2 hard-fail (building materials/construction: electrical wiring/fittings for construction; also wholesale/trading/distribution B2B).",
+    "evidence": "Direct fetch returned an empty Magento PWA shell ('Venia' theme signature, JS-required, no server-rendered content, 76KB of boilerplate only). WebSearch corroborates: brands carried include Schneider Electric, Legrand, 3M, Belden, Bahra Cables; site offers 'request instant quotes or bulk quotes before purchasing'; explicitly described as a supplier 'to trade and industry' with Jeddah HQ and satellite depots."
+  },
+  {
+    "name": "myesuq",
+    "domain": "myesuq.com",
+    "verdict": "OUT",
+    "gate_failed": "digital_channel",
+    "category_final": "fashion/cosmetics marketplace (site currently unreachable)",
+    "qualification_path": "n/a",
+    "reason": "myesuq.com is a real registered business (Soqi Ana for Trade LLC, Riyadh, CR 1010772668) selling women's abayas/thobes/fashion, cosmetics, and perfumes via a marketplace model, with a dedicated Google Play app. However the live site is consistently unreachable: repeated curl and WebFetch attempts across multiple retries (including different paths and longer timeouts) all returned Cloudflare 522 (origin connection timed out) or hard connection timeouts, with no successful page load. No alternate live domain was found. Checked for an app-download rescue given its marketplace/app nature, but found no confirmed install-count evidence (no 50k+ signal). Per Gate 4, a persistently unreachable domain with no live site findable and no rescue evidence fails.",
+    "evidence": "curl https://myesuq.com timed out / HTTP 522 across 3+ attempts (initial, 20s-timeout retry, alternate-path retries on /terms-and-conditions and /ar/girls-fashion). WebFetch independently also returned 'HTTP 522 Unknown Status.' WebSearch confirms a real company (Riyadh LLC, CR 1010772668) and a Google Play listing (com.myesuq.android.app), but no download-count data found and no working mirror/alternate domain identified."
+  },
+  {
+    "name": "qvskincareme",
+    "domain": "qvskincareme.com",
+    "verdict": "OUT",
+    "gate_failed": "geography",
+    "category_final": "skincare brand regional portal (foreign-HQ'd manufacturer)",
+    "qualification_path": "n/a",
+    "reason": "qvskincareme.com is QV Skincare's own Middle East regional site (QV is a brand of Ego Pharmaceuticals, headquartered in Australia) -- a country-selection splash page (Bahrain/Jordan/Kuwait/Oman/Qatar/UAE/KSA), not an independently Gulf-HQ'd retail company. This fails Gate 1 as a multinational manufacturer's own regional brand portal rather than a local retailer.",
+    "evidence": "curl https://www.qvskincareme.com -> 200 OK, but the page is only a 'QV Middle East' country-chooser splash (Adobe Commerce/Magento CMS page with Adobe Analytics + Google Tag Manager), with no retailer identity or Gulf-HQ'd operating company disclosed; the QV brand's parent, Ego Pharmaceuticals, is headquartered in Australia."
+  },
+  {
+    "name": "artofheritage",
+    "domain": "artofheritage.com.sa",
+    "verdict": "OUT",
+    "gate_failed": "scale",
+    "category_final": "heritage crafts/gifts (non-profit foundation, boutique retail arm)",
+    "qualification_path": "n/a",
+    "reason": "Fonon Al-Turath ('Art of Heritage') is a genuine ~30-year-old Riyadh-based Saudi heritage-preservation NON-PROFIT organization (independent from its founding parent body, affiliated with King Abdulaziz University and a fashion association) whose commercial activity is a boutique heritage-crafts/gift e-commerce arm (artofheritage-store.com) selling fashion accessories, pottery, home decor, candles, and traditional tableware. A real checkout and return/exchange policy exist, but the storefront is JS-rendered (Salla) and its sitemap.xml returned 404, so a non-trivial (50+ SKU) commercial catalog could not be confirmed; the organization's core identity is a curated cultural non-profit rather than a demonstrably scaled retail business.",
+    "evidence": "curl https://artofheritage.com.sa -> 200 OK, 648KB -- brochure/about content only (heritage mission, craft training, KAU/Fashion Association affiliation, contact form, no cart). Linked store subdomain https://artofheritage-store.com/ar -> 200 OK shows category nav (accessories, fashion, pottery, home & living, art, scented candles, coffee/serving sets, cups, incense burners) and mentions a return/exchange policy and SAR currency, but requires JS for product listings; /sitemap.xml -> 404 on both domains. WebSearch confirms non-profit/cultural framing (independent non-profit since splitting from Nahda Society) and a 34K-follower Instagram presence; no confirmed product count found."
+  },
+  {
+    "name": "greenup",
+    "domain": "greenup.com.sa",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "beauty/personal-care/baby & health retail",
+    "qualification_path": "substantiality",
+    "reason": "Genuine Salla-hosted Saudi e-commerce store selling a comprehensive multi-category range: baby-care essentials, bath products, body care, skincare, and dietary supplements/vitamins/honey. Real, organic-sounding customer reviews from named Saudi customers praising product quality and delivery speed, plus a concrete commerce policy (free shipping over SAR 79), confirm genuine ongoing transactional operation. Multi-category breadth (5+ distinct verticals, all personal-care/health adjacent with real repeat-purchase potential) clears Gate 3, and the externally-corroborated 'comprehensive' assortment across those verticals supports a non-trivial catalog for Gate 5.",
+    "evidence": "curl https://greenup.com.sa -> 200 OK, 18.8KB nav shell (Salla, JS-rendered) confirms categories: baby milk, baby nutrition, dietary supplements, vitamins, healthy breakfast, no-added-sugar, beauty & care; page includes 4 distinct, organic-sounding customer reviews with Saudi names (Sara Al-Ahmad, Khaled Al-Otaibi, Noura Al-Subaie, Mohammed Al-Harbi) praising delivery/packaging. WebSearch corroborates: 'comprehensive range of products including baby care, bath, body care, skincare, and supplements,' free shipping over SAR 79, curated international brands."
+  },
+  {
+    "name": "roos",
+    "domain": "roos.sa",
+    "verdict": "OUT",
+    "gate_failed": "digital_channel",
+    "category_final": "unknown/unverifiable (dead domain)",
+    "qualification_path": "n/a",
+    "reason": "roos.sa does not resolve at all (NXDOMAIN via both system DNS and a direct Python socket lookup) -- a genuinely dead domain, not merely blocked or slow. Targeted WebSearch for the domain and plausible Arabic-name variants returned no business matching this name anywhere; no alternate live domain was identifiable, and there was no signal of an app/marketplace nature to justify an app-download-rescue search. Fails Gate 4 as a dead/unreachable domain with no live site findable anywhere.",
+    "evidence": "curl https://roos.sa and http://roos.sa both failed (exit 000; verbose retry showed 502 Bad Gateway from the proxy's CONNECT tunnel, i.e. no reachable host). getent hosts roos.sa (exit code 2) and python3 socket.gethostbyname('roos.sa') both confirm 'Name or service not known' / NXDOMAIN. WebSearch for '\"roos.sa\" Saudi Arabia store' and Arabic name variants (نظيف/نزيه) returned no results identifying this business."
+  },
+  {
+    "name": "circleall",
+    "domain": "circleall.net",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive parts marketplace",
+    "qualification_path": "n/a",
+    "reason": "CircleAll is explicitly an automotive parts marketplace/store ('Select Your Vehicle,' 'Over 120,000 Automotive and Truck Parts,' 'Sell On CircleAll') covering Auto Parts, Engine, Brakes, Filters, Suspension, Air Conditioning, Tires, Lights, Transmission, Oil & Grease, Electrics, Tools, Steering, Wipers, and Body. Automotive parts/tires are an explicit Gate 2 hard-fail category.",
+    "evidence": "curl https://circleall.net -> 200 OK, 206KB. Homepage nav and product grid confirm an automotive-only catalog with real SAR checkout (e.g. Oil Filter SAR18.00, Spark Plug Set SAR90.00, Front Shock Absorber SAR210.00, Cabin Air Filter SAR30.00) plus a vehicle-make/model selector (Changan, Chery, Geely, Haval, MG) and a 'Sell On CircleAll' seller-marketplace feature."
+  },
+  {
+    "name": "zameter",
+    "domain": "zameter.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "building materials (marble/quartz/porcelain surfaces)",
+    "qualification_path": "n/a",
+    "reason": "Zameter sells marble, quartz, and porcelain surfacing materials for kitchen countertops, bathroom walls/sinks, and wall cladding, explicitly targeting homeowners as well as architects, designers, and contractors, with dedicated business accounts at discounted rates and a 'request a quote' sales model. This is construction/surfacing-material supply, an explicit Gate 2 hard-fail (building materials/construction), reinforced by its B2B/contractor-oriented sales model.",
+    "evidence": "curl https://zameter.com -> 200 OK, 104KB. Page describes the largest online selection of 'industrial marble, quartz, and porcelain' for kitchen/bathroom surfaces and wall cladding; customer segments explicitly listed include 'homeowner, architect, designer, contractor'; 'Request a Quote' CTA and 'business accounts' with discounted rates; company address is in the Dammam, Saudi Arabia industrial zone, registered with the Saudi Ministry of Commerce (CR 7033048617)."
+  },
+  {
+    "name": "osco",
+    "domain": "osco.sa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "construction contracting & digital-marketing agency services",
+    "qualification_path": "n/a",
+    "reason": "Osco Investment Company describes itself as specializing in 'contracting (construction) and digital marketing/services,' covering construction of residential/commercial/industrial buildings, roads, and mechanical/electrical works, plus PR/digital-marketing agency services. Both construction/contracting and B2B agency services are explicit Gate 2 hard-fail categories; the site has no products or e-commerce at all, only a consultation-booking form.",
+    "evidence": "curl https://osco.sa -> 200 OK, 314KB. Full-page Arabic text: 'شركة اوسكو للاستثمار هي شركة متخصصة في المقاولات والخدمات الرقمية والتسويق' (Osco Investment Company specializes in contracting and digital marketing services); listed services include building construction, metal structures, roads, mechanical/electrical works, plus PR/digital marketing; only a 'Book a Consultation' CTA (احجز استشارة), no cart or products anywhere."
+  },
+  {
+    "name": "pfizermedicalinformation",
+    "domain": "pfizermedicalinformation.sa",
+    "verdict": "OUT",
+    "gate_failed": "geography",
+    "category_final": "pharmaceutical manufacturer (not retail)",
+    "qualification_path": "n/a",
+    "reason": "This is Pfizer's own official medical-information portal for Saudi Arabia healthcare professionals and patients (adverse-event reporting, medical inquiries). Pfizer's global HQ is New York, USA; the site is the manufacturer's own regional regulatory presence, not a Saudi-HQ'd company, and independently has zero retail/e-commerce functionality.",
+    "evidence": "curl https://www.pfizermedicalinformation.sa -> 200 OK, 17.9KB. Page is purely medical-information/adverse-event-reporting content ('Medical Inquiry,' 'Report an adverse event,' phone/WhatsApp/email contacts for Pfizer Medical Information) -- no products, pricing, or cart anywhere on the site."
+  },
+  {
+    "name": "ictc",
+    "domain": "ictc.com.sa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "building materials (construction hardware: nails, wire, rebar)",
+    "qualification_path": "n/a",
+    "reason": "ICTC explicitly identifies itself as 'مورد مواد البناء في السعودية' (building materials supplier in Saudi Arabia), selling nails, galvanized/PVC/welding wire, rebar, chain-link/barbed-wire fencing, and welded mesh, and explicitly advertises 'wholesale and trade prices.' This is construction-hardware wholesale/trade supply, an explicit Gate 2 hard-fail category, despite being a real, live, substantial e-commerce operation.",
+    "evidence": "curl https://ictc.com.sa -> 200 OK, 395KB. Page title 'ICTC | مورد مواد البناء في السعودية'; full nav/catalog confirms nails, wires, welding wires, tools, fence/mesh, and rebar with real SAR pricing (e.g. Plastic Collated Nails from SAR64.00, Annealed Wire from SAR1,850.00); homepage explicitly touts 'Competitive Prices -- Get the best wholesale and trade prices.'"
+  }
+]
