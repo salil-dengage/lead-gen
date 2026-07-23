@@ -1,0 +1,1012 @@
+[
+  {
+    "domain": "asteribeauty.com",
+    "name": "Asteri Beauty",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "beauty",
+    "qualification_path": "substantiality",
+    "reason": "Real KSA vegan makeup brand e-commerce; Bestsellers, multi-category (Face/Eyes/Lips/Sets/Accessories), BNPL, physical store locator."
+  },
+  {
+    "domain": "deshdashtii.com",
+    "name": "deshdashtii",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "fashion",
+    "qualification_path": "substantiality",
+    "reason": "Real multi-category traditional menswear e-commerce (thobe/dishdasha, youth, kids, headwear, coats, wallets, shoes) across Gulf styles."
+  },
+  {
+    "domain": "eternal-jewel.com",
+    "name": "eternal-jewel",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "fashion",
+    "qualification_path": "substantiality",
+    "reason": "Lab-grown diamond jewelry e-commerce, ~238 SKUs across rings/earrings/necklaces/bracelets/wedding, real cart and delivery policy."
+  },
+  {
+    "domain": "cvaley.com",
+    "name": "cvaley",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "beauty",
+    "qualification_path": "substantiality",
+    "reason": "[VERIFY exact catalog size] Beauty/perfume e-commerce claiming largest in KSA/Gulf category; real VAT tax number and full policy set (privacy/exchange/shipping) confirm genuine registered business."
+  },
+  {
+    "domain": "desertcart.com.sa",
+    "name": "desertcart",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "geography",
+    "category_final": "n/a",
+    "qualification_path": "n/a",
+    "reason": "Desertcart is HQ'd in Dubai, UAE (confirmed via web search), a cross-border marketplace; .com.sa is a local storefront/market domain, not the global HQ."
+  },
+  {
+    "domain": "dovacare.com",
+    "name": "dovacare",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "beauty",
+    "qualification_path": "substantiality",
+    "reason": "[VERIFY exact catalog size] Official-agent skincare/haircare e-commerce, real shipping threshold policy, multi-brand positioning."
+  },
+  {
+    "domain": "alshamasy.com",
+    "name": "alshamasy",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "fashion",
+    "qualification_path": "substantiality",
+    "reason": "Real bags/luggage/travel-accessories e-commerce with 10+ subcategories (cloth/leather/polycarbonate bags, jewelry bags, makeup bags, backpacks, wallets)."
+  },
+  {
+    "domain": "faces.sa",
+    "name": "FACES Beauty Middle East",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "duplicate",
+    "category_final": "beauty",
+    "qualification_path": "n/a",
+    "reason": "FACES cosmetics chain is an Alshaya Group brand; Alshaya Group already covered as the parent account (duplicate-consolidation gate)."
+  },
+  {
+    "domain": "gamestore.com.kw",
+    "name": "Game Store Company",
+    "country": "Kuwait",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "electronics",
+    "qualification_path": "substantiality",
+    "reason": "Real gaming/electronics e-commerce (PlayStation/Nintendo/PC/gaming furniture), KWD cart, wishlist, offers."
+  },
+  {
+    "domain": "gaudiabeauty.com",
+    "name": "gaudiabeauty",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "scale",
+    "category_final": "beauty",
+    "qualification_path": "n/a",
+    "reason": "Narrow single-line DTC haircare brand (only Hair Mist/Scalp Oils/Bundles), likely under 50 SKUs; dual KSA/UAE storefront also leaves true HQ ambiguous."
+  },
+  {
+    "domain": "ghanaty.com",
+    "name": "شركة اطياب غناتي التجارية",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "beauty",
+    "qualification_path": "substantiality",
+    "reason": "Real perfume/incense e-commerce, broad category range (men's/women's/unisex/oud/body/hair), active promotions."
+  },
+  {
+    "domain": "groupc1.com",
+    "name": "C1",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "b2b_services",
+    "qualification_path": "n/a",
+    "reason": "B2B workplace design/fitout/corporate furniture contractor (ROSHN HQ case study), not consumer retail. Explicit gate-2 exclusion."
+  },
+  {
+    "domain": "groupxen.com",
+    "name": "Groupxen",
+    "country": "Kuwait",
+    "verdict": "OUT",
+    "gate_failed": "digital_channel",
+    "category_final": "n/a",
+    "qualification_path": "n/a",
+    "reason": "Corporate holding-company page (portfolio described only as Fashion/Fitness/Lifestyle), no direct transactional storefront of its own; no specific subsidiary brand identified to evaluate instead."
+  },
+  {
+    "domain": "grasse.sa",
+    "name": "grasse",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "beauty",
+    "qualification_path": "substantiality",
+    "reason": "Real perfume e-commerce with active BOGO promotions, gift sets, bestsellers, multiple size variants (30ml/100ml)."
+  },
+  {
+    "domain": "fnp.sa",
+    "name": "fnp",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "geography",
+    "category_final": "n/a",
+    "qualification_path": "n/a",
+    "reason": "Ferns N Petals is India-HQ'd (Delhi, confirmed via web search); the Riyadh corporate office is a local trading entity of the same global company, not an independently Saudi-HQ'd franchisee."
+  },
+  {
+    "domain": "gazzaz.com.sa",
+    "name": "Hussein Bakry Gazzaz & Co",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "beauty",
+    "qualification_path": "substantiality",
+    "reason": "Established Saudi perfume/beauty retailer; active BOGO offers, free samples, free-shipping threshold, National Address shipping compliance."
+  },
+  {
+    "domain": "giftmart.net",
+    "name": "Gift Mart International",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "b2b_services",
+    "qualification_path": "n/a",
+    "reason": "Wholesale/B2B \"Business Lines\" framing (Tejouree, Artfeena, Executive Business Services) with wholesale-style product codes, not a direct consumer retail storefront."
+  },
+  {
+    "domain": "gulfbeautytrading.com",
+    "name": "Gulf Beauty International",
+    "country": "Qatar",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "wholesale",
+    "qualification_path": "n/a",
+    "reason": "Explicit wholesale/B2B FMCG trading company (\"Gulf Beauty General Trading LLC...premier FMCG wholesaler\", \"Contact us for pricing\"), not consumer retail."
+  },
+  {
+    "domain": "gulf-fashion.com",
+    "name": "Gulf Fashion General Trading Company",
+    "country": "Kuwait",
+    "verdict": "OUT",
+    "gate_failed": "digital_channel",
+    "category_final": "fashion",
+    "qualification_path": "n/a",
+    "reason": "Brochure/marketing site for 3-4 fashion brand names (Alvira, List Roma, Zen Diamond, Berty) with no cart/checkout/product-price content anywhere on the page; leftover US placeholder contact info (template artifact) further suggests an unmaintained low-effort site."
+  },
+  {
+    "domain": "hajery.com",
+    "name": "Mohamed Naser Al-Hajery & Sons Ltd.",
+    "country": "Kuwait",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "distribution",
+    "qualification_path": "n/a",
+    "reason": "Diversified FMCG/pharma/perfume distribution conglomerate with corporate divisions (Health Care, FMCG, Perfumes & Cosmetics, F&B) and pharmacovigilance/quality-feedback structure typical of a B2B distributor, not a direct consumer retail storefront."
+  },
+  {
+    "domain": "hofigroup.com",
+    "name": "hofigroup",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "hospitality_supplies",
+    "qualification_path": "n/a",
+    "reason": "Hotel amenities/supplies B2B company (\"premium and sustainable hotel supplies\"), not consumer retail."
+  },
+  {
+    "domain": "gulfmgroup.com",
+    "name": "gulf marketing group",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "mixed_realestate_distribution",
+    "qualification_path": "n/a",
+    "reason": "Diversified group spanning real-estate development (hard-excluded) and unspecified home-health/steam-sterilization product distribution; no confirmed e-commerce cart or product catalog found despite reading the full page."
+  },
+  {
+    "domain": "imtiaz.com.sa",
+    "name": "imtiaz",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "fashion",
+    "qualification_path": "substantiality",
+    "reason": "[VERIFY direct e-commerce] Imtiaz Al Arabia, part of Jarir Group (confirmed via web search), Riyadh-HQ'd fashion retail franchise operator: 8+ international brands (Nichii, Shana, Double Agent, Gingersnaps etc.), 100+ stores, 600+ employees. Consolidated franchise-operator account, same treatment as Cenomi Retail."
+  },
+  {
+    "domain": "intertecqatar.com",
+    "name": "INTERTEC GROUP W.L.L.",
+    "country": "Qatar",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "electronics",
+    "qualification_path": "substantiality",
+    "reason": "Multi-division conglomerate with identifiable consumer electronics retail divisions (Xiaomi Mobile, Xiaomi Eco, iCare Store) alongside separate B2B telecom/display divisions; consumer retail divisions justify inclusion."
+  },
+  {
+    "domain": "jamjoomfashion.com",
+    "name": "Jamjoom Fashion",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "fashion",
+    "qualification_path": "substantiality",
+    "reason": "Tadawul-listed Saudi-born apparel/lifestyle group (Nayomi, Mihyar, Dream, Booty Parlor brands). Check for existing Zoho duplicate at consolidation step."
+  },
+  {
+    "domain": "jumboqatar.com",
+    "name": "Video Home & Electronic Centre",
+    "country": "Qatar",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "electronics",
+    "qualification_path": "substantiality",
+    "reason": "[VERIFY: confirm distinct Qatar-HQ'd operating entity vs. UAE Jumbo Group parent] Consumer electronics retailer (Jumbo-branded), explicit eCommerce + Retail Solutions divisions, distinct Qatari trade name suggests a separate in-country operating company, not simply the UAE parent."
+  },
+  {
+    "domain": "kanagroup.com",
+    "name": "Kana Group",
+    "country": "Kuwait",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "beauty_services",
+    "qualification_path": "n/a",
+    "reason": "Beauty-salon, medical-clinic, and cafe SERVICES conglomerate (Nail Station Beauty Salons, Beauty Station UAE, Medica Care Center, NumberC Cafe), not product retail; also spans Kuwait and UAE divisions, ambiguating single-country HQ."
+  },
+  {
+    "domain": "kayanee.com",
+    "name": "kayanee",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "fashion",
+    "qualification_path": "substantiality",
+    "reason": "Real Saudi women's activewear e-commerce (Tops/Bottoms/Outerwear/Accessories categories, New Arrivals, Best Sellers, Summer Sale)."
+  },
+  {
+    "domain": "imcqatar.com",
+    "name": "International Medical Company (Kulud Pharmacy)",
+    "country": "Qatar",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "pharmacy",
+    "qualification_path": "substantiality",
+    "reason": "Retail pharmacy chain (Kulud Pharmacy), 27+ years operating history; explicit pharmacy-retail exception to the healthcare/clinic exclusion."
+  },
+  {
+    "domain": "keden.com.sa",
+    "name": "keden",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "digital_channel",
+    "category_final": "mixed_conglomerate",
+    "qualification_path": "n/a",
+    "reason": "Holding-company page for 4 brands with no direct cart/checkout of its own; 3 of 4 divisions are non-qualifying (Nayar cafe/F&B service, Refon bespoke tailoring service, MASAR B2B uniform manufacturing), and the one retail-like brand (The Face Shop) is itself a Korean-HQ'd global franchise, not distinctly Saudi-HQ'd."
+  },
+  {
+    "domain": "kiddyzone.com",
+    "name": "KIDDY ZONE",
+    "country": "Qatar",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "toys",
+    "qualification_path": "substantiality",
+    "reason": "Real toy e-commerce with mobile app, broad category range (Barbie, Trampoline, Cars, Disney, Dollhouse, collectible blind boxes)."
+  },
+  {
+    "domain": "kitchenline.com",
+    "name": "SAUDI KITCHEN LINE",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "home_furniture",
+    "qualification_path": "substantiality",
+    "reason": "Kitchenware/home-goods retailer with real cart/wishlist plus physical showrooms across 4 Saudi cities (Jeddah, Riyadh, Mecca, Khamis Mushait)."
+  },
+  {
+    "domain": "laverne.com",
+    "name": "Laverne Group",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "beauty",
+    "qualification_path": "substantiality",
+    "reason": "Real perfume e-commerce (Men's/Women's/Duos/Body, 100ml/200ml sizes, active promotions)."
+  },
+  {
+    "domain": "kadoonpro.com",
+    "name": "kadoonpro",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "beauty",
+    "qualification_path": "substantiality",
+    "reason": "Broad personal-care e-commerce (skin/face/body, hand/foot/nail care) with a loyalty-points program."
+  },
+  {
+    "domain": "lazurde.com",
+    "name": "lazurde",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "fashion",
+    "qualification_path": "substantiality",
+    "reason": "L'azurde, Tadawul-listed major Saudi jewelry manufacturer/retailer, multiple named collections with live online shop."
+  },
+  {
+    "domain": "leem.com",
+    "name": "leem",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "fashion",
+    "qualification_path": "substantiality",
+    "reason": "Real fashion e-commerce, 349+18 items across two collections alone, region-aware storefront (Saudi Arabia selected), active seasonal sale."
+  },
+  {
+    "domain": "madeleine.sa",
+    "name": "Adyaf Gulf Co. Ltd.",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "scale",
+    "category_final": "f_and_b",
+    "qualification_path": "n/a",
+    "reason": "Single small artisanal bakery/boutique in Riyadh (\"hand crafted artisanal baked goods\", shop/pickup model); no evidence of multi-location chain scale, extremely thin site content."
+  },
+  {
+    "domain": "loudy-plus.com",
+    "name": "loudy-plus",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "beauty",
+    "qualification_path": "substantiality",
+    "reason": "Real perfume e-commerce, broad category range (women's/men's/unisex/hair perfumes/musk/gift cards/incense)."
+  },
+  {
+    "domain": "manuelsupermarket.com",
+    "name": "Manuel Market",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "digital_channel",
+    "category_final": "grocery",
+    "qualification_path": "n/a",
+    "reason": "[REVIEW NEEDED] Domain hijacked -- now resolves to an unrelated Maldives resort/spa site. Web search confirms the underlying business is real and substantial (luxury supermarket chain since 2010, Jeddah/Riyadh, online grocery + delivery) and this domain is cited everywhere as its official site, but no alternate live company-owned domain could be found. Very likely a false negative caused by a domain/infra problem rather than business reality -- recommend manual follow-up (social media/phone) to find the current domain before permanently excluding."
+  },
+  {
+    "domain": "mannaiautos.com",
+    "name": "Mannai Trading Automotive Group",
+    "country": "Qatar",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive",
+    "qualification_path": "n/a",
+    "reason": "Automotive trading group -- hard-excluded category regardless of digital channel. (Domain is also separately hijacked, now showing Indonesian gambling/lottery spam.)"
+  },
+  {
+    "domain": "matajeralsaudia.com",
+    "name": "Matajer Al Saudia",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "grocery",
+    "qualification_path": "substantiality",
+    "reason": "[VERIFY online ordering channel] Real multi-branch Saudi grocery chain with weekly promotions; grocery/hypermarket is the highest repeat-purchase category."
+  },
+  {
+    "domain": "lpbkuwait.com",
+    "name": "La Plus Belle",
+    "country": "Kuwait",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "beauty",
+    "qualification_path": "substantiality",
+    "reason": "Real multi-category beauty retail shop (hair/skin/bath/nails/lashes/lenses/perfumes/tools) with salon services layered on top."
+  },
+  {
+    "domain": "miraymano.com",
+    "name": "miraymano",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "fashion",
+    "qualification_path": "substantiality",
+    "reason": "Real multi-designer fashion marketplace with fast delivery infrastructure (in-store pickup within 1hr, express Riyadh delivery) and multiple seasonal collections."
+  },
+  {
+    "domain": "marhbastore.com",
+    "name": "marhbastore",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "geography",
+    "category_final": "n/a",
+    "qualification_path": "n/a",
+    "reason": "Live site content confirms this is an EGYPTIAN marketplace (Marhaba) -- prices in Egyptian Pounds (LE), explicit \"Egypt's local brands\" tagline. Outside KSA/Kuwait/Qatar scope entirely; Zoho's CRM_Country=\"Saudi Arabia\" for this record appears to be a data error, flagged for correction."
+  },
+  {
+    "domain": "matchperfumes.com",
+    "name": "Match | ماتش",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "beauty",
+    "qualification_path": "substantiality",
+    "reason": "Real perfume e-commerce beyond the JS-warning banner: full category range (women's/men's/unisex/musk/niche/gift sets/solid perfumes/home fresheners) plus extensive genuine customer reviews."
+  },
+  {
+    "domain": "mlwsocks.com",
+    "name": "mlwsocks",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "general_merchandise",
+    "qualification_path": "substantiality",
+    "reason": "Despite the socks-brand name, a broad general-merchandise/lifestyle-gifting retailer (homewear, pajamas, towels, bags, kids items, stationery, candy, gift boxes) -- 20+ categories, not narrow."
+  },
+  {
+    "domain": "magrabihealth.com",
+    "name": "Magrabi Hospitals & Centers",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "healthcare",
+    "qualification_path": "n/a",
+    "reason": "Hospital/clinic chain (ophthalmology, dental, ENT, aesthetics with doctor booking) -- explicit healthcare/clinic exclusion, not retail pharmacy."
+  },
+  {
+    "domain": "nasco-trading.com",
+    "name": "Nasco Group",
+    "country": "Kuwait",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "distribution",
+    "qualification_path": "n/a",
+    "reason": "Explicit FMCG/luxury-furniture distribution group (\"We Distribute quality European brands\"; Nasco Trading Company / Perfetto Trading Company business units) -- B2B distributor, not direct consumer retailer."
+  },
+  {
+    "domain": "monaalshebil.com",
+    "name": "monaalshebil",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "fashion",
+    "qualification_path": "substantiality",
+    "reason": "Real Saudi women's fashion designer e-commerce (blazers/dresses/abayas/suits) with return policy, stockist network, and a preloved resale program."
+  },
+  {
+    "domain": "nice.com.sa",
+    "name": "nice",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "home_furniture",
+    "qualification_path": "substantiality",
+    "reason": "Real home-goods e-commerce (decor/furniture/kitchen/tableware/bath/bedding) with store finder and KSA-wide shipping."
+  },
+  {
+    "domain": "niceonesa.com",
+    "name": "NICE ONE",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "beauty",
+    "qualification_path": "substantiality",
+    "reason": "Large, well-known Saudi beauty e-commerce platform (self-described #1 makeup site in the Kingdom), extremely broad catalog across makeup/perfume/health/devices/nails/gifts."
+  },
+  {
+    "domain": "oceanpharmacy.sa",
+    "name": "oceanpharmacy",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "pharmacy",
+    "qualification_path": "substantiality",
+    "reason": "Real retail pharmacy e-commerce with cart, customer service line, broad baby-care/personal-care categories."
+  },
+  {
+    "domain": "orp.com.kw",
+    "name": "Off Road Performance - ORP",
+    "country": "Kuwait",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive",
+    "qualification_path": "n/a",
+    "reason": "Automotive off-road parts retailer (suspensions, tires, wheels) -- explicit automotive exclusion; camping/overland gear is secondary to the core parts business."
+  },
+  {
+    "domain": "othaimmalls.com",
+    "name": "othaimmalls",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "realestate_entertainment",
+    "qualification_path": "n/a",
+    "reason": "Shopping-mall real-estate/entertainment/investment holding division of Al-Othaim Group (cinema, malls, investment); the retail grocery operating company (Abdullah Al-Othaim Markets) is a separate, already-covered account."
+  },
+  {
+    "domain": "oudelite.com",
+    "name": "Oud Elite",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "beauty",
+    "qualification_path": "substantiality",
+    "reason": "Real substantial perfume/oud retailer with physical branch network, broad category range, active promotions."
+  },
+  {
+    "domain": "petzone.com",
+    "name": "Petzone",
+    "country": "Kuwait",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "general_merchandise",
+    "qualification_path": "substantiality",
+    "reason": "Real pet-supplies e-commerce with app, cart, multi-region presence (Kuwait/UAE/Saudi Arabia/Bahrain). Recurring pet food/supplies purchases."
+  },
+  {
+    "domain": "pharmacareonline.qa",
+    "name": "Pharmacare Group Retail Pharmacy Chain",
+    "country": "Qatar",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "pharmacy",
+    "qualification_path": "substantiality",
+    "reason": "Real retail pharmacy e-commerce, broad medical/OTC categories, QAR cart, live-consultation contact."
+  },
+  {
+    "domain": "pharmazone.com",
+    "name": "Pharmazone Kuwait",
+    "country": "Kuwait",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "beauty",
+    "qualification_path": "substantiality",
+    "reason": "Real beauty/health e-commerce with loyalty program, multi-currency regional reach (KWD/SAR/QAR/AED/BHD/OMR)."
+  },
+  {
+    "domain": "pharmalife-kw.com",
+    "name": "Pharmalife Co.",
+    "country": "Kuwait",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "pharmacy",
+    "qualification_path": "substantiality",
+    "reason": "Real pharmacy/beauty e-commerce, broad category range (skin/hair/makeup/mom-baby/medical supplies), free-delivery threshold."
+  },
+  {
+    "domain": "rasees.net",
+    "name": "Rasees Perfumes",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "beauty",
+    "qualification_path": "substantiality",
+    "reason": "Real substantial perfume e-commerce, broad category range, outlet section, customer reviews."
+  },
+  {
+    "domain": "parigallery.com",
+    "name": "Pari Gallery Qatar",
+    "country": "Qatar",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "beauty",
+    "qualification_path": "substantiality",
+    "reason": "[Franchise note] Qatar operation of the Paris Gallery luxury beauty/fashion concept, run by AbuIssa Holding (a genuine Qatari conglomerate) with its own Doha HQ address (confirmed via web search), distinct from the UAE-led wider Paris Gallery Group. Real e-commerce storefront (login/cart/wishlist), 4 physical showrooms in Doha malls."
+  },
+  {
+    "domain": "razi.sa",
+    "name": "صيدلية الرازي",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "pharmacy",
+    "qualification_path": "substantiality",
+    "reason": "Real retail pharmacy chain e-commerce, broad health/personal-care/cosmetics categories, offers catalog."
+  },
+  {
+    "domain": "reefperfumes.com",
+    "name": "reefperfumes",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "beauty",
+    "qualification_path": "substantiality",
+    "reason": "Real perfume e-commerce beyond the JS-warning banner: extensive category range (bestsellers, men's/women's/unisex, niche, Arabic perfumes, roll-on, home fragrance, gift cards), active flash sale."
+  },
+  {
+    "domain": "saudi-house.com",
+    "name": "saudi-house",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "fashion",
+    "qualification_path": "substantiality",
+    "reason": "Real multi-category retailer (Mens/Womens/Kids/Lingerie/Housewares) with seasonal collections; sells primarily via Noon.com marketplace rather than an owned cart, but this still constitutes a genuine digital retail channel."
+  },
+  {
+    "domain": "rankoussi.com",
+    "name": "Rankoussi Group",
+    "country": "Qatar",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "home_furniture",
+    "qualification_path": "substantiality",
+    "reason": "Established furniture/home-furnishings retailer since 1943, real cart, broad multi-room category range (living room/bedroom/kitchen/bathroom) plus customization services."
+  },
+  {
+    "domain": "ris.co",
+    "name": "RIS Group",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "home_furniture",
+    "qualification_path": "substantiality",
+    "reason": "Real luxury furniture e-commerce with actual priced SKUs, add-to-cart buttons, sold-out/pre-order states."
+  },
+  {
+    "domain": "selene-official.com",
+    "name": "selene-official",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "fashion",
+    "qualification_path": "substantiality",
+    "reason": "Real multi-category fashion e-commerce (men's/women's clothing across T-shirts/jackets/pants/hoodies/sweaters) with return/exchange policy."
+  },
+  {
+    "domain": "rawabihypermarket.com",
+    "name": "Al Rawabi Group of Companies",
+    "country": "Qatar",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "grocery",
+    "qualification_path": "substantiality",
+    "reason": "Real grocery e-commerce (Rawabi Hypermarket), express/scheduled delivery, broad grocery category range, multi-language storefront."
+  },
+  {
+    "domain": "simexgroup.qa",
+    "name": "Simex Group",
+    "country": "Qatar",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "mixed_conglomerate",
+    "qualification_path": "n/a",
+    "reason": "Diversified conglomerate spanning manufacturing/logistics/real-estate (all hard-excluded); its \"Retails and Distribution\" division (Tansy/Serta Mattress, Sidra Water, United Trading Distribution) is itself B2B distribution of brands, not a direct consumer storefront."
+  },
+  {
+    "domain": "shafy.com.sa",
+    "name": "Shafy",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "pharmacy",
+    "qualification_path": "substantiality",
+    "reason": "Health/wellness supplement e-commerce sold as curated bundles (heart health, vitality, sleep, beauty, hair, child growth); consumable/recurring, free-shipping threshold."
+  },
+  {
+    "domain": "shalmana.com",
+    "name": "Saleh Al Hamad Al Mana Co.",
+    "country": "Qatar",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "mixed_conglomerate",
+    "qualification_path": "n/a",
+    "reason": "Automotive-led diversified conglomerate (Nissan/Infiniti/Renault dealerships, car rental, B2B supplies) as core identity. Retail-qualifying divisions (Harvey Nichols fashion, Centra Supermarkets, Batteel Bakery) are separate brand franchises that would need evaluation as distinct accounts, not via this parent holding company."
+  },
+  {
+    "domain": "southwind.com.sa",
+    "name": "Southwind Telecom",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "electronics",
+    "qualification_path": "substantiality",
+    "reason": "[VERIFY direct consumer storefront] Large telecom distribution AND retail company (self-described), ~$900M annual turnover, established 2009, owned by Mowafak Group Holding."
+  },
+  {
+    "domain": "shaker.com.sa",
+    "name": "shakersa",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "mixed_conglomerate",
+    "qualification_path": "n/a",
+    "reason": "Core identity is HVAC/appliance manufacturing (LG-Shaker factory) plus B2B distribution and megaproject/ESCO contracting -- hard-excluded categories. A \"Retail Shaker Brandshops E-Commerce\" division is mentioned but this domain represents the diversified industrial group as a whole, not a dedicated retail storefront. Note: this domain was specifically flagged by the user in their original spot-check as a questionable inclusion; this verdict corrects that."
+  },
+  {
+    "domain": "speedmarine.com",
+    "name": "Speed Marine Qatar",
+    "country": "Qatar",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "marine_dealership",
+    "qualification_path": "n/a",
+    "reason": "Marine/watercraft dealership (jetskis, boats, marine generators, docking systems) -- same big-ticket dealership model as automotive, hard-excluded; inherently low-repeat-purchase even if categorized otherwise."
+  },
+  {
+    "domain": "surprisesbox.com",
+    "name": "surprisesbox",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "general_merchandise",
+    "qualification_path": "substantiality",
+    "reason": "Real broad general-merchandise e-commerce (Health/Beauty, Home/Garden, Tech/Electronics, Car Accessories, Sports/Outdoors, Toys/Kids/Baby, Pets), real cart/checkout flow."
+  },
+  {
+    "domain": "svnksa.com",
+    "name": "sovereign",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "fashion",
+    "qualification_path": "substantiality",
+    "reason": "Real multi-brand streetwear/sneaker boutique (17+ brands including ASICS, Birkenstock, Juun.J), real priced products and cart."
+  },
+  {
+    "domain": "tasooma.com",
+    "name": "tasooma",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "fashion",
+    "qualification_path": "substantiality",
+    "reason": "Men's footwear/accessories e-commerce with active discount campaigns; footwear is explicitly an approved gate-2 category."
+  },
+  {
+    "domain": "tanatel.com.sa",
+    "name": "Tanatel",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "home_furniture",
+    "qualification_path": "substantiality",
+    "reason": "Real furniture e-commerce, very broad catalog (bedroom/living/dining room sets plus lighting/carpets/decor/mattresses), real cart, active sales."
+  },
+  {
+    "domain": "techno-blue.com",
+    "name": "Techno Blue WLL",
+    "country": "Qatar",
+    "verdict": "OUT",
+    "gate_failed": "digital_channel",
+    "category_final": "electronics",
+    "qualification_path": "n/a",
+    "reason": "Appears to be the Qatar distributor/importer for Samsung and Zanussi consumer electronics/appliances (typical B2B-to-retail-trade \"WLL\" structure); no confirmed direct-to-consumer cart or checkout found despite a detailed product catalog."
+  },
+  {
+    "domain": "thatsliving.com",
+    "name": "That's Living Group",
+    "country": "Qatar",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "home_furniture",
+    "qualification_path": "substantiality",
+    "reason": "Real, professionally organized furniture/home-decor e-commerce with very broad catalog across living/dining/bedroom/lighting/decor/outdoor."
+  },
+  {
+    "domain": "sportghornatah.com",
+    "name": "SPORT GHORNATAH",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "fashion",
+    "qualification_path": "substantiality",
+    "reason": "Real sportswear/shoe retailer with BNPL (Tabby/Tamara), mobile app, and multiple branches across the Kingdom."
+  },
+  {
+    "domain": "thebeautysecrets.com",
+    "name": "بيوتي سيكرتس",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "beauty",
+    "qualification_path": "substantiality",
+    "reason": "Real Saudi perfume e-commerce with named product lines, cashback/free-shipping/free-gift incentives, mobile app."
+  },
+  {
+    "domain": "torbastudio.com",
+    "name": "torbastudio",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "fashion",
+    "qualification_path": "substantiality",
+    "reason": "Real, broad men's and women's ready-to-wear fashion brand (including abaya wear), multiple seasonal collections."
+  },
+  {
+    "domain": "thefactoryfurniture.com",
+    "name": "The Factory Furniture",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "home_furniture",
+    "qualification_path": "substantiality",
+    "reason": "Real furniture e-commerce (sofa specialist plus chairs/tables/carpets) with loyalty membership program and active sales."
+  },
+  {
+    "domain": "thebeautystation.com",
+    "name": "The Beauty Station | Nail Station KW",
+    "country": "Kuwait",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "beauty_services",
+    "qualification_path": "n/a",
+    "reason": "Beauty SALON services business (nails/hair/waxing/lashes/massage/facial, \"Find a Salon Book Now\") with only a narrow salon-aftercare product shop attached. This is Kana Group's Kuwait salon division, matching the already-excluded Kana Group services-conglomerate pattern."
+  },
+  {
+    "domain": "starcoholding.com",
+    "name": "Starco Holding",
+    "country": "Kuwait",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "fashion",
+    "qualification_path": "substantiality",
+    "reason": "Kuwait-HQ'd (founded 1958) multi-brand fashion + F&B franchise conglomerate, clean of hard-excluded divisions: 40 franchises, 300+ stores, 2,000+ employees, explicit e-commerce and \"Shop Now\". Same treatment as Cenomi/Imtiaz."
+  },
+  {
+    "domain": "uitcqatar.com",
+    "name": "United International Trading Company W.L.L",
+    "country": "Qatar",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "distribution",
+    "qualification_path": "n/a",
+    "reason": "Diversified B2B trading/distribution group (pharmaceuticals, medical/scientific equipment), not a retail pharmacy chain."
+  },
+  {
+    "domain": "transindgroup.com",
+    "name": "Transind Holding",
+    "country": "Qatar",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "mixed_conglomerate",
+    "qualification_path": "n/a",
+    "reason": "Diversified conglomerate spanning real estate/facility-management/logistics (hard-excluded); \"Hypermarkets & Retail\" and \"Health & Beauty\" are named divisions needing separate evaluation, not via this parent holding page."
+  },
+  {
+    "domain": "unitedpharmacy.sa",
+    "name": "United Pharmaceuticals Company",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "pharmacy",
+    "qualification_path": "substantiality",
+    "reason": "Real retail pharmacy e-commerce, free-delivery threshold, mobile app, branch locations."
+  },
+  {
+    "domain": "tivoligroup.com",
+    "name": "Tivoli Group",
+    "country": "Qatar",
+    "verdict": "OUT",
+    "gate_failed": "digital_channel",
+    "category_final": "home_furniture",
+    "qualification_path": "n/a",
+    "reason": "High-end furniture supplier (Roche Bobois, Natuzzi, American Home Furniture) operating via showroom plus design/build project model for residential and corporate clients; no confirmed e-commerce cart despite full page read -- closer to a B2B/project-services business than direct-to-consumer retail."
+  },
+  {
+    "domain": "trafalgarluxurygroup.com",
+    "name": "Trafalgar Luxury Group",
+    "country": "Kuwait",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "fashion",
+    "qualification_path": "substantiality",
+    "reason": "Substantial Kuwaiti luxury retail group, self-described \"Luxury Prestige Retailer\" with explicit Ecommerce division, Apple Premium Partner reseller, and 15+ luxury watch/jewelry brands."
+  },
+  {
+    "domain": "unipharma.sa",
+    "name": "UniPharma",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "wholesale",
+    "qualification_path": "n/a",
+    "reason": "Self-described as \"the leading wholesaler of pharmaceutical and cosmetics products in Saudi\", with retail explicitly framed as only a secondary \"growing\" division -- core identity is B2B wholesale."
+  },
+  {
+    "domain": "unitedretailholding.com",
+    "name": "United Retail Trading WLL",
+    "country": "Qatar",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "fashion",
+    "qualification_path": "substantiality",
+    "reason": "[VERIFY specific brand e-commerce] Clean multi-brand retail franchise conglomerate (Fashion & Accessories, Perfumes & Cosmetics, Sports, Home, Confectionery), self-described as \"one of the leading retailers in the region\", no hard-excluded divisions mixed in. Same treatment as Imtiaz/Cenomi."
+  },
+  {
+    "domain": "utc.com.kw",
+    "name": "Union Trading Co.",
+    "country": "Kuwait",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "general_merchandise",
+    "qualification_path": "substantiality",
+    "reason": "Large Kuwaiti retail conglomerate with explicit \"Our Stores\"/\"Shop Now\"/seasonal sale campaign; most divisions are retail-qualifying (electric appliances, FMCG, cosmetics/perfumes, fashion); two B2B divisions (healthcare solutions, commercial air conditioning) are set aside."
+  },
+  {
+    "domain": "unitedpharma-kw.com",
+    "name": "United Pharma Company",
+    "country": "Kuwait",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "pharmacy",
+    "qualification_path": "substantiality",
+    "reason": "[VERIFY B2C vs B2B channel] Explicit \"Retail\" division (alongside Pharma/FMCG) with a real, specific product catalog (named skincare/haircare SKUs), distinguishing it from unipharma.sa's self-described wholesale-primary identity."
+  },
+  {
+    "domain": "watheerglo.com",
+    "name": "watheerglo",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "b2b_supplies",
+    "qualification_path": "n/a",
+    "reason": "B2B uniform/workwear and hospitality-linens supplier (chef/medical/hospitality staff uniforms, hotel linens, French uniform-brand distribution), not consumer retail."
+  },
+  {
+    "domain": "voolaaa.com",
+    "name": "voolaaa",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "fashion",
+    "qualification_path": "substantiality",
+    "reason": "Real Saudi bamboo-fabric sleepwear/home-textile e-commerce brand (self-described #1 in category), decent category range (pajamas, abayas, robes, bedding)."
+  },
+  {
+    "domain": "wathnanholding.com",
+    "name": "Wathnan Holding",
+    "country": "Qatar",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "mixed_conglomerate",
+    "qualification_path": "n/a",
+    "reason": "Diversified conglomerate spanning construction/public-works/real-estate/animal-production-manufacturing (hard-excluded); retail divisions (Zarabi Department Store, Masskar Hypermarket) are named subsidiaries needing separate evaluation, not via this parent holding account."
+  },
+  {
+    "domain": "zbomksa.com",
+    "name": "zbomksa",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "narrow_repeat_purchase",
+    "category_final": "home_furniture",
+    "qualification_path": "n/a",
+    "reason": "Custom kitchen/cabinetry installation business (project-services model, brand agent/distributor), inherently low-repeat-purchase like the established flooring/lighting exclusions."
+  },
+  {
+    "domain": "wellcaregroup.com",
+    "name": "Wellcare Pharmacy Qatar",
+    "country": "Qatar",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "pharmacy",
+    "qualification_path": "substantiality",
+    "reason": "Explicit \"Qatar's Leading Chain of Pharmacy & Distribution\", 25 years of operating history."
+  },
+  {
+    "domain": "wahrantrading.com",
+    "name": "Wahran Trading Company-Kuwait",
+    "country": "Kuwait",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "beauty",
+    "qualification_path": "substantiality",
+    "reason": "[VERIFY specific retail chain e-commerce] Long-established (1971) cosmetics/perfume distributor with an explicit \"Our Retail Chains\" section indicating owned retail store chains, not just third-party distribution."
+  }
+]

@@ -1,0 +1,532 @@
+[
+  {
+    "domain": "",
+    "name": "AAW Pharma & Medical",
+    "country": "Kuwait",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "distribution",
+    "qualification_path": "n/a",
+    "reason": "Pharmaceutical and medical wholesale/distribution (B2B), not a retail pharmacy chain."
+  },
+  {
+    "domain": "",
+    "name": "Abdullatif Alissa Group Holding Co.",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "diversified_holding",
+    "qualification_path": "n/a",
+    "reason": "Diversified holding company, no domain or content evidence of a direct retail storefront."
+  },
+  {
+    "domain": "",
+    "name": "Ahmad A. Abed",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "unverifiable",
+    "category_final": "n/a",
+    "qualification_path": "n/a",
+    "reason": "No domain on file; name appears to be an individual/founder name rather than a distinct retail business name, insufficient evidence to confirm a real grocery operation."
+  },
+  {
+    "domain": "alaneesqatar.qa",
+    "name": "Al Anees Group",
+    "country": "Qatar",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "electronics",
+    "qualification_path": "substantiality",
+    "reason": "Confirmed via web search: Al Anees Electronics, Qatar-founded 1992, omnichannel mobile/electronics retailer with 16+ physical stores, Apple Authorized Reseller, real cart/delivery/pickup."
+  },
+  {
+    "domain": "",
+    "name": "Al Jabr Holding | الجبر القابضة",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "diversified_holding",
+    "qualification_path": "n/a",
+    "reason": "Diversified holding company (heavy equipment/industrial trading), prior non-retail classification consistent."
+  },
+  {
+    "domain": "",
+    "name": "Al Majed for Oud الماجد للعود",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "beauty",
+    "qualification_path": "substantiality",
+    "reason": "Well-known, large Saudi oud/perfume retail chain with many physical branches."
+  },
+  {
+    "domain": "",
+    "name": "Al Meera Consumer Goods Company",
+    "country": "Qatar",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "grocery",
+    "qualification_path": "substantiality",
+    "reason": "Qatar Exchange-listed, Qatar's largest homegrown supermarket/hypermarket chain."
+  },
+  {
+    "domain": "alnasser.net",
+    "name": "Al Nasser Kuwait",
+    "country": "Kuwait",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "fashion",
+    "qualification_path": "substantiality",
+    "reason": "Confirmed via web search: Kuwaiti sportswear/apparel retailer founded 1984, 50+ stores, ~$150M revenue (2024), 784 employees, also operates a hypermarket format."
+  },
+  {
+    "domain": "",
+    "name": "Al Raya For Foodstuff Company Ltd.",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "duplicate",
+    "category_final": "n/a",
+    "qualification_path": "n/a",
+    "reason": "Confirmed via web search: Al Raya for Foodstuffs Company was acquired by Tamimi Markets; already covered under the Tamimi Group account (tamimigroup.com.sa)."
+  },
+  {
+    "domain": "",
+    "name": "Al Sadaf Trading Co. | شركة السدف للتجارة",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "trading",
+    "qualification_path": "n/a",
+    "reason": "Trading company (B2B), prior classification consistent."
+  },
+  {
+    "domain": "",
+    "name": "Al Sadhan Trading Co",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "grocery",
+    "qualification_path": "substantiality",
+    "reason": "Confirmed via web search: founded 1952/53, described as the #1 retailer in Saudi Arabia, chain of supermarkets/hypermarkets, 500-1000 employees, recent SPAR International partnership."
+  },
+  {
+    "domain": "",
+    "name": "AL SHAYA INTERNATIONAL TRADING CO",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "duplicate",
+    "category_final": "n/a",
+    "qualification_path": "n/a",
+    "reason": "Saudi trading arm of M.H. Alshaya Group (Kuwait-HQ'd global franchise conglomerate); already covered as the parent account, and would also fail geography (Kuwait HQ, not Saudi)."
+  },
+  {
+    "domain": "",
+    "name": "Al Yemni Motors Company",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive",
+    "qualification_path": "n/a",
+    "reason": "Automotive dealer, hard-excluded category."
+  },
+  {
+    "domain": "",
+    "name": "Al-Maha Optical المها للبصريات",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "health_beauty",
+    "qualification_path": "substantiality",
+    "reason": "Optical/eyewear retail, same approved category as Hakeem Oyoun/Zaki Opticals."
+  },
+  {
+    "domain": "aldawaa.com",
+    "name": "aldawaa",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "pharmacy",
+    "qualification_path": "substantiality",
+    "reason": "One of Saudi Arabia's largest retail pharmacy chains, Tadawul-listed, hundreds of branches."
+  },
+  {
+    "domain": "",
+    "name": "Alfardan Automobiles",
+    "country": "Qatar",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive",
+    "qualification_path": "n/a",
+    "reason": "Automotive dealer (Alfardan Group), hard-excluded category."
+  },
+  {
+    "domain": "",
+    "name": "Aljabr Trading Company شركة الجبر التجارية",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "diversified_holding",
+    "qualification_path": "n/a",
+    "reason": "Diversified trading company, likely the same family group as Al Jabr Holding; prior non-retail classification consistent."
+  },
+  {
+    "domain": "almadina.com.sa",
+    "name": "Almadina Holding Company",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "health_beauty",
+    "qualification_path": "substantiality",
+    "reason": "Confirmed via web search: Riyadh, founded 1976, clean multi-format health-retail conglomerate (Almadina Pharmacies, Almadina Optical, hearing-care chains); only a minor creative agency division is non-retail. Same treatment as Imtiaz/Cenomi majority-retail conglomerates."
+  },
+  {
+    "domain": "",
+    "name": "Petromin Nissan Official",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive",
+    "qualification_path": "n/a",
+    "reason": "Automotive dealer (Nissan, via Petromin/ALJ), hard-excluded category."
+  },
+  {
+    "domain": "pharmalife-kw.com",
+    "name": "pharmalife",
+    "country": "Kuwait",
+    "verdict": "OUT",
+    "gate_failed": "duplicate",
+    "category_final": "n/a",
+    "qualification_path": "n/a",
+    "reason": "Same company as Pharmalife Co. (pharmalife-kw.com), already resolved IN in the js_shell batch; avoid duplicate."
+  },
+  {
+    "domain": "",
+    "name": "Porsche Centre Doha",
+    "country": "Qatar",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive",
+    "qualification_path": "n/a",
+    "reason": "Automotive dealer, hard-excluded category."
+  },
+  {
+    "domain": "",
+    "name": "Porsche Saudi Arabia",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive",
+    "qualification_path": "n/a",
+    "reason": "Automotive dealer, hard-excluded category."
+  },
+  {
+    "domain": "rawabihypermarket.com",
+    "name": "Rawabi Hypermarket",
+    "country": "Qatar",
+    "verdict": "OUT",
+    "gate_failed": "duplicate",
+    "category_final": "n/a",
+    "qualification_path": "n/a",
+    "reason": "Same company as Al Rawabi Group of Companies (rawabihypermarket.com), already resolved IN in the truly_novel batch; avoid duplicate."
+  },
+  {
+    "domain": "",
+    "name": "RojoCoral Boutique | Children's Fashion & Accessories",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "unverifiable",
+    "category_final": "n/a",
+    "qualification_path": "n/a",
+    "reason": "No domain on file; cannot confirm live digital channel or scale despite a plausible fashion category name."
+  },
+  {
+    "domain": "",
+    "name": "Safari Co Ltd. Riyadh",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "mixed_conglomerate",
+    "qualification_path": "n/a",
+    "reason": "Confirmed via web search: diversified conglomerate dominated by facility management/construction/automobile-trading/hospital-management/hotels/travel (hard-excluded); clothing and restaurants are named business lines but no direct storefront confirmed for this parent account."
+  },
+  {
+    "domain": "saudiagroup.com",
+    "name": "Saudia Group Of Companies",
+    "country": "Qatar",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "grocery",
+    "qualification_path": "substantiality",
+    "reason": "Confirmed via web search: SAUDIA Hypermarket/Supermarket/Departmental Stores, established 1988, a household name in Qatar with multiple locations and broad grocery+general-merchandise range."
+  },
+  {
+    "domain": "",
+    "name": "Season | سيزون",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "unverifiable",
+    "category_final": "n/a",
+    "qualification_path": "n/a",
+    "reason": "No domain on file; cannot confirm live digital channel or scale."
+  },
+  {
+    "domain": "",
+    "name": "Spinneys Middle East",
+    "country": "Qatar",
+    "verdict": "OUT",
+    "gate_failed": "geography",
+    "category_final": "n/a",
+    "qualification_path": "n/a",
+    "reason": "Spinneys is UAE-HQ'd (Dubai), not Qatar-HQ'd; consistent with prior classification."
+  },
+  {
+    "domain": "",
+    "name": "SWAJ | سواج",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "unverifiable",
+    "category_final": "n/a",
+    "qualification_path": "n/a",
+    "reason": "No domain on file; cannot confirm live digital channel or scale."
+  },
+  {
+    "domain": "tamimigroup.com.sa",
+    "name": "TAMIMI GROUP OF COMPANIES",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "duplicate",
+    "category_final": "n/a",
+    "qualification_path": "n/a",
+    "reason": "Same company as tamimigroup.com.sa (Tamimi Group / Tamimi Markets), already resolved IN in the js_shell batch; avoid duplicate."
+  },
+  {
+    "domain": "",
+    "name": "TheHub Hypermarket",
+    "country": "Kuwait",
+    "verdict": "OUT",
+    "gate_failed": "unverifiable",
+    "category_final": "n/a",
+    "qualification_path": "n/a",
+    "reason": "Web search reveals \"TheHub\" in Kuwait is an arts/culture exhibition space, not a hypermarket -- likely a CRM naming/data error; no confirmable grocery retail business found under this name."
+  },
+  {
+    "domain": "",
+    "name": "Toyota ALJ",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive",
+    "qualification_path": "n/a",
+    "reason": "Automotive dealer (Toyota via Abdul Latif Jameel), hard-excluded category."
+  },
+  {
+    "domain": "",
+    "name": "TSC",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "building_materials",
+    "qualification_path": "n/a",
+    "reason": "Prior classification as home_improvement (paint/hardware-adjacent); hard-excluded building-materials category, consistent."
+  },
+  {
+    "domain": "",
+    "name": "Wallan Group",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "diversified_holding",
+    "qualification_path": "n/a",
+    "reason": "Diversified holding group, no domain or content evidence of a direct retail storefront; prior non-retail classification consistent."
+  },
+  {
+    "domain": "",
+    "name": "الخياطة العربية",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "unverifiable",
+    "category_final": "n/a",
+    "qualification_path": "n/a",
+    "reason": "\"Arab Tailoring\" -- name suggests a bespoke tailoring service (project-based, low-repeat) rather than confirmed standard retail; no domain to verify."
+  },
+  {
+    "domain": "",
+    "name": "الغانم للأجهزة الكهربائية AL-GHANIM STORE",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "geography",
+    "category_final": "n/a",
+    "qualification_path": "n/a",
+    "reason": "Name suggests affiliation with the Al-Ghanim electrical/appliance brand; if this is the same Alghanim Industries (Kuwait-HQ'd conglomerate, already covered as a parent account elsewhere per xcitebyalghanimelectronics), it would fail geography for this Saudi Arabia-tagged record. Insufficient evidence to confirm a genuinely distinct, unrelated Saudi entity."
+  },
+  {
+    "domain": "",
+    "name": "حلويات نبيل نفيسة",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "scale",
+    "category_final": "f_and_b",
+    "qualification_path": "n/a",
+    "reason": "\"Nabil Nafisa Sweets\" -- personal-name branding suggests a single small sweets shop, consistent with the madeleine.sa/saadeddin.com.sa single-bakery precedent; no domain or evidence of chain scale."
+  },
+  {
+    "domain": "",
+    "name": "شركة التسهيلات للتسويق (سهل)",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "fuel_station",
+    "qualification_path": "n/a",
+    "reason": "Fuel station company, not an approved retail category; prior classification consistent."
+  },
+  {
+    "domain": "",
+    "name": "شركة ركاز الاخوان المتحدة المتميزة - اي مارت",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "unverifiable",
+    "category_final": "n/a",
+    "qualification_path": "n/a",
+    "reason": "Web search for this \"i mart\" branded company did not surface a matching business (only surfaced unrelated Chinese/other \"mart\" chains); no domain or independent confirmation found."
+  },
+  {
+    "domain": "",
+    "name": "صيدليات باب الشفاء",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "pharmacy",
+    "qualification_path": "substantiality",
+    "reason": "[VERIFY chain scale] \"Bab Al-Shifa Pharmacies\" -- explicit plural naming suggests a real multi-branch pharmacy chain; no domain to independently confirm branch count."
+  },
+  {
+    "domain": "",
+    "name": "صيدلية",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "unverifiable",
+    "category_final": "n/a",
+    "qualification_path": "n/a",
+    "reason": "Company name is the generic word \"Pharmacy\" with no distinguishing brand name; cannot confirm this represents a real, identifiable business rather than a placeholder/incomplete CRM record."
+  },
+  {
+    "domain": "nahdionline.com",
+    "name": "صيدلية النهدي",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "pharmacy",
+    "qualification_path": "substantiality",
+    "reason": "Al-Nahdi Medical Company, Saudi Arabia's largest retail pharmacy chain, Tadawul-listed, hundreds of branches."
+  },
+  {
+    "domain": "",
+    "name": "كهرباء الجنوب للإنارة",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "narrow_repeat_purchase",
+    "category_final": "building_materials",
+    "qualification_path": "n/a",
+    "reason": "\"South Electricity for Lighting\" -- lighting/electrical fixtures for construction, matches the established narrow-category and building-materials exclusions; prior classification consistent."
+  },
+  {
+    "domain": "",
+    "name": "مجموعة شركات اليسر | Alyouser Group",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "diversified_holding",
+    "qualification_path": "n/a",
+    "reason": "Diversified trading conglomerate, no confirmed direct retail storefront; prior classification consistent."
+  },
+  {
+    "domain": "",
+    "name": "منتجات فورايفر الامريكية في العراق والعالم",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "geography",
+    "category_final": "n/a",
+    "qualification_path": "n/a",
+    "reason": "Explicitly describes Iraq-focused operations (\"in Iraq and the world\"), outside the KSA/Kuwait/Qatar scope; also appears to be a Forever Living Products MLM distributor, not a standard retail storefront."
+  },
+  {
+    "domain": "",
+    "name": "Mall of Qatar",
+    "country": "Qatar",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "realestate",
+    "qualification_path": "n/a",
+    "reason": "Shopping-mall real-estate operator/landlord, not itself a retail company (established in an earlier resolution pass)."
+  },
+  {
+    "domain": "",
+    "name": "Alif Stores",
+    "country": "Qatar",
+    "verdict": "OUT",
+    "gate_failed": "unverifiable",
+    "category_final": "fashion",
+    "qualification_path": "n/a",
+    "reason": "Previously HELD (plausible Qatar multi-brand retailer, scale/category not independently confirmed); no domain or new evidence available to resolve, applying the conservative default."
+  },
+  {
+    "domain": "",
+    "name": "Modern Electronics Company",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "duplicate",
+    "category_final": "n/a",
+    "qualification_path": "n/a",
+    "reason": "Duplicate of \"Modern Electronics - MEC (AL-Faisaliah Group)\", already in the finalized IN set (established in an earlier resolution pass)."
+  },
+  {
+    "domain": "",
+    "name": "Yallatoys.com",
+    "country": "Qatar",
+    "verdict": "OUT",
+    "gate_failed": "duplicate",
+    "category_final": "n/a",
+    "qualification_path": "n/a",
+    "reason": "Duplicate of Yalla Toys, same company kept as one account (established in an earlier resolution pass)."
+  },
+  {
+    "domain": "",
+    "name": "SAVECO Online Hypermarket",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "grocery",
+    "qualification_path": "substantiality",
+    "reason": "Savola Group's online hypermarket arm; substantial grocery e-commerce operation (established in an earlier resolution pass)."
+  },
+  {
+    "domain": "",
+    "name": "Sameh Mall",
+    "country": "Egypt",
+    "verdict": "OUT",
+    "gate_failed": "geography",
+    "category_final": "n/a",
+    "qualification_path": "n/a",
+    "reason": "Egypt-oriented marketplace app, outside the KSA/Kuwait/Qatar scope (established in an earlier resolution pass)."
+  },
+  {
+    "domain": "",
+    "name": "LG Electronics",
+    "country": "n/a",
+    "verdict": "OUT",
+    "gate_failed": "geography",
+    "category_final": "n/a",
+    "qualification_path": "n/a",
+    "reason": "LG Electronics is a Korea-HQ'd global manufacturer, not a Gulf-HQ'd retail operating company."
+  },
+  {
+    "domain": "",
+    "name": "ROUTE TO MARKET",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "agency_services",
+    "qualification_path": "n/a",
+    "reason": "B2B agency/services company (established in an earlier resolution pass)."
+  }
+]

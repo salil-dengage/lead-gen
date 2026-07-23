@@ -1,0 +1,92 @@
+[
+ {
+  "domain": "camicissima.sa",
+  "verdict": "OUT",
+  "gate_failed": "category",
+  "reason": "Global fashion/luxury brand storefront (foreign HQ); if operated in KSA it is via Cenomi Retail franchise, already covered as one consolidated account -- not a separate entity."
+ },
+ {
+  "domain": "dkny.sa",
+  "verdict": "OUT",
+  "gate_failed": "category",
+  "reason": "Global fashion/luxury brand storefront (foreign HQ); if operated in KSA it is via Cenomi Retail franchise, already covered as one consolidated account -- not a separate entity."
+ },
+ {
+  "domain": "bloomingdales.sa",
+  "verdict": "OUT",
+  "gate_failed": "category",
+  "reason": "Global fashion/luxury brand storefront (foreign HQ); if operated in KSA it is via Cenomi Retail franchise, already covered as one consolidated account -- not a separate entity."
+ },
+ {
+  "domain": "ethanallen.sa",
+  "verdict": "OUT",
+  "gate_failed": "category",
+  "reason": "Global fashion/luxury brand storefront (foreign HQ); if operated in KSA it is via Cenomi Retail franchise, already covered as one consolidated account -- not a separate entity."
+ },
+ {
+  "domain": "charleskeith.sa",
+  "verdict": "OUT",
+  "gate_failed": "category",
+  "reason": "Global fashion/luxury brand storefront (foreign HQ); if operated in KSA it is via Cenomi Retail franchise, already covered as one consolidated account -- not a separate entity."
+ },
+ {
+  "domain": "clarins.sa",
+  "verdict": "OUT",
+  "gate_failed": "category",
+  "reason": "Global fashion/luxury brand storefront (foreign HQ); if operated in KSA it is via Cenomi Retail franchise, already covered as one consolidated account -- not a separate entity."
+ },
+ {
+  "domain": "gap.sa",
+  "verdict": "OUT",
+  "gate_failed": "category",
+  "reason": "Global fashion/luxury brand storefront (foreign HQ); if operated in KSA it is via Cenomi Retail franchise, already covered as one consolidated account -- not a separate entity."
+ },
+ {
+  "domain": "guess.sa",
+  "verdict": "OUT",
+  "gate_failed": "category",
+  "reason": "Global fashion/luxury brand storefront (foreign HQ); if operated in KSA it is via Cenomi Retail franchise, already covered as one consolidated account -- not a separate entity."
+ },
+ {
+  "domain": "jacquemus.sa",
+  "verdict": "OUT",
+  "gate_failed": "category",
+  "reason": "Global fashion/luxury brand storefront (foreign HQ); if operated in KSA it is via Cenomi Retail franchise, already covered as one consolidated account -- not a separate entity."
+ },
+ {
+  "domain": "jaidah.com",
+  "verdict": "OUT",
+  "gate_failed": "category",
+  "reason": "Confirmed earlier this session: Qatar B2B industrial/automotive/real-estate conglomerate, not consumer retail."
+ },
+ {
+  "domain": "lacoste.sa",
+  "verdict": "OUT",
+  "gate_failed": "category",
+  "reason": "Global fashion/luxury brand storefront (foreign HQ); if operated in KSA it is via Cenomi Retail franchise, already covered as one consolidated account -- not a separate entity."
+ },
+ {
+  "domain": "liujo.sa",
+  "verdict": "OUT",
+  "gate_failed": "category",
+  "reason": "Global fashion/luxury brand storefront (foreign HQ); if operated in KSA it is via Cenomi Retail franchise, already covered as one consolidated account -- not a separate entity."
+ },
+ {
+  "domain": "mamasandpapas.com.sa",
+  "verdict": "OUT",
+  "gate_failed": "category",
+  "reason": "Global fashion/luxury brand storefront (foreign HQ); if operated in KSA it is via Cenomi Retail franchise, already covered as one consolidated account -- not a separate entity."
+ },
+ {
+  "domain": "michaelkors.sa",
+  "verdict": "OUT",
+  "gate_failed": "category",
+  "reason": "Global fashion/luxury brand storefront (foreign HQ); if operated in KSA it is via Cenomi Retail franchise, already covered as one consolidated account -- not a separate entity."
+ },
+ {
+  "domain": "nike.sa",
+  "verdict": "OUT",
+  "gate_failed": "category",
+  "reason": "Global fashion/luxury brand storefront (foreign HQ); if operated in KSA it is via Cenomi Retail franchise, already covered as one consolidated account -- not a separate entity."
+ }
+]
