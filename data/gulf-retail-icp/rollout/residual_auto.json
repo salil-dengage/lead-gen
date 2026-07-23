@@ -1,0 +1,802 @@
+[
+  {
+    "domain": "ajlanbros.com",
+    "verdict": "OUT",
+    "category_final": "building_materials",
+    "reason": "keyword match: building_materials",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "al-araba.com",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "daralmasalla.com",
+    "verdict": "OUT",
+    "category_final": "building_materials",
+    "reason": "keyword match: building_materials",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "3attar.com",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "aya.app",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "darent.com",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "cupiosnacks.com",
+    "verdict": "OUT",
+    "category_final": "building_materials",
+    "reason": "keyword match: building_materials",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "edadcom.com",
+    "verdict": "OUT",
+    "category_final": "building_materials",
+    "reason": "keyword match: building_materials",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "foodunitco.com",
+    "verdict": "OUT",
+    "category_final": "wholesale_distribution",
+    "reason": "keyword match: wholesale_distribution",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "gacmotorsaudi.com",
+    "verdict": "OUT",
+    "category_final": "automotive",
+    "reason": "keyword match: automotive",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "gissah.com",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "gofresh.com.kw",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "fuel.sa.com",
+    "verdict": "OUT",
+    "category_final": "building_materials",
+    "reason": "keyword match: building_materials",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "gulfstreamkw.com",
+    "verdict": "OUT",
+    "category_final": "building_materials",
+    "reason": "keyword match: building_materials",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "houseofcenmar.com",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "jazeerapaints.com",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "jipco.com.sa",
+    "verdict": "OUT",
+    "category_final": "automotive",
+    "reason": "keyword match: automotive",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "joil.com.sa",
+    "verdict": "OUT",
+    "category_final": "fuel_station",
+    "reason": "keyword match: fuel_station",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "industry.com.sa",
+    "verdict": "OUT",
+    "category_final": "building_materials",
+    "reason": "keyword match: building_materials",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "johrh.com",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "kabrita.sa",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "khairat.com",
+    "verdict": "OUT",
+    "category_final": "wholesale_distribution",
+    "reason": "keyword match: wholesale_distribution",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "karazlinen.com",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "kaifalshiuokh.com",
+    "verdict": "OUT",
+    "category_final": "building_materials",
+    "reason": "keyword match: building_materials",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "kiffa.sa",
+    "verdict": "OUT",
+    "category_final": "building_materials",
+    "reason": "keyword match: building_materials",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "lifepillarsmc.com",
+    "verdict": "OUT",
+    "category_final": "building_materials",
+    "reason": "keyword match: building_materials",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "landrover-qatar.com",
+    "verdict": "OUT",
+    "category_final": "automotive",
+    "reason": "keyword match: automotive",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "lexus.com.sa",
+    "verdict": "OUT",
+    "category_final": "automotive",
+    "reason": "keyword match: automotive",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "landrover-saudi.com",
+    "verdict": "OUT",
+    "category_final": "healthcare",
+    "reason": "keyword match: healthcare",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "litergroup.com",
+    "verdict": "OUT",
+    "category_final": "fuel_station",
+    "reason": "keyword match: fuel_station",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "kaico.com.kw",
+    "verdict": "OUT",
+    "category_final": "automotive",
+    "reason": "keyword match: automotive",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "knozelhekma.com",
+    "verdict": "OUT",
+    "category_final": "building_materials",
+    "reason": "keyword match: building_materials",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "maatic.com",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "lavieenrose.com.sa",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "imalcowebstore.com",
+    "verdict": "OUT",
+    "category_final": "building_materials",
+    "reason": "keyword match: building_materials",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "gulfadvauto.com",
+    "verdict": "OUT",
+    "category_final": "automotive",
+    "reason": "keyword match: automotive",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "lomar.sa",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "masdaronline.com",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "malajlanstore.com",
+    "verdict": "OUT",
+    "category_final": "building_materials",
+    "reason": "keyword match: building_materials",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "modpatisserie.com",
+    "verdict": "OUT",
+    "category_final": "logistics_b2b",
+    "reason": "keyword match: logistics_b2b",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "mannaiheavyequipment.com",
+    "verdict": "OUT",
+    "category_final": "building_materials",
+    "reason": "keyword match: building_materials",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "nbm.com.sa",
+    "verdict": "OUT",
+    "category_final": "building_materials",
+    "reason": "keyword match: building_materials",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "neyam.sa",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "nehmeh.com",
+    "verdict": "OUT",
+    "category_final": "building_materials",
+    "reason": "keyword match: building_materials",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "narscosmetics.sa",
+    "verdict": "OUT",
+    "category_final": "building_materials",
+    "reason": "keyword match: building_materials",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "nissan-manahil.com",
+    "verdict": "OUT",
+    "category_final": "automotive",
+    "reason": "keyword match: automotive",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "natureland.net",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "osanoptics.com",
+    "verdict": "OUT",
+    "category_final": "automotive",
+    "reason": "keyword match: automotive",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "nissankuwait.com",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "nasmoltd.com",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "otantik-home.com",
+    "verdict": "OUT",
+    "category_final": "wholesale_distribution",
+    "reason": "keyword match: wholesale_distribution",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "petromin.com",
+    "verdict": "OUT",
+    "category_final": "automotive",
+    "reason": "keyword match: automotive",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "qmartstores.com",
+    "verdict": "OUT",
+    "category_final": "fuel_station",
+    "reason": "keyword match: fuel_station",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "petromin-nissan.com",
+    "verdict": "OUT",
+    "category_final": "automotive",
+    "reason": "keyword match: automotive",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "reefi.me",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "propertyfinder.sa",
+    "verdict": "OUT",
+    "category_final": "realestate_facility",
+    "reason": "keyword match: realestate_facility",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "ranafood.com",
+    "verdict": "OUT",
+    "category_final": "automotive",
+    "reason": "keyword match: automotive",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "serajah.com",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "shinegd.com",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "shopraha.com",
+    "verdict": "OUT",
+    "category_final": "realestate_facility",
+    "reason": "keyword match: realestate_facility",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "shopbeam.com",
+    "verdict": "OUT",
+    "category_final": "automotive",
+    "reason": "keyword match: automotive",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "siwar.com",
+    "verdict": "OUT",
+    "category_final": "placeholder_or_dead",
+    "reason": "keyword match: placeholder_or_dead",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "renault.sa",
+    "verdict": "OUT",
+    "category_final": "automotive",
+    "reason": "keyword match: automotive",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "strongrentacar.com",
+    "verdict": "OUT",
+    "category_final": "building_materials",
+    "reason": "keyword match: building_materials",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "sulindastore.com",
+    "verdict": "OUT",
+    "category_final": "building_materials",
+    "reason": "keyword match: building_materials",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "soum.sa",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "sarinamultiple.com",
+    "verdict": "OUT",
+    "category_final": "wholesale_distribution",
+    "reason": "keyword match: wholesale_distribution",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "sulalat.com",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "tamkeenstores.com.sa",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "teearabia.com",
+    "verdict": "OUT",
+    "category_final": "building_materials",
+    "reason": "keyword match: building_materials",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "theolecoffee.com",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "thebedshop.co",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "toot-t.com",
+    "verdict": "OUT",
+    "category_final": "building_materials",
+    "reason": "keyword match: building_materials",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "toyland.world",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "thabt.qa",
+    "verdict": "OUT",
+    "category_final": "automotive",
+    "reason": "keyword match: automotive",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "timepaints.com",
+    "verdict": "OUT",
+    "category_final": "building_materials",
+    "reason": "keyword match: building_materials",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "ubuy.com",
+    "verdict": "OUT",
+    "category_final": "automotive",
+    "reason": "keyword match: automotive",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "toyota.com.kw",
+    "verdict": "OUT",
+    "category_final": "automotive",
+    "reason": "keyword match: automotive",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "umc.com.sa",
+    "verdict": "OUT",
+    "category_final": "building_materials",
+    "reason": "keyword match: building_materials",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "wacafe.sa",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "unitedgroup.com.sa",
+    "verdict": "OUT",
+    "category_final": "logistics_b2b",
+    "reason": "keyword match: logistics_b2b",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "weftrug.com",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "wallan.com",
+    "verdict": "OUT",
+    "category_final": "automotive",
+    "reason": "keyword match: automotive",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "werecle.com",
+    "verdict": "OUT",
+    "category_final": "wholesale_distribution",
+    "reason": "keyword match: wholesale_distribution",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "wahagco.com",
+    "verdict": "OUT",
+    "category_final": "building_materials",
+    "reason": "keyword match: building_materials",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "sirajattarbros.com",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "wafienergy.com",
+    "verdict": "OUT",
+    "category_final": "building_materials",
+    "reason": "keyword match: building_materials",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "google.com",
+    "verdict": "OUT",
+    "category_final": "unverifiable",
+    "reason": "placeholder domain value (google.com), not a real company domain",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "jarir.com",
+    "verdict": "IN",
+    "category_final": "general_merchandise",
+    "reason": "Jarir Bookstore, one of the largest and best-known Saudi retail chains (electronics/books/stationery)",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "jetourqatar.com",
+    "verdict": "OUT",
+    "category_final": "automotive",
+    "reason": "Jetour, Chinese automotive brand dealer",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "halaauto.com",
+    "verdict": "OUT",
+    "category_final": "automotive",
+    "reason": "name indicates automotive dealer",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "knpc.com",
+    "verdict": "OUT",
+    "category_final": "energy",
+    "reason": "Kuwait National Petroleum Company, oil/energy, not retail",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "naseralsayergroup.com",
+    "verdict": "OUT",
+    "category_final": "automotive",
+    "reason": "Al-Sayer Group, major Kuwaiti automotive distributor (Toyota dealer)",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "othaimmarkets.com",
+    "verdict": "IN",
+    "category_final": "grocery",
+    "reason": "Abdullah Al-Othaim Markets, major Saudi grocery/hypermarket chain",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "printemps.com",
+    "verdict": "OUT",
+    "category_final": "category",
+    "reason": "Au Printemps is a French global department-store brand; foreign HQ, franchise storefront pattern",
+    "http_code": "403",
+    "signal": "BLOCKED"
+  },
+  {
+    "domain": "q8.com",
+    "verdict": "OUT",
+    "category_final": "fuel_station",
+    "reason": "Q8/Kuwait Petroleum Corporation international fuel brand",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "rasseed.com",
+    "verdict": "IN",
+    "category_final": "app_download_rescue",
+    "reason": "User-confirmed earlier this session: not e-commerce but 100k+ app store downloads automatically qualifies (app-download rescue path)",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "syarah.com",
+    "verdict": "OUT",
+    "category_final": "automotive",
+    "reason": "Syarah, well-known Saudi used-car marketplace",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "tamracapital.sa",
+    "verdict": "OUT",
+    "category_final": "financial_services",
+    "reason": "Tamra Capital, financial/capital services company (already flagged non-retail earlier this session)",
+    "http_code": "200",
+    "signal": "LIVE"
+  },
+  {
+    "domain": "teyseergroup.com",
+    "verdict": "OUT",
+    "category_final": "mixed_conglomerate",
+    "reason": "Teyseer Group, diversified Qatari conglomerate (construction/logistics/industrial services dominant)",
+    "http_code": "200",
+    "signal": "LIVE"
+  }
+]

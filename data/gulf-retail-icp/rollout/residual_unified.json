@@ -1,0 +1,1422 @@
+[
+  {
+    "name": "ajlanbros",
+    "domain": "ajlanbros.com",
+    "country": "",
+    "verdict": "OUT",
+    "gate_failed": "building_materials",
+    "category_final": "building_materials",
+    "qualification_path": "n/a",
+    "reason": "keyword match: building_materials"
+  },
+  {
+    "name": "al-araba",
+    "domain": "al-araba.com",
+    "country": "",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "n/a",
+    "qualification_path": "substantiality",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "name": "daralmasalla",
+    "domain": "daralmasalla.com",
+    "country": "",
+    "verdict": "OUT",
+    "gate_failed": "building_materials",
+    "category_final": "building_materials",
+    "qualification_path": "n/a",
+    "reason": "keyword match: building_materials"
+  },
+  {
+    "name": "3attar",
+    "domain": "3attar.com",
+    "country": "",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "n/a",
+    "qualification_path": "substantiality",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "name": "aya",
+    "domain": "aya.app",
+    "country": "",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "n/a",
+    "qualification_path": "substantiality",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "name": "darent",
+    "domain": "darent.com",
+    "country": "",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "n/a",
+    "qualification_path": "substantiality",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "name": "cupiosnacks",
+    "domain": "cupiosnacks.com",
+    "country": "",
+    "verdict": "OUT",
+    "gate_failed": "building_materials",
+    "category_final": "building_materials",
+    "qualification_path": "n/a",
+    "reason": "keyword match: building_materials"
+  },
+  {
+    "name": "edadcom",
+    "domain": "edadcom.com",
+    "country": "",
+    "verdict": "OUT",
+    "gate_failed": "building_materials",
+    "category_final": "building_materials",
+    "qualification_path": "n/a",
+    "reason": "keyword match: building_materials"
+  },
+  {
+    "name": "Food Unit Company",
+    "domain": "foodunitco.com",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "wholesale_distribution",
+    "category_final": "wholesale_distribution",
+    "qualification_path": "n/a",
+    "reason": "keyword match: wholesale_distribution"
+  },
+  {
+    "name": "GAC Saudi Arabia",
+    "domain": "gacmotorsaudi.com",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "automotive",
+    "category_final": "automotive",
+    "qualification_path": "n/a",
+    "reason": "keyword match: automotive"
+  },
+  {
+    "name": "GISSAH",
+    "domain": "gissah.com",
+    "country": "Kuwait",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "n/a",
+    "qualification_path": "substantiality",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "name": "Go Fresh",
+    "domain": "gofresh.com.kw",
+    "country": "Kuwait",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "n/a",
+    "qualification_path": "substantiality",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "name": "Fuel Way",
+    "domain": "fuel.sa.com",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "building_materials",
+    "category_final": "building_materials",
+    "qualification_path": "n/a",
+    "reason": "keyword match: building_materials"
+  },
+  {
+    "name": "GULF STREAM",
+    "domain": "gulfstreamkw.com",
+    "country": "Kuwait",
+    "verdict": "OUT",
+    "gate_failed": "building_materials",
+    "category_final": "building_materials",
+    "qualification_path": "n/a",
+    "reason": "keyword match: building_materials"
+  },
+  {
+    "name": "houseofcenmar",
+    "domain": "houseofcenmar.com",
+    "country": "",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "n/a",
+    "qualification_path": "substantiality",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "name": "jazeerapaints",
+    "domain": "jazeerapaints.com",
+    "country": "",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "n/a",
+    "qualification_path": "substantiality",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "name": "Juffali Commercial Vehicles",
+    "domain": "jipco.com.sa",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "automotive",
+    "category_final": "automotive",
+    "qualification_path": "n/a",
+    "reason": "keyword match: automotive"
+  },
+  {
+    "name": "J:OIL | جي اويل",
+    "domain": "joil.com.sa",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "fuel_station",
+    "category_final": "fuel_station",
+    "qualification_path": "n/a",
+    "reason": "keyword match: fuel_station"
+  },
+  {
+    "name": "industry",
+    "domain": "industry.com.sa",
+    "country": "",
+    "verdict": "OUT",
+    "gate_failed": "building_materials",
+    "category_final": "building_materials",
+    "qualification_path": "n/a",
+    "reason": "keyword match: building_materials"
+  },
+  {
+    "name": "johrh",
+    "domain": "johrh.com",
+    "country": "",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "n/a",
+    "qualification_path": "substantiality",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "name": "kabrita",
+    "domain": "kabrita.sa",
+    "country": "",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "n/a",
+    "qualification_path": "substantiality",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "name": "Al Khairat Company",
+    "domain": "khairat.com",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "wholesale_distribution",
+    "category_final": "wholesale_distribution",
+    "qualification_path": "n/a",
+    "reason": "keyword match: wholesale_distribution"
+  },
+  {
+    "name": "karazlinen",
+    "domain": "karazlinen.com",
+    "country": "",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "n/a",
+    "qualification_path": "substantiality",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "name": "kaifalshiuokh",
+    "domain": "kaifalshiuokh.com",
+    "country": "",
+    "verdict": "OUT",
+    "gate_failed": "building_materials",
+    "category_final": "building_materials",
+    "qualification_path": "n/a",
+    "reason": "keyword match: building_materials"
+  },
+  {
+    "name": "Kiffa Roaster",
+    "domain": "kiffa.sa",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "building_materials",
+    "category_final": "building_materials",
+    "qualification_path": "n/a",
+    "reason": "keyword match: building_materials"
+  },
+  {
+    "name": "lifepillarsmc",
+    "domain": "lifepillarsmc.com",
+    "country": "",
+    "verdict": "OUT",
+    "gate_failed": "building_materials",
+    "category_final": "building_materials",
+    "qualification_path": "n/a",
+    "reason": "keyword match: building_materials"
+  },
+  {
+    "name": "Alfardan Premier Motors Company",
+    "domain": "landrover-qatar.com",
+    "country": "Qatar",
+    "verdict": "OUT",
+    "gate_failed": "automotive",
+    "category_final": "automotive",
+    "qualification_path": "n/a",
+    "reason": "keyword match: automotive"
+  },
+  {
+    "name": "Lexus Turkey",
+    "domain": "lexus.com.sa",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "automotive",
+    "category_final": "automotive",
+    "qualification_path": "n/a",
+    "reason": "keyword match: automotive"
+  },
+  {
+    "name": "Mohamed Yousuf Naghi Motors – Official JLR Retailer in KSA",
+    "domain": "landrover-saudi.com",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "healthcare",
+    "category_final": "healthcare",
+    "qualification_path": "n/a",
+    "reason": "keyword match: healthcare"
+  },
+  {
+    "name": "Liter Group Company",
+    "domain": "litergroup.com",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "fuel_station",
+    "category_final": "fuel_station",
+    "qualification_path": "n/a",
+    "reason": "keyword match: fuel_station"
+  },
+  {
+    "name": "Kuwait Automotive Imports Company",
+    "domain": "kaico.com.kw",
+    "country": "Kuwait",
+    "verdict": "OUT",
+    "gate_failed": "automotive",
+    "category_final": "automotive",
+    "qualification_path": "n/a",
+    "reason": "keyword match: automotive"
+  },
+  {
+    "name": "Knoz El Hekma - شركة كنوز الحكمة",
+    "domain": "knozelhekma.com",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "building_materials",
+    "category_final": "building_materials",
+    "qualification_path": "n/a",
+    "reason": "keyword match: building_materials"
+  },
+  {
+    "name": "maatic",
+    "domain": "maatic.com",
+    "country": "",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "n/a",
+    "qualification_path": "substantiality",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "name": "lavieenrose",
+    "domain": "lavieenrose.com.sa",
+    "country": "",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "n/a",
+    "qualification_path": "substantiality",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "name": "IMALCO",
+    "domain": "imalcowebstore.com",
+    "country": "Qatar",
+    "verdict": "OUT",
+    "gate_failed": "building_materials",
+    "category_final": "building_materials",
+    "qualification_path": "n/a",
+    "reason": "keyword match: building_materials"
+  },
+  {
+    "name": "GULF ADVANTAGE AUTOMOBILE LLC",
+    "domain": "gulfadvauto.com",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "automotive",
+    "category_final": "automotive",
+    "qualification_path": "n/a",
+    "reason": "keyword match: automotive"
+  },
+  {
+    "name": "lomar",
+    "domain": "lomar.sa",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "n/a",
+    "qualification_path": "substantiality",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "name": "Masdar - مصدر",
+    "domain": "masdaronline.com",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "n/a",
+    "qualification_path": "substantiality",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "name": "Musaed Mohammed Bin Ajlan Co",
+    "domain": "malajlanstore.com",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "building_materials",
+    "category_final": "building_materials",
+    "qualification_path": "n/a",
+    "reason": "keyword match: building_materials"
+  },
+  {
+    "name": "modpatisserie",
+    "domain": "modpatisserie.com",
+    "country": "",
+    "verdict": "OUT",
+    "gate_failed": "logistics_b2b",
+    "category_final": "logistics_b2b",
+    "qualification_path": "n/a",
+    "reason": "keyword match: logistics_b2b"
+  },
+  {
+    "name": "Mannai HECV Group",
+    "domain": "mannaiheavyequipment.com",
+    "country": "Qatar",
+    "verdict": "OUT",
+    "gate_failed": "building_materials",
+    "category_final": "building_materials",
+    "qualification_path": "n/a",
+    "reason": "keyword match: building_materials"
+  },
+  {
+    "name": "National Building and Marketing Company",
+    "domain": "nbm.com.sa",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "building_materials",
+    "category_final": "building_materials",
+    "qualification_path": "n/a",
+    "reason": "keyword match: building_materials"
+  },
+  {
+    "name": "neyam",
+    "domain": "neyam.sa",
+    "country": "",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "n/a",
+    "qualification_path": "substantiality",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "name": "Nehmeh",
+    "domain": "nehmeh.com",
+    "country": "Qatar",
+    "verdict": "OUT",
+    "gate_failed": "building_materials",
+    "category_final": "building_materials",
+    "qualification_path": "n/a",
+    "reason": "keyword match: building_materials"
+  },
+  {
+    "name": "narscosmetics",
+    "domain": "narscosmetics.sa",
+    "country": "",
+    "verdict": "OUT",
+    "gate_failed": "building_materials",
+    "category_final": "building_materials",
+    "qualification_path": "n/a",
+    "reason": "keyword match: building_materials"
+  },
+  {
+    "name": "Manahil International Company",
+    "domain": "nissan-manahil.com",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "automotive",
+    "category_final": "automotive",
+    "qualification_path": "n/a",
+    "reason": "keyword match: automotive"
+  },
+  {
+    "name": "Natureland",
+    "domain": "natureland.net",
+    "country": "Kuwait",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "n/a",
+    "qualification_path": "substantiality",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "name": "osanoptics",
+    "domain": "osanoptics.com",
+    "country": "",
+    "verdict": "OUT",
+    "gate_failed": "automotive",
+    "category_final": "automotive",
+    "qualification_path": "n/a",
+    "reason": "keyword match: automotive"
+  },
+  {
+    "name": "Nissan Kuwait",
+    "domain": "nissankuwait.com",
+    "country": "Kuwait",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "n/a",
+    "qualification_path": "substantiality",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "name": "نسمو | Nasmo",
+    "domain": "nasmoltd.com",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "n/a",
+    "qualification_path": "substantiality",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "name": "Otantik Home",
+    "domain": "otantik-home.com",
+    "country": "Qatar",
+    "verdict": "OUT",
+    "gate_failed": "wholesale_distribution",
+    "category_final": "wholesale_distribution",
+    "qualification_path": "n/a",
+    "reason": "keyword match: wholesale_distribution"
+  },
+  {
+    "name": "Petromin Corporation",
+    "domain": "petromin.com",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "automotive",
+    "category_final": "automotive",
+    "qualification_path": "n/a",
+    "reason": "keyword match: automotive"
+  },
+  {
+    "name": "Q Mart | كيو",
+    "domain": "qmartstores.com",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "fuel_station",
+    "category_final": "fuel_station",
+    "qualification_path": "n/a",
+    "reason": "keyword match: fuel_station"
+  },
+  {
+    "name": "Petromin Nissan",
+    "domain": "petromin-nissan.com",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "automotive",
+    "category_final": "automotive",
+    "qualification_path": "n/a",
+    "reason": "keyword match: automotive"
+  },
+  {
+    "name": "Two",
+    "domain": "reefi.me",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "n/a",
+    "qualification_path": "substantiality",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "name": "propertyfinder",
+    "domain": "propertyfinder.sa",
+    "country": "",
+    "verdict": "OUT",
+    "gate_failed": "realestate_facility",
+    "category_final": "realestate_facility",
+    "qualification_path": "n/a",
+    "reason": "keyword match: realestate_facility"
+  },
+  {
+    "name": "Bafarat Industrial Group",
+    "domain": "ranafood.com",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "automotive",
+    "category_final": "automotive",
+    "qualification_path": "n/a",
+    "reason": "keyword match: automotive"
+  },
+  {
+    "name": "serajah",
+    "domain": "serajah.com",
+    "country": "",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "n/a",
+    "qualification_path": "substantiality",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "name": "Shine Gold and Diamonds",
+    "domain": "shinegd.com",
+    "country": "Qatar",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "n/a",
+    "qualification_path": "substantiality",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "name": "Raha",
+    "domain": "shopraha.com",
+    "country": "Kuwait",
+    "verdict": "OUT",
+    "gate_failed": "realestate_facility",
+    "category_final": "realestate_facility",
+    "qualification_path": "n/a",
+    "reason": "keyword match: realestate_facility"
+  },
+  {
+    "name": "BEAM",
+    "domain": "shopbeam.com",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "automotive",
+    "category_final": "automotive",
+    "qualification_path": "n/a",
+    "reason": "keyword match: automotive"
+  },
+  {
+    "name": "Siwar Foods (SF)",
+    "domain": "siwar.com",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "placeholder_or_dead",
+    "category_final": "placeholder_or_dead",
+    "qualification_path": "n/a",
+    "reason": "keyword match: placeholder_or_dead"
+  },
+  {
+    "name": "renault",
+    "domain": "renault.sa",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "automotive",
+    "category_final": "automotive",
+    "qualification_path": "n/a",
+    "reason": "keyword match: automotive"
+  },
+  {
+    "name": "Strong Rent a Car",
+    "domain": "strongrentacar.com",
+    "country": "Qatar",
+    "verdict": "OUT",
+    "gate_failed": "building_materials",
+    "category_final": "building_materials",
+    "qualification_path": "n/a",
+    "reason": "keyword match: building_materials"
+  },
+  {
+    "name": "sulindastore",
+    "domain": "sulindastore.com",
+    "country": "",
+    "verdict": "OUT",
+    "gate_failed": "building_materials",
+    "category_final": "building_materials",
+    "qualification_path": "n/a",
+    "reason": "keyword match: building_materials"
+  },
+  {
+    "name": "Soum",
+    "domain": "soum.sa",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "n/a",
+    "qualification_path": "substantiality",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "name": "sarinamultiple",
+    "domain": "sarinamultiple.com",
+    "country": "",
+    "verdict": "OUT",
+    "gate_failed": "wholesale_distribution",
+    "category_final": "wholesale_distribution",
+    "qualification_path": "n/a",
+    "reason": "keyword match: wholesale_distribution"
+  },
+  {
+    "name": "sulalat",
+    "domain": "sulalat.com",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "n/a",
+    "qualification_path": "substantiality",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "name": "Tamkeen Stores",
+    "domain": "tamkeenstores.com.sa",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "n/a",
+    "qualification_path": "substantiality",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "name": "teearabia",
+    "domain": "teearabia.com",
+    "country": "",
+    "verdict": "OUT",
+    "gate_failed": "building_materials",
+    "category_final": "building_materials",
+    "qualification_path": "n/a",
+    "reason": "keyword match: building_materials"
+  },
+  {
+    "name": "OLE Coffee",
+    "domain": "theolecoffee.com",
+    "country": "Kuwait",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "n/a",
+    "qualification_path": "substantiality",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "name": "THE BED SHOP",
+    "domain": "thebedshop.co",
+    "country": "Kuwait",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "n/a",
+    "qualification_path": "substantiality",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "name": "Toot Company",
+    "domain": "toot-t.com",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "building_materials",
+    "category_final": "building_materials",
+    "qualification_path": "n/a",
+    "reason": "keyword match: building_materials"
+  },
+  {
+    "name": "Toyland",
+    "domain": "toyland.world",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "n/a",
+    "qualification_path": "substantiality",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "name": "Thabt",
+    "domain": "thabt.qa",
+    "country": "Qatar",
+    "verdict": "OUT",
+    "gate_failed": "automotive",
+    "category_final": "automotive",
+    "qualification_path": "n/a",
+    "reason": "keyword match: automotive"
+  },
+  {
+    "name": "دهانات تايم - Timepaints",
+    "domain": "timepaints.com",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "building_materials",
+    "category_final": "building_materials",
+    "qualification_path": "n/a",
+    "reason": "keyword match: building_materials"
+  },
+  {
+    "name": "Ubuy Inc",
+    "domain": "ubuy.com",
+    "country": "Kuwait",
+    "verdict": "OUT",
+    "gate_failed": "automotive",
+    "category_final": "automotive",
+    "qualification_path": "n/a",
+    "reason": "keyword match: automotive"
+  },
+  {
+    "name": "TOYOTA KUWAIT - MOHAMED NASER ALSAYER & SONS EST.CO.W.L.L",
+    "domain": "toyota.com.kw",
+    "country": "Kuwait",
+    "verdict": "OUT",
+    "gate_failed": "automotive",
+    "category_final": "automotive",
+    "qualification_path": "n/a",
+    "reason": "keyword match: automotive"
+  },
+  {
+    "name": "United Motors Company",
+    "domain": "umc.com.sa",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "building_materials",
+    "category_final": "building_materials",
+    "qualification_path": "n/a",
+    "reason": "keyword match: building_materials"
+  },
+  {
+    "name": "وكف | wacafe",
+    "domain": "wacafe.sa",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "n/a",
+    "qualification_path": "substantiality",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "name": "United Group",
+    "domain": "unitedgroup.com.sa",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "logistics_b2b",
+    "category_final": "logistics_b2b",
+    "qualification_path": "n/a",
+    "reason": "keyword match: logistics_b2b"
+  },
+  {
+    "name": "weftrug",
+    "domain": "weftrug.com",
+    "country": "",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "n/a",
+    "qualification_path": "substantiality",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "name": "Wallan Trading Company",
+    "domain": "wallan.com",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "automotive",
+    "category_final": "automotive",
+    "qualification_path": "n/a",
+    "reason": "keyword match: automotive"
+  },
+  {
+    "name": "werecle",
+    "domain": "werecle.com",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "wholesale_distribution",
+    "category_final": "wholesale_distribution",
+    "qualification_path": "n/a",
+    "reason": "keyword match: wholesale_distribution"
+  },
+  {
+    "name": "Wahag Medical Company",
+    "domain": "wahagco.com",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "building_materials",
+    "category_final": "building_materials",
+    "qualification_path": "n/a",
+    "reason": "keyword match: building_materials"
+  },
+  {
+    "name": "Mohammed Siraj Attar & Bros",
+    "domain": "sirajattarbros.com",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "n/a",
+    "qualification_path": "substantiality",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "name": "Wafi Energy Saudi Arabia | Official Licensee of Shell",
+    "domain": "wafienergy.com",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "building_materials",
+    "category_final": "building_materials",
+    "qualification_path": "n/a",
+    "reason": "keyword match: building_materials"
+  },
+  {
+    "name": "United Yousef M Naghi Co. Ltd",
+    "domain": "google.com",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "unverifiable",
+    "category_final": "unverifiable",
+    "qualification_path": "n/a",
+    "reason": "placeholder domain value (google.com), not a real company domain"
+  },
+  {
+    "name": "Jarir Bookstore",
+    "domain": "jarir.com",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "general_merchandise",
+    "qualification_path": "substantiality",
+    "reason": "Jarir Bookstore, one of the largest and best-known Saudi retail chains (electronics/books/stationery)"
+  },
+  {
+    "name": "JETOUR QATAR",
+    "domain": "jetourqatar.com",
+    "country": "Qatar",
+    "verdict": "OUT",
+    "gate_failed": "automotive",
+    "category_final": "automotive",
+    "qualification_path": "n/a",
+    "reason": "Jetour, Chinese automotive brand dealer"
+  },
+  {
+    "name": "HALA AUTO",
+    "domain": "halaauto.com",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "automotive",
+    "category_final": "automotive",
+    "qualification_path": "n/a",
+    "reason": "name indicates automotive dealer"
+  },
+  {
+    "name": "شركة البترول الوطنية الكويتية Kuwait National Petroleum Company",
+    "domain": "knpc.com",
+    "country": "Kuwait",
+    "verdict": "OUT",
+    "gate_failed": "energy",
+    "category_final": "energy",
+    "qualification_path": "n/a",
+    "reason": "Kuwait National Petroleum Company, oil/energy, not retail"
+  },
+  {
+    "name": "Naser Al Sayer Group",
+    "domain": "naseralsayergroup.com",
+    "country": "Kuwait",
+    "verdict": "OUT",
+    "gate_failed": "automotive",
+    "category_final": "automotive",
+    "qualification_path": "n/a",
+    "reason": "Al-Sayer Group, major Kuwaiti automotive distributor (Toyota dealer)"
+  },
+  {
+    "name": "Abdullah Al-Othaim Markets",
+    "domain": "othaimmarkets.com",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "grocery",
+    "qualification_path": "substantiality",
+    "reason": "Abdullah Al-Othaim Markets, major Saudi grocery/hypermarket chain"
+  },
+  {
+    "name": "Printemps Doha",
+    "domain": "printemps.com",
+    "country": "Qatar",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "category",
+    "qualification_path": "n/a",
+    "reason": "Au Printemps is a French global department-store brand; foreign HQ, franchise storefront pattern"
+  },
+  {
+    "name": "Q8 Corporate",
+    "domain": "q8.com",
+    "country": "Kuwait",
+    "verdict": "OUT",
+    "gate_failed": "fuel_station",
+    "category_final": "fuel_station",
+    "qualification_path": "n/a",
+    "reason": "Q8/Kuwait Petroleum Corporation international fuel brand"
+  },
+  {
+    "name": "rasseed",
+    "domain": "rasseed.com",
+    "country": "",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "app_download_rescue",
+    "qualification_path": "substantiality",
+    "reason": "User-confirmed earlier this session: not e-commerce but 100k+ app store downloads automatically qualifies (app-download rescue path)"
+  },
+  {
+    "name": "Syarah",
+    "domain": "syarah.com",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "automotive",
+    "category_final": "automotive",
+    "qualification_path": "n/a",
+    "reason": "Syarah, well-known Saudi used-car marketplace"
+  },
+  {
+    "name": "tamracapital",
+    "domain": "tamracapital.sa",
+    "country": "",
+    "verdict": "OUT",
+    "gate_failed": "financial_services",
+    "category_final": "financial_services",
+    "qualification_path": "n/a",
+    "reason": "Tamra Capital, financial/capital services company (already flagged non-retail earlier this session)"
+  },
+  {
+    "name": "Teyseer Motors W.L.L.",
+    "domain": "teyseergroup.com",
+    "country": "Qatar",
+    "verdict": "OUT",
+    "gate_failed": "mixed_conglomerate",
+    "category_final": "mixed_conglomerate",
+    "qualification_path": "n/a",
+    "reason": "Teyseer Group, diversified Qatari conglomerate (construction/logistics/industrial services dominant)"
+  },
+  {
+    "name": "abar",
+    "domain": "abar.app",
+    "country": "",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "app_download_rescue",
+    "qualification_path": "substantiality",
+    "reason": "[VERIFY exact download count] Bottled-water delivery marketplace app, 200+ water brand partners, real scale signal comparable to ToYou; no exact download figure confirmed."
+  },
+  {
+    "name": "ak",
+    "domain": "ak.com.sa",
+    "country": "",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "fashion",
+    "qualification_path": "substantiality",
+    "reason": "[VERIFY -- literal placeholder text (\"Some PHRASES HERE\") found live on site, suggests unfinished build] Self-described fastest-growing Middle East retail company, 150+ stores across Saudi Arabia, multi-brand (RINA)."
+  },
+  {
+    "name": "Adsela Marketing Solutions",
+    "domain": "adselams.com/en",
+    "country": "",
+    "verdict": "OUT",
+    "gate_failed": "b2b_services",
+    "category_final": "b2b_services",
+    "qualification_path": "n/a",
+    "reason": "E-marketing/digital agency (SEO, social media, web dev), not retail."
+  },
+  {
+    "name": "freshvery",
+    "domain": "freshvery.com",
+    "country": "",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "grocery",
+    "qualification_path": "substantiality",
+    "reason": "Real produce/grocery e-commerce (Riyadh), cart, broad categories (produce/dairy/pastry/pantry/beverages/butchery/seafood)."
+  },
+  {
+    "name": "Froyo Cafe",
+    "domain": "froyo.com.kw",
+    "country": "Kuwait",
+    "verdict": "OUT",
+    "gate_failed": "f_and_b",
+    "category_final": "f_and_b",
+    "qualification_path": "n/a",
+    "reason": "Small froyo/dessert cafe brand, no evidence of multi-location chain scale."
+  },
+  {
+    "name": "Food Gate",
+    "domain": "foodgate.com",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "b2b_services",
+    "category_final": "b2b_services",
+    "qualification_path": "n/a",
+    "reason": "Template/placeholder site (fake contact info \"000-000-0000\", \"info@yourwebsite.com\"); categories (Kitchen Smallware, Refrigeration Storage & Transport) suggest food-service B2B supply, not consumer retail."
+  },
+  {
+    "name": "Goodies Selections Saudi Arabia",
+    "domain": "goodies.com.sa",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "f_and_b",
+    "qualification_path": "substantiality",
+    "reason": "F&B/catering brand with real online ordering, delivery and takeaway."
+  },
+  {
+    "name": "gulfindustrialgroup",
+    "domain": "gulfindustrialgroup.com",
+    "country": "",
+    "verdict": "OUT",
+    "gate_failed": "industrial",
+    "category_final": "industrial",
+    "qualification_path": "n/a",
+    "reason": "Industrial/manufacturing conglomerate (\"six decades of industrial milestones\"), not retail."
+  },
+  {
+    "name": "Saudi Jawahir",
+    "domain": "jawahir.sa",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "unverifiable",
+    "category_final": "n/a",
+    "qualification_path": "n/a",
+    "reason": "DNS configuration error (Cloudflare \"prohibited IP\"), no accessible live site found."
+  },
+  {
+    "name": "مكتبة الجزيرة",
+    "domain": "jazeara.com",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "general_merchandise",
+    "qualification_path": "substantiality",
+    "reason": "Real Arabic/translated bookstore e-commerce (مكتبة الجزيرة), broad literary categories."
+  },
+  {
+    "name": "Kabbani Trading Center",
+    "domain": "jareersweets.com",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "f_and_b",
+    "qualification_path": "substantiality",
+    "reason": "Real chocolate/sweets e-commerce (Patisserie Jareer Kabbani Sweets, Elysee Chocolate) with cart and an in-KSA franchise program."
+  },
+  {
+    "name": "Kenz Woman",
+    "domain": "kenzwoman.com",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "unverifiable",
+    "category_final": "n/a",
+    "qualification_path": "n/a",
+    "reason": "Cloudflare-blocked, zero usable content; no confirmable evidence of live operation or scale despite a plausible fashion-brand name."
+  },
+  {
+    "name": "Kitchen Zone مطابخ زون",
+    "domain": "kz.com.sa",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "unverifiable",
+    "category_final": "n/a",
+    "qualification_path": "n/a",
+    "reason": "Dead/deactivated Shopify store (\"Store unavailable\")."
+  },
+  {
+    "name": "ليوان | Liwan",
+    "domain": "liwan.sa",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "realestate",
+    "category_final": "realestate",
+    "qualification_path": "n/a",
+    "reason": "Real-estate development company (\"Liwan... building modern communities\", real-estate investment framing), not retail."
+  },
+  {
+    "name": "مخازن العناية | Makhazen Alenayah",
+    "domain": "makhazenalenaya.sa",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "beauty",
+    "qualification_path": "substantiality",
+    "reason": "Real beauty/personal-care retail chain, strong scale signals: 22+ branches, 252+ global brands, 745k+ customers."
+  },
+  {
+    "name": "MarTech Tree",
+    "domain": "martechtree.com",
+    "country": "",
+    "verdict": "OUT",
+    "gate_failed": "b2b_services",
+    "category_final": "b2b_services",
+    "qualification_path": "n/a",
+    "reason": "Marketing and technology agency (Jeddah), not retail."
+  },
+  {
+    "name": "mochaboutique",
+    "domain": "mochaboutique.com",
+    "country": "",
+    "verdict": "OUT",
+    "gate_failed": "unverifiable",
+    "category_final": "n/a",
+    "qualification_path": "n/a",
+    "reason": "Dead/deactivated Shopify store."
+  },
+  {
+    "name": "Naseem",
+    "domain": "naseemsa.com",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "general_merchandise",
+    "qualification_path": "substantiality",
+    "reason": "Real flowers/cakes/gifts delivery service across many Saudi cities (Riyadh, Jeddah, Dammam, Mecca, etc.)."
+  },
+  {
+    "name": "Magaza",
+    "domain": "magaza.me",
+    "country": "Qatar",
+    "verdict": "OUT",
+    "gate_failed": "unverifiable",
+    "category_final": "n/a",
+    "qualification_path": "n/a",
+    "reason": "Domain hijacked, now shows Chinese VPN/proxy service spam content unrelated to any original business."
+  },
+  {
+    "name": "Gas Station Development Company (Orange)",
+    "domain": "orangeretail.com",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "fuel_station",
+    "category_final": "fuel_station",
+    "qualification_path": "n/a",
+    "reason": "Fuel-station franchise/investment company, not consumer retail."
+  },
+  {
+    "name": "Nor Noyau® | Artisan Chocolatier",
+    "domain": "nornoyau.com",
+    "country": "Kuwait",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "f_and_b",
+    "qualification_path": "substantiality",
+    "reason": "Real artisan chocolatier e-commerce (Nor Noyau) with account system and order tracking."
+  },
+  {
+    "name": "Pastry & Coffee",
+    "domain": "pastry.coffee",
+    "country": "Kuwait",
+    "verdict": "OUT",
+    "gate_failed": "unverifiable",
+    "category_final": "n/a",
+    "qualification_path": "n/a",
+    "reason": "Dead/deactivated Shopify store."
+  },
+  {
+    "name": "َQasser Alsaraya Furniture",
+    "domain": "qsf.sa",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "unverifiable",
+    "category_final": "n/a",
+    "qualification_path": "n/a",
+    "reason": "Cloudflare-blocked, zero usable content; no confirmable evidence of live operation or scale."
+  },
+  {
+    "name": "ptc",
+    "domain": "ptc.sa",
+    "country": "",
+    "verdict": "OUT",
+    "gate_failed": "unverifiable",
+    "category_final": "n/a",
+    "qualification_path": "n/a",
+    "reason": "Dead/deactivated Shopify store."
+  },
+  {
+    "name": "rebound",
+    "domain": "rebound.net",
+    "country": "",
+    "verdict": "OUT",
+    "gate_failed": "unverifiable",
+    "category_final": "n/a",
+    "qualification_path": "n/a",
+    "reason": "Dead/deactivated Shopify store."
+  },
+  {
+    "name": "RIVA",
+    "domain": "rivafashion.com",
+    "country": "Kuwait",
+    "verdict": "OUT",
+    "gate_failed": "unverifiable",
+    "category_final": "n/a",
+    "qualification_path": "n/a",
+    "reason": "Cloudflare-blocked, zero usable content; no confirmable evidence of live operation or scale."
+  },
+  {
+    "name": "Riyadh Development Company | شركة الرياض للتعمير",
+    "domain": "riyadh.dev",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "realestate",
+    "category_final": "realestate",
+    "qualification_path": "n/a",
+    "reason": "Real-estate development + investor-relations page (governance, annual reports); no direct consumer retail storefront identified."
+  },
+  {
+    "name": "UNIVERSAL COLD STORE TRADING COMPANY LIMITED",
+    "domain": "primemarkets.com.sa",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "unverifiable",
+    "category_final": "n/a",
+    "qualification_path": "n/a",
+    "reason": "Domain hijacked, now shows Indonesian gambling/slot spam content."
+  },
+  {
+    "name": "roastinghouse",
+    "domain": "roastinghouse.sa",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "f_and_b",
+    "qualification_path": "substantiality",
+    "reason": "Coffee roastery e-commerce (بيت التحميص); thin visible text but consistent with several other approved coffee-roaster businesses this session."
+  },
+  {
+    "name": "silkra",
+    "domain": "silkra.net",
+    "country": "",
+    "verdict": "OUT",
+    "gate_failed": "unverifiable",
+    "category_final": "n/a",
+    "qualification_path": "n/a",
+    "reason": "Dead/deactivated Shopify store."
+  },
+  {
+    "name": "رنين | Raneen",
+    "domain": "raneen.com.sa",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "b2b_services",
+    "category_final": "b2b_services",
+    "qualification_path": "n/a",
+    "reason": "Development/consulting company for non-profit-sector organizations (\"شركة رنين التنمية\"), not retail -- distinct from any furniture business of a similar name."
+  },
+  {
+    "name": "sitaffood",
+    "domain": "sitaffood.com",
+    "country": "",
+    "verdict": "OUT",
+    "gate_failed": "b2b_food_supply",
+    "category_final": "b2b_food_supply",
+    "qualification_path": "n/a",
+    "reason": "HORECA (hotel/restaurant/catering) food supply company (Sitaf Food/Hotellerie/Building divisions), B2B not consumer retail."
+  },
+  {
+    "name": "SPAR Saudi Arabia",
+    "domain": "spar.sa",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "duplicate",
+    "category_final": "duplicate",
+    "qualification_path": "n/a",
+    "reason": "SPAR Express KSA is operated by Al Sadhan Group (confirmed SPAR International's Saudi market-entry partner via earlier web search); already counted as IN via \"Al Sadhan Trading Co\"."
+  },
+  {
+    "name": "TGC",
+    "domain": "tgc-ksa.com",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "unverifiable",
+    "category_final": "n/a",
+    "qualification_path": "n/a",
+    "reason": "Dead/deactivated Shopify store."
+  },
+  {
+    "name": "Dee Line",
+    "domain": "thedeeline.com",
+    "country": "",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "beauty",
+    "qualification_path": "substantiality",
+    "reason": "Real beauty/makeup/perfume e-commerce (Dee Line, Danosha Perfumes)."
+  },
+  {
+    "name": "tomorna",
+    "domain": "tomorna.com",
+    "country": "",
+    "verdict": "OUT",
+    "gate_failed": "unverifiable",
+    "category_final": "n/a",
+    "qualification_path": "n/a",
+    "reason": "Store temporarily closed (password-protected), not publicly accessible."
+  },
+  {
+    "name": "ULTRA LIGHT | الترا لايت",
+    "domain": "ultralightstores.com",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "narrow_repeat_purchase",
+    "category_final": "narrow_repeat_purchase",
+    "qualification_path": "n/a",
+    "reason": "Lighting/electrical fixtures retailer -- explicitly excluded by the user earlier this session (the \"Ultra Light\" precedent)."
+  },
+  {
+    "name": "Trolley Convenience Store",
+    "domain": "trolley.com.kw",
+    "country": "Kuwait",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "grocery",
+    "qualification_path": "substantiality",
+    "reason": "Real, substantial Kuwaiti convenience-store chain (\"Kuwait's Leading Convenience Store\")."
+  },
+  {
+    "name": "تجارة بلا حدود -  unlimited trade",
+    "domain": "utradeksa.com",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "unverifiable",
+    "category_final": "n/a",
+    "qualification_path": "n/a",
+    "reason": "Domain hijacked, now shows Brazilian gambling/betting spam content."
+  },
+  {
+    "name": "Wawan Protein",
+    "domain": "gowawan.com",
+    "country": "Kuwait",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "health_beauty",
+    "qualification_path": "substantiality",
+    "reason": "Wawan Protein: this exact stale-domain case was already established earlier this session -- the real live business is at gowawan.com, not wawanpro.com. Domain field should be corrected to gowawan.com."
+  },
+  {
+    "name": "webetr",
+    "domain": "webetr.com",
+    "country": "",
+    "verdict": "OUT",
+    "gate_failed": "b2b_services",
+    "category_final": "b2b_services",
+    "qualification_path": "n/a",
+    "reason": "Web/digital-products development agency (\"شركة الويب المبتكر\"), not retail."
+  },
+  {
+    "name": "zadfresh",
+    "domain": "zadfresh.com",
+    "country": "",
+    "verdict": "OUT",
+    "gate_failed": "unverifiable",
+    "category_final": "n/a",
+    "qualification_path": "n/a",
+    "reason": "Server shows only the default nginx welcome page; no real site deployed."
+  }
+]
