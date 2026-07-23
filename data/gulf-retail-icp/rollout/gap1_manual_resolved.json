@@ -1,0 +1,373 @@
+{
+  "manual": [
+    {
+      "domain": "aalalkaif.com",
+      "verdict": "Held",
+      "category_final": "n/a",
+      "reason": "Cloudflare-blocked, zero usable content; no independent corroboration attempted given batch scale."
+    },
+    {
+      "domain": "alfuhod.com",
+      "verdict": "Held",
+      "category_final": "n/a",
+      "reason": "Geo-restricted (403, access blocked from this location), zero usable content."
+    },
+    {
+      "domain": "algarawigroup.com",
+      "verdict": "Held",
+      "category_final": "n/a",
+      "reason": "Live but zero rendered text content (likely JS-only site)."
+    },
+    {
+      "domain": "albassamest.com",
+      "verdict": "Held",
+      "category_final": "n/a",
+      "reason": "Domain hijacked -- now shows 1xBet gambling-app spam. NAICS (443142, electronics/appliance stores) suggests a real historical appliance retailer; current live domain unusable, no alternate domain search done given batch scale."
+    },
+    {
+      "domain": "aecl.com",
+      "verdict": "No",
+      "category_final": "defense_industrial",
+      "reason": "SAMI Advanced Electronics Company -- a defense/aerospace/security systems manufacturer (Saudi Arabian Military Industries), not consumer electronics retail."
+    },
+    {
+      "domain": "alothmanfashion.com",
+      "verdict": "Held",
+      "category_final": "n/a",
+      "reason": "403 blocked, zero usable content."
+    },
+    {
+      "domain": "alothaimlife.com",
+      "verdict": "Held",
+      "category_final": "fashion",
+      "reason": "Real Al-Othaim Group lifestyle/fashion division, but page explicitly says \"Unveiling Soon\" -- too early to confirm a live operating store."
+    },
+    {
+      "domain": "astramarkets.com",
+      "verdict": "Yes",
+      "category_final": "grocery",
+      "reason": "Real multi-department supermarket chain (Tabuk), bakery/butchery/patisserie divisions, real branches."
+    },
+    {
+      "domain": "best.com.kw",
+      "verdict": "Held",
+      "category_final": "n/a",
+      "reason": "Live but effectively zero rendered text content."
+    },
+    {
+      "domain": "boutiqaat.com",
+      "verdict": "Yes",
+      "category_final": "beauty_fashion",
+      "reason": "Cloudflare-blocked on direct fetch, but this is a well-known, well-documented major Kuwaiti live-commerce/social-shopping platform (real, substantial, widely reported real business); resolved on outside knowledge given the block, consistent with how other well-known blocked majors were handled this session."
+    },
+    {
+      "domain": "citystarstoresonline.com",
+      "verdict": "Held",
+      "category_final": "n/a",
+      "reason": "Cloudflare-challenge blocked, zero usable content."
+    },
+    {
+      "domain": "bleems.com",
+      "verdict": "Yes",
+      "category_final": "general_merchandise",
+      "country_override": "Kuwait",
+      "reason": "Confirmed via web search: founded 2012, Kuwait City-HQ'd (founders Sulaiman Altarrah and Abdullah Alkhuzam); real flowers/gifts e-commerce operating across 6 countries from a genuine Kuwait HQ."
+    },
+    {
+      "domain": "darsonbol.com",
+      "verdict": "Yes",
+      "category_final": "fashion",
+      "reason": "Real Saudi women's/kids clothing e-commerce (dresses, sets, blouses), branches mentioned."
+    },
+    {
+      "domain": "dank.sa",
+      "verdict": "Yes",
+      "category_final": "f_and_b",
+      "reason": "Real Saudi QSR sandwich chain, founded 2017 Jeddah, expanded to multiple regions -- explicit gate-2 QSR approval."
+    },
+    {
+      "domain": "esfen.com",
+      "verdict": "Yes",
+      "category_final": "home_furniture",
+      "reason": "Real furniture e-commerce with live cart and catalog."
+    },
+    {
+      "domain": "ezdanhotels.com",
+      "verdict": "No",
+      "category_final": "hospitality",
+      "reason": "Hotel company (Ezdan Hotels), hard-excluded hospitality category."
+    },
+    {
+      "domain": "hajrist.com",
+      "verdict": "Yes",
+      "category_final": "home_furniture",
+      "reason": "Real, established (10+ years) Dammam-HQ'd furniture retailer with showrooms and an online store."
+    },
+    {
+      "domain": "icf.sa",
+      "verdict": "Yes",
+      "category_final": "home_furniture",
+      "reason": "Real registered furniture e-commerce business (VAT number shown), home/office furniture."
+    },
+    {
+      "domain": "abdulwahed.com",
+      "verdict": "Held",
+      "category_final": "n/a",
+      "reason": "HTTP 307 redirect, no content captured at the redirect target within the fetch window."
+    },
+    {
+      "domain": "karmacosmetic.com",
+      "verdict": "No",
+      "category_final": "n/a",
+      "reason": "Domain effectively parked/inactive (Akamai edge \"Access Denied\" referencing a GoDaddy for-sale listing path)."
+    },
+    {
+      "domain": "kharazah.com",
+      "verdict": "Yes",
+      "category_final": "fashion",
+      "reason": "Real luxury men's footwear e-commerce (explicit gate-2 approved footwear sub-category)."
+    },
+    {
+      "domain": "lilbunnies.com",
+      "verdict": "Yes",
+      "category_final": "fashion",
+      "reason": "Real, substantial Kuwait kids/newborn/maternity clothing e-commerce, same-day Kuwait delivery, broad seasonal catalog."
+    },
+    {
+      "domain": "matajeralhazmi.sa",
+      "verdict": "Yes",
+      "category_final": "grocery",
+      "reason": "Real multi-branch grocery/convenience chain -- 7+ named branch locations."
+    },
+    {
+      "domain": "mehbaj.com",
+      "verdict": "Yes",
+      "category_final": "grocery",
+      "reason": "Real specialty food e-commerce (dried fruits/coffee/seeds/spices/nuts/pulses) with loyalty program and branches."
+    },
+    {
+      "domain": "mhzm.sa",
+      "verdict": "Yes",
+      "category_final": "electronics",
+      "reason": "Real mobile/electronics installment retailer with online store."
+    },
+    {
+      "domain": "modernperfume.com.sa",
+      "verdict": "Held",
+      "category_final": "beauty",
+      "reason": "Self-describes emphasis on \"production and marketing\" of perfumes -- ambiguous manufacturer vs. direct consumer retailer framing, no visible cart/shop language in the fetched content."
+    },
+    {
+      "domain": "nahda.group",
+      "verdict": "Held",
+      "category_final": "n/a",
+      "reason": "Live but only a \"Click here to enter\" gate page, zero real content."
+    },
+    {
+      "domain": "petpointkw.com",
+      "verdict": "Held",
+      "category_final": "n/a",
+      "reason": "Live but zero rendered text content (likely JS-only)."
+    },
+    {
+      "domain": "perfumes-palace.com",
+      "verdict": "Yes",
+      "category_final": "beauty",
+      "reason": "Real perfume e-commerce with active BOGO promotion."
+    },
+    {
+      "domain": "petsmarket.com",
+      "verdict": "Yes",
+      "category_final": "general_merchandise",
+      "reason": "Specific real tagline (\"Shop Pet Food & Supplies in Kuwait: Fast Delivery & Best Prices\") despite thin JS-rendered body -- pet supplies is an approved category."
+    },
+    {
+      "domain": "royalph.com",
+      "verdict": "Held",
+      "category_final": "n/a",
+      "reason": "Cloudflare-blocked, zero usable content."
+    },
+    {
+      "domain": "rawanstationery.com",
+      "verdict": "Yes",
+      "category_final": "general_merchandise",
+      "reason": "Real Saudi stationery/gifts e-commerce with delivery to Jeddah/Riyadh."
+    },
+    {
+      "domain": "salla.com",
+      "verdict": "No",
+      "category_final": "b2b_saas",
+      "reason": "Salla is a Saudi e-commerce SaaS platform that other merchants use to build their own stores -- B2B infrastructure provider, not itself a retailer."
+    },
+    {
+      "domain": "samapharmacy.com",
+      "verdict": "Held",
+      "category_final": "n/a",
+      "reason": "Live but effectively zero rendered text content beyond the name."
+    },
+    {
+      "domain": "speedi.sa",
+      "verdict": "Held",
+      "category_final": "n/a",
+      "reason": "Real Saudi general delivery app (marketplace/aggregator-adjacent model); would need an app-download count check against the 50k rescue threshold to resolve, not done given batch scale."
+    },
+    {
+      "domain": "swsg.co",
+      "verdict": "Held",
+      "category_final": "n/a",
+      "reason": "403 blocked, zero usable content."
+    },
+    {
+      "domain": "tatayab.com",
+      "verdict": "Held",
+      "category_final": "n/a",
+      "reason": "Cloudflare-blocked, zero usable content. Note: exists as a pre-existing Zoho record (Kuwait) from an earlier import, but that doesn't confirm current live retail status."
+    },
+    {
+      "domain": "teeela.com",
+      "verdict": "Yes",
+      "category_final": "fashion",
+      "reason": "Specific real tagline (\"Teeela — Kids Fashion Toys\") despite thin body content."
+    },
+    {
+      "domain": "themodernfurnitures.com",
+      "verdict": "Held",
+      "category_final": "n/a",
+      "reason": "Cloudflare-challenge blocked, zero usable content."
+    },
+    {
+      "domain": "thefaceshop.com.kw",
+      "verdict": "No",
+      "category_final": "n/a",
+      "reason": "The Face Shop is a Korean global beauty franchise brand (already established this session as foreign-HQ'd when evaluated via Keden International); no evidence this Kuwait storefront is a distinct Kuwait-HQ'd operating entity rather than a franchise/license."
+    },
+    {
+      "domain": "toys4joy.com",
+      "verdict": "Held",
+      "category_final": "n/a",
+      "reason": "Cloudflare-blocked, zero usable content."
+    },
+    {
+      "domain": "wrraqoon.com",
+      "verdict": "No",
+      "category_final": "n/a",
+      "reason": "Generic parked-domain-style placeholder content (\"Resources and Information\")."
+    },
+    {
+      "domain": "ufff.com",
+      "verdict": "Yes",
+      "category_final": "general_merchandise",
+      "reason": "Real gifts/toys/collectibles e-commerce app with curated catalog."
+    },
+    {
+      "domain": "zarafaksa.com",
+      "verdict": "Yes",
+      "category_final": "general_merchandise",
+      "reason": "Real, broad pet-supplies e-commerce (food, treats, vitamins, litter, vet food)."
+    },
+    {
+      "domain": "yahaal.com",
+      "verdict": "Held",
+      "category_final": "n/a",
+      "reason": "Real baby-essentials delivery app, but ambiguous whether it's a direct retailer or a delivery-marketplace model (would affect which gate path applies)."
+    },
+    {
+      "domain": "toysbrand.com.sa",
+      "verdict": "No",
+      "category_final": "wholesale_distribution",
+      "reason": "Explicitly \"distributing and selling\" with a distinct \"Our Retailers\" section -- a B2B toy distributor supplying retailers, not itself a direct consumer store."
+    }
+  ],
+  "nodomain": [
+    {
+      "name": "Hdaiacom Perfume Company",
+      "verdict": "Held",
+      "category_final": "beauty",
+      "reason": "No domain on file; plausible perfume retailer name but unconfirmable."
+    },
+    {
+      "name": "Binzomah Cosmetics",
+      "verdict": "Held",
+      "category_final": "beauty",
+      "reason": "No domain on file; plausible cosmetics retailer name but unconfirmable."
+    },
+    {
+      "name": "Star Markets Trading Company Ltd.",
+      "verdict": "Held",
+      "category_final": "grocery",
+      "reason": "No domain on file; \"Trading Company\" naming leans B2B but \"Star Markets\" suggests grocery -- genuinely ambiguous."
+    },
+    {
+      "name": "Trolley Convenience Store KSA",
+      "verdict": "Held",
+      "category_final": "grocery",
+      "reason": "No domain on file. The real Trolley Convenience Store brand is Kuwait-HQ'd (already an existing Zoho record, trolley.com.kw); this KSA-specific entry's relationship to that HQ (distinct Saudi entity vs. same company) is unconfirmed."
+    },
+    {
+      "name": "Al-Bahar Electronics",
+      "verdict": "Held",
+      "category_final": "electronics",
+      "reason": "No domain on file; plausible electronics retailer name but unconfirmable."
+    },
+    {
+      "name": "LG Electronics Saudi Arabia",
+      "verdict": "No",
+      "category_final": "n/a",
+      "reason": "LG Electronics is a Korea-HQ'd global manufacturer; fails geography regardless of any local storefront."
+    },
+    {
+      "name": "Zamil Services",
+      "verdict": "Held",
+      "category_final": "n/a",
+      "reason": "No domain on file; \"Services\" naming is ambiguous, no other signal available."
+    },
+    {
+      "name": "Basic Electronics Company",
+      "verdict": "Held",
+      "category_final": "electronics",
+      "reason": "No domain on file; generic name, unconfirmable."
+    },
+    {
+      "name": "Ahmed Abdulwahed Co.",
+      "verdict": "Held",
+      "category_final": "n/a",
+      "reason": "Duplicate Apollo record for the same company already assessed at abdulwahed.com (Held -- 307 redirect, no content captured)."
+    },
+    {
+      "name": "Value's Home Furniture eg",
+      "verdict": "No",
+      "category_final": "n/a",
+      "reason": "\"eg\" suffix indicates Egypt, outside the KSA/Kuwait/Qatar scope."
+    },
+    {
+      "name": "Foamco Furniture SA",
+      "verdict": "No",
+      "category_final": "n/a",
+      "reason": "Duplicate Apollo record for the same company found with a domain (foamco.sa/abulessafactory.com) elsewhere in this batch, auto-classified out on furniture-manufacturing NAICS (337121/337910)."
+    },
+    {
+      "name": "Rawaa Furniture",
+      "verdict": "Held",
+      "category_final": "home_furniture",
+      "reason": "No domain on file; plausible furniture retailer name but unconfirmable."
+    },
+    {
+      "name": "Arabian Furniture & Design",
+      "verdict": "Held",
+      "category_final": "home_furniture",
+      "reason": "No domain on file; \"& Design\" could indicate interior-design services (excluded) or just branding -- genuinely ambiguous."
+    },
+    {
+      "name": "Gulf Furnishings",
+      "verdict": "Held",
+      "category_final": "home_furniture",
+      "reason": "No domain on file; plausible furniture retailer name but unconfirmable."
+    },
+    {
+      "name": "Al Haram Plaza  الهرم بلازا",
+      "verdict": "No",
+      "category_final": "realestate",
+      "reason": "\"Plaza\" naming pattern indicates a mall/real-estate development, consistent with other Plaza/Mall exclusions this session."
+    }
+  ]
+}

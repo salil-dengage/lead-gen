@@ -1,0 +1,2652 @@
+[
+  {
+    "cluster": "fashion",
+    "apollo_id": "5e576f368d755a00014ab614",
+    "name": "Kharazah | خرازة",
+    "domain": "kharazah.com",
+    "naics": "44-45,458110",
+    "sic": "5699",
+    "founded_year": 2016,
+    "revenue": null
+  },
+  {
+    "cluster": "fashion",
+    "apollo_id": "54a23f1474686933180a3919",
+    "name": "AlOthman Fashion",
+    "domain": "alothmanfashion.com",
+    "naics": "458110",
+    "sic": "5699",
+    "founded_year": 1956,
+    "revenue": null
+  },
+  {
+    "cluster": "fashion",
+    "apollo_id": "5ed872902895f30001f5bc0c",
+    "name": "Scrub N",
+    "domain": "scrub-n.com",
+    "naics": "33911,458110",
+    "sic": "5099,5699",
+    "founded_year": 2015,
+    "revenue": null
+  },
+  {
+    "cluster": "fashion",
+    "apollo_id": "5a9cd2f2a6da98d954d61666",
+    "name": "Mastourah Apparel & Fashion",
+    "domain": "mastourah.com",
+    "naics": "458110",
+    "sic": "",
+    "founded_year": 1988,
+    "revenue": null
+  },
+  {
+    "cluster": "fashion",
+    "apollo_id": "6a3596c4f9775d000144b12d",
+    "name": "ALshaya Group",
+    "domain": "alshaya.com",
+    "naics": "53112,44-45,7225",
+    "sic": "6799",
+    "founded_year": 1890,
+    "revenue": "13.6B"
+  },
+  {
+    "cluster": "fashion",
+    "apollo_id": "6a35972ef9775d000144e4d4",
+    "name": "Noon com",
+    "domain": "noon.com",
+    "naics": "44-45,51",
+    "sic": "5961",
+    "founded_year": 2016,
+    "revenue": "1.9B"
+  },
+  {
+    "cluster": "fashion",
+    "apollo_id": "6a359664f9775d0001447340",
+    "name": "HungerStation | هنقرستيشن",
+    "domain": "hungerstation.com",
+    "naics": "519290,492110",
+    "sic": "5961",
+    "founded_year": 2012,
+    "revenue": "23.8M"
+  },
+  {
+    "cluster": "fashion",
+    "apollo_id": "6a325c6c6b1fce0001acf04a",
+    "name": "Al Othaim Life",
+    "domain": "alothaimlife.com",
+    "naics": "458110",
+    "sic": "5699",
+    "founded_year": 1998,
+    "revenue": null
+  },
+  {
+    "cluster": "fashion",
+    "apollo_id": "6a325c6c6b1fce0001acf045",
+    "name": "Ajlan & Bros",
+    "domain": "ajstore.com",
+    "naics": "55111,315250,531120,488510",
+    "sic": "6799",
+    "founded_year": 1979,
+    "revenue": "1.7B"
+  },
+  {
+    "cluster": "fashion",
+    "apollo_id": "6a325c6a6b1fce0001acee0d",
+    "name": "SARA Group KSA",
+    "domain": "saragroups.com",
+    "naics": "45612,42421,541810",
+    "sic": "5099,5999,5122,7311",
+    "founded_year": null,
+    "revenue": null
+  },
+  {
+    "cluster": "fashion",
+    "apollo_id": "6a325c6b6b1fce0001acef2f",
+    "name": "ALSHIAKA",
+    "domain": "alshiaka.com",
+    "naics": "458110",
+    "sic": "5099",
+    "founded_year": 1971,
+    "revenue": "3.1M"
+  },
+  {
+    "cluster": "fashion",
+    "apollo_id": "6a3596c3f9775d000144b07b",
+    "name": "Boutiqaat",
+    "domain": "boutiqaat.com",
+    "naics": "44-45",
+    "sic": "5191",
+    "founded_year": 2015,
+    "revenue": "192.8M"
+  },
+  {
+    "cluster": "fashion",
+    "apollo_id": "6a325c6b6b1fce0001acef43",
+    "name": "OKHTEIN",
+    "domain": "okhtein.com",
+    "naics": "339910,316990",
+    "sic": "5099",
+    "founded_year": 2014,
+    "revenue": "485K"
+  },
+  {
+    "cluster": "fashion",
+    "apollo_id": "6a359664f9775d0001447342",
+    "name": "اجدان | Ajdan",
+    "domain": "ajdan.com",
+    "naics": "53112,531390",
+    "sic": "6531",
+    "founded_year": 2002,
+    "revenue": null
+  },
+  {
+    "cluster": "fashion",
+    "apollo_id": "6a359664f9775d000144735a",
+    "name": "Arab News",
+    "domain": "arabnews.com",
+    "naics": "519,513110",
+    "sic": "2711",
+    "founded_year": 1975,
+    "revenue": "18.6M"
+  },
+  {
+    "cluster": "fashion",
+    "apollo_id": "6a325c6b6b1fce0001aceeaa",
+    "name": "SAN INTERNATIONAL COMPANY LIMITED",
+    "domain": "sanint.com",
+    "naics": "315250",
+    "sic": "",
+    "founded_year": null,
+    "revenue": null
+  },
+  {
+    "cluster": "fashion",
+    "apollo_id": "6a35965ef9775d0001446fd3",
+    "name": "KAFD",
+    "domain": "kafd.sa",
+    "naics": "531120,531312",
+    "sic": "6798,6512,6531",
+    "founded_year": 2018,
+    "revenue": null
+  },
+  {
+    "cluster": "fashion",
+    "apollo_id": "6a325c6a6b1fce0001acee03",
+    "name": "daffah",
+    "domain": "daffah.sa",
+    "naics": "315250,458110",
+    "sic": "",
+    "founded_year": 1983,
+    "revenue": "229K"
+  },
+  {
+    "cluster": "fashion",
+    "apollo_id": "6a35978ef9775d000145410a",
+    "name": "almalki",
+    "domain": "almalki.com",
+    "naics": "44-45,42,48-49",
+    "sic": "5099",
+    "founded_year": 1952,
+    "revenue": null
+  },
+  {
+    "cluster": "fashion",
+    "apollo_id": "6a3596bcf9775d000144ad2d",
+    "name": "Alfardan Group",
+    "domain": "alfardan.com.qa",
+    "naics": "551114,448310,531120",
+    "sic": "5099",
+    "founded_year": 1954,
+    "revenue": "167.8M"
+  },
+  {
+    "cluster": "fashion",
+    "apollo_id": "6a325c6a6b1fce0001acedea",
+    "name": "Algarawi Group",
+    "domain": "algarawigroup.com",
+    "naics": "458110",
+    "sic": "",
+    "founded_year": 1975,
+    "revenue": "75M"
+  },
+  {
+    "cluster": "fashion",
+    "apollo_id": "6a35971bf9775d000144d9d8",
+    "name": "Snoonu",
+    "domain": "snoonu.com",
+    "naics": "492110",
+    "sic": "7389,4215",
+    "founded_year": 2019,
+    "revenue": "526M"
+  },
+  {
+    "cluster": "fashion",
+    "apollo_id": "6a325c6b6b1fce0001acee9b",
+    "name": "Ikaf Arabian Company",
+    "domain": "ikaf.net",
+    "naics": "458110",
+    "sic": "5699",
+    "founded_year": 1991,
+    "revenue": null
+  },
+  {
+    "cluster": "fashion",
+    "apollo_id": "6a3597e8f9775d0001459c26",
+    "name": "METRO BRAZIL",
+    "domain": "metrobrazil.com",
+    "naics": "31599,458110",
+    "sic": "2399",
+    "founded_year": 2017,
+    "revenue": null
+  },
+  {
+    "cluster": "fashion",
+    "apollo_id": "6a325c6a6b1fce0001acedf9",
+    "name": "Saddik & Mohamed Attar Co.",
+    "domain": "smattarco.com",
+    "naics": "45831",
+    "sic": "5099,5944",
+    "founded_year": 1958,
+    "revenue": null
+  },
+  {
+    "cluster": "fashion",
+    "apollo_id": "6a325c6d6b1fce0001acf10b",
+    "name": "Lagate لاقيت",
+    "domain": "lagatesa.com",
+    "naics": "445131",
+    "sic": "5699,5411",
+    "founded_year": 2022,
+    "revenue": null
+  },
+  {
+    "cluster": "fashion",
+    "apollo_id": "6a359664f9775d0001447351",
+    "name": "Saudi Research & Publishing Company - SRPC",
+    "domain": "srpc.com",
+    "naics": "519,513110,513120,516210",
+    "sic": "2711,2721",
+    "founded_year": 1972,
+    "revenue": "103.4M"
+  },
+  {
+    "cluster": "fashion",
+    "apollo_id": "6a359664f9775d000144734e",
+    "name": "New You Medical Center",
+    "domain": "newyousa.com",
+    "naics": "62139,621498",
+    "sic": "8011",
+    "founded_year": 2016,
+    "revenue": null
+  },
+  {
+    "cluster": "fashion",
+    "apollo_id": "6a325c6a6b1fce0001acee08",
+    "name": "SLIC",
+    "domain": "slicshoes.com",
+    "naics": "316210",
+    "sic": "3261",
+    "founded_year": 1981,
+    "revenue": null
+  },
+  {
+    "cluster": "fashion",
+    "apollo_id": "6a325c6b6b1fce0001acee8c",
+    "name": "Kadoon Company",
+    "domain": "kadoon.com",
+    "naics": "33911,62121,81219,423450",
+    "sic": "8099,8021,7231,5047",
+    "founded_year": 1999,
+    "revenue": null
+  },
+  {
+    "cluster": "fashion",
+    "apollo_id": "6a325c6c6b1fce0001acefbe",
+    "name": "Attar United",
+    "domain": "attarunited.com",
+    "naics": "44-45,45831",
+    "sic": "5099",
+    "founded_year": 2012,
+    "revenue": null
+  },
+  {
+    "cluster": "fashion",
+    "apollo_id": "6a325c6b6b1fce0001acef2a",
+    "name": "Dar Sonbol Co. Ltd.",
+    "domain": "darsonbol.com",
+    "naics": "21311,458110",
+    "sic": "",
+    "founded_year": 1999,
+    "revenue": null
+  },
+  {
+    "cluster": "fashion",
+    "apollo_id": "6a325c6c6b1fce0001acefb4",
+    "name": "Golden Cala",
+    "domain": "goldencala.com",
+    "naics": "42421,423460,423450",
+    "sic": "5099",
+    "founded_year": 2012,
+    "revenue": null
+  },
+  {
+    "cluster": "fashion",
+    "apollo_id": "6a3596c8f9775d000144b4aa",
+    "name": "Tatayab",
+    "domain": "tatayab.com",
+    "naics": "454110,51",
+    "sic": "5999,5961",
+    "founded_year": 2018,
+    "revenue": null
+  },
+  {
+    "cluster": "fashion",
+    "apollo_id": "6a325c6c6b1fce0001acefc9",
+    "name": "ORANGE BED & BATH",
+    "domain": "orangebedbath.com",
+    "naics": "449129,44-45",
+    "sic": "2391,5719",
+    "founded_year": null,
+    "revenue": null
+  },
+  {
+    "cluster": "fashion",
+    "apollo_id": "6a35965ef9775d0001446fcd",
+    "name": "SMSA EXPRESS - UK LIMITED",
+    "domain": "smsaexpress.com",
+    "naics": "492110,488510",
+    "sic": "4731",
+    "founded_year": 1994,
+    "revenue": "16.6M"
+  },
+  {
+    "cluster": "beauty",
+    "apollo_id": "61617c082331a300010475b1",
+    "name": "Hdaiacom Perfume Company",
+    "domain": "",
+    "naics": "325620,561910,323120",
+    "sic": "2844,2653,2759",
+    "founded_year": 2004,
+    "revenue": null
+  },
+  {
+    "cluster": "beauty",
+    "apollo_id": "5e577a8f1e1aa100014ae5d2",
+    "name": "Modern Perfume Co.",
+    "domain": "modernperfume.com.sa",
+    "naics": "33999,325620",
+    "sic": "2844",
+    "founded_year": 2019,
+    "revenue": null
+  },
+  {
+    "cluster": "beauty",
+    "apollo_id": "5da49b8310ef7e0001ab0192",
+    "name": "BJ Beauty Cosmetics",
+    "domain": "bjbeauty.co",
+    "naics": "325620,45612",
+    "sic": "5999,2844",
+    "founded_year": 2015,
+    "revenue": null
+  },
+  {
+    "cluster": "beauty",
+    "apollo_id": "60f7fd84669c5d00daf4187d",
+    "name": "Myriad Beauty",
+    "domain": "myriadbeauty.com",
+    "naics": "45612",
+    "sic": "5099",
+    "founded_year": 2017,
+    "revenue": null
+  },
+  {
+    "cluster": "beauty",
+    "apollo_id": "615e76197f24820001cc0f59",
+    "name": "برفيوم بالاس | perfume palace",
+    "domain": "perfumes-palace.com",
+    "naics": "456120",
+    "sic": "5999",
+    "founded_year": 2008,
+    "revenue": null
+  },
+  {
+    "cluster": "beauty",
+    "apollo_id": "5e55f889ca55260001b8a9de",
+    "name": "Brandatt",
+    "domain": "brandatt.com",
+    "naics": "454110,456120",
+    "sic": "5191",
+    "founded_year": 2017,
+    "revenue": null
+  },
+  {
+    "cluster": "beauty",
+    "apollo_id": "60e6806e1c4ca20001dd6160",
+    "name": "O100",
+    "domain": "o-100.com",
+    "naics": "44-45,45612",
+    "sic": "5999",
+    "founded_year": 2014,
+    "revenue": null
+  },
+  {
+    "cluster": "beauty",
+    "apollo_id": "6049f7ccec0bfe0001245563",
+    "name": "Royal Pharmacy",
+    "domain": "royalph.com",
+    "naics": "424210",
+    "sic": "5912,5122",
+    "founded_year": 1997,
+    "revenue": null
+  },
+  {
+    "cluster": "beauty",
+    "apollo_id": "5b131cd4a6da98dcb892b164",
+    "name": "Binzomah Cosmetics",
+    "domain": "",
+    "naics": "424990,325620",
+    "sic": "",
+    "founded_year": 2015,
+    "revenue": null
+  },
+  {
+    "cluster": "beauty",
+    "apollo_id": "631b2df798109a00a3bf412b",
+    "name": "Karma cosmetics company",
+    "domain": "karmacosmetic.com",
+    "naics": "45612",
+    "sic": "",
+    "founded_year": null,
+    "revenue": null
+  },
+  {
+    "cluster": "beauty",
+    "apollo_id": "60f7fa6cf5ac3700a4782dd6",
+    "name": "Beauty Booth Qatar",
+    "domain": "beautyboothqa.com",
+    "naics": "456120",
+    "sic": "5191",
+    "founded_year": 2018,
+    "revenue": null
+  },
+  {
+    "cluster": "beauty",
+    "apollo_id": "67471baa56ba8c01b0df7bc9",
+    "name": "Sama Pharmacy Qatar",
+    "domain": "samapharmacy.com",
+    "naics": "45611",
+    "sic": "5912",
+    "founded_year": 2017,
+    "revenue": null
+  },
+  {
+    "cluster": "beauty",
+    "apollo_id": "5e55fa53eff1740001262082",
+    "name": "Doctor Q Cosmetics",
+    "domain": "doctorqshop.com",
+    "naics": "",
+    "sic": "2844",
+    "founded_year": 2009,
+    "revenue": null
+  },
+  {
+    "cluster": "beauty",
+    "apollo_id": "5e570ccadf9f390001dde8a1",
+    "name": "BOCH",
+    "domain": "boch.sa",
+    "naics": "33911,325620",
+    "sic": "3841,2844",
+    "founded_year": null,
+    "revenue": null
+  },
+  {
+    "cluster": "beauty",
+    "apollo_id": "6115e1f2e142020001f1f42f",
+    "name": "Etoile Company for Perfumes and Cosmetics",
+    "domain": "etoilegroups.com",
+    "naics": "33992",
+    "sic": "2844",
+    "founded_year": 2016,
+    "revenue": null
+  },
+  {
+    "cluster": "beauty",
+    "apollo_id": "62a88fe5b9f5d300b3da358f",
+    "name": "Skindollize",
+    "domain": "thefaceshop.com.kw",
+    "naics": "45612",
+    "sic": "5999",
+    "founded_year": 2014,
+    "revenue": null
+  },
+  {
+    "cluster": "beauty",
+    "apollo_id": "5da52e9191250a000131fdea",
+    "name": "Pida Beauty",
+    "domain": "pidabeauty.com",
+    "naics": "",
+    "sic": "5149",
+    "founded_year": 2018,
+    "revenue": null
+  },
+  {
+    "cluster": "beauty",
+    "apollo_id": "65e319e6947cad0007d2c363",
+    "name": "Cavalier Perfumes",
+    "domain": "cavalierperfumes.com",
+    "naics": "33992",
+    "sic": "2844",
+    "founded_year": null,
+    "revenue": null
+  },
+  {
+    "cluster": "beauty",
+    "apollo_id": "624e6c1a9e821100a54d7618",
+    "name": "Red Cactus Trading",
+    "domain": "redcactus.com.sa",
+    "naics": "424210,325620",
+    "sic": "5122,2844",
+    "founded_year": 2021,
+    "revenue": null
+  },
+  {
+    "cluster": "beauty",
+    "apollo_id": "604a18717ee820000139cdc5",
+    "name": "Odecla Perfumes",
+    "domain": "odecla.com",
+    "naics": "45612,325620",
+    "sic": "5999",
+    "founded_year": 2016,
+    "revenue": null
+  },
+  {
+    "cluster": "beauty",
+    "apollo_id": "556d6a15736964124b0d0701",
+    "name": "Sadara Chemical Company",
+    "domain": "sadara.com",
+    "naics": "325110,325211",
+    "sic": "2869,2821",
+    "founded_year": 2011,
+    "revenue": "2.6B"
+  },
+  {
+    "cluster": "beauty",
+    "apollo_id": "5c20e6fd80f93eed3e42a330",
+    "name": "Beauty Gallery Qatar",
+    "domain": "bg-qa.com",
+    "naics": "44-45,45612",
+    "sic": "5999",
+    "founded_year": 2017,
+    "revenue": null
+  },
+  {
+    "cluster": "beauty",
+    "apollo_id": "60af84386647730001c5f85f",
+    "name": "AL Nasaem Cosmetics Company LLC",
+    "domain": "alnasaem.com",
+    "naics": "33995,45612,42421",
+    "sic": "5099,5971,5122",
+    "founded_year": 1988,
+    "revenue": null
+  },
+  {
+    "cluster": "beauty",
+    "apollo_id": "6a3596bcf9775d000144ad18",
+    "name": "Nahdi",
+    "domain": "nahdi.sa",
+    "naics": "",
+    "sic": "5912",
+    "founded_year": null,
+    "revenue": "2.7B"
+  },
+  {
+    "cluster": "beauty",
+    "apollo_id": "6a325c6d6b1fce0001acf0ff",
+    "name": "دار الأميرات | Dar Alamirat",
+    "domain": "daralamirat.com.sa",
+    "naics": "45612",
+    "sic": "5999",
+    "founded_year": 2011,
+    "revenue": null
+  },
+  {
+    "cluster": "beauty",
+    "apollo_id": "6a35965ef9775d0001446fc8",
+    "name": "Binzagr Company",
+    "domain": "binzagr.com.sa",
+    "naics": "49312,423,424,49311",
+    "sic": "5099",
+    "founded_year": 1881,
+    "revenue": null
+  },
+  {
+    "cluster": "beauty",
+    "apollo_id": "6a35965ef9775d0001446fc5",
+    "name": "Mouwasat Medical Services",
+    "domain": "mouwasat.com",
+    "naics": "622110,423450",
+    "sic": "8011,8062,5047",
+    "founded_year": 1975,
+    "revenue": "859.3M"
+  },
+  {
+    "cluster": "grocery",
+    "apollo_id": "54a12a6f69702d9b8b7a1e02",
+    "name": "Al Safi Danone | الصافي دانون",
+    "domain": "alsafidanone.com",
+    "naics": "311511,312111",
+    "sic": "2023",
+    "founded_year": 1979,
+    "revenue": "250M"
+  },
+  {
+    "cluster": "grocery",
+    "apollo_id": "5e58d7cb238f2b008dd93c1f",
+    "name": "Nahda Modern Company LLC",
+    "domain": "nahda.group",
+    "naics": "445110",
+    "sic": "5411",
+    "founded_year": 2017,
+    "revenue": null
+  },
+  {
+    "cluster": "grocery",
+    "apollo_id": "5d09b597f6512593c73d78c5",
+    "name": "RCIT Holding Co.",
+    "domain": "rcith.com",
+    "naics": "44-45,449110,311",
+    "sic": "5099",
+    "founded_year": 1980,
+    "revenue": null
+  },
+  {
+    "cluster": "grocery",
+    "apollo_id": "54a1b9877468694012ef760b",
+    "name": "Unified Real Estate Development Company",
+    "domain": "unified.com.sa",
+    "naics": "531120,531312",
+    "sic": "6799,6552,6531",
+    "founded_year": 2006,
+    "revenue": "85M"
+  },
+  {
+    "cluster": "grocery",
+    "apollo_id": "54a122f069702da10f5d2f03",
+    "name": "Halwani Brothers",
+    "domain": "halwani.com.sa",
+    "naics": "31141,311999",
+    "sic": "2099",
+    "founded_year": 1950,
+    "revenue": "241M"
+  },
+  {
+    "cluster": "grocery",
+    "apollo_id": "5d098975f6512568370a9028",
+    "name": "Alshaya Enterprises",
+    "domain": "alshayaenterprises.com",
+    "naics": "23839,423390,541410",
+    "sic": "7389",
+    "founded_year": 1950,
+    "revenue": null
+  },
+  {
+    "cluster": "grocery",
+    "apollo_id": "5cb460cff65125f7c0fb558c",
+    "name": "Al Jameel International Co. Ltd",
+    "domain": "aljameelfood.com",
+    "naics": "42441,311",
+    "sic": "5149",
+    "founded_year": 1992,
+    "revenue": null
+  },
+  {
+    "cluster": "grocery",
+    "apollo_id": "5ed1e893045b2d0001e2656b",
+    "name": "Alyasra Foods",
+    "domain": "alyasrafoods.com",
+    "naics": "42441,4931",
+    "sic": "5141,5149",
+    "founded_year": 1988,
+    "revenue": null
+  },
+  {
+    "cluster": "grocery",
+    "apollo_id": "54a246b97468693fdaca231c",
+    "name": "ALJOMAIH BOTTLING PLANTS",
+    "domain": "aljomaihconsumerdivision.com",
+    "naics": "312111,312112,332431",
+    "sic": "2082",
+    "founded_year": 1957,
+    "revenue": null
+  },
+  {
+    "cluster": "grocery",
+    "apollo_id": "56d61f99f3e5bb3a46000c9a",
+    "name": "AlJammaz Group",
+    "domain": "aljammaz.com",
+    "naics": "551114,523940",
+    "sic": "6712",
+    "founded_year": 1975,
+    "revenue": null
+  },
+  {
+    "cluster": "grocery",
+    "apollo_id": "54a1396d69702d2851246300",
+    "name": "Arrow Food Group",
+    "domain": "arrow-foods.com",
+    "naics": "42449,311411",
+    "sic": "5141",
+    "founded_year": null,
+    "revenue": null
+  },
+  {
+    "cluster": "grocery",
+    "apollo_id": "54a11db969702d8aa1e11301",
+    "name": "KDD",
+    "domain": "kddc.com",
+    "naics": "31111,311511,311520,312111",
+    "sic": "2099,202",
+    "founded_year": 1962,
+    "revenue": "72.3M"
+  },
+  {
+    "cluster": "grocery",
+    "apollo_id": "68b00814b14a4a000db194c7",
+    "name": "Qatar Vacancies",
+    "domain": "el7far.com",
+    "naics": "561311,519290",
+    "sic": "7361,7375",
+    "founded_year": null,
+    "revenue": null
+  },
+  {
+    "cluster": "grocery",
+    "apollo_id": "63da7eafb5210a00a4e5ea45",
+    "name": "Abu Khalifa Trading",
+    "domain": "abukhalifa.com",
+    "naics": "42449,49312,484110",
+    "sic": "5141",
+    "founded_year": 1974,
+    "revenue": null
+  },
+  {
+    "cluster": "grocery",
+    "apollo_id": "60af60887e090a00012b0b68",
+    "name": "مستر مندوب | Mr Mandoob",
+    "domain": "mrmandoob.com",
+    "naics": "492110,519290",
+    "sic": "4215,7375",
+    "founded_year": 2019,
+    "revenue": "133M"
+  },
+  {
+    "cluster": "grocery",
+    "apollo_id": "5c284677f6512533debb583d",
+    "name": "ASTRA MARKETS",
+    "domain": "astramarkets.com",
+    "naics": "445110,424410",
+    "sic": "5411,5141",
+    "founded_year": 1975,
+    "revenue": null
+  },
+  {
+    "cluster": "grocery",
+    "apollo_id": "57c4b845a6da983692104de7",
+    "name": "Tawar Mall",
+    "domain": "tawarmall.qa",
+    "naics": "531120",
+    "sic": "5311,6512",
+    "founded_year": null,
+    "revenue": null
+  },
+  {
+    "cluster": "grocery",
+    "apollo_id": "666ab27f9709ff0001c3d60e",
+    "name": "kuwait jobs now",
+    "domain": "",
+    "naics": "56131",
+    "sic": "7361",
+    "founded_year": 2016,
+    "revenue": null
+  },
+  {
+    "cluster": "grocery",
+    "apollo_id": "5fca7b51c585020001dfcca1",
+    "name": "صحصح | Sahseh",
+    "domain": "sahseh.co",
+    "naics": "519290",
+    "sic": "5961",
+    "founded_year": 2019,
+    "revenue": null
+  },
+  {
+    "cluster": "grocery",
+    "apollo_id": "5da27d3ccf73e40001d5146e",
+    "name": "Star Markets Trading Company Ltd.",
+    "domain": "",
+    "naics": "445110",
+    "sic": "5411",
+    "founded_year": null,
+    "revenue": null
+  },
+  {
+    "cluster": "grocery",
+    "apollo_id": "604a8cebbee4f00001d9a15f",
+    "name": "Lines Ideas",
+    "domain": "linesideas.com",
+    "naics": "44511,424490",
+    "sic": "",
+    "founded_year": 2009,
+    "revenue": null
+  },
+  {
+    "cluster": "grocery",
+    "apollo_id": "5e5735e366bb9d0001a816b3",
+    "name": "Naqi water | نقي للمياه",
+    "domain": "naqiwater.com",
+    "naics": "312112",
+    "sic": "2086",
+    "founded_year": 2016,
+    "revenue": "49.8M"
+  },
+  {
+    "cluster": "grocery",
+    "apollo_id": "677a915b10c6400198434df1",
+    "name": "AL HAZMI STORES",
+    "domain": "matajeralhazmi.sa",
+    "naics": "445110",
+    "sic": "5411",
+    "founded_year": null,
+    "revenue": null
+  },
+  {
+    "cluster": "grocery",
+    "apollo_id": "55f6cc58f3e5bb19610188d7",
+    "name": "KUWAIT PROTEINS CO.",
+    "domain": "kuwaitproteins.com",
+    "naics": "424410,493110",
+    "sic": "5141",
+    "founded_year": 1982,
+    "revenue": null
+  },
+  {
+    "cluster": "grocery",
+    "apollo_id": "651f7abeb08b5f000144831e",
+    "name": "Dank",
+    "domain": "dank.sa",
+    "naics": "722513",
+    "sic": "5812",
+    "founded_year": null,
+    "revenue": null
+  },
+  {
+    "cluster": "grocery",
+    "apollo_id": "5e57eb177eed1100015ca0b5",
+    "name": "SPEEDI | سبيدي",
+    "domain": "speedi.sa",
+    "naics": "445110,454110",
+    "sic": "5191,5411,5961",
+    "founded_year": null,
+    "revenue": null
+  },
+  {
+    "cluster": "grocery",
+    "apollo_id": "55e852fbf3e5bb5e6f000064",
+    "name": "Nashar Trading Company",
+    "domain": "nashar.com",
+    "naics": "424410,311612",
+    "sic": "5141,2011",
+    "founded_year": null,
+    "revenue": "5.5M"
+  },
+  {
+    "cluster": "grocery",
+    "apollo_id": "5e5655128c394e0001d63165",
+    "name": "Impact46",
+    "domain": "impact46.sa",
+    "naics": "523940,523150",
+    "sic": "6712",
+    "founded_year": 2019,
+    "revenue": null
+  },
+  {
+    "cluster": "grocery",
+    "apollo_id": "655deda3139a0b00e84d4424",
+    "name": "Sabsah Hypermarket Co Kuwait",
+    "domain": "sabsahhyper.com",
+    "naics": "445110",
+    "sic": "5411",
+    "founded_year": 2022,
+    "revenue": null
+  },
+  {
+    "cluster": "grocery",
+    "apollo_id": "5d0982edf65125212965254c",
+    "name": "Ezdan Hotels West Bay",
+    "domain": "ezdanhotels.com",
+    "naics": "721110,722511",
+    "sic": "7011,5812",
+    "founded_year": null,
+    "revenue": null
+  },
+  {
+    "cluster": "grocery",
+    "apollo_id": "5d34b643f6512521f841879d",
+    "name": "Almunajem Foods Company",
+    "domain": "almunajemfoods.com",
+    "naics": "31141,424410,493120",
+    "sic": "5141",
+    "founded_year": 1950,
+    "revenue": "890.9M"
+  },
+  {
+    "cluster": "grocery",
+    "apollo_id": "6a325c6d6b1fce0001acf0f9",
+    "name": "Trolley Convenience Store KSA",
+    "domain": "",
+    "naics": "445131",
+    "sic": "5411",
+    "founded_year": null,
+    "revenue": null
+  },
+  {
+    "cluster": "grocery",
+    "apollo_id": "6a3596bcf9775d000144ad07",
+    "name": "Mayar Foods",
+    "domain": "mayar.com",
+    "naics": "42449,424410,311941",
+    "sic": "5141,2099",
+    "founded_year": 1946,
+    "revenue": null
+  },
+  {
+    "cluster": "grocery",
+    "apollo_id": "6a35965ef9775d0001446f9d",
+    "name": "Basamh Group",
+    "domain": "basamhgroup.com",
+    "naics": "311911,311941,424410",
+    "sic": "5141",
+    "founded_year": 1948,
+    "revenue": null
+  },
+  {
+    "cluster": "grocery",
+    "apollo_id": "6a325c6b6b1fce0001acee97",
+    "name": "Mehbaj",
+    "domain": "mehbaj.com",
+    "naics": "31191,445292,311999",
+    "sic": "2099",
+    "founded_year": 1977,
+    "revenue": null
+  },
+  {
+    "cluster": "grocery",
+    "apollo_id": "6a3596c4f9775d000144b10c",
+    "name": "Alharfash Group",
+    "domain": "alharfashgroup.com",
+    "naics": "561510,561520,454110",
+    "sic": "4724,5961",
+    "founded_year": 2011,
+    "revenue": null
+  },
+  {
+    "cluster": "grocery",
+    "apollo_id": "6a325c6d6b1fce0001acf10d",
+    "name": "Al Wafa Hypermarket KSA",
+    "domain": "alwafahyper.com",
+    "naics": "445110",
+    "sic": "5411",
+    "founded_year": null,
+    "revenue": null
+  },
+  {
+    "cluster": "electronics",
+    "apollo_id": "5ed9de3f1cda780001f78ec5",
+    "name": "Al-Bahar Electronics",
+    "domain": "",
+    "naics": "44921",
+    "sic": "5731",
+    "founded_year": 1963,
+    "revenue": null
+  },
+  {
+    "cluster": "electronics",
+    "apollo_id": "54a139b569702d267a818200",
+    "name": "SAMI Advanced Electronics",
+    "domain": "aecl.com",
+    "naics": "33641,334511,334418",
+    "sic": "3669,3812,3679",
+    "founded_year": 1988,
+    "revenue": "2.5M"
+  },
+  {
+    "cluster": "electronics",
+    "apollo_id": "54a11dc569702da10fcc3301",
+    "name": "Alfalak Electronic Equipment & Supplies Co.",
+    "domain": "alfalak.com",
+    "naics": "541512,423430",
+    "sic": "7375,7373,5045",
+    "founded_year": 1980,
+    "revenue": "14.8M"
+  },
+  {
+    "cluster": "electronics",
+    "apollo_id": "54a11b8869702da753cc4f00",
+    "name": "SPIMACO",
+    "domain": "spimaco.com.sa",
+    "naics": "325412,339113",
+    "sic": "2834,3841",
+    "founded_year": 1986,
+    "revenue": "434.1M"
+  },
+  {
+    "cluster": "electronics",
+    "apollo_id": "633a6d84a8212800cc44bd45",
+    "name": "Sulaiman Al Bassam Company",
+    "domain": "albassamest.com",
+    "naics": "443142",
+    "sic": "5731,5722",
+    "founded_year": 1976,
+    "revenue": null
+  },
+  {
+    "cluster": "electronics",
+    "apollo_id": "5a9f026fa6da98d977fed977",
+    "name": "Samsung Saudi Arabia for Business",
+    "domain": "",
+    "naics": "334310,333415,541512",
+    "sic": "",
+    "founded_year": null,
+    "revenue": null
+  },
+  {
+    "cluster": "electronics",
+    "apollo_id": "65bbfa1823e6a50300f9d0b7",
+    "name": "Alat",
+    "domain": "alat.com",
+    "naics": "33324,334413,334419",
+    "sic": "3531,3674,3679",
+    "founded_year": null,
+    "revenue": "224.9M"
+  },
+  {
+    "cluster": "electronics",
+    "apollo_id": "5ed03d6a9e66690001c71486",
+    "name": "Bahra Electric",
+    "domain": "bahra-electric.com",
+    "naics": "335311,335929",
+    "sic": "3577,3576,3575,3600",
+    "founded_year": 2008,
+    "revenue": "232M"
+  },
+  {
+    "cluster": "electronics",
+    "apollo_id": "5e55bb238a71b100016eb15c",
+    "name": "Starlink Qatar",
+    "domain": "starlinkworld.com",
+    "naics": "42369,517121,541512",
+    "sic": "3571",
+    "founded_year": 2006,
+    "revenue": "13.4M"
+  },
+  {
+    "cluster": "electronics",
+    "apollo_id": "668549489cb0a20783b437b4",
+    "name": "Platinum Appliances",
+    "domain": "platinumcorp.co",
+    "naics": "44921",
+    "sic": "5712",
+    "founded_year": null,
+    "revenue": null
+  },
+  {
+    "cluster": "electronics",
+    "apollo_id": "5d09b5f0a3ae61d6d75da9d8",
+    "name": "Mitsubishi Electric Saudi Ltd.",
+    "domain": "melsa.com.sa",
+    "naics": "541330,238290",
+    "sic": "1799",
+    "founded_year": 1980,
+    "revenue": null
+  },
+  {
+    "cluster": "electronics",
+    "apollo_id": "5d099adbf65125b8a83cb7f8",
+    "name": "Dar Al Arkan",
+    "domain": "daralarkan.com",
+    "naics": "53112,531390,236117",
+    "sic": "6531",
+    "founded_year": 1994,
+    "revenue": "1B"
+  },
+  {
+    "cluster": "electronics",
+    "apollo_id": "57cf8a72a6da984c8e7b7e14",
+    "name": "aDawliah Electronic Appliances Holding",
+    "domain": "adawliah.com.sa",
+    "naics": "423620,449210",
+    "sic": "",
+    "founded_year": 1979,
+    "revenue": null
+  },
+  {
+    "cluster": "electronics",
+    "apollo_id": "60601dfba8b9f100e28f61dd",
+    "name": "Al-Faisaliah Group (JSC)",
+    "domain": "alfaisaliah.com",
+    "naics": "55111,311511,621498,523940",
+    "sic": "6712",
+    "founded_year": 1971,
+    "revenue": null
+  },
+  {
+    "cluster": "electronics",
+    "apollo_id": "6653f1ebd945a6034868b68d",
+    "name": "LG Electronics Saudi Arabia",
+    "domain": "",
+    "naics": "334310,335220",
+    "sic": "",
+    "founded_year": null,
+    "revenue": null
+  },
+  {
+    "cluster": "electronics",
+    "apollo_id": "54a138f669702de5b3ef0a00",
+    "name": "Almana & Partners",
+    "domain": "almanapartners.co",
+    "naics": "49312,423620,493110,484110",
+    "sic": "5092",
+    "founded_year": 1949,
+    "revenue": null
+  },
+  {
+    "cluster": "electronics",
+    "apollo_id": "6836eec4cf36ea00110de5ec",
+    "name": "‏Zamil Services",
+    "domain": "",
+    "naics": "",
+    "sic": "",
+    "founded_year": null,
+    "revenue": null
+  },
+  {
+    "cluster": "electronics",
+    "apollo_id": "61ad0c1e35d1fc0001a0be2b",
+    "name": "Basic Electronics Company",
+    "domain": "",
+    "naics": "423620,423450",
+    "sic": "",
+    "founded_year": 1961,
+    "revenue": null
+  },
+  {
+    "cluster": "electronics",
+    "apollo_id": "5b849cf0324d444ca6a35be7",
+    "name": "channels by stc",
+    "domain": "channels.com.sa",
+    "naics": "49312,5171,423430,423690",
+    "sic": "7389",
+    "founded_year": 2008,
+    "revenue": null
+  },
+  {
+    "cluster": "electronics",
+    "apollo_id": "54a222ad7468693a7ed8b80f",
+    "name": "United Matbouli Group",
+    "domain": "umg.sa",
+    "naics": "42361,423620",
+    "sic": "5099,5064",
+    "founded_year": 1997,
+    "revenue": "8.4M"
+  },
+  {
+    "cluster": "electronics",
+    "apollo_id": "5e578d689c01df00011f44af",
+    "name": "Mekdam Telecom",
+    "domain": "",
+    "naics": "423620,449210",
+    "sic": "5731",
+    "founded_year": null,
+    "revenue": null
+  },
+  {
+    "cluster": "electronics",
+    "apollo_id": "6294883bf02b4f00a5095c7a",
+    "name": "شركة صقر الجزيرة للصناعة والتجارة والمقاولات",
+    "domain": "jzfalcon.com",
+    "naics": "333415,423620",
+    "sic": "3631",
+    "founded_year": 1994,
+    "revenue": null
+  },
+  {
+    "cluster": "electronics",
+    "apollo_id": "677b1321d2d5190001eff354",
+    "name": "محزم | محزمك المليان",
+    "domain": "mhzm.sa",
+    "naics": "44921,44-45",
+    "sic": "5731",
+    "founded_year": 2016,
+    "revenue": null
+  },
+  {
+    "cluster": "electronics",
+    "apollo_id": "5e568a0f37cf0d0001141350",
+    "name": "Almuftah Group Qatar",
+    "domain": "almuftah.com",
+    "naics": "236,237990,31-33,488510",
+    "sic": "1541",
+    "founded_year": 1963,
+    "revenue": "92K"
+  },
+  {
+    "cluster": "electronics",
+    "apollo_id": "625fa89a94ec9e00d8e0d729",
+    "name": "FAWAZ GROUP",
+    "domain": "fawaz.com",
+    "naics": "33341,561210,238220,541330",
+    "sic": "3585",
+    "founded_year": 1973,
+    "revenue": "344K"
+  },
+  {
+    "cluster": "electronics",
+    "apollo_id": "6a3596bdf9775d000144ada2",
+    "name": "STC",
+    "domain": "stc.com.sa",
+    "naics": "517112,518210,541512",
+    "sic": "4812",
+    "founded_year": 1998,
+    "revenue": "20.2B"
+  },
+  {
+    "cluster": "electronics",
+    "apollo_id": "6a35978ef9775d0001454142",
+    "name": "alfanar Co.",
+    "domain": "alfanar.com",
+    "naics": "33599,335313,236210,221114",
+    "sic": "3621",
+    "founded_year": 1976,
+    "revenue": "2.5B"
+  },
+  {
+    "cluster": "electronics",
+    "apollo_id": "6a325c6c6b1fce0001acf069",
+    "name": "ALKAFFARY GROUP",
+    "domain": "kaffary.com",
+    "naics": "449110",
+    "sic": "5021,5712,5719",
+    "founded_year": 1951,
+    "revenue": null
+  },
+  {
+    "cluster": "electronics",
+    "apollo_id": "6a325c6c6b1fce0001acf061",
+    "name": "Ahmed Abdulwahed Company",
+    "domain": "abdulwahed.com",
+    "naics": "42362,44921",
+    "sic": "5999,5731,5961",
+    "founded_year": null,
+    "revenue": "2.9M"
+  },
+  {
+    "cluster": "electronics",
+    "apollo_id": "6a325c6a6b1fce0001acedfc",
+    "name": "SAMIR GROUP",
+    "domain": "samirgroup.com",
+    "naics": "33911,541512,423450,423620",
+    "sic": "5044,7373,5047,5064",
+    "founded_year": 1953,
+    "revenue": "87.5M"
+  },
+  {
+    "cluster": "electronics",
+    "apollo_id": "6a35965ef9775d0001446faa",
+    "name": "Salla E-Commerce Platform",
+    "domain": "salla.com",
+    "naics": "54151,513210",
+    "sic": "7375",
+    "founded_year": 2016,
+    "revenue": "23M"
+  },
+  {
+    "cluster": "electronics",
+    "apollo_id": "6a3596c4f9775d000144b11c",
+    "name": "Best Al-Yousifi",
+    "domain": "best.com.kw",
+    "naics": "44-45",
+    "sic": "",
+    "founded_year": 1952,
+    "revenue": "5.5M"
+  },
+  {
+    "cluster": "electronics",
+    "apollo_id": "6a325c6b6b1fce0001acef1b",
+    "name": "NTC \"Najd Telecom Company\"",
+    "domain": "najdtelecom.com",
+    "naics": "449210",
+    "sic": "5731",
+    "founded_year": 1999,
+    "revenue": "1.5M"
+  },
+  {
+    "cluster": "electronics",
+    "apollo_id": "6a359664f9775d00014472fb",
+    "name": "Lumi | لومي",
+    "domain": "lumirental.com",
+    "naics": "53212,532111,532112",
+    "sic": "7519,7514",
+    "founded_year": 2006,
+    "revenue": "445M"
+  },
+  {
+    "cluster": "electronics",
+    "apollo_id": "6a325c6c6b1fce0001acefd7",
+    "name": "Zinco | زينكو",
+    "domain": "zincoint.com",
+    "naics": "33995,3351,332913,4441",
+    "sic": "5082",
+    "founded_year": 1993,
+    "revenue": null
+  },
+  {
+    "cluster": "electronics",
+    "apollo_id": "6a325c6c6b1fce0001acf05d",
+    "name": "Sheta & Saif",
+    "domain": "swsg.co",
+    "naics": "44-45",
+    "sic": "",
+    "founded_year": 1982,
+    "revenue": "34M"
+  },
+  {
+    "cluster": "electronics",
+    "apollo_id": "6a3596acf9775d000144a9c2",
+    "name": "Tamweel Aloula",
+    "domain": "tamweel-aloula.com",
+    "naics": "522291,522299",
+    "sic": "6162",
+    "founded_year": 2006,
+    "revenue": "104M"
+  },
+  {
+    "cluster": "electronics",
+    "apollo_id": "6a325c6b6b1fce0001acee99",
+    "name": "Raqtan",
+    "domain": "raqtan.com",
+    "naics": "33299,423440,561210",
+    "sic": "5084",
+    "founded_year": 1976,
+    "revenue": null
+  },
+  {
+    "cluster": "electronics",
+    "apollo_id": "6a325c6b6b1fce0001acee95",
+    "name": "Ahmed Abdulwahed Co.",
+    "domain": "",
+    "naics": "4492,42362,42345",
+    "sic": "",
+    "founded_year": null,
+    "revenue": null
+  },
+  {
+    "cluster": "electronics",
+    "apollo_id": "6a359664f9775d00014472f7",
+    "name": "Al-Babtain Power & Telecommunication Co.",
+    "domain": "al-babtain.com.sa",
+    "naics": "33531,332312,335132",
+    "sic": "3621",
+    "founded_year": 1955,
+    "revenue": "761.8M"
+  },
+  {
+    "cluster": "electronics",
+    "apollo_id": "6a3596bdf9775d000144ad5b",
+    "name": "ekuep.com",
+    "domain": "ekuep.com",
+    "naics": "42344",
+    "sic": "5085",
+    "founded_year": 2015,
+    "revenue": null
+  },
+  {
+    "cluster": "electronics",
+    "apollo_id": "6a3596bcf9775d000144acf8",
+    "name": "NAQI نقي",
+    "domain": "naqi.sa",
+    "naics": "31211,44921",
+    "sic": "2082",
+    "founded_year": 2018,
+    "revenue": "58M"
+  },
+  {
+    "cluster": "electronics",
+    "apollo_id": "6a35965af9775d0001446bac",
+    "name": "Ram Clincs",
+    "domain": "ramclinics.net",
+    "naics": "62111,621498,621210",
+    "sic": "8011,8021",
+    "founded_year": 2007,
+    "revenue": "52.6M"
+  },
+  {
+    "cluster": "furniture",
+    "apollo_id": "6044a6fa658c8500a4de02f8",
+    "name": "Creative Closets",
+    "domain": "creativeclosetsme.com",
+    "naics": "337212,541410",
+    "sic": "",
+    "founded_year": 1997,
+    "revenue": "32.9M"
+  },
+  {
+    "cluster": "furniture",
+    "apollo_id": "604a25e8e2893900018e019d",
+    "name": "DOME FURNITURE",
+    "domain": "domefurniture.com",
+    "naics": "44911",
+    "sic": "5712",
+    "founded_year": 1993,
+    "revenue": null
+  },
+  {
+    "cluster": "furniture",
+    "apollo_id": "5b13808ea6da98dd13859f67",
+    "name": "Dimos Furniture | ديموس اثــــاث",
+    "domain": "dimos.com.sa",
+    "naics": "442110,454110,541410",
+    "sic": "5712,5961,7389",
+    "founded_year": 2006,
+    "revenue": null
+  },
+  {
+    "cluster": "furniture",
+    "apollo_id": "65470b4d312f5f0001d02e8a",
+    "name": "Alhajri Furniture",
+    "domain": "hajrist.com",
+    "naics": "337122,44911",
+    "sic": "2511,5712",
+    "founded_year": 2015,
+    "revenue": null
+  },
+  {
+    "cluster": "furniture",
+    "apollo_id": "6427d036d0a95c00d96e8660",
+    "name": "LaScala Furniture Company",
+    "domain": "lascalafurniture.com",
+    "naics": "",
+    "sic": "",
+    "founded_year": 2022,
+    "revenue": null
+  },
+  {
+    "cluster": "furniture",
+    "apollo_id": "57c489a1a6da9815f5fca8a8",
+    "name": "Saudi Modern Factory For Steel and Wooden Furniture",
+    "domain": "smf.com.sa",
+    "naics": "337127",
+    "sic": "",
+    "founded_year": 1965,
+    "revenue": null
+  },
+  {
+    "cluster": "furniture",
+    "apollo_id": "682f03141fed830001e5c81d",
+    "name": "Value’s Home Furniture eg",
+    "domain": "",
+    "naics": "",
+    "sic": "",
+    "founded_year": 2004,
+    "revenue": null
+  },
+  {
+    "cluster": "furniture",
+    "apollo_id": "5da550a6cef49f000161031a",
+    "name": "AlJraiwy Furniture",
+    "domain": "aljerawy.com",
+    "naics": "337121,337122,339999",
+    "sic": "2512,2511",
+    "founded_year": 1966,
+    "revenue": null
+  },
+  {
+    "cluster": "furniture",
+    "apollo_id": "635241200c994c008c5334b2",
+    "name": "EurotecSaudi",
+    "domain": "eurotec.sa.com",
+    "naics": "423390,423710",
+    "sic": "",
+    "founded_year": 2006,
+    "revenue": null
+  },
+  {
+    "cluster": "furniture",
+    "apollo_id": "672f5f1ae4b42100019c9da9",
+    "name": "L’ATELIER DE L’ART",
+    "domain": "ideahouse.com.sa",
+    "naics": "",
+    "sic": "",
+    "founded_year": 1990,
+    "revenue": null
+  },
+  {
+    "cluster": "furniture",
+    "apollo_id": "55ea5957f3e5bb5987004a37",
+    "name": "Saudi Company for Development of Construction & Trading Ltd.",
+    "domain": "sacodeco.com",
+    "naics": "238390,337121,327420",
+    "sic": "",
+    "founded_year": 1990,
+    "revenue": null
+  },
+  {
+    "cluster": "furniture",
+    "apollo_id": "620b7692a86b5200a50e86ac",
+    "name": "SleepTimeKsa",
+    "domain": "sleeptimeksa.com",
+    "naics": "",
+    "sic": "",
+    "founded_year": 1979,
+    "revenue": null
+  },
+  {
+    "cluster": "furniture",
+    "apollo_id": "6049ea1340b572000136a46f",
+    "name": "Dar Al Hadaya",
+    "domain": "drupaledi.com",
+    "naics": "337122",
+    "sic": "2511",
+    "founded_year": 1969,
+    "revenue": null
+  },
+  {
+    "cluster": "furniture",
+    "apollo_id": "5da4f8de59807800014e1f3b",
+    "name": "Maan Aljasser & Co.",
+    "domain": "",
+    "naics": "337122",
+    "sic": "",
+    "founded_year": 1997,
+    "revenue": null
+  },
+  {
+    "cluster": "furniture",
+    "apollo_id": "6727b76b3ca5f70001a481c8",
+    "name": "TIMBER HOUSE- بيت الاخشاب",
+    "domain": "",
+    "naics": "337122",
+    "sic": "2511",
+    "founded_year": 2020,
+    "revenue": null
+  },
+  {
+    "cluster": "furniture",
+    "apollo_id": "699455f9561a000001e684c4",
+    "name": "Modern Furniture & Events",
+    "domain": "themodernfurnitures.com",
+    "naics": "",
+    "sic": "",
+    "founded_year": 2014,
+    "revenue": null
+  },
+  {
+    "cluster": "furniture",
+    "apollo_id": "614e9998f2f2e8000109d06c",
+    "name": "Abouseoud Furniture Factories Co.",
+    "domain": "abouseoud.com",
+    "naics": "337122",
+    "sic": "2511",
+    "founded_year": 1978,
+    "revenue": null
+  },
+  {
+    "cluster": "furniture",
+    "apollo_id": "5ed09c65aac5690001b794d4",
+    "name": "Safwa Furniture",
+    "domain": "safwafurniture.com",
+    "naics": "33721,449110,541410",
+    "sic": "2512,5712,7389",
+    "founded_year": null,
+    "revenue": null
+  },
+  {
+    "cluster": "furniture",
+    "apollo_id": "559212bd7369641865df5100",
+    "name": "Al Mana Galleria",
+    "domain": "almanagalleria.com.qa",
+    "naics": "449110,238390",
+    "sic": "",
+    "founded_year": null,
+    "revenue": null
+  },
+  {
+    "cluster": "furniture",
+    "apollo_id": "66fbb6c3c3f803000191ae2f",
+    "name": "Foamco Furniture SA",
+    "domain": "",
+    "naics": "",
+    "sic": "",
+    "founded_year": 2016,
+    "revenue": null
+  },
+  {
+    "cluster": "furniture",
+    "apollo_id": "55e830cdf3e5bb667a0001b7",
+    "name": "LoftByEtab",
+    "domain": "loftstore.com",
+    "naics": "449110",
+    "sic": "5712",
+    "founded_year": 2015,
+    "revenue": null
+  },
+  {
+    "cluster": "furniture",
+    "apollo_id": "696b870d77556c000103fe87",
+    "name": "La Maison Dorèe",
+    "domain": "lamaisondoree.com",
+    "naics": "",
+    "sic": "",
+    "founded_year": null,
+    "revenue": null
+  },
+  {
+    "cluster": "furniture",
+    "apollo_id": "620b56299bb280008debaf2d",
+    "name": "Homes Furniture",
+    "domain": "homesfurniture.sa",
+    "naics": "449110",
+    "sic": "5712",
+    "founded_year": null,
+    "revenue": null
+  },
+  {
+    "cluster": "furniture",
+    "apollo_id": "63b9d4555869c60001c3bcbb",
+    "name": "Elite Lines Factory",
+    "domain": "elitelines.com.sa",
+    "naics": "337,541410",
+    "sic": "",
+    "founded_year": 2021,
+    "revenue": null
+  },
+  {
+    "cluster": "furniture",
+    "apollo_id": "60af76774bb1210001e22999",
+    "name": "Esfen Furniture | إسفين للأثاث",
+    "domain": "esfen.com",
+    "naics": "",
+    "sic": "",
+    "founded_year": 2018,
+    "revenue": null
+  },
+  {
+    "cluster": "furniture",
+    "apollo_id": "61ad4cd9db74e90001afc65c",
+    "name": "Alomary office furniture company",
+    "domain": "alomary.sa",
+    "naics": "",
+    "sic": "",
+    "founded_year": 1980,
+    "revenue": null
+  },
+  {
+    "cluster": "furniture",
+    "apollo_id": "63ff64947c4c5500a30f9fd4",
+    "name": "Razin Furniture Co.",
+    "domain": "razin.com",
+    "naics": "33721,337110,337122",
+    "sic": "2512,2511",
+    "founded_year": 1994,
+    "revenue": null
+  },
+  {
+    "cluster": "furniture",
+    "apollo_id": "5c22926df651256ccc803ad8",
+    "name": "AL-ASFOUR FURNITURE Co. Ltd.",
+    "domain": "alasfour.sa",
+    "naics": "337121,449110",
+    "sic": "",
+    "founded_year": 1968,
+    "revenue": null
+  },
+  {
+    "cluster": "furniture",
+    "apollo_id": "57c4f79ba6da986a1f192f1d",
+    "name": "AL MOUSA Co. Ltd.",
+    "domain": "al-mousa.sa",
+    "naics": "238220,423830,541330",
+    "sic": "1711,5084,8711",
+    "founded_year": 1984,
+    "revenue": null
+  },
+  {
+    "cluster": "furniture",
+    "apollo_id": "64dca74f6cc36e00a3185aa4",
+    "name": "Saudi Damons",
+    "domain": "saudi-damons.com",
+    "naics": "337214,541410",
+    "sic": "",
+    "founded_year": null,
+    "revenue": null
+  },
+  {
+    "cluster": "furniture",
+    "apollo_id": "61eb8740abc5630001a2ddec",
+    "name": "Saudi Furniture",
+    "domain": "saudifurnitures.com",
+    "naics": "423210,449110",
+    "sic": "5999",
+    "founded_year": 2007,
+    "revenue": null
+  },
+  {
+    "cluster": "furniture",
+    "apollo_id": "688ae4c466546d0001ec21d3",
+    "name": "Rawaa Furniture",
+    "domain": "",
+    "naics": "449110",
+    "sic": "5712",
+    "founded_year": 1985,
+    "revenue": null
+  },
+  {
+    "cluster": "furniture",
+    "apollo_id": "60b0a17be4087f000149f62f",
+    "name": "hindalmujahed",
+    "domain": "hindalmujahed.com.sa",
+    "naics": "541410,3371",
+    "sic": "",
+    "founded_year": null,
+    "revenue": null
+  },
+  {
+    "cluster": "furniture",
+    "apollo_id": "5e5640db1dcc380001cdcf82",
+    "name": "SleepWell furniture",
+    "domain": "sleepwell-qa.com",
+    "naics": "337,42321",
+    "sic": "",
+    "founded_year": 2018,
+    "revenue": null
+  },
+  {
+    "cluster": "furniture",
+    "apollo_id": "5ed733c54147a30001d92a14",
+    "name": "Sawaed Wood Industries Co.",
+    "domain": "",
+    "naics": "337122",
+    "sic": "",
+    "founded_year": 1999,
+    "revenue": null
+  },
+  {
+    "cluster": "furniture",
+    "apollo_id": "5a9e2547a6da98d97e7aa0e8",
+    "name": "International Company For Furniture الشركة العالمية للأثاث",
+    "domain": "icf.sa",
+    "naics": "337121,449110",
+    "sic": "",
+    "founded_year": 1967,
+    "revenue": null
+  },
+  {
+    "cluster": "furniture",
+    "apollo_id": "6336d161fa75fc00a38eacac",
+    "name": "Arabian Furniture & Design",
+    "domain": "",
+    "naics": "",
+    "sic": "",
+    "founded_year": 1964,
+    "revenue": null
+  },
+  {
+    "cluster": "furniture",
+    "apollo_id": "6636da0e6dde3d0001118c62",
+    "name": "SAUDI FITOUT",
+    "domain": "saudifitout.com",
+    "naics": "238390,337212",
+    "sic": "",
+    "founded_year": 2003,
+    "revenue": null
+  },
+  {
+    "cluster": "furniture",
+    "apollo_id": "5fcacb4b45cfab000119cd07",
+    "name": "BTT® furniture & construction",
+    "domain": "badaeltech.com",
+    "naics": "33721,33712",
+    "sic": "2512",
+    "founded_year": 2008,
+    "revenue": null
+  },
+  {
+    "cluster": "furniture",
+    "apollo_id": "641d5b55279d1900f026035b",
+    "name": "AAF GROUP",
+    "domain": "",
+    "naics": "31-33",
+    "sic": "",
+    "founded_year": 1979,
+    "revenue": null
+  },
+  {
+    "cluster": "furniture",
+    "apollo_id": "5cb70c9b80f93ecb372c339e",
+    "name": "Mohammed R M Alsuwaigh Est for furniture",
+    "domain": "suwaigh.com.sa",
+    "naics": "337211,337214",
+    "sic": "",
+    "founded_year": 1978,
+    "revenue": null
+  },
+  {
+    "cluster": "furniture",
+    "apollo_id": "5569bc657369642589588a00",
+    "name": "Qatar Living®",
+    "domain": "qatarliving.com",
+    "naics": "519,51621",
+    "sic": "7361",
+    "founded_year": 2005,
+    "revenue": "3.2M"
+  },
+  {
+    "cluster": "furniture",
+    "apollo_id": "5ed28b2bce2908000160a694",
+    "name": "foamco.sa",
+    "domain": "abulessafactory.com",
+    "naics": "337121,337910,449110",
+    "sic": "2512,5712",
+    "founded_year": 2016,
+    "revenue": null
+  },
+  {
+    "cluster": "furniture",
+    "apollo_id": "559208a273696418814a2c00",
+    "name": "Gulf Furnishings",
+    "domain": "",
+    "naics": "44911",
+    "sic": "",
+    "founded_year": null,
+    "revenue": null
+  },
+  {
+    "cluster": "furniture",
+    "apollo_id": "65006dbc85ff9c00f9d6398d",
+    "name": "RAM International",
+    "domain": "ramintlco.com",
+    "naics": "238390,337212,541410",
+    "sic": "",
+    "founded_year": 1999,
+    "revenue": "2.0M"
+  },
+  {
+    "cluster": "furniture",
+    "apollo_id": "60af3080071292000162e663",
+    "name": "Al Dar Al Jameela",
+    "domain": "aldaraljameela.com",
+    "naics": "337127,541410",
+    "sic": "",
+    "founded_year": 2006,
+    "revenue": null
+  },
+  {
+    "cluster": "furniture",
+    "apollo_id": "5b8432e8f874f7715d472e74",
+    "name": "Projects World Co.",
+    "domain": "projects-world.com",
+    "naics": "33711,44911,54141",
+    "sic": "7389,5712",
+    "founded_year": 2012,
+    "revenue": null
+  },
+  {
+    "cluster": "furniture",
+    "apollo_id": "5e57d8e70d084800015e58db",
+    "name": "Maya Interiors",
+    "domain": "mayainteriors.com",
+    "naics": "541410,449110",
+    "sic": "7389,5712",
+    "founded_year": null,
+    "revenue": null
+  },
+  {
+    "cluster": "furniture",
+    "apollo_id": "6a325c6c6b1fce0001acefd4",
+    "name": "MAZ HOLDING",
+    "domain": "mazholding.sa",
+    "naics": "33911,337910,449110,488510",
+    "sic": "5021",
+    "founded_year": 1970,
+    "revenue": null
+  },
+  {
+    "cluster": "furniture",
+    "apollo_id": "6a3a6275a7f9fd000ca9bb4e",
+    "name": "Woody Furniture",
+    "domain": "woody.com.sa",
+    "naics": "44911",
+    "sic": "5712",
+    "founded_year": null,
+    "revenue": null
+  },
+  {
+    "cluster": "furniture",
+    "apollo_id": "6a325c6a6b1fce0001acede8",
+    "name": "GUTHMI Group",
+    "domain": "guthmi.net",
+    "naics": "31321,31412",
+    "sic": "",
+    "founded_year": 1940,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "6577c8cf58b1680198ff5a1e",
+    "name": "Gharafa Stationery",
+    "domain": "gharafas.com",
+    "naics": "45941",
+    "sic": "5191,5943",
+    "founded_year": 1989,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "5fc8cb2dbd5d6b0001d79e2b",
+    "name": "WISTER",
+    "domain": "wister-sa.com",
+    "naics": "51821,5171,51621",
+    "sic": "4899",
+    "founded_year": 2018,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "640d68288b5a5c0001e05dd7",
+    "name": "SAMACO Toys & Leisure",
+    "domain": "samacotoysandleisure.com",
+    "naics": "42399,423910",
+    "sic": "5099",
+    "founded_year": 1975,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "5eaea2a560568f008c2ae714",
+    "name": "Jawlah | جولة",
+    "domain": "jawlah.co",
+    "naics": "56151,519290",
+    "sic": "",
+    "founded_year": 2019,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "5569a7b473696425db866e00",
+    "name": "Jamjoom General Agencies جمجوم للوكالات العامة",
+    "domain": "jamjoom-agencies.com",
+    "naics": "42412,42499",
+    "sic": "",
+    "founded_year": 1978,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "623fc70f812c2100012f5c13",
+    "name": "Wasit Saudi Corp",
+    "domain": "wasitksa.com",
+    "naics": "611699,713990",
+    "sic": "",
+    "founded_year": 2021,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "674ba146edc4380001ca0e57",
+    "name": "Tigro App",
+    "domain": "tigro.app",
+    "naics": "459120",
+    "sic": "5999,5945",
+    "founded_year": 2024,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "6049f738ca90a90001b20e3c",
+    "name": "Petsmarket",
+    "domain": "petsmarket.com",
+    "naics": "454110",
+    "sic": "5999",
+    "founded_year": 2018,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "5e5601264636bd0001e73f7a",
+    "name": "Teeela",
+    "domain": "teeela.com",
+    "naics": "44-45",
+    "sic": "5191",
+    "founded_year": 2018,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "60b1d5615d336000011c4b94",
+    "name": "GCCTIC",
+    "domain": "motabaqah.com.sa",
+    "naics": "54138",
+    "sic": "8734",
+    "founded_year": 2006,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "614edf6775ecd80001978254",
+    "name": "Tech & Toys",
+    "domain": "techntoys.com",
+    "naics": "44-45,4599",
+    "sic": "5099",
+    "founded_year": null,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "6336928dc180f900e2648367",
+    "name": "Toys 4 Joy",
+    "domain": "toys4joy.com",
+    "naics": "454110",
+    "sic": "5099,5961",
+    "founded_year": null,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "62170a5a792fc4000189e213",
+    "name": "Arab Center for Research and Policy Studies المركز العربي للأبحاث ودراسة السياسات",
+    "domain": "dohainstitute.org",
+    "naics": "541720",
+    "sic": "",
+    "founded_year": null,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "5e55d19321e69a00012581fb",
+    "name": "4Sale International Co.",
+    "domain": "q84sale.com",
+    "naics": "519290",
+    "sic": "7375",
+    "founded_year": 2011,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "5da50823f5d5bf00017a3545",
+    "name": "Muntajat | منتجات",
+    "domain": "muntajat.sa",
+    "naics": "42499",
+    "sic": "5099",
+    "founded_year": 2005,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "66087b1b9ea8f300076152b6",
+    "name": "Pet Point For pet supplies",
+    "domain": "petpointkw.com",
+    "naics": "453910,812910",
+    "sic": "5999",
+    "founded_year": 2018,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "65bee9f19b443200015a4cd4",
+    "name": "Delicious Food Factory (DFF)",
+    "domain": "horayra.life",
+    "naics": "311111",
+    "sic": "2099,2096",
+    "founded_year": 2020,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "5da298e82b3e000001af21d2",
+    "name": "QATAR PRESS",
+    "domain": "2qpress.com",
+    "naics": "323111,323113,323117",
+    "sic": "2752,2759",
+    "founded_year": 2005,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "60a23970b22f5a00d9ff5d09",
+    "name": "Andorra Village",
+    "domain": "andorravillage.net",
+    "naics": "53112,531311",
+    "sic": "6512,6513",
+    "founded_year": null,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "63bd4b68ece1c800a3f4f973",
+    "name": "حكاية طفل | Baby Story",
+    "domain": "baby-story.com",
+    "naics": "459120",
+    "sic": "5099,5945",
+    "founded_year": 1985,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "5da48b94f09b160001d64ce2",
+    "name": "Yuehlia | يوليا",
+    "domain": "yuehlia.com",
+    "naics": "44-45",
+    "sic": "5191",
+    "founded_year": 2019,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "6333edbe82c5d400cb5684cf",
+    "name": "Tambah",
+    "domain": "tambahkw.com",
+    "naics": "",
+    "sic": "5099",
+    "founded_year": 2022,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "5c209082f65125d4926a48b5",
+    "name": "Yahaal",
+    "domain": "yahaal.com",
+    "naics": "454110,519290",
+    "sic": "5099,5961,7375",
+    "founded_year": 2017,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "5d4910af2dc8d0096883e339",
+    "name": "Pet Barn",
+    "domain": "petbarnkw.com",
+    "naics": "45991,812910",
+    "sic": "5099,5999",
+    "founded_year": 2018,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "641aca7db9fa0000016d9c34",
+    "name": "Toys_Lab",
+    "domain": "toys-lab.com",
+    "naics": "459120",
+    "sic": "5099,5945",
+    "founded_year": 2013,
+    "revenue": "5.3M"
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "5e563bf5278d3a0001b00b79",
+    "name": "MINISO Saudi Arabia",
+    "domain": "miniso.sa",
+    "naics": "455219",
+    "sic": "5331",
+    "founded_year": 2017,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "65071277f2aeb000017f9dd8",
+    "name": "DAR AL RAYYAN TRDG & CONT WLL - DOHA, QATAR",
+    "domain": "",
+    "naics": "424110,424120",
+    "sic": "5111,5112",
+    "founded_year": 2009,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "61acf1ff07e5590001b612b3",
+    "name": "ALMOTHALATH",
+    "domain": "almothalath.sa",
+    "naics": "",
+    "sic": "",
+    "founded_year": 1990,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "66bb6ca386d1fd02d16093ca",
+    "name": "Rawan Stationery",
+    "domain": "rawanstationery.com",
+    "naics": "",
+    "sic": "5999",
+    "founded_year": null,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "6161f728a4a80b0001569536",
+    "name": "UFFF GROUP COMPANY",
+    "domain": "ufff.com",
+    "naics": "459120",
+    "sic": "5099,5945",
+    "founded_year": 2018,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "6504338c0b86170001c78d45",
+    "name": "Bahamdoon Trading Company",
+    "domain": "bahamdoon.com",
+    "naics": "44911,45941,44921",
+    "sic": "5099",
+    "founded_year": 1983,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "6472212426758000012b8a5a",
+    "name": "Oloom and Hikam Bookstore",
+    "domain": "oloomhikam.com",
+    "naics": "",
+    "sic": "",
+    "founded_year": 1973,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "5e57873dfefac20001600b9e",
+    "name": "Gift Shed",
+    "domain": "giftshed.com",
+    "naics": "",
+    "sic": "7389",
+    "founded_year": null,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "6172c67f535b1b00a40c9a49",
+    "name": "BLOCKAT - بلوكات",
+    "domain": "blockatapp.com",
+    "naics": "519290",
+    "sic": "",
+    "founded_year": 2021,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "5a9dfc83a6da98d932e3c241",
+    "name": "Alshawaf Group",
+    "domain": "alshawafgroup.com",
+    "naics": "42331,423390,423810,541810",
+    "sic": "1541",
+    "founded_year": 1978,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "6473cad95050580001da902e",
+    "name": "SANAD Gulf Trading",
+    "domain": "sanadgulf.com",
+    "naics": "",
+    "sic": "",
+    "founded_year": 2023,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "63c52e6ae1ccc7008bff301b",
+    "name": "MIQYASS FOR TECHNICAL CONSULTING.",
+    "domain": "miqyassconsult.com",
+    "naics": "54169,541611,541512",
+    "sic": "8731,8742,7371",
+    "founded_year": null,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "5ed5c2e3136b690001bab468",
+    "name": "BelovedOne",
+    "domain": "belovedone.com",
+    "naics": "454110,458110",
+    "sic": "5099",
+    "founded_year": 2015,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "60b2d8076b286200014c9c5a",
+    "name": "Mumuso Qatar",
+    "domain": "mumuso.com",
+    "naics": "459999",
+    "sic": "5999",
+    "founded_year": 2014,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "640416bd46f4a4000106d0e5",
+    "name": "Jamal Baghlaf Holding Group (JBHG)",
+    "domain": "jbaghlaf.com",
+    "naics": "56192,111339,112320,311119,531390",
+    "sic": "",
+    "founded_year": null,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "64a1e825c07d60000137487f",
+    "name": "Masco Saudi Arabia",
+    "domain": "mascoonline.com",
+    "naics": "454110",
+    "sic": "5099",
+    "founded_year": 2000,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "66fe51b0f24252000183a3e1",
+    "name": "Al Nisr Al Arabi for Export & Import and Commissionable Agent Company",
+    "domain": "alnisralarabi.com",
+    "naics": "",
+    "sic": "",
+    "founded_year": 2024,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "5ed2492dee41fb00012e829e",
+    "name": "Toys Brand Trading Co. LLC",
+    "domain": "toysbrand.com.sa",
+    "naics": "423910",
+    "sic": "",
+    "founded_year": 2018,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "62a835cfcc4f6700ca08cc68",
+    "name": "dbassa",
+    "domain": "dbassa.com",
+    "naics": "454110",
+    "sic": "",
+    "founded_year": 2016,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "62170c4d82a7aa00019b801b",
+    "name": "Toy & Surprise - لعبة ومفاجأة",
+    "domain": "toyandsurprise.com",
+    "naics": "459120",
+    "sic": "5099",
+    "founded_year": 2020,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "636fb156b55ebd000127f5ac",
+    "name": "Private Office of Princes  Khalida Zaki mohamed Thunaian al saud",
+    "domain": "princes.com",
+    "naics": "",
+    "sic": "5099",
+    "founded_year": null,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "61c4850fb00be700a4faea89",
+    "name": "LIL BUNNIES - THE COLLECTIVE",
+    "domain": "lilbunnies.com",
+    "naics": "",
+    "sic": "5099",
+    "founded_year": 2021,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "6612921058c1250006335a57",
+    "name": "Bayt Al Aleefa",
+    "domain": "baytalaleefa.com",
+    "naics": "",
+    "sic": "",
+    "founded_year": 2018,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "54a1361769702d2f9fbd3e01",
+    "name": "IIPH - International Islamic Publishing House",
+    "domain": "iiph.com",
+    "naics": "519,513130",
+    "sic": "2731",
+    "founded_year": 1982,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "61eb981e093b0e00019db6be",
+    "name": "Aleephonline",
+    "domain": "aleephonline.com",
+    "naics": "",
+    "sic": "5099",
+    "founded_year": null,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "66d2d181f13ced00014a579c",
+    "name": "AlFursan Holding | الفرسان القابضة",
+    "domain": "alfursan-holding.sa",
+    "naics": "71312,311941,42,49311",
+    "sic": "7993",
+    "founded_year": null,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "6656f717d757a304a404d94c",
+    "name": "Alfuhod",
+    "domain": "alfuhod.com",
+    "naics": "44-45",
+    "sic": "5734",
+    "founded_year": 1998,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "5da3d32403225e0001ec5154",
+    "name": "CityStar Kuwait",
+    "domain": "citystarstoresonline.com",
+    "naics": "455219",
+    "sic": "5999",
+    "founded_year": 1998,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "612706921dc9dc00017aa4e2",
+    "name": "Takween Bookstore & Publishing House",
+    "domain": "takweenkw.com",
+    "naics": "5231,513130,45921",
+    "sic": "",
+    "founded_year": null,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "5da637b18f6a7f0001cbced6",
+    "name": "Sand Brush",
+    "domain": "surfbrush.com",
+    "naics": "33992",
+    "sic": "3999",
+    "founded_year": 2012,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "62eb5a44a0f2610001fb3784",
+    "name": "FAHES SA",
+    "domain": "fahes.com.sa",
+    "naics": "541380,541611",
+    "sic": "8734,8742",
+    "founded_year": 2021,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "6267ab0159e01e00d8e392f8",
+    "name": "SAITCO",
+    "domain": "saitco.com.sa",
+    "naics": "54138",
+    "sic": "8731,8734",
+    "founded_year": null,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "61600e6c20d97f0001461b2f",
+    "name": "Usedo | يوزدو",
+    "domain": "usedoapp.com",
+    "naics": "51929,45999",
+    "sic": "5191",
+    "founded_year": null,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "64a23a05e44b820001a2386c",
+    "name": "zarafa | زرافة",
+    "domain": "zarafaksa.com",
+    "naics": "459910",
+    "sic": "5999",
+    "founded_year": null,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "55e90f7bf3e5bb6f9a0001d0",
+    "name": "Mogahwi Stationery & Office Equipment",
+    "domain": "mogahwi.com.kw",
+    "naics": "45941",
+    "sic": "5191,5943",
+    "founded_year": 1942,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "64bd01165ede200001df45b2",
+    "name": "SuperPets_SA",
+    "domain": "superpets.com.sa",
+    "naics": "459910",
+    "sic": "5999",
+    "founded_year": null,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "64a3db510524b50001994706",
+    "name": "Dababees",
+    "domain": "dababees.com",
+    "naics": "4441,512110,541490",
+    "sic": "5211,7812,5699",
+    "founded_year": 2020,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "6a325c6b6b1fce0001acee9c",
+    "name": "Tasweeq - Toys R Us KSA",
+    "domain": "toysrus.com.sa",
+    "naics": "451120",
+    "sic": "5099",
+    "founded_year": 1996,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "6a3596c4f9775d000144b12b",
+    "name": "Bleems",
+    "domain": "bleems.com",
+    "naics": "44-45,51",
+    "sic": "5999,5961",
+    "founded_year": 2012,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "6a3596bcf9775d000144ad45",
+    "name": "Toy Triangle LLC.",
+    "domain": "toytriangle.com",
+    "naics": "423990,424990",
+    "sic": "5099",
+    "founded_year": 1991,
+    "revenue": "102M"
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "6a325c6d6b1fce0001acf0e8",
+    "name": "FirstCry Middle East",
+    "domain": "firstcry.sa",
+    "naics": "44-45",
+    "sic": "5999",
+    "founded_year": null,
+    "revenue": "31M"
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "6a35325ad704a3002058d680",
+    "name": "TOYLAND KSA",
+    "domain": "toyland.com.sa",
+    "naics": "459",
+    "sic": "5099",
+    "founded_year": 1985,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "6a3596c4f9775d000144b111",
+    "name": "Fantasy World",
+    "domain": "fantasyworldtoys.com",
+    "naics": "459120",
+    "sic": "5945",
+    "founded_year": 1996,
+    "revenue": "10M"
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "6a35965ef9775d0001446fa5",
+    "name": "wrraqoon",
+    "domain": "wrraqoon.com",
+    "naics": "",
+    "sic": "5191",
+    "founded_year": null,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "6a325c6c6b1fce0001acf070",
+    "name": "Al Haram Plaza  الهرم بلازا",
+    "domain": "",
+    "naics": "458110",
+    "sic": "",
+    "founded_year": null,
+    "revenue": null
+  },
+  {
+    "cluster": "general_merch",
+    "apollo_id": "6a325c6d6b1fce0001acf0dd",
+    "name": "شركة عال الكيف التجارية",
+    "domain": "aalalkaif.com",
+    "naics": "445298",
+    "sic": "",
+    "founded_year": 1957,
+    "revenue": null
+  }
+]

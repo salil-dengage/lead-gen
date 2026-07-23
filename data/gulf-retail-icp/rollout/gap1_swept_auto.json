@@ -1,0 +1,530 @@
+[
+  {
+    "domain": "aljerawy.com",
+    "verdict": "OUT",
+    "category_final": "n/a",
+    "reason": "DEAD: http_code=000, no live site found"
+  },
+  {
+    "domain": "alharfashgroup.com",
+    "verdict": "OUT",
+    "category_final": "n/a",
+    "reason": "DEAD: http_code=000, no live site found"
+  },
+  {
+    "domain": "alasfour.sa",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "domain": "aleephonline.com",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "domain": "alnisralarabi.com",
+    "verdict": "OUT",
+    "category_final": "n/a",
+    "reason": "DEAD: http_code=000, no live site found"
+  },
+  {
+    "domain": "almalki.com",
+    "verdict": "OUT",
+    "category_final": "logistics_b2b",
+    "reason": "keyword match: logistics_b2b"
+  },
+  {
+    "domain": "almanagalleria.com.qa",
+    "verdict": "OUT",
+    "category_final": "marine_dealership",
+    "reason": "keyword match: marine_dealership"
+  },
+  {
+    "domain": "alnasaem.com",
+    "verdict": "OUT",
+    "category_final": "building_materials",
+    "reason": "keyword match: building_materials"
+  },
+  {
+    "domain": "alshaya.com",
+    "verdict": "OUT",
+    "category_final": "n/a",
+    "reason": "DEAD: http_code=000, no live site found"
+  },
+  {
+    "domain": "alomary.sa",
+    "verdict": "OUT",
+    "category_final": "building_materials",
+    "reason": "keyword match: building_materials"
+  },
+  {
+    "domain": "almothalath.sa",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "domain": "alfardan.com.qa",
+    "verdict": "OUT",
+    "category_final": "building_materials",
+    "reason": "keyword match: building_materials"
+  },
+  {
+    "domain": "alwafahyper.com",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "domain": "beautyboothqa.com",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "domain": "belovedone.com",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "domain": "baytalaleefa.com",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "domain": "alshiaka.com",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "domain": "bjbeauty.co",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "domain": "bg-qa.com",
+    "verdict": "OUT",
+    "category_final": "n/a",
+    "reason": "DEAD_HTTP: http_code=502, no live site found"
+  },
+  {
+    "domain": "attarunited.com",
+    "verdict": "OUT",
+    "category_final": "building_materials",
+    "reason": "keyword match: building_materials"
+  },
+  {
+    "domain": "dababees.com",
+    "verdict": "OUT",
+    "category_final": "placeholder_or_dead",
+    "reason": "keyword match: placeholder_or_dead"
+  },
+  {
+    "domain": "cavalierperfumes.com",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "domain": "daralamirat.com.sa",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "domain": "daffah.sa",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "domain": "dbassa.com",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "domain": "baby-story.com",
+    "verdict": "OUT",
+    "category_final": "building_materials",
+    "reason": "keyword match: building_materials"
+  },
+  {
+    "domain": "domefurniture.com",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "domain": "etoilegroups.com",
+    "verdict": "OUT",
+    "category_final": "wholesale_distribution",
+    "reason": "keyword match: wholesale_distribution"
+  },
+  {
+    "domain": "giftshed.com",
+    "verdict": "OUT",
+    "category_final": "n/a",
+    "reason": "DEAD: http_code=000, no live site found"
+  },
+  {
+    "domain": "doctorqshop.com",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "domain": "fantasyworldtoys.com",
+    "verdict": "OUT",
+    "category_final": "building_materials",
+    "reason": "keyword match: building_materials"
+  },
+  {
+    "domain": "dimos.com.sa",
+    "verdict": "OUT",
+    "category_final": "building_materials",
+    "reason": "keyword match: building_materials"
+  },
+  {
+    "domain": "homesfurniture.sa",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "domain": "kaffary.com",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "domain": "gharafas.com",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "domain": "firstcry.sa",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "domain": "lascalafurniture.com",
+    "verdict": "OUT",
+    "category_final": "manufacturing",
+    "reason": "keyword match: manufacturing"
+  },
+  {
+    "domain": "ideahouse.com.sa",
+    "verdict": "OUT",
+    "category_final": "interior_design_b2b",
+    "reason": "keyword match: interior_design_b2b"
+  },
+  {
+    "domain": "loftstore.com",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "domain": "ikaf.net",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "domain": "lagatesa.com",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "domain": "mayainteriors.com",
+    "verdict": "OUT",
+    "category_final": "n/a",
+    "reason": "DEAD: http_code=000, no live site found"
+  },
+  {
+    "domain": "mascoonline.com",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "domain": "metrobrazil.com",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "domain": "linesideas.com",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "domain": "miniso.sa",
+    "verdict": "OUT",
+    "category_final": "building_materials",
+    "reason": "keyword match: building_materials"
+  },
+  {
+    "domain": "lamaisondoree.com",
+    "verdict": "OUT",
+    "category_final": "automotive",
+    "reason": "keyword match: automotive"
+  },
+  {
+    "domain": "myriadbeauty.com",
+    "verdict": "OUT",
+    "category_final": "n/a",
+    "reason": "DEAD_HTTP: http_code=404, no live site found"
+  },
+  {
+    "domain": "mumuso.com",
+    "verdict": "OUT",
+    "category_final": "n/a",
+    "reason": "DEAD: http_code=000, no live site found"
+  },
+  {
+    "domain": "nahdi.sa",
+    "verdict": "OUT",
+    "category_final": "n/a",
+    "reason": "DEAD_HTTP: http_code=500, no live site found"
+  },
+  {
+    "domain": "mogahwi.com.kw",
+    "verdict": "OUT",
+    "category_final": "automotive",
+    "reason": "keyword match: automotive"
+  },
+  {
+    "domain": "noon.com",
+    "verdict": "OUT",
+    "category_final": "n/a",
+    "reason": "DEAD: http_code=000, no live site found"
+  },
+  {
+    "domain": "oloomhikam.com",
+    "verdict": "OUT",
+    "category_final": "n/a",
+    "reason": "DEAD: http_code=000, no live site found"
+  },
+  {
+    "domain": "odecla.com",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "domain": "naqi.sa",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "domain": "o-100.com",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "domain": "brandatt.com",
+    "verdict": "OUT",
+    "category_final": "n/a",
+    "reason": "DEAD: http_code=000, no live site found"
+  },
+  {
+    "domain": "petbarnkw.com",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "domain": "princes.com",
+    "verdict": "OUT",
+    "category_final": "automotive",
+    "reason": "keyword match: automotive"
+  },
+  {
+    "domain": "platinumcorp.co",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "domain": "pidabeauty.com",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "domain": "razin.com",
+    "verdict": "OUT",
+    "category_final": "interior_design_b2b",
+    "reason": "keyword match: interior_design_b2b"
+  },
+  {
+    "domain": "sanadgulf.com",
+    "verdict": "OUT",
+    "category_final": "placeholder_or_dead",
+    "reason": "keyword match: placeholder_or_dead"
+  },
+  {
+    "domain": "samacotoysandleisure.com",
+    "verdict": "OUT",
+    "category_final": "wholesale_distribution",
+    "reason": "keyword match: wholesale_distribution"
+  },
+  {
+    "domain": "safwafurniture.com",
+    "verdict": "OUT",
+    "category_final": "interior_design_b2b",
+    "reason": "keyword match: interior_design_b2b"
+  },
+  {
+    "domain": "sabsahhyper.com",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "domain": "sleepwell-qa.com",
+    "verdict": "OUT",
+    "category_final": "n/a",
+    "reason": "DEAD: http_code=000, no live site found"
+  },
+  {
+    "domain": "scrub-n.com",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "domain": "orangebedbath.com",
+    "verdict": "OUT",
+    "category_final": "building_materials",
+    "reason": "keyword match: building_materials"
+  },
+  {
+    "domain": "smattarco.com",
+    "verdict": "OUT",
+    "category_final": "building_materials",
+    "reason": "keyword match: building_materials"
+  },
+  {
+    "domain": "suwaigh.com.sa",
+    "verdict": "OUT",
+    "category_final": "n/a",
+    "reason": "DEAD: http_code=000, no live site found"
+  },
+  {
+    "domain": "superpets.com.sa",
+    "verdict": "OUT",
+    "category_final": "healthcare",
+    "reason": "keyword match: healthcare"
+  },
+  {
+    "domain": "mastourah.com",
+    "verdict": "OUT",
+    "category_final": "n/a",
+    "reason": "DEAD: http_code=000, no live site found"
+  },
+  {
+    "domain": "projects-world.com",
+    "verdict": "OUT",
+    "category_final": "healthcare",
+    "reason": "keyword match: healthcare"
+  },
+  {
+    "domain": "saudifurnitures.com",
+    "verdict": "OUT",
+    "category_final": "wholesale_distribution",
+    "reason": "keyword match: wholesale_distribution"
+  },
+  {
+    "domain": "tigro.app",
+    "verdict": "OUT",
+    "category_final": "building_materials",
+    "reason": "keyword match: building_materials"
+  },
+  {
+    "domain": "toyland.com.sa",
+    "verdict": "OUT",
+    "category_final": "n/a",
+    "reason": "DEAD_HTTP: http_code=404, no live site found"
+  },
+  {
+    "domain": "tambahkw.com",
+    "verdict": "OUT",
+    "category_final": "automotive",
+    "reason": "keyword match: automotive"
+  },
+  {
+    "domain": "toys-lab.com",
+    "verdict": "IN",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords"
+  },
+  {
+    "domain": "toyandsurprise.com",
+    "verdict": "OUT",
+    "category_final": "building_materials",
+    "reason": "keyword match: building_materials"
+  },
+  {
+    "domain": "toysrus.com.sa",
+    "verdict": "OUT",
+    "category_final": "n/a",
+    "reason": "DEAD: http_code=000, no live site found"
+  },
+  {
+    "domain": "usedoapp.com",
+    "verdict": "OUT",
+    "category_final": "placeholder_or_dead",
+    "reason": "keyword match: placeholder_or_dead"
+  },
+  {
+    "domain": "saragroups.com",
+    "verdict": "OUT",
+    "category_final": "wholesale_distribution",
+    "reason": "keyword match: wholesale_distribution"
+  },
+  {
+    "domain": "yuehlia.com",
+    "verdict": "OUT",
+    "category_final": "building_materials",
+    "reason": "keyword match: building_materials"
+  },
+  {
+    "domain": "zincoint.com",
+    "verdict": "OUT",
+    "category_final": "building_materials",
+    "reason": "keyword match: building_materials"
+  },
+  {
+    "domain": "sleeptimeksa.com",
+    "verdict": "OUT",
+    "category_final": "n/a",
+    "reason": "DEAD: http_code=000, no live site found"
+  },
+  {
+    "domain": "woody.com.sa",
+    "verdict": "OUT",
+    "category_final": "building_materials",
+    "reason": "keyword match: building_materials"
+  },
+  {
+    "domain": "techntoys.com",
+    "verdict": "OUT",
+    "category_final": "n/a",
+    "reason": "DEAD: http_code=000, no live site found"
+  }
+]

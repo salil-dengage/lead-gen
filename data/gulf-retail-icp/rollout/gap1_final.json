@@ -1,0 +1,2439 @@
+[
+  {
+    "name": "Ajlan & Bros",
+    "domain": "ajstore.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (55111,315250,531120,488510)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "OKHTEIN",
+    "domain": "okhtein.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (339910,316990)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "اجدان | Ajdan",
+    "domain": "ajdan.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (53112,531390)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Arab News",
+    "domain": "arabnews.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (519,513110)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "SAN INTERNATIONAL COMPANY LIMITED",
+    "domain": "sanint.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (315250)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "KAFD",
+    "domain": "kafd.sa",
+    "country": "Saudi Arabia",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (531120,531312)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Saudi Research & Publishing Company - SRPC",
+    "domain": "srpc.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "name-pattern non-retail (holding/real-estate/construction/mfg/healthcare/legal/logistics/media/finance/etc.)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "New You Medical Center",
+    "domain": "newyousa.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "name-pattern non-retail (holding/real-estate/construction/mfg/healthcare/legal/logistics/media/finance/etc.)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "SLIC",
+    "domain": "slicshoes.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (316210)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Kadoon Company",
+    "domain": "kadoon.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (33911,62121,81219,423450)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Golden Cala",
+    "domain": "goldencala.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (42421,423460,423450)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "SMSA EXPRESS - UK LIMITED",
+    "domain": "smsaexpress.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (492110,488510)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "BOCH",
+    "domain": "boch.sa",
+    "country": "Saudi Arabia",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (33911,325620)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Red Cactus Trading",
+    "domain": "redcactus.com.sa",
+    "country": "Saudi Arabia",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (424210,325620)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Sadara Chemical Company",
+    "domain": "sadara.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "name-pattern non-retail (holding/real-estate/construction/mfg/healthcare/legal/logistics/media/finance/etc.)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Binzagr Company",
+    "domain": "binzagr.com.sa",
+    "country": "Saudi Arabia",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (49312,423,424,49311)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Mouwasat Medical Services",
+    "domain": "mouwasat.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "name-pattern non-retail (holding/real-estate/construction/mfg/healthcare/legal/logistics/media/finance/etc.)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Al Safi Danone | الصافي دانون",
+    "domain": "alsafidanone.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (311511,312111)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "RCIT Holding Co.",
+    "domain": "rcith.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "name-pattern non-retail (holding/real-estate/construction/mfg/healthcare/legal/logistics/media/finance/etc.)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Unified Real Estate Development Company",
+    "domain": "unified.com.sa",
+    "country": "Saudi Arabia",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "name-pattern non-retail (holding/real-estate/construction/mfg/healthcare/legal/logistics/media/finance/etc.)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Halwani Brothers",
+    "domain": "halwani.com.sa",
+    "country": "Saudi Arabia",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (31141,311999)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Alshaya Enterprises",
+    "domain": "alshayaenterprises.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (23839,423390,541410)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Al Jameel International Co. Ltd",
+    "domain": "aljameelfood.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (42441,311)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Alyasra Foods",
+    "domain": "alyasrafoods.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (42441,4931)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "ALJOMAIH BOTTLING PLANTS",
+    "domain": "aljomaihconsumerdivision.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (312111,312112,332431)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "AlJammaz Group",
+    "domain": "aljammaz.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (551114,523940)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Arrow Food Group",
+    "domain": "arrow-foods.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (42449,311411)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "KDD",
+    "domain": "kddc.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (31111,311511,311520,312111)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Qatar Vacancies",
+    "domain": "el7far.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (561311,519290)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Abu Khalifa Trading",
+    "domain": "abukhalifa.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (42449,49312,484110)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Tawar Mall",
+    "domain": "tawarmall.qa",
+    "country": "Qatar",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (531120)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "kuwait jobs now",
+    "domain": "",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "name-pattern non-retail (holding/real-estate/construction/mfg/healthcare/legal/logistics/media/finance/etc.)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Naqi water | نقي للمياه",
+    "domain": "naqiwater.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (312112)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "KUWAIT PROTEINS CO.",
+    "domain": "kuwaitproteins.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (424410,493110)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Nashar Trading Company",
+    "domain": "nashar.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "name-pattern non-retail (holding/real-estate/construction/mfg/healthcare/legal/logistics/media/finance/etc.)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Impact46",
+    "domain": "impact46.sa",
+    "country": "Saudi Arabia",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (523940,523150)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Almunajem Foods Company",
+    "domain": "almunajemfoods.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (31141,424410,493120)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Mayar Foods",
+    "domain": "mayar.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (42449,424410,311941)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Basamh Group",
+    "domain": "basamhgroup.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (311911,311941,424410)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Alfalak Electronic Equipment & Supplies Co.",
+    "domain": "alfalak.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (541512,423430)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "SPIMACO",
+    "domain": "spimaco.com.sa",
+    "country": "Saudi Arabia",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (325412,339113)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Samsung Saudi Arabia for Business",
+    "domain": "",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (334310,333415,541512)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Alat",
+    "domain": "alat.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (33324,334413,334419)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Bahra Electric",
+    "domain": "bahra-electric.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (335311,335929)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Starlink Qatar",
+    "domain": "starlinkworld.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (42369,517121,541512)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Mitsubishi Electric Saudi Ltd.",
+    "domain": "melsa.com.sa",
+    "country": "Saudi Arabia",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (541330,238290)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Dar Al Arkan",
+    "domain": "daralarkan.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (53112,531390,236117)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "aDawliah Electronic Appliances Holding",
+    "domain": "adawliah.com.sa",
+    "country": "Saudi Arabia",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "name-pattern non-retail (holding/real-estate/construction/mfg/healthcare/legal/logistics/media/finance/etc.)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Al-Faisaliah Group (JSC)",
+    "domain": "alfaisaliah.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (55111,311511,621498,523940)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Almana & Partners",
+    "domain": "almanapartners.co",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (49312,423620,493110,484110)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "channels by stc",
+    "domain": "channels.com.sa",
+    "country": "Saudi Arabia",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (49312,5171,423430,423690)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "United Matbouli Group",
+    "domain": "umg.sa",
+    "country": "Saudi Arabia",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (42361,423620)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Mekdam Telecom",
+    "domain": "",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "name-pattern non-retail (holding/real-estate/construction/mfg/healthcare/legal/logistics/media/finance/etc.)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "شركة صقر الجزيرة للصناعة والتجارة والمقاولات",
+    "domain": "jzfalcon.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (333415,423620)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Almuftah Group Qatar",
+    "domain": "almuftah.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (236,237990,31-33,488510)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "FAWAZ GROUP",
+    "domain": "fawaz.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (33341,561210,238220,541330)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "STC",
+    "domain": "stc.com.sa",
+    "country": "Saudi Arabia",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (517112,518210,541512)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "alfanar Co.",
+    "domain": "alfanar.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (33599,335313,236210,221114)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "SAMIR GROUP",
+    "domain": "samirgroup.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (33911,541512,423450,423620)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "NTC \"Najd Telecom Company\"",
+    "domain": "najdtelecom.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "name-pattern non-retail (holding/real-estate/construction/mfg/healthcare/legal/logistics/media/finance/etc.)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Lumi | لومي",
+    "domain": "lumirental.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (53212,532111,532112)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Tamweel Aloula",
+    "domain": "tamweel-aloula.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (522291,522299)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Raqtan",
+    "domain": "raqtan.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (33299,423440,561210)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Al-Babtain Power & Telecommunication Co.",
+    "domain": "al-babtain.com.sa",
+    "country": "Saudi Arabia",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "name-pattern non-retail (holding/real-estate/construction/mfg/healthcare/legal/logistics/media/finance/etc.)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "ekuep.com",
+    "domain": "ekuep.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (42344)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Ram Clincs",
+    "domain": "ramclinics.net",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (62111,621498,621210)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Creative Closets",
+    "domain": "creativeclosetsme.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "furniture MANUFACTURING NAICS (337xxx), not retail",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Saudi Modern Factory For Steel and Wooden Furniture",
+    "domain": "smf.com.sa",
+    "country": "Saudi Arabia",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "name-pattern non-retail (holding/real-estate/construction/mfg/healthcare/legal/logistics/media/finance/etc.)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "EurotecSaudi",
+    "domain": "eurotec.sa.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (423390,423710)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Saudi Company for Development of Construction & Trading Ltd.",
+    "domain": "sacodeco.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "name-pattern non-retail (holding/real-estate/construction/mfg/healthcare/legal/logistics/media/finance/etc.)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Dar Al Hadaya",
+    "domain": "drupaledi.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "furniture MANUFACTURING NAICS (337xxx), not retail",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Maan Aljasser & Co.",
+    "domain": "",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "furniture MANUFACTURING NAICS (337xxx), not retail",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "TIMBER HOUSE- بيت الاخشاب",
+    "domain": "",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "furniture MANUFACTURING NAICS (337xxx), not retail",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Abouseoud Furniture Factories Co.",
+    "domain": "abouseoud.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "name-pattern non-retail (holding/real-estate/construction/mfg/healthcare/legal/logistics/media/finance/etc.)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Elite Lines Factory",
+    "domain": "elitelines.com.sa",
+    "country": "Saudi Arabia",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "name-pattern non-retail (holding/real-estate/construction/mfg/healthcare/legal/logistics/media/finance/etc.)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "AL MOUSA Co. Ltd.",
+    "domain": "al-mousa.sa",
+    "country": "Saudi Arabia",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (238220,423830,541330)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Saudi Damons",
+    "domain": "saudi-damons.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "furniture MANUFACTURING NAICS (337xxx), not retail",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "hindalmujahed",
+    "domain": "hindalmujahed.com.sa",
+    "country": "Saudi Arabia",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (541410,3371)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Sawaed Wood Industries Co.",
+    "domain": "",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "name-pattern non-retail (holding/real-estate/construction/mfg/healthcare/legal/logistics/media/finance/etc.)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "SAUDI FITOUT",
+    "domain": "saudifitout.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "furniture MANUFACTURING NAICS (337xxx), not retail",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "BTT® furniture & construction",
+    "domain": "badaeltech.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "name-pattern non-retail (holding/real-estate/construction/mfg/healthcare/legal/logistics/media/finance/etc.)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "AAF GROUP",
+    "domain": "",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (31-33)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Qatar Living®",
+    "domain": "qatarliving.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (519,51621)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "foamco.sa",
+    "domain": "abulessafactory.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "furniture MANUFACTURING NAICS (337xxx), not retail",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "RAM International",
+    "domain": "ramintlco.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "furniture MANUFACTURING NAICS (337xxx), not retail",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Al Dar Al Jameela",
+    "domain": "aldaraljameela.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "furniture MANUFACTURING NAICS (337xxx), not retail",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "MAZ HOLDING",
+    "domain": "mazholding.sa",
+    "country": "Saudi Arabia",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "name-pattern non-retail (holding/real-estate/construction/mfg/healthcare/legal/logistics/media/finance/etc.)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "GUTHMI Group",
+    "domain": "guthmi.net",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (31321,31412)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "WISTER",
+    "domain": "wister-sa.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (51821,5171,51621)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Jamjoom General Agencies جمجوم للوكالات العامة",
+    "domain": "jamjoom-agencies.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (42412,42499)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Wasit Saudi Corp",
+    "domain": "wasitksa.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (611699,713990)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "GCCTIC",
+    "domain": "motabaqah.com.sa",
+    "country": "Saudi Arabia",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (54138)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Arab Center for Research and Policy Studies المركز العربي للأبحاث ودراسة السياسات",
+    "domain": "dohainstitute.org",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "name-pattern non-retail (holding/real-estate/construction/mfg/healthcare/legal/logistics/media/finance/etc.)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "4Sale International Co.",
+    "domain": "q84sale.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (519290)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Muntajat | منتجات",
+    "domain": "muntajat.sa",
+    "country": "Saudi Arabia",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (42499)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Delicious Food Factory (DFF)",
+    "domain": "horayra.life",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "name-pattern non-retail (holding/real-estate/construction/mfg/healthcare/legal/logistics/media/finance/etc.)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "QATAR PRESS",
+    "domain": "2qpress.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "name-pattern non-retail (holding/real-estate/construction/mfg/healthcare/legal/logistics/media/finance/etc.)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Andorra Village",
+    "domain": "andorravillage.net",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (53112,531311)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "DAR AL RAYYAN TRDG & CONT WLL - DOHA, QATAR",
+    "domain": "",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (424110,424120)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Alshawaf Group",
+    "domain": "alshawafgroup.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (42331,423390,423810,541810)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "MIQYASS FOR TECHNICAL CONSULTING.",
+    "domain": "miqyassconsult.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "name-pattern non-retail (holding/real-estate/construction/mfg/healthcare/legal/logistics/media/finance/etc.)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Jamal Baghlaf Holding Group (JBHG)",
+    "domain": "jbaghlaf.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "name-pattern non-retail (holding/real-estate/construction/mfg/healthcare/legal/logistics/media/finance/etc.)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "IIPH - International Islamic Publishing House",
+    "domain": "iiph.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "name-pattern non-retail (holding/real-estate/construction/mfg/healthcare/legal/logistics/media/finance/etc.)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "AlFursan Holding | الفرسان القابضة",
+    "domain": "alfursan-holding.sa",
+    "country": "Saudi Arabia",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "name-pattern non-retail (holding/real-estate/construction/mfg/healthcare/legal/logistics/media/finance/etc.)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Takween Bookstore & Publishing House",
+    "domain": "takweenkw.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "name-pattern non-retail (holding/real-estate/construction/mfg/healthcare/legal/logistics/media/finance/etc.)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Sand Brush",
+    "domain": "surfbrush.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (33992)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "FAHES SA",
+    "domain": "fahes.com.sa",
+    "country": "Saudi Arabia",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (541380,541611)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "SAITCO",
+    "domain": "saitco.com.sa",
+    "country": "Saudi Arabia",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (54138)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Toy Triangle LLC.",
+    "domain": "toytriangle.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "non-retail NAICS only (423990,424990)",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "HungerStation | هنقرستيشن",
+    "domain": "hungerstation.com",
+    "country": "Saudi Arabia",
+    "verdict": "Yes",
+    "category_final": "app_download_rescue",
+    "reason": "Confirmed via web search: 20M+ downloads, 16M+ users in Saudi Arabia, \"largest delivery app in Saudi Arabia\" -- clears the 50k app-download rescue threshold by a wide margin, overriding the delivery/marketplace-adjacent NAICS classification.",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Snoonu",
+    "domain": "snoonu.com",
+    "country": "Qatar",
+    "verdict": "Yes",
+    "category_final": "app_download_rescue",
+    "reason": "Confirmed via web search: Qatar's first and only all-in-one super-app (11 services, 4,000+ shops/services), extensive press coverage as the country's flagship delivery/services app. Exact download count not retrieved but circumstantial evidence of massive national-scale reach is strong; treated as clearing the app-download rescue threshold, consistent with ToYou/Abar/HungerStation treatment.",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "مستر مندوب | Mr Mandoob",
+    "domain": "mrmandoob.com",
+    "country": "Saudi Arabia",
+    "verdict": "Held",
+    "category_final": "n/a",
+    "reason": "Cloudflare-blocked, zero usable content; plausible delivery-app name (\"mandoob\" = delivery agent/courier in Arabic) but unconfirmed.",
+    "source": "apollo_gap1",
+    "country_source": "gap1_backfill"
+  },
+  {
+    "name": "صحصح | Sahseh",
+    "domain": "sahseh.co",
+    "country": "Saudi Arabia",
+    "verdict": "No",
+    "category_final": "coupon_aggregator",
+    "reason": "Coupon/discount-code aggregator site for other stores (\"best coupon and discount-code site for famous stores in the Arab world\") -- an affiliate/marketing business, not itself a retailer.",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Jawlah | جولة",
+    "domain": "jawlah.co",
+    "country": "",
+    "verdict": "No",
+    "category_final": "media",
+    "reason": "Venture-capital investment news/media platform, not retail.",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "BLOCKAT - بلوكات",
+    "domain": "blockatapp.com",
+    "country": "",
+    "verdict": "Held",
+    "category_final": "n/a",
+    "reason": "Live but zero rendered text content.",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Bahamdoon Trading Company",
+    "domain": "bahamdoon.com",
+    "country": "Saudi Arabia",
+    "verdict": "Yes",
+    "category_final": "electronics",
+    "reason": "Real electronics retailer/reseller (Huawei products, active offers section) despite the \"Trading Company\" name -- reversing an over-aggressive name-pattern auto-exclusion; this session has repeatedly confirmed \"Trading Co\" naming alone is not a reliable B2B signal (e.g. Al Sadhan Trading Co).",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "AlJraiwy Furniture",
+    "domain": "aljerawy.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "DEAD: http_code=000, no live site found",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Alharfash Group",
+    "domain": "alharfashgroup.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "DEAD: http_code=000, no live site found",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "AL-ASFOUR FURNITURE Co. Ltd.",
+    "domain": "alasfour.sa",
+    "country": "Saudi Arabia",
+    "verdict": "Yes",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Aleephonline",
+    "domain": "aleephonline.com",
+    "country": "Kuwait",
+    "verdict": "Yes",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "source": "apollo_gap1",
+    "country_source": "gap1_backfill"
+  },
+  {
+    "name": "Al Nisr Al Arabi for Export & Import and Commissionable Agent Company",
+    "domain": "alnisralarabi.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "DEAD: http_code=000, no live site found",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "almalki",
+    "domain": "almalki.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "logistics_b2b",
+    "reason": "keyword match: logistics_b2b",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Al Mana Galleria",
+    "domain": "almanagalleria.com.qa",
+    "country": "Qatar",
+    "verdict": "No",
+    "category_final": "marine_dealership",
+    "reason": "keyword match: marine_dealership",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "AL Nasaem Cosmetics Company LLC",
+    "domain": "alnasaem.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "building_materials",
+    "reason": "keyword match: building_materials",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "ALshaya Group",
+    "domain": "alshaya.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "DEAD: http_code=000, no live site found",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Alomary office furniture company",
+    "domain": "alomary.sa",
+    "country": "Saudi Arabia",
+    "verdict": "No",
+    "category_final": "building_materials",
+    "reason": "keyword match: building_materials",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "ALMOTHALATH",
+    "domain": "almothalath.sa",
+    "country": "Saudi Arabia",
+    "verdict": "Yes",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Alfardan Group",
+    "domain": "alfardan.com.qa",
+    "country": "Qatar",
+    "verdict": "No",
+    "category_final": "building_materials",
+    "reason": "keyword match: building_materials",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Al Wafa Hypermarket KSA",
+    "domain": "alwafahyper.com",
+    "country": "Saudi Arabia",
+    "verdict": "Yes",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "source": "apollo_gap1",
+    "country_source": "gap1_backfill"
+  },
+  {
+    "name": "Beauty Booth Qatar",
+    "domain": "beautyboothqa.com",
+    "country": "Qatar",
+    "verdict": "Yes",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "source": "apollo_gap1",
+    "country_source": "gap1_backfill"
+  },
+  {
+    "name": "BelovedOne",
+    "domain": "belovedone.com",
+    "country": "Kuwait",
+    "verdict": "Yes",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "source": "apollo_gap1",
+    "country_source": "gap1_backfill"
+  },
+  {
+    "name": "Bayt Al Aleefa",
+    "domain": "baytalaleefa.com",
+    "country": "Saudi Arabia",
+    "verdict": "Yes",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "source": "apollo_gap1",
+    "country_source": "gap1_backfill"
+  },
+  {
+    "name": "ALSHIAKA",
+    "domain": "alshiaka.com",
+    "country": "Saudi Arabia",
+    "verdict": "Yes",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "source": "apollo_gap1",
+    "country_source": "gap1_backfill"
+  },
+  {
+    "name": "BJ Beauty Cosmetics",
+    "domain": "bjbeauty.co",
+    "country": "Kuwait",
+    "verdict": "Yes",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "source": "apollo_gap1",
+    "country_source": "gap1_backfill"
+  },
+  {
+    "name": "Beauty Gallery Qatar",
+    "domain": "bg-qa.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "DEAD_HTTP: http_code=502, no live site found",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Attar United",
+    "domain": "attarunited.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "building_materials",
+    "reason": "keyword match: building_materials",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Dababees",
+    "domain": "dababees.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "placeholder_or_dead",
+    "reason": "keyword match: placeholder_or_dead",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Cavalier Perfumes",
+    "domain": "cavalierperfumes.com",
+    "country": "Saudi Arabia",
+    "verdict": "Yes",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "source": "apollo_gap1",
+    "country_source": "gap1_backfill"
+  },
+  {
+    "name": "دار الأميرات | Dar Alamirat",
+    "domain": "daralamirat.com.sa",
+    "country": "Saudi Arabia",
+    "verdict": "Yes",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "daffah",
+    "domain": "daffah.sa",
+    "country": "Saudi Arabia",
+    "verdict": "Yes",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "dbassa",
+    "domain": "dbassa.com",
+    "country": "Kuwait",
+    "verdict": "Yes",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "source": "apollo_gap1",
+    "country_source": "gap1_backfill"
+  },
+  {
+    "name": "حكاية طفل | Baby Story",
+    "domain": "baby-story.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "building_materials",
+    "reason": "keyword match: building_materials",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "DOME FURNITURE",
+    "domain": "domefurniture.com",
+    "country": "Saudi Arabia",
+    "verdict": "Yes",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "source": "apollo_gap1",
+    "country_source": "gap1_backfill"
+  },
+  {
+    "name": "Etoile Company for Perfumes and Cosmetics",
+    "domain": "etoilegroups.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "wholesale_distribution",
+    "reason": "keyword match: wholesale_distribution",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Gift Shed",
+    "domain": "giftshed.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "DEAD: http_code=000, no live site found",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Doctor Q Cosmetics",
+    "domain": "doctorqshop.com",
+    "country": "Kuwait",
+    "verdict": "Yes",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "source": "apollo_gap1",
+    "country_source": "gap1_backfill"
+  },
+  {
+    "name": "Fantasy World",
+    "domain": "fantasyworldtoys.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "building_materials",
+    "reason": "keyword match: building_materials",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Dimos Furniture | ديموس اثــــاث",
+    "domain": "dimos.com.sa",
+    "country": "Saudi Arabia",
+    "verdict": "No",
+    "category_final": "building_materials",
+    "reason": "keyword match: building_materials",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Homes Furniture",
+    "domain": "homesfurniture.sa",
+    "country": "Saudi Arabia",
+    "verdict": "Yes",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "ALKAFFARY GROUP",
+    "domain": "kaffary.com",
+    "country": "Saudi Arabia",
+    "verdict": "Yes",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "source": "apollo_gap1",
+    "country_source": "gap1_backfill"
+  },
+  {
+    "name": "Gharafa Stationery",
+    "domain": "gharafas.com",
+    "country": "Qatar",
+    "verdict": "Yes",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "source": "apollo_gap1",
+    "country_source": "gap1_backfill"
+  },
+  {
+    "name": "FirstCry Middle East",
+    "domain": "firstcry.sa",
+    "country": "Saudi Arabia",
+    "verdict": "Yes",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "LaScala Furniture Company",
+    "domain": "lascalafurniture.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "manufacturing",
+    "reason": "keyword match: manufacturing",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "L’ATELIER DE L’ART",
+    "domain": "ideahouse.com.sa",
+    "country": "Saudi Arabia",
+    "verdict": "No",
+    "category_final": "interior_design_b2b",
+    "reason": "keyword match: interior_design_b2b",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "LoftByEtab",
+    "domain": "loftstore.com",
+    "country": "Saudi Arabia",
+    "verdict": "Yes",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "source": "apollo_gap1",
+    "country_source": "gap1_backfill"
+  },
+  {
+    "name": "Ikaf Arabian Company",
+    "domain": "ikaf.net",
+    "country": "Saudi Arabia",
+    "verdict": "Yes",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "source": "apollo_gap1",
+    "country_source": "gap1_backfill"
+  },
+  {
+    "name": "Lagate لاقيت",
+    "domain": "lagatesa.com",
+    "country": "Saudi Arabia",
+    "verdict": "Yes",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "source": "apollo_gap1",
+    "country_source": "gap1_backfill"
+  },
+  {
+    "name": "Maya Interiors",
+    "domain": "mayainteriors.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "DEAD: http_code=000, no live site found",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Masco Saudi Arabia",
+    "domain": "mascoonline.com",
+    "country": "Saudi Arabia",
+    "verdict": "Yes",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "source": "apollo_gap1",
+    "country_source": "gap1_backfill"
+  },
+  {
+    "name": "METRO BRAZIL",
+    "domain": "metrobrazil.com",
+    "country": "Saudi Arabia",
+    "verdict": "Yes",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "source": "apollo_gap1",
+    "country_source": "gap1_backfill"
+  },
+  {
+    "name": "Lines Ideas",
+    "domain": "linesideas.com",
+    "country": "Saudi Arabia",
+    "verdict": "Yes",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "source": "apollo_gap1",
+    "country_source": "gap1_backfill"
+  },
+  {
+    "name": "MINISO Saudi Arabia",
+    "domain": "miniso.sa",
+    "country": "Saudi Arabia",
+    "verdict": "No",
+    "category_final": "building_materials",
+    "reason": "keyword match: building_materials",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "La Maison Dorèe",
+    "domain": "lamaisondoree.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "automotive",
+    "reason": "keyword match: automotive",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Myriad Beauty",
+    "domain": "myriadbeauty.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "DEAD_HTTP: http_code=404, no live site found",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Mumuso Qatar",
+    "domain": "mumuso.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "DEAD: http_code=000, no live site found",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Nahdi",
+    "domain": "nahdi.sa",
+    "country": "Saudi Arabia",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "DEAD_HTTP: http_code=500, no live site found",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Mogahwi Stationery & Office Equipment",
+    "domain": "mogahwi.com.kw",
+    "country": "Kuwait",
+    "verdict": "No",
+    "category_final": "automotive",
+    "reason": "keyword match: automotive",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Noon com",
+    "domain": "noon.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "DEAD: http_code=000, no live site found",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Oloom and Hikam Bookstore",
+    "domain": "oloomhikam.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "DEAD: http_code=000, no live site found",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Odecla Perfumes",
+    "domain": "odecla.com",
+    "country": "Kuwait",
+    "verdict": "Yes",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "source": "apollo_gap1",
+    "country_source": "gap1_backfill"
+  },
+  {
+    "name": "NAQI نقي",
+    "domain": "naqi.sa",
+    "country": "Saudi Arabia",
+    "verdict": "Yes",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "O100",
+    "domain": "o-100.com",
+    "country": "Saudi Arabia",
+    "verdict": "Yes",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "source": "apollo_gap1",
+    "country_source": "gap1_backfill"
+  },
+  {
+    "name": "Brandatt",
+    "domain": "brandatt.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "DEAD: http_code=000, no live site found",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Pet Barn",
+    "domain": "petbarnkw.com",
+    "country": "Kuwait",
+    "verdict": "Yes",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "source": "apollo_gap1",
+    "country_source": "gap1_backfill"
+  },
+  {
+    "name": "Private Office of Princes  Khalida Zaki mohamed Thunaian al saud",
+    "domain": "princes.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "automotive",
+    "reason": "keyword match: automotive",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Platinum Appliances",
+    "domain": "platinumcorp.co",
+    "country": "Saudi Arabia",
+    "verdict": "Yes",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "source": "apollo_gap1",
+    "country_source": "gap1_backfill"
+  },
+  {
+    "name": "Pida Beauty",
+    "domain": "pidabeauty.com",
+    "country": "Qatar",
+    "verdict": "Yes",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "source": "apollo_gap1",
+    "country_source": "gap1_backfill"
+  },
+  {
+    "name": "Razin Furniture Co.",
+    "domain": "razin.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "interior_design_b2b",
+    "reason": "keyword match: interior_design_b2b",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "SANAD Gulf Trading",
+    "domain": "sanadgulf.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "placeholder_or_dead",
+    "reason": "keyword match: placeholder_or_dead",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "SAMACO Toys & Leisure",
+    "domain": "samacotoysandleisure.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "wholesale_distribution",
+    "reason": "keyword match: wholesale_distribution",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Safwa Furniture",
+    "domain": "safwafurniture.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "interior_design_b2b",
+    "reason": "keyword match: interior_design_b2b",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Sabsah Hypermarket Co Kuwait",
+    "domain": "sabsahhyper.com",
+    "country": "Kuwait",
+    "verdict": "Yes",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "source": "apollo_gap1",
+    "country_source": "gap1_backfill"
+  },
+  {
+    "name": "SleepWell furniture",
+    "domain": "sleepwell-qa.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "DEAD: http_code=000, no live site found",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Scrub N",
+    "domain": "scrub-n.com",
+    "country": "Saudi Arabia",
+    "verdict": "Yes",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "source": "apollo_gap1",
+    "country_source": "gap1_backfill"
+  },
+  {
+    "name": "ORANGE BED & BATH",
+    "domain": "orangebedbath.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "building_materials",
+    "reason": "keyword match: building_materials",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Saddik & Mohamed Attar Co.",
+    "domain": "smattarco.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "building_materials",
+    "reason": "keyword match: building_materials",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Mohammed R M Alsuwaigh Est for furniture",
+    "domain": "suwaigh.com.sa",
+    "country": "Saudi Arabia",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "DEAD: http_code=000, no live site found",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "SuperPets_SA",
+    "domain": "superpets.com.sa",
+    "country": "Saudi Arabia",
+    "verdict": "No",
+    "category_final": "healthcare",
+    "reason": "keyword match: healthcare",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Mastourah Apparel & Fashion",
+    "domain": "mastourah.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "DEAD: http_code=000, no live site found",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Projects World Co.",
+    "domain": "projects-world.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "healthcare",
+    "reason": "keyword match: healthcare",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Saudi Furniture",
+    "domain": "saudifurnitures.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "wholesale_distribution",
+    "reason": "keyword match: wholesale_distribution",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Tigro App",
+    "domain": "tigro.app",
+    "country": "",
+    "verdict": "No",
+    "category_final": "building_materials",
+    "reason": "keyword match: building_materials",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "TOYLAND KSA",
+    "domain": "toyland.com.sa",
+    "country": "Saudi Arabia",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "DEAD_HTTP: http_code=404, no live site found",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Tambah",
+    "domain": "tambahkw.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "automotive",
+    "reason": "keyword match: automotive",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Toys_Lab",
+    "domain": "toys-lab.com",
+    "country": "Saudi Arabia",
+    "verdict": "Yes",
+    "category_final": "n/a",
+    "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords",
+    "source": "apollo_gap1",
+    "country_source": "gap1_backfill"
+  },
+  {
+    "name": "Toy & Surprise - لعبة ومفاجأة",
+    "domain": "toyandsurprise.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "building_materials",
+    "reason": "keyword match: building_materials",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Tasweeq - Toys R Us KSA",
+    "domain": "toysrus.com.sa",
+    "country": "Saudi Arabia",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "DEAD: http_code=000, no live site found",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Usedo | يوزدو",
+    "domain": "usedoapp.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "placeholder_or_dead",
+    "reason": "keyword match: placeholder_or_dead",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "SARA Group KSA",
+    "domain": "saragroups.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "wholesale_distribution",
+    "reason": "keyword match: wholesale_distribution",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Yuehlia | يوليا",
+    "domain": "yuehlia.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "building_materials",
+    "reason": "keyword match: building_materials",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Zinco | زينكو",
+    "domain": "zincoint.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "building_materials",
+    "reason": "keyword match: building_materials",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "SleepTimeKsa",
+    "domain": "sleeptimeksa.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "DEAD: http_code=000, no live site found",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Woody Furniture",
+    "domain": "woody.com.sa",
+    "country": "Saudi Arabia",
+    "verdict": "No",
+    "category_final": "building_materials",
+    "reason": "keyword match: building_materials",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Tech & Toys",
+    "domain": "techntoys.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "DEAD: http_code=000, no live site found",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "شركة عال الكيف التجارية",
+    "domain": "aalalkaif.com",
+    "country": "",
+    "verdict": "Held",
+    "category_final": "n/a",
+    "reason": "Cloudflare-blocked, zero usable content; no independent corroboration attempted given batch scale.",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Alfuhod",
+    "domain": "alfuhod.com",
+    "country": "",
+    "verdict": "Held",
+    "category_final": "n/a",
+    "reason": "Geo-restricted (403, access blocked from this location), zero usable content.",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Algarawi Group",
+    "domain": "algarawigroup.com",
+    "country": "",
+    "verdict": "Held",
+    "category_final": "n/a",
+    "reason": "Live but zero rendered text content (likely JS-only site).",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Sulaiman Al Bassam Company",
+    "domain": "albassamest.com",
+    "country": "Saudi Arabia",
+    "verdict": "Held",
+    "category_final": "n/a",
+    "reason": "Domain hijacked -- now shows 1xBet gambling-app spam. NAICS (443142, electronics/appliance stores) suggests a real historical appliance retailer; current live domain unusable, no alternate domain search done given batch scale.",
+    "source": "apollo_gap1",
+    "country_source": "gap1_backfill"
+  },
+  {
+    "name": "SAMI Advanced Electronics",
+    "domain": "aecl.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "defense_industrial",
+    "reason": "SAMI Advanced Electronics Company -- a defense/aerospace/security systems manufacturer (Saudi Arabian Military Industries), not consumer electronics retail.",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "AlOthman Fashion",
+    "domain": "alothmanfashion.com",
+    "country": "",
+    "verdict": "Held",
+    "category_final": "n/a",
+    "reason": "403 blocked, zero usable content.",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Al Othaim Life",
+    "domain": "alothaimlife.com",
+    "country": "",
+    "verdict": "Held",
+    "category_final": "fashion",
+    "reason": "Real Al-Othaim Group lifestyle/fashion division, but page explicitly says \"Unveiling Soon\" -- too early to confirm a live operating store.",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "ASTRA MARKETS",
+    "domain": "astramarkets.com",
+    "country": "Saudi Arabia",
+    "verdict": "Yes",
+    "category_final": "grocery",
+    "reason": "Real multi-department supermarket chain (Tabuk), bakery/butchery/patisserie divisions, real branches.",
+    "source": "apollo_gap1",
+    "country_source": "gap1_backfill"
+  },
+  {
+    "name": "Best Al-Yousifi",
+    "domain": "best.com.kw",
+    "country": "Kuwait",
+    "verdict": "Held",
+    "category_final": "n/a",
+    "reason": "Live but effectively zero rendered text content.",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Boutiqaat",
+    "domain": "boutiqaat.com",
+    "country": "Kuwait",
+    "verdict": "Yes",
+    "category_final": "beauty_fashion",
+    "reason": "Cloudflare-blocked on direct fetch, but this is a well-known, well-documented major Kuwaiti live-commerce/social-shopping platform (real, substantial, widely reported real business); resolved on outside knowledge given the block, consistent with how other well-known blocked majors were handled this session.",
+    "source": "apollo_gap1",
+    "country_source": "gap1_backfill"
+  },
+  {
+    "name": "CityStar Kuwait",
+    "domain": "citystarstoresonline.com",
+    "country": "Kuwait",
+    "verdict": "Held",
+    "category_final": "n/a",
+    "reason": "Cloudflare-challenge blocked, zero usable content.",
+    "source": "apollo_gap1",
+    "country_source": "gap1_backfill"
+  },
+  {
+    "name": "Bleems",
+    "domain": "bleems.com",
+    "country": "Kuwait",
+    "verdict": "Yes",
+    "category_final": "general_merchandise",
+    "reason": "Confirmed via web search: founded 2012, Kuwait City-HQ'd (founders Sulaiman Altarrah and Abdullah Alkhuzam); real flowers/gifts e-commerce operating across 6 countries from a genuine Kuwait HQ.",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Dar Sonbol Co. Ltd.",
+    "domain": "darsonbol.com",
+    "country": "Saudi Arabia",
+    "verdict": "Yes",
+    "category_final": "fashion",
+    "reason": "Real Saudi women's/kids clothing e-commerce (dresses, sets, blouses), branches mentioned.",
+    "source": "apollo_gap1",
+    "country_source": "gap1_backfill"
+  },
+  {
+    "name": "Dank",
+    "domain": "dank.sa",
+    "country": "Saudi Arabia",
+    "verdict": "Yes",
+    "category_final": "f_and_b",
+    "reason": "Real Saudi QSR sandwich chain, founded 2017 Jeddah, expanded to multiple regions -- explicit gate-2 QSR approval.",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Esfen Furniture | إسفين للأثاث",
+    "domain": "esfen.com",
+    "country": "Saudi Arabia",
+    "verdict": "Yes",
+    "category_final": "home_furniture",
+    "reason": "Real furniture e-commerce with live cart and catalog.",
+    "source": "apollo_gap1",
+    "country_source": "gap1_backfill"
+  },
+  {
+    "name": "Ezdan Hotels West Bay",
+    "domain": "ezdanhotels.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "hospitality",
+    "reason": "Hotel company (Ezdan Hotels), hard-excluded hospitality category.",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Alhajri Furniture",
+    "domain": "hajrist.com",
+    "country": "Saudi Arabia",
+    "verdict": "Yes",
+    "category_final": "home_furniture",
+    "reason": "Real, established (10+ years) Dammam-HQ'd furniture retailer with showrooms and an online store.",
+    "source": "apollo_gap1",
+    "country_source": "gap1_backfill"
+  },
+  {
+    "name": "International Company For Furniture الشركة العالمية للأثاث",
+    "domain": "icf.sa",
+    "country": "Saudi Arabia",
+    "verdict": "Yes",
+    "category_final": "home_furniture",
+    "reason": "Real registered furniture e-commerce business (VAT number shown), home/office furniture.",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Ahmed Abdulwahed Company",
+    "domain": "abdulwahed.com",
+    "country": "Saudi Arabia",
+    "verdict": "Held",
+    "category_final": "n/a",
+    "reason": "HTTP 307 redirect, no content captured at the redirect target within the fetch window.",
+    "source": "apollo_gap1",
+    "country_source": "gap1_backfill"
+  },
+  {
+    "name": "Karma cosmetics company",
+    "domain": "karmacosmetic.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "Domain effectively parked/inactive (Akamai edge \"Access Denied\" referencing a GoDaddy for-sale listing path).",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Kharazah | خرازة",
+    "domain": "kharazah.com",
+    "country": "Saudi Arabia",
+    "verdict": "Yes",
+    "category_final": "fashion",
+    "reason": "Real luxury men's footwear e-commerce (explicit gate-2 approved footwear sub-category).",
+    "source": "apollo_gap1",
+    "country_source": "gap1_backfill"
+  },
+  {
+    "name": "LIL BUNNIES - THE COLLECTIVE",
+    "domain": "lilbunnies.com",
+    "country": "Kuwait",
+    "verdict": "Yes",
+    "category_final": "fashion",
+    "reason": "Real, substantial Kuwait kids/newborn/maternity clothing e-commerce, same-day Kuwait delivery, broad seasonal catalog.",
+    "source": "apollo_gap1",
+    "country_source": "gap1_backfill"
+  },
+  {
+    "name": "AL HAZMI STORES",
+    "domain": "matajeralhazmi.sa",
+    "country": "Saudi Arabia",
+    "verdict": "Yes",
+    "category_final": "grocery",
+    "reason": "Real multi-branch grocery/convenience chain -- 7+ named branch locations.",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Mehbaj",
+    "domain": "mehbaj.com",
+    "country": "Saudi Arabia",
+    "verdict": "Yes",
+    "category_final": "grocery",
+    "reason": "Real specialty food e-commerce (dried fruits/coffee/seeds/spices/nuts/pulses) with loyalty program and branches.",
+    "source": "apollo_gap1",
+    "country_source": "gap1_backfill"
+  },
+  {
+    "name": "محزم | محزمك المليان",
+    "domain": "mhzm.sa",
+    "country": "Saudi Arabia",
+    "verdict": "Yes",
+    "category_final": "electronics",
+    "reason": "Real mobile/electronics installment retailer with online store.",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Modern Perfume Co.",
+    "domain": "modernperfume.com.sa",
+    "country": "Saudi Arabia",
+    "verdict": "Held",
+    "category_final": "beauty",
+    "reason": "Self-describes emphasis on \"production and marketing\" of perfumes -- ambiguous manufacturer vs. direct consumer retailer framing, no visible cart/shop language in the fetched content.",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Nahda Modern Company LLC",
+    "domain": "nahda.group",
+    "country": "",
+    "verdict": "Held",
+    "category_final": "n/a",
+    "reason": "Live but only a \"Click here to enter\" gate page, zero real content.",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Pet Point For pet supplies",
+    "domain": "petpointkw.com",
+    "country": "Kuwait",
+    "verdict": "Held",
+    "category_final": "n/a",
+    "reason": "Live but zero rendered text content (likely JS-only).",
+    "source": "apollo_gap1",
+    "country_source": "gap1_backfill"
+  },
+  {
+    "name": "برفيوم بالاس | perfume palace",
+    "domain": "perfumes-palace.com",
+    "country": "Saudi Arabia",
+    "verdict": "Yes",
+    "category_final": "beauty",
+    "reason": "Real perfume e-commerce with active BOGO promotion.",
+    "source": "apollo_gap1",
+    "country_source": "gap1_backfill"
+  },
+  {
+    "name": "Petsmarket",
+    "domain": "petsmarket.com",
+    "country": "Kuwait",
+    "verdict": "Yes",
+    "category_final": "general_merchandise",
+    "reason": "Specific real tagline (\"Shop Pet Food & Supplies in Kuwait: Fast Delivery & Best Prices\") despite thin JS-rendered body -- pet supplies is an approved category.",
+    "source": "apollo_gap1",
+    "country_source": "gap1_backfill"
+  },
+  {
+    "name": "Royal Pharmacy",
+    "domain": "royalph.com",
+    "country": "",
+    "verdict": "Held",
+    "category_final": "n/a",
+    "reason": "Cloudflare-blocked, zero usable content.",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Rawan Stationery",
+    "domain": "rawanstationery.com",
+    "country": "Saudi Arabia",
+    "verdict": "Yes",
+    "category_final": "general_merchandise",
+    "reason": "Real Saudi stationery/gifts e-commerce with delivery to Jeddah/Riyadh.",
+    "source": "apollo_gap1",
+    "country_source": "gap1_backfill"
+  },
+  {
+    "name": "Salla E-Commerce Platform",
+    "domain": "salla.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "b2b_saas",
+    "reason": "Salla is a Saudi e-commerce SaaS platform that other merchants use to build their own stores -- B2B infrastructure provider, not itself a retailer.",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Sama Pharmacy Qatar",
+    "domain": "samapharmacy.com",
+    "country": "Qatar",
+    "verdict": "Held",
+    "category_final": "n/a",
+    "reason": "Live but effectively zero rendered text content beyond the name.",
+    "source": "apollo_gap1",
+    "country_source": "gap1_backfill"
+  },
+  {
+    "name": "SPEEDI | سبيدي",
+    "domain": "speedi.sa",
+    "country": "Saudi Arabia",
+    "verdict": "Held",
+    "category_final": "n/a",
+    "reason": "Real Saudi general delivery app (marketplace/aggregator-adjacent model); would need an app-download count check against the 50k rescue threshold to resolve, not done given batch scale.",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Sheta & Saif",
+    "domain": "swsg.co",
+    "country": "Saudi Arabia",
+    "verdict": "Held",
+    "category_final": "n/a",
+    "reason": "403 blocked, zero usable content.",
+    "source": "apollo_gap1",
+    "country_source": "gap1_backfill"
+  },
+  {
+    "name": "Tatayab",
+    "domain": "tatayab.com",
+    "country": "Kuwait",
+    "verdict": "Held",
+    "category_final": "n/a",
+    "reason": "Cloudflare-blocked, zero usable content. Note: exists as a pre-existing Zoho record (Kuwait) from an earlier import, but that doesn't confirm current live retail status.",
+    "source": "apollo_gap1",
+    "country_source": "gap1_backfill"
+  },
+  {
+    "name": "Teeela",
+    "domain": "teeela.com",
+    "country": "Kuwait",
+    "verdict": "Yes",
+    "category_final": "fashion",
+    "reason": "Specific real tagline (\"Teeela — Kids Fashion Toys\") despite thin body content.",
+    "source": "apollo_gap1",
+    "country_source": "gap1_backfill"
+  },
+  {
+    "name": "Modern Furniture & Events",
+    "domain": "themodernfurnitures.com",
+    "country": "",
+    "verdict": "Held",
+    "category_final": "n/a",
+    "reason": "Cloudflare-challenge blocked, zero usable content.",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Skindollize",
+    "domain": "thefaceshop.com.kw",
+    "country": "Kuwait",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "The Face Shop is a Korean global beauty franchise brand (already established this session as foreign-HQ'd when evaluated via Keden International); no evidence this Kuwait storefront is a distinct Kuwait-HQ'd operating entity rather than a franchise/license.",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Toys 4 Joy",
+    "domain": "toys4joy.com",
+    "country": "",
+    "verdict": "Held",
+    "category_final": "n/a",
+    "reason": "Cloudflare-blocked, zero usable content.",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "wrraqoon",
+    "domain": "wrraqoon.com",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "Generic parked-domain-style placeholder content (\"Resources and Information\").",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "UFFF GROUP COMPANY",
+    "domain": "ufff.com",
+    "country": "Kuwait",
+    "verdict": "Yes",
+    "category_final": "general_merchandise",
+    "reason": "Real gifts/toys/collectibles e-commerce app with curated catalog.",
+    "source": "apollo_gap1",
+    "country_source": "gap1_backfill"
+  },
+  {
+    "name": "zarafa | زرافة",
+    "domain": "zarafaksa.com",
+    "country": "Saudi Arabia",
+    "verdict": "Yes",
+    "category_final": "general_merchandise",
+    "reason": "Real, broad pet-supplies e-commerce (food, treats, vitamins, litter, vet food).",
+    "source": "apollo_gap1",
+    "country_source": "gap1_backfill"
+  },
+  {
+    "name": "Yahaal",
+    "domain": "yahaal.com",
+    "country": "Kuwait",
+    "verdict": "Held",
+    "category_final": "n/a",
+    "reason": "Real baby-essentials delivery app, but ambiguous whether it's a direct retailer or a delivery-marketplace model (would affect which gate path applies).",
+    "source": "apollo_gap1",
+    "country_source": "gap1_backfill"
+  },
+  {
+    "name": "Toys Brand Trading Co. LLC",
+    "domain": "toysbrand.com.sa",
+    "country": "Saudi Arabia",
+    "verdict": "No",
+    "category_final": "wholesale_distribution",
+    "reason": "Explicitly \"distributing and selling\" with a distinct \"Our Retailers\" section -- a B2B toy distributor supplying retailers, not itself a direct consumer store.",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Hdaiacom Perfume Company",
+    "domain": "",
+    "country": "",
+    "verdict": "Held",
+    "category_final": "beauty",
+    "reason": "No domain on file; plausible perfume retailer name but unconfirmable.",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Binzomah Cosmetics",
+    "domain": "",
+    "country": "",
+    "verdict": "Held",
+    "category_final": "beauty",
+    "reason": "No domain on file; plausible cosmetics retailer name but unconfirmable.",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Star Markets Trading Company Ltd.",
+    "domain": "",
+    "country": "",
+    "verdict": "Held",
+    "category_final": "grocery",
+    "reason": "No domain on file; \"Trading Company\" naming leans B2B but \"Star Markets\" suggests grocery -- genuinely ambiguous.",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Trolley Convenience Store KSA",
+    "domain": "",
+    "country": "Saudi Arabia",
+    "verdict": "Held",
+    "category_final": "grocery",
+    "reason": "No domain on file. The real Trolley Convenience Store brand is Kuwait-HQ'd (already an existing Zoho record, trolley.com.kw); this KSA-specific entry's relationship to that HQ (distinct Saudi entity vs. same company) is unconfirmed.",
+    "source": "apollo_gap1",
+    "country_source": "gap1_backfill"
+  },
+  {
+    "name": "Al-Bahar Electronics",
+    "domain": "",
+    "country": "",
+    "verdict": "Held",
+    "category_final": "electronics",
+    "reason": "No domain on file; plausible electronics retailer name but unconfirmable.",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "LG Electronics Saudi Arabia",
+    "domain": "",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "LG Electronics is a Korea-HQ'd global manufacturer; fails geography regardless of any local storefront.",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Zamil Services",
+    "domain": "",
+    "country": "",
+    "verdict": "Held",
+    "category_final": "n/a",
+    "reason": "No domain on file; \"Services\" naming is ambiguous, no other signal available.",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Basic Electronics Company",
+    "domain": "",
+    "country": "",
+    "verdict": "Held",
+    "category_final": "electronics",
+    "reason": "No domain on file; generic name, unconfirmable.",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Ahmed Abdulwahed Co.",
+    "domain": "",
+    "country": "Saudi Arabia",
+    "verdict": "Held",
+    "category_final": "n/a",
+    "reason": "Duplicate Apollo record for the same company already assessed at abdulwahed.com (Held -- 307 redirect, no content captured).",
+    "source": "apollo_gap1",
+    "country_source": "gap1_backfill"
+  },
+  {
+    "name": "Value's Home Furniture eg",
+    "domain": "",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "\"eg\" suffix indicates Egypt, outside the KSA/Kuwait/Qatar scope.",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Foamco Furniture SA",
+    "domain": "",
+    "country": "",
+    "verdict": "No",
+    "category_final": "n/a",
+    "reason": "Duplicate Apollo record for the same company found with a domain (foamco.sa/abulessafactory.com) elsewhere in this batch, auto-classified out on furniture-manufacturing NAICS (337121/337910).",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Rawaa Furniture",
+    "domain": "",
+    "country": "",
+    "verdict": "Held",
+    "category_final": "home_furniture",
+    "reason": "No domain on file; plausible furniture retailer name but unconfirmable.",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Arabian Furniture & Design",
+    "domain": "",
+    "country": "",
+    "verdict": "Held",
+    "category_final": "home_furniture",
+    "reason": "No domain on file; \"& Design\" could indicate interior-design services (excluded) or just branding -- genuinely ambiguous.",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Gulf Furnishings",
+    "domain": "",
+    "country": "",
+    "verdict": "Held",
+    "category_final": "home_furniture",
+    "reason": "No domain on file; plausible furniture retailer name but unconfirmable.",
+    "source": "apollo_gap1"
+  },
+  {
+    "name": "Al Haram Plaza  الهرم بلازا",
+    "domain": "",
+    "country": "",
+    "verdict": "No",
+    "category_final": "realestate",
+    "reason": "\"Plaza\" naming pattern indicates a mall/real-estate development, consistent with other Plaza/Mall exclusions this session.",
+    "source": "apollo_gap1"
+  }
+]
