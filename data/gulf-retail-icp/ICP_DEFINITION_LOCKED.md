@@ -179,6 +179,22 @@ consistently re-applied during the recent re-verification pass, still valid as s
 
 ## Changelog vs. the 2026-07-23 morning "locked" version
 
+- **2026-07-23, later same day — full re-audit of the entire excluded (No/Held) pool completed.**
+  Triggered by the Gate 2 fix below plus a direct user challenge ("are you sure there are only 9
+  mistakes?"). A 144-account stratified random sample of the 935-account excluded pool was audited
+  first and found a 15.3% error rate (22/144), giving a 92-193 estimated-mistake range at 95%
+  confidence. The user chose to run the full audit rather than rely on the estimate: all 791
+  remaining excluded accounts were independently re-verified across 33 parallel batches (live-site
+  refetch, HQ/geography checks, category re-classification, no reliance on stored reason text).
+  Result: 103 accounts flipped to Yes and 55 flipped to Held, a 158/791 = 20.0% error rate,
+  consistent with the sample's confidence interval. Combined with the sample's 22 corrections, the
+  full 935-account excluded pool yielded 180 total corrections (~19.3%). Dominant error patterns:
+  (1) the same Gate 2 hybrid-B2B misreading below, caught systematically rather than by spot-check;
+  (2) "dead site" false negatives from bot/anti-bot blocking, expired-but-relocated domains, or a
+  transient error mistaken for a permanently dead business; (3) `gap1_apollo_keyword`
+  auto-exclusions on a bare NAICS code or name-pattern match, which Gate 7 already forbade as a
+  sole basis but which the discovery-stage sweep had applied anyway. Final tag distribution:
+  453 Yes / 739 No / 73 Held (was 350/861/54 immediately before this audit).
 - **2026-07-23, later same day — Gate 2 hybrid-B2B/B2C clause corrected (user-caught error).**
   The clause was being applied too bluntly: "the B2B side alone disqualifies" was read as "any
   wholesale/distribution/manufacturing revenue anywhere in the company is disqualifying," which
