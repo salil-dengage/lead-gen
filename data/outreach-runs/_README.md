@@ -111,27 +111,37 @@ each batch's files.
 Reminders are named **`Outreach · batch-0N · touch-0M · <weekday date>`** so both Salil and Claude
 can read the schedule at a glance.
 
-> NOTE (updated 2026-07-23): Salil deleted ALL live routines for a clean re-create. The table below is the
-> AUTHORITATIVE schedule (option (a): b1 t3 and b3 t3 both on Sun 07-26, per Salil). The create_trigger
-> tool is unavailable on Claude's side, so SALIL is re-creating these reminders himself from the
-> copy-ready specs Claude provided on 2026-07-23. Recommended fire time 08:00 Asia/Dubai (04:00 UTC).
-> The batch-02 · touch-3 reminder was due TODAY (Thu 07-23); its morning window had passed by the time the
-> specs were finalised, so that run is to be handled MANUALLY in-session on 07-23 (pending Salil's go),
-> not scheduled. The five FUTURE reminders (07-26 x2, 07-27, 07-28, 07-29) are the ones being created.
-> Each reminder runs BOTH legs: its batch's email touch AND the cross-batch LinkedIn sweep (every LinkedIn
-> touch due or overdue that day, across ALL batches, keyed to accept dates). On 07-26, run the LinkedIn
-> cross-batch sweep only ONCE across the two same-day reminders (batch-01 first, then batch-03 email-only).
+> NOTE (updated 2026-07-23): The five follow-up reminders are now LIVE. Claude created them 2026-07-23 as
+> one-shot routines (run_once_at), self-bound to the current outreach session (persistent_session_id
+> session_01BTogLWpKv6Hq1thx8TRErE, the post-context-limit continuation of the prior
+> session_01QUz6uSs9Y6odZgX79RASFj the old routines used). Live trigger IDs:
+>   - b1 t3: trig_01YR7jaBquU52jz75Exw1v1Y, fires 2026-07-26T04:00:00Z (08:00 Gulf)
+>   - b3 t3: trig_01QLo8zC1tnUSrBWSVizvogm, fires 2026-07-26T05:30:00Z (09:30 Gulf)
+>   - b5 t2: trig_01SKsbWnV94FLjzftA3jFxQr, fires 2026-07-27T04:00:00Z (08:00 Gulf)
+>   - b6 t2: trig_014dLLSmt3nyYV3aNa7hiw58, fires 2026-07-28T04:00:00Z (08:00 Gulf)
+>   - b4 t3: trig_01TZWcLTzQq7Ff3bKgvANLoz, fires 2026-07-29T04:00:00Z (08:00 Gulf)
+> b3 is staggered 90 minutes after b1 so b1 runs the shared 07-26 LinkedIn sweep first (b3 is email-only).
+> CAVEAT: created via the meta MCP tool, which warns the triggers store no MCP connectors, so a fired run
+> may lack Gmail/Zoho/Apollo unless the resumed session supplies them. The prior routines were the same
+> meta_mcp shape and did fire and work, so this likely resolves on resume; still, WATCH the first fire
+> (b1, Sun 07-26) and if the connectors are missing, re-create from the claude.ai routines UI.
+> Two OLD spent one-shots remain in the trigger list (b1 t3 "Wed 22 Jul" trig_01GFEP3zVyEsQ8vAc7fu3Qmt;
+> b4 t2 "Tue 21 Jul" trig_01Nu9aZcSGQAgAhKwWWGaerJ), both ended_reason run_once_fired and bound to the old
+> session, inert and safe to delete (left in place pending Salil's go). batch-02 · touch-3 was due Thu
+> 07-23 (window passed), handled MANUALLY in-session, NOT scheduled. Each reminder runs BOTH legs: its
+> batch's email touch AND the cross-batch LinkedIn sweep. On 07-26, run the LinkedIn cross-batch sweep only
+> ONCE across the two same-day reminders (batch-01 first, then batch-03 email-only).
 
 Authoritative schedule to re-create:
 
 | Reminder | Fires |
 |---|---|
-| Outreach · batch-01 · touch-3 | Sun 2026-07-26 (moved from Wed 07-22 per Salil; shares the day with batch-03 touch-3) |
+| Outreach · batch-01 · touch-3 | Sun 2026-07-26 04:00Z (moved from Wed 07-22 per Salil; shares the day with batch-03 touch-3) · LIVE trig_01YR7jaBquU52jz75Exw1v1Y |
 | Outreach · batch-02 · touch-3 | Thu 2026-07-23 (TODAY, handled manually in-session, not scheduled; morning window passed) |
-| Outreach · batch-03 · touch-3 | Sun 2026-07-26 |
-| Outreach · batch-05 · touch-2 | Mon 2026-07-27 |
-| Outreach · batch-06 · touch-2 | Tue 2026-07-28 |
-| Outreach · batch-04 · touch-3 | Wed 2026-07-29 |
+| Outreach · batch-03 · touch-3 | Sun 2026-07-26 05:30Z · LIVE trig_01QLo8zC1tnUSrBWSVizvogm |
+| Outreach · batch-05 · touch-2 | Mon 2026-07-27 04:00Z · LIVE trig_01SKsbWnV94FLjzftA3jFxQr |
+| Outreach · batch-06 · touch-2 | Tue 2026-07-28 04:00Z · LIVE trig_014dLLSmt3nyYV3aNa7hiw58 |
+| Outreach · batch-04 · touch-3 | Wed 2026-07-29 04:00Z · LIVE trig_01TZWcLTzQq7Ff3bKgvANLoz |
 
 ## Per-lead standing flags
 
