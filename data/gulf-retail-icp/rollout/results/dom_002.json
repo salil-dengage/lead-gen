@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Al Ameeri Group Holding",
+    "domain": "alameeri.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "diversified holding conglomerate (non-retail)",
+    "qualification_path": "n/a",
+    "reason": "Diversified multi-sector holding company spanning nine largely unrelated sectors (Commercial & Government, Marine, Land, Navigation, Electronics, Food & Beverage, Retail, Real Estate, Shipping); retail is only vaguely described (brand distributorships for beachwear/adventure apparel) with no dedicated storefront, prices, or cart anywhere on the site.",
+    "evidence": "alameeri.com (200 OK) is a corporate brochure site listing 9 sectors incl. Real Estate/Shipping/Marine/Navigation/Government; /fashion.html elaborates only on vague brand distributorships ('global fashion and beachwear', 'adventure clothing brands') with no products, prices, or cart. Address: Al Ameeri Group Building, Al Rai, Kuwait. Confirms prior OUT verdict."
+  },
+  {
+    "name": "Abdullah Ali Al Amer & Brothers Trading Co",
+    "domain": "alamer-market.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "grocery/hypermarket",
+    "qualification_path": "substantiality",
+    "reason": "Genuine, large, live grocery supermarket chain with a fully functional e-commerce storefront on a dedicated shop subdomain, backed by an ERP system and a dedicated mobile app; HQ confirmed in Al-Hofuf, Saudi Arabia.",
+    "evidence": "alamer-market.com (200 OK) links to shop.alamer-market.com (200 OK, 723KB rendered page) showing hundreds of live product categories (dairy, fresh meat, produce, frozen foods, bakery, beverages, cleaning, baby care, pet food, Unilever/Sensodyne branded goods, etc.), plus erp.alamer-market.com (Business Central ERP), helpdesk and IT subdomains, and a Google Play app (com.alamermarket.shopapp). Address: King Abdullah Rd, Al-Fadiliyah, Al-Hofuf, KSA; phone +966 13 587 9000. Confirms prior IN verdict."
+  },
+  {
+    "name": "AlaneesQatar",
+    "domain": "alaneesqatar.qa",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "electronics retail",
+    "qualification_path": "substantiality",
+    "reason": "Confirmed real, substantial consumer-electronics retailer (Al Anees Electronics Co. W.L.L.) with 16+ physical stores in Qatar and a live transactional e-commerce portal plus mobile app; broad multi-category electronics assortment (mobiles, laptops, smartwatches, headphones, appliances).",
+    "evidence": "Direct curl blocked by Cloudflare bot-check (403, 'Just a moment...'). WebSearch corroborates via the site's own indexed pages ('Buy Al Anees Electronics W.L.L Products Online in Qatar'; 'Online Shopping site in Qatar: Shop Online for Mobiles, Laptops, Smartwatches, Headphones and More'), a Google Play listing (com.alaneesqatar.qa), and D&B/ZoomInfo company profiles confirming Doha, Qatar HQ. Same-day delivery, own logistics fleet, cash/card on delivery, portal live since 2016."
+  },
+  {
+    "name": "Alarabiya Company الشركة العربية",
+    "domain": "alarabiya.com.kw",
+    "verdict": "OUT",
+    "gate_failed": "narrow_repeat_purchase",
+    "category_final": "lighting/electrical fixtures, switches-sockets-cables retail (narrow category); also runs B2B electrical project-execution/contracting",
+    "qualification_path": "n/a",
+    "reason": "Core assortment is lighting fixtures, switches/sockets, cables and CCTV/security equipment -- the exact 'lighting/electrical fixtures only' pattern previously confirmed as a Gate 3 fail -- and the company also runs a B2B project-execution/contracting arm building government power infrastructure. A real live e-commerce channel (KNET checkout app) exists, but the narrow, low-repeat-purchase product line disqualifies it. Reverses prior IN verdict.",
+    "evidence": "company.alarabiya.com.kw (200 OK): 'Our Services' = Lighting Solutions (indoor/outdoor/chandeliers), Electrical Division (switches, sockets, cables, MV/LV equipment), Security & Communication (CCTV, intercom), and Logistics & Project Execution ('executing and managing electrical works for major administrative, operational, and residential projects in cooperation with various ministries and government entities in Kuwait'); '40,000 products for Lighting, Electrical, and others.' No consumer appliances/TVs/phones found. WebSearch corroborates a KNET-checkout mobile app for the same lighting/electrical catalog and showrooms in Hawally, Shuwaikh, Rai, Fahaheel, Aswaq Al-Qurain, Jahra."
+  },
+  {
+    "name": "Alaryaf Sweets |  الارياف للحلويات",
+    "domain": "alaryaf.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "grocery/F&B (bakery & confectionery)",
+    "qualification_path": "substantiality",
+    "reason": "Primary website domain is parked/dead, but this is a real, substantial 45-year-old Saudi confectionery chain (11+ branches, 100+ distributors across Saudi/Gulf/Arab markets, ISO 22000/9001+HACCP certified) with an actively used branded ordering app satisfying the digital-channel requirement in place of a website.",
+    "evidence": "alaryaf.com resolves (200 OK) but redirects to a GoDaddy domain-parking lander (window.LANDER_SYSTEM=\"PW\", img1.wsimg.com parking assets) -- not an active business site. WebSearch confirms the real operating company: 'Al Aryaf Bakery & Sweets, established in Qassim over 45 years ago... more than 11 branches and over 100 authorized agents and distributors across the Kingdom... Gulf countries, Arab nations.' Google Play + Apple App Store app com.foodtech.alaryaf: 3.4 stars, 24 reviews, 5K+ downloads, updated Mar 2026, used for real branch-based ordering (genuine user reviews about delivery speed and coupons)."
+  },
+  {
+    "name": "ALASEEL",
+    "domain": "alaseel.com.sa",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "fashion/apparel (men's traditional clothing - thobes)",
+    "qualification_path": "substantiality",
+    "reason": "Real Saudi apparel manufacturer/retailer with a dedicated, actively used e-commerce storefront covering multiple clothing lines for men, youth and children, plus genuine customer reviews and shipping/safety trust messaging.",
+    "evidence": "alaseel.com.sa (200 OK; investor-relations/corporate-governance content typical of a Nomu-listed company) links its 'المتجر' (Store) nav item to alaseel.com (200 OK) = 'متجر الأصيل الإلكتروني' (Al Aseel Online Store), showing categories for men's/youth's/kids' thobes, winter thobes, pajamas, underwear, medical scrubs, ihram garments, named customer reviews (e.g. 'Najla Q', 'Abdulwahab Alsalem'), and 'safe shopping'/'fast shipping' trust badges. The .com.sa /products page separately lists 30+ distinct SKU names. Confirms prior IN verdict."
+  },
+  {
+    "name": "Saudi Fisheries Company (SFC)",
+    "domain": "alasmak.com.sa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "seafood aquaculture/fishing/production (manufacturing)",
+    "qualification_path": "n/a",
+    "reason": "Royal-Decree-established aquaculture, fishing, and seafood-processing/manufacturing company with an investor-relations-style corporate site; not a direct-to-consumer retail storefront.",
+    "evidence": "alasmak.com.sa (200 OK): 'Saudi Fisheries Company was established by Royal Decree No. M/7 in 1980... in the field of fishing mainly... investment of living aquatic resources and related industries.' Business Sectors = Aquaculture, Fishing, Commercial Sector, Manufacturing, Investors; Products page lists species/production lines (Najil, Lobster, Sayyad Meal), not a consumer cart. Confirms prior OUT verdict."
+  },
+  {
+    "name": "Al Attiya Motors & Trading Company",
+    "domain": "alattiyamotors.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive (vehicle dealer/distributor, tires/batteries/lubricants)",
+    "qualification_path": "n/a",
+    "reason": "Automotive dealer/distributor (Renault Trucks, Kia, JMC, LiuGong construction equipment) plus tires/batteries/lubricants -- a hard-fail category regardless of scale.",
+    "evidence": "alattiyamotors.com (200 OK): 'Commercial Vehicles, Passenger Vehicles, Leasing Vehicles, Construction Equipment, Tyres, Batteries & Lubricants'; 'exclusive distributor of Renault Trucks in Qatar since the early 1970s'; agent for Firestone and Nexen tires. Confirms prior OUT verdict."
+  },
+  {
+    "name": "Alaysh International Group",
+    "domain": "alayshgroup.com",
+    "verdict": "OUT",
+    "gate_failed": "digital_channel",
+    "category_final": "general merchandise / grocery (hybrid wholesale+retail: camping-outdoor, houseware, supermarket)",
+    "qualification_path": "n/a",
+    "reason": "Genuine physical retail stores exist (camping/outdoor gear, houseware/appliances, supermarket products), but the company's own site explicitly states its online store is not yet live, and no consumer mobile app was found. Reverses prior IN verdict.",
+    "evidence": "alayshgroup.com/services/ (200 OK) states verbatim: 'Alaysh Online Store... Lunching Soon' (i.e. Launching Soon). No shop/cart subdomain found anywhere on the WordPress brochure site; Instagram handles exist (alayesh_market, alaysh_houseware, alaysh.bar.bahr) but no confirmed transactional site or app."
+  },
+  {
+    "name": "Al Aziziya Pharmacy",
+    "domain": "alaziziyapharmacy.com",
+    "verdict": "OUT",
+    "gate_failed": "digital_channel",
+    "category_final": "health_beauty_pharmacy",
+    "qualification_path": "n/a",
+    "reason": "Real, substantial 24+-branch Qatari pharmacy chain that would otherwise clear every gate, but its own website is currently down at the origin server and no dedicated branded mobile app exists -- only third-party marketplace listings (Talabat, Rafeeq), which do not constitute the business's own digital channel. Reverses prior IN verdict.",
+    "evidence": "alaziziyapharmacy.com returns Cloudflare Error 1001 'DNS resolution error' (origin unreachable) on every direct-fetch attempt (https, http, www-prefix, forced TLS1.2). WebSearch corroborates: 'the website indicates it may be under maintenance'; confirms 24+ branches under Al Danah Medical Company (est. 1990); no dedicated Al Aziziya app found on Google Play/App Store searches -- only Talabat/Rafeeq marketplace presence."
+  },
+  {
+    "name": "AlBabtain Auto",
+    "domain": "albabtainauto.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive (tires, batteries, service)",
+    "qualification_path": "n/a",
+    "reason": "Automotive tires/batteries/service business -- a hard-fail category.",
+    "evidence": "albabtainauto.com (200 OK) page title: 'Al Babtain Auto – Tires, Batteries, Service in Kuwait'. Confirms prior OUT verdict."
+  },
+  {
+    "name": "ALBABTAIN FOOD",
+    "domain": "albabtainfood.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "wholesale_distribution (bulk bakery/food-service ingredients)",
+    "qualification_path": "n/a",
+    "reason": "A live WooCommerce cart exists, but the actual catalog is bulk B2B food-service/bakery ingredients (25kg sacks, 4kg boxes, cartons of 12) sold to bakeries/hotels/caterers -- wholesale/trading/distribution (B2B) is a hard fail regardless of how real the e-commerce is.",
+    "evidence": "albabtainfood.com/shop/ (200 OK) lists 110 pages of products such as 'MIXED MONPARIGLIA 25KG - 625.00 SR', 'AERO Medium Milk NCP - 1,005.00 SR (24x36g, 12-box carton)', 'A FOR FLOUR WHE - 125.00 SR (12.5 KG)' -- all priced by bulk pack/carton weight, not consumer unit size. Site also carries Investors/BOD/AOA/Reports sections typical of a B2B supplier. Confirms prior OUT verdict/category."
+  },
+  {
+    "name": "Al Babtain Group of Companies",
+    "domain": "albabtaingroup.com.kw",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "diversified holding conglomerate (non-retail): HVAC, catering, energy services, general trading & contracting, storage/refrigeration; retail electronics arm 'Switch' is one of ~9 unrelated divisions",
+    "qualification_path": "n/a",
+    "reason": "Genuinely diversified holding conglomerate; its only retail-relevant subsidiary (Switch, electronics) is one of nine largely unrelated B2B/industrial divisions, so the Group itself -- the entity named in this row -- is not a retail business.",
+    "evidence": "albabtaingroup.com.kw (200 OK) lists companies: Al Surouh Holding, Switch, Massad Limited, Raad Trading & Marketing, Al Babtain Air Conditioning, Tazweed Catering Services, United Energy Services, Abdulaziz Al Babtain & Sons for GTC, Bab Al-Tafani General Trading & Contracting, Julaia Storage & Refrigeration. The /switch-2/ subpage confirms Switch operates as a separate electronics retail/distribution brand at www.switch.com.kw, not on this domain. Confirms prior OUT verdict."
+  },
+  {
+    "name": "البدر للبصريات | AlBadr Optical",
+    "domain": "albadr-optical.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "fashion/health retail - optical & eyewear (prescription glasses, sunglasses, contact lenses)",
+    "qualification_path": "substantiality",
+    "reason": "Real, long-established (est. 1990, Jeddah), multi-branch Saudi optical retail chain with a fully live, functioning e-commerce storefront (cart/checkout) and broad category breadth spanning prescription eyewear, sunglasses, and contact lenses (a high-repeat consumable) across men/women/kids lines. Reverses prior OUT verdict.",
+    "evidence": "albadr-optical.com (200 OK): live cart ('السلة'), checkout flow ('اتمام عملية الشراء'), categories = prescription glasses (men/women/kids/unisex), sunglasses (men/women/kids/unisex), contact lenses (clear/weekly/daily/monthly/colored), swimming goggles, gift cards; tagline 'البدر للبصريات منذ عام 1990' (since 1990). WebSearch corroborates: opened its first branch in Jeddah in 1990, grew to 15+ branches by 2017 across Riyadh (multiple malls), Jeddah (multiple malls), and Al Khobar."
+  },
+  {
+    "name": "Al-Bahar Group",
+    "domain": "albahargroup.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "diversified holding / multi-sector trading-distribution conglomerate (Technology, Consumer Goods, Shipping, Travel, Retail)",
+    "qualification_path": "n/a",
+    "reason": "Genuinely diversified 85+-year-old trading/distribution conglomerate with Technology, Consumer Goods, Shipping, Travel and Retail as five separate named business lines; no single retail storefront or live consumer e-commerce channel is identified on this domain.",
+    "evidence": "albahargroup.com (200 OK): 'Our Business: Technology, Consumer goods, Shipping, Travel, Retail'; 'Business Enablers: Human Capital, Logistics, Supply Chain, Omni Channel'; founded 1937; '5x Business Verticals'; brand partners incl. Unilever, Canon, Thales, Blaupunkt, GE Appliances, COSCO. No cart, checkout, or dedicated retail-brand link found anywhere on the site. Confirms prior OUT verdict."
+  },
+  {
+    "name": "Al Barakat Group Co Ltd.",
+    "domain": "albarakatgroup.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "fashion/luxury retail - optical & eyewear (via Barakat Optical retail arm; also hearing-care retail)",
+    "qualification_path": "substantiality",
+    "reason": "Riyadh-HQ'd, single-vertical (eye/hearing health retail) group -- not a diversified conglomerate like the other holding companies in this batch -- whose flagship retail arm, Barakat Optical, is confirmed as a large, live, luxury eyewear e-commerce operation with 65+ physical showrooms and 80+ international luxury brands.",
+    "evidence": "albarakatgroup.com (200 OK) self-identifies as 'the largest optical and hearing care retail chain in the Near East... more than 65 showrooms' with three divisions all serving the same vertical: Retail (Barakat Optical), Manufacturing (Triano Lab, its own in-house lens lab), and Hearing Care -- unlike the genuinely diversified holdings seen elsewhere in this batch (cf. Al Ameeri, Al Babtain Group, Al-Bahar). The linked retail domain barakatoptical.com.sa (200 OK on retry after an initial 500 error) shows a live cart, wishlist, account, eye-exam booking, a 'buy 1 get 1 free' sunglasses promo, and 80+ luxury brands (Ray-Ban, Dior, Fendi, Givenchy, Tom Ford, Chopard, Balenciaga, Celine, YSL, Swarovski, etc.) across prescription/sunglasses/contact-lens categories. HQ confirmed Riyadh, KSA, founded 1980. Confirms prior IN verdict."
+  },
+  {
+    "name": "ALBASEM الباسم",
+    "domain": "albasem.com.sa",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "general merchandise / discount department store",
+    "qualification_path": "substantiality",
+    "reason": "Real, substantial, 20+-year-old Riyadh-based discount general-merchandise retailer with a claimed 70,000 product varieties, multi-city branches, and an existing online store; direct verification was blocked by an environment/proxy-level connectivity failure, not by any evidence that the business or its site is not real.",
+    "evidence": "Direct curl failed on every attempt (https, http, www-prefix -- exit 56, then outright DNS non-resolution); the agent-proxy status log shows 'gateway answered 502 to CONNECT (policy denial or upstream failure)' specifically for albasem.com.sa and www.albasem.com.sa -- an environment-side block, not a dead-domain signal. WebSearch corroborates a live, indexed page titled 'متجر الباسم-Albasem- لكل المواسم' at albasem.com.sa/en/, describing 'a leading commercial company in the discount world... more than 20 years... over 70,000 product varieties,' branches in Riyadh/Hail/Hufuf, and an electronic platform where 'customers can browse and order.' Confirms prior IN/general_merch_dept verdict."
+  },
+  {
+    "name": "ALdakheel Oud الدخيل للعود",
+    "domain": "aldakheeloud.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "beauty/personal care - perfume & oud (consumable, high repeat purchase)",
+    "qualification_path": "substantiality",
+    "reason": "Real, live, VAT-registered Saudi perfume/oud e-commerce brand with a broad multi-category catalog and genuine secure-payment/delivery infrastructure.",
+    "evidence": "sa.aldakheeloud.com (200 OK) shows live categories: perfumes (men/women/unisex/niche), oud & bakhour (5 sub-lines), perfume oil & mixtures, hair mist, body mist, gift/home-fragrance collections; 'Secure Payment - Shop Confidently with Multiple Secure Payment Methods'; Saudi VAT number 301225568700003; 'Fast delivery across Saudi Arabia and the GCC'; references a downloadable branded mobile app. Confirms prior IN verdict (recategorized here from health_beauty_pharmacy to beauty/perfume)."
+  }
+]

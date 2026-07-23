@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Motors Gate Company | بوابة العربات",
+    "domain": "motorsgate.sa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive_dealer",
+    "qualification_path": "n/a",
+    "reason": "Confirmed official BAIC/Maxus automotive dealer, a subsidiary of Babgi Trading Company / Salem Babgi Automotive Group. Automotive dealers/agents are an explicit Gate 2 hard-fail category. The site itself is also a pure corporate brochure page (Who We Are / What We Do / Our Brand / Contact) with no cart.",
+    "evidence": "motorsgate.sa meta description: 'Motors Gate Company leverages the extensive experience and expertise of its parent company...'; footer address 'King Abdul Aziz Rd, Al Mohammadiyyah, Jeddah 21332'. WebSearch confirms: 'Motors Gate Company, agent of BAIC Motors in the Kingdom of Saudi Arabia, is a subsidiary of the Babgi Trading Company... member of Salem Babgi Automotive Group,' HQ Jeddah."
+  },
+  {
+    "name": "Motory",
+    "domain": "motory.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "automotive_marketplace (qualified via app-download rescue)",
+    "qualification_path": "app_download_rescue",
+    "reason": "Motory is an automotive classifieds/marketplace, which would normally fail Gate 2 (automotive hard-fail category). However, per the Gate 5(b) app-download rescue rule, its primary Google Play listing confirms 100K+ downloads (well above the 50,000 threshold), which qualifies the account as IN regardless of category. Geography passes independently: HQ confirmed Jeddah, Saudi Arabia.",
+    "evidence": "motory.com itself returned a Cloudflare JS challenge (blocked to curl). WebSearch confirms HQ Jeddah, Saudi Arabia, part of Abdul Latif Jameel Technology, live since 2014. Google Play listing (play.google.com/store/apps/details?id=motory.com.motory) HTML directly shows '<div class=\"ClM7O\">100K+</div><div class=\"g1rdde\">Downloads</div>' and structured data '[\"100,000+\",100000,304995,\"100K+\"]'."
+  },
+  {
+    "name": "Meshaal Al Shatti and Partner General Trading",
+    "domain": "mssandp.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "diversified_holding_conglomerate",
+    "qualification_path": "n/a",
+    "reason": "mssandp.com is a corporate holding-group site listing eight unrelated brands (two fashion labels, a Swarovski distributorship, men's fabrics, two F&B concepts, an interior fit-out firm, and an agriculture farm) via 'Discover the Brand' links. The domain itself carries no cart or product listing, and the entity as a whole is a diversified multi-industry trading/holding group rather than a single qualifying retail business. Geography passes: confirmed based in Kuwait.",
+    "evidence": "Site text: 'A diversified holding group based in Kuwait, founded in 2005... Today we operate eight brands across fashion, food & beverage, lifestyle, construction, and cultivation.' Listed brands: Shadow (fashion), Bait Hanayen (fashion), Crystal House (Swarovski distributor), Tawaz (fabrics), Zwarah (F&B), Keif (F&B), Diwar (interior fit-out), Sinan Farms (agriculture). No cart/checkout found on mssandp.com."
+  },
+  {
+    "name": "mubkhar",
+    "domain": "mubkhar.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "beauty_fragrance_perfume",
+    "qualification_path": "substantiality",
+    "reason": "Real, live Shopify storefront for a Kuwaiti-origin perfume/bakhoor brand (founded 2015) with a confirmed 235-product catalog, functioning cart/checkout, and Kuwait-specific currency/locale settings. Consumable fragrance products carry natural repeat purchase. All gates pass.",
+    "evidence": "kw.mubkhar.com is a Shopify store; page JS shows cart object with currency 'KWD' and countryCode 'KW'; /collections/all shows 'products_count':235. WebSearch: 'Mubkhar, a leading perfume brand of Kuwaiti origin... since its founding in 2015... a Kuwaiti company based in Kuwait,' though it now also sells in Qatar, Bahrain, UAE, Saudi Arabia, and Oman."
+  },
+  {
+    "name": "Munch Bakery منش بيكري",
+    "domain": "munchbakery.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "food_beverage_bakery",
+    "qualification_path": "substantiality",
+    "reason": "The marketing homepage (munchbakery.com, a Framer site) itself has no cart, but the brand operates a genuine POS-integrated online ordering platform (order.munchbakery.com, on the Taker.io platform) with real payment methods, 15% VAT, loyalty/cashback, and franchise branch management, plus a confirmed multi-city branch network and listings on major delivery apps.",
+    "evidence": "order.munchbakery.com APP_SETTINGS JSON shows a real production ordering system: client_id 2236, payment types [Cash, Credit/debit card, Payment Terminal], vat_tax:15, is_online_payment:true, is_franchise:true. WebSearch confirms branches across Riyadh, Jeddah, Makkah, Madinah, Yanbu, and Najran, plus listings on HungerStation and Ninja delivery platforms."
+  },
+  {
+    "name": "Muntazah Holding",
+    "domain": "muntazaholding.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "diversified_holding_conglomerate",
+    "qualification_path": "n/a",
+    "reason": "muntazaholding.com is a pure corporate holding-company directory page listing five separate subsidiary companies (a supermarket chain, an online/app arm, a spice manufacturer, a bottled-water distributor, and a restaurant chain) spanning manufacturing, distribution, grocery, and F&B simultaneously. The domain itself has no cart, price, or product of its own -- it only lists 'Our Companies' with links/logos. Geography passes: Saudi phone code +966 13 (Eastern Province).",
+    "evidence": "Page text: 'Muntazah Holding Company - We have diversified into the areas of manufacturing, chain of supermarkets, distribution, and restaurants,' listing Muntazah Markets, Muntazah Online, Muntazah Food Industry, AlKhair Water, and Zanjabeel Restaurants as distinct 'Our Companies' entries, each with its own separate link/logo. No cart/checkout present on this domain."
+  },
+  {
+    "name": "Mutawa AlKazi & Subsidiaries",
+    "domain": "mutawaalkazi.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive_distributor",
+    "qualification_path": "n/a",
+    "reason": "Confirmed sole Kuwait distributor for BAIC, GAC Motor, GAC GONOW, DFM, TVS, and Hyosung (cars, motorcycles, generators, agricultural equipment), plus real estate and investment lines. Automotive distribution is a hard Gate 2 fail. The live site itself is also nearly devoid of real content (just social-media links, empty page title), reinforcing the fail.",
+    "evidence": "WebSearch: 'Mutawa Alkazi Co. is the sole distributor of BAIC, GAC Motor, GAC GONOW, DFM, TVS and HYOSUNG products (cars, motorcycles, generators, power products, agricultural equipment) in Kuwait... recognized as a pillar of excellence in the local automotive sector,' located Shuwaikh Industrial Area, Kuwait. Direct fetch of mutawaalkazi.com returned an almost entirely empty body ('Instagram Facebook Twitter Youtube We are social...') with blank <title>."
+  },
+  {
+    "name": "My Little Home | بيتي الصغير",
+    "domain": "mylittlehome.com.sa",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "home_decor_textiles",
+    "qualification_path": "substantiality",
+    "reason": "Live WordPress/WooCommerce store selling home textiles and decor (bedding, bath mats, prayer boxes, cushions) with confirmed Saudi Arabia address in structured data and a genuine deep catalog (distinct product sets confirmed across multiple shop pages, 100+ SKUs). All gates pass.",
+    "evidence": "schema.org 'Store'/'Organization' type with address addressCountry 'Saudi Arabia'; /shop/ page 1 and /shop/page/5/ each returned 20 completely different real product URLs (e.g. bath-mat-cotton-td-105-green, bridal-bedding-paris-ba-076-of, prayer-box-velvet-rb-52-db), confirming a genuine deep catalog rather than repeated/demo listings."
+  },
+  {
+    "name": "محمد يوسف ناغي للسيارات - فورد | Mohamed Yousuf Naghi Motors - Ford",
+    "domain": "mynaghiford.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive_dealer",
+    "qualification_path": "n/a",
+    "reason": "Ford-branded automotive dealership under the Naghi Motors group. Automotive dealers are an explicit Gate 2 hard-fail category.",
+    "evidence": "Domain and company name explicitly identify this as the Ford dealership site for Mohamed Yousuf Naghi Motors; page content consists of consent-manager/cookie-banner boilerplate consistent with a dealer website."
+  },
+  {
+    "name": "Nabco Furniture Center",
+    "domain": "nabcostore.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "home_furniture",
+    "qualification_path": "substantiality",
+    "reason": "Live Shopify furniture retailer with physical showrooms in Qatar and a confirmed large catalog (1,139 products) spanning dining, bedroom, sofa, office, and accessories -- a broad multi-category furniture retailer, not a narrow single product line. All gates pass.",
+    "evidence": "Meta description: 'One of the leading and finest furniture showrooms in Qatar... Visit our main showroom in Al Matar Street and Al Gharafa branch.' /collections/all page text shows '1139 products'."
+  },
+  {
+    "name": "Nabina Ceramic",
+    "domain": "nabinaceramic.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "building_materials_ceramics_tiles",
+    "qualification_path": "n/a",
+    "reason": "Ceramics/tiles supplier -- an explicit Gate 2 hard-fail category (building materials/construction: ceramics, tiles).",
+    "evidence": "Live Next.js storefront (api.nabina.org backend) with category imagery/product structure consistent with a ceramic tile retailer; company name and prior categorization both confirm ceramics/tiles as the core business."
+  },
+  {
+    "name": "NAD United General Trading.",
+    "domain": "nadkw.com",
+    "verdict": "OUT",
+    "gate_failed": "digital_channel",
+    "category_final": "unverifiable_parked_domain",
+    "qualification_path": "n/a",
+    "reason": "The domain currently resolves to a parked/for-sale landing page, not a live business site. A WebSearch for the company found only directory/LinkedIn listings describing a vague 'brand investment and partnership' holding business, with no confirmed live alternate storefront domain to re-check gates against.",
+    "evidence": "nadkw.com response body: 'window.LANDER_SYSTEM=\"PW\"... window._trfd.push({ap:\"parking\"})' -- a domain-parking signal; /lander subpage confirms the same parking script. WebSearch turned up only linkedin.com/company/nadkw and directory mentions, no live company website found."
+  },
+  {
+    "name": "NAFT Services Company (NAFT)",
+    "domain": "naft.com.sa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "fuel_distribution_vehicle_services",
+    "qualification_path": "n/a",
+    "reason": "Real, substantial company (established 1987, 235+ gas stations, majority-acquired by SASCO in 2022), but its core business is petroleum/fuel distribution, lubricants, and vehicle maintenance services -- automotive-adjacent industrial distribution, not an approved retail category. A secondary in-station 'EZMart' convenience concept exists but is not the entity's identified core business at this domain. The domain itself is also blocked (403).",
+    "evidence": "Both naft.com.sa and www.naft.com.sa returned 'ERROR! | 403 Forbidden' (WafaiCloud block). WebSearch confirms: 'NAFT Services Company Limited is a leading Saudi company in the field of gas stations and the distribution of petroleum products... distributes petroleum products, such as motor oils, lubricants, and greases, as well as offers vehicle maintenance services... SASCO acquired 80% of the capital.'"
+  },
+  {
+    "name": "Mohamed Yousuf Naghi Motors",
+    "domain": "naghi-group.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive_holding_group",
+    "qualification_path": "n/a",
+    "reason": "Parent automotive holding group of the Naghi Motors dealership network (including the Naghi Ford entity above). Automotive is a hard Gate 2 fail.",
+    "evidence": "Site title: 'Yousuf M.A. Naghi & Sons Group - Naghi & Sons,' tagline 'The Road To Profitable Business'; standard WordPress/Yoast corporate group site with no retail cart."
+  },
+  {
+    "name": "Nagwa Boutique & Café",
+    "domain": "nagwaboutique.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "food_beverage_confectionery",
+    "qualification_path": "substantiality",
+    "reason": "Established Arabic-sweets/confectionery boutique with two factories (Kuwait and Saudi Arabia) and a genuine online ordering platform (order.nagwa-kw.com, Zyda-powered) offering pickup/delivery across six named physical Kuwait branches, spanning multiple product lines (Cakes, Gifting, Catering, Premium Picks, Classic Selections, Local Flavors, Drinks, etc.). All gates pass.",
+    "evidence": "order.nagwa-kw.com shows a live branch selector (Nagwa Jabriya, Salmiyah, Hawali, Al Kout, Airport T4, 360 Mall) each with Pickup/Delivery options, 'Powered by Zyda'; homepage confirms Kuwait phone +9651803060 and 'two state-of-the-art factories... in Kuwait and Saudi Arabia.'"
+  },
+  {
+    "name": "Nana",
+    "domain": "nana.sa",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "grocery_quick_commerce",
+    "qualification_path": "substantiality",
+    "reason": "Correction of the prior 'marketplace_delivery' label: Nana is a vertically-integrated quick-commerce grocery retailer operating its own dark-store inventory (up to 2,000 SKUs per dark store; 22,000+ products overall; 30+ dark stores in Riyadh alone), not merely a booking/aggregator marketplace. Grocery is a squarely approved, inherently high-frequency Gate 2/3 category. Scale is confirmed both via substantiality (dark-store inventory) and independently via confirmed Google Play downloads far above the app-rescue threshold.",
+    "evidence": "WebSearch: 'Nana fulfills online grocery purchases from its dark stores and delivers them within 15 minutes... Nana Express operates a network of micro-fulfillment centers or Dark Stores with an inventory of up to 2,000 SKUs... a choice of over 22,000 products... delivered more than 45 million orders.' Google Play listing 'Nana نعناع' (package com.exa.nanamarket) shows 2.9-4M+ downloads."
+  },
+  {
+    "name": "Nasir Bin Abdullah & Sons",
+    "domain": "nas-goc.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "diversified_holding_conglomerate",
+    "qualification_path": "n/a",
+    "reason": "Long-established (est. 1961) Qatari conglomerate spanning nine divisions (retail, automobiles, real estate, engineering, hospitality, F&B, travel, sports) -- a diversified holding group, not a single qualifying retail business. Independently, the nas-goc.com domain itself currently shows only a 'coming soon' countdown placeholder with zero live product content, corroborating the fail.",
+    "evidence": "WebSearch: 'NAS Group... one of the largest and oldest family-run businesses in... Qatar... business is comprised of nine different divisions: retail, automobiles, real estate, engineering, hospitality, food and beverage, travel, and sports... headquartered in Qatar.' Live fetch of nas-goc.com shows only 'Website under update... We'll be back soon' with a countdown timer, no product content."
+  },
+  {
+    "name": "نسق",
+    "domain": "nasaq.info",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "interior_design_services",
+    "qualification_path": "n/a",
+    "reason": "Interior design / architectural engineering firm selling design 'packages' (only about 3 per category, across commercial/residential/landscape/free-style design) through a WooCommerce cart -- this is a B2B/interior-design-project services business, an explicit Gate 2 hard-fail category, not a retail products business. The prior 'ecommerce' categorization mistook a WooCommerce-powered services-booking cart for genuine retail.",
+    "evidence": "Homepage: 'هندسة الجمال.. وفن النسق' (the engineering of beauty and the art of design) with 'تصفح خدمات نسق' (browse Nasaq's services). Nav includes /product-category/commercial-design/, /residential-design/, /landscape-design/, /free-styles-design/, each showing only '3 Products' (i.e. design packages). About page: 'مؤسستنا رؤية هندسية تلامس الواقع... الفراغات المعمارية هي مساحات للحياة قبل أن تكون مجرد جدران' (our engineering vision touches reality... architectural spaces are living spaces before mere walls)."
+  }
+]

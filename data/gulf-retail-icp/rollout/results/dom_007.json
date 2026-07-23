@@ -1,0 +1,182 @@
+[
+  {
+    "name": "alsaifgallery",
+    "domain": "alsaifgallery.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "home_furniture_appliance",
+    "qualification_path": "substantiality",
+    "reason": "Live transactional e-commerce site for home and electrical appliances; HQ confirmed Riyadh, Saudi Arabia; large multi-category catalog with real cart and pricing.",
+    "evidence": "curl 200 OK. JSON-LD structured address = Riyadh, Saudi Arabia (addressCountry SA). Site shows dozens of SKUs across pressure cookers, air fryers, coffee makers, kettles, fridges/freezers, ACs, TVs, and multiple thermos brand lines, with live Add to Cart buttons and real SAR pricing/discounts."
+  },
+  {
+    "name": "AlSaif Group",
+    "domain": "alsaiftransport.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "non_retail (transport/logistics/real estate)",
+    "qualification_path": "n/a",
+    "reason": "Company is a transportation, logistics and real-estate development conglomerate (est. 1960), not a retailer; no consumer products sold on site.",
+    "evidence": "curl 200 OK. Site text: 'Alsaif Group specializes in providing premium transportation, logistics support and real estate development services'; describes a fleet of 1200+ trucks/1500 trailers and 284 warehouses; branches in Dammam (HQ), Jeddah, Riyadh, Yanbu, Abha, Dubai."
+  },
+  {
+    "name": "Alsalman Optics",
+    "domain": "alsalmanoptics.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "health_beauty_pharmacy",
+    "qualification_path": "substantiality",
+    "reason": "Live OpenCart e-commerce optics retailer since 1971, HQ Riyadh with 38 branches, real cart/checkout, huge multi-brand catalog (200+ eyewear brands).",
+    "evidence": "curl 200 OK. Page text: 'We offer sunglasses, prescription glasses and contact lenses from more than 200 global brands, caring for your eyes since 1971'. Category page shows per-brand counts e.g. Carrera(27), Ray Ban(26), Gucci(14), Dior(9). Real cart/checkout, cash-on-delivery, free-shipping threshold, CR 1010029478, VAT 303395032300003. WebSearch confirms HQ Riyadh, 38 branches, founded 1971."
+  },
+  {
+    "name": "Mohamed Naser Al-Sayer & Sons Establishment Company W.L.L.",
+    "domain": "alsayeronline.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "non_retail (automotive dealer / diversified conglomerate)",
+    "qualification_path": "n/a",
+    "reason": "Kuwait's largest Toyota/Lexus automotive distributor and diversified conglomerate (feed manufacturing, beverages, F&B franchising); automotive dealer/distributor is a hard-fail category.",
+    "evidence": "Direct curl connection reset (TLS) on alsayeronline.com, both http and https. WebSearch corroboration: 'ALSAYER Holding established 1954, leading business in general trading and car imports'; exclusive Toyota/Lexus distributor for Kuwait since 1954; also owns Caribou Coffee Kuwait franchise, animal feed plant, beverage bottling operations."
+  },
+  {
+    "name": "Alshafi Medical Company",
+    "domain": "alshafi.sa",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "health_beauty_pharmacy",
+    "qualification_path": "substantiality",
+    "reason": "Established Saudi pharmacy chain, HQ Riyadh, with a confirmed live online pharmacy shop (cart/checkout, categorized products, SFDA-licensed).",
+    "evidence": "Direct curl connection reset (TLS/WAF) on alshafi.sa; WebFetch returned 503. WebSearch corroboration: 'founded 2006 in Riyadh, HQ at 14325 Almashael, Riyadh'; indexed live pages include alshafi.sa/shop, alshafi.sa/shop/1001430-diane-35-tab-2867 (Add to Cart / Buy Now), alshafi.sa/shop/category/medical-supplies-1857; SFDA-registered pharmacy listing; free delivery over 100 SAR, 30-day money-back, 7-day returns."
+  },
+  {
+    "name": "Al Shaheen Est",
+    "domain": "alshaheenest.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "general_merch_dept",
+    "qualification_path": "substantiality",
+    "reason": "Live general-merchandise retailer with real stores in Doha malls plus a functioning e-commerce cart. Re-verification overturns the prior OUT/diversified_trading call, which does not match the live site's actual retail operation.",
+    "evidence": "curl 200 OK (redirected to /en/). Site text: 'Find us in Bin Omran, Matar Qadeem and Tawar Mall, or shop online anytime'. Categories: Household, Furniture, Electronics, Decor, Cosmetics, Perfumes, Toys. 70 occurrences of add-to-cart markup; real SKUs, QAR pricing, stock status and percent discounts (e.g. LASER DISTANCE METER-60MTR SKU 1704253040004, QAR 149 to 104). Qatar phone +97431318332."
+  },
+  {
+    "name": "Marzooq S. Al Shamlan Holding",
+    "domain": "alshamlanholding.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "diversified_trading",
+    "qualification_path": "n/a",
+    "reason": "Diversified Qatari holding group (automotive/tire trading, Karcher equipment, general trading) since 1950; corporate site has no cart/checkout of its own.",
+    "evidence": "curl 200 OK. Site text: 'introduced more than 180 brands into the Qatari market... automotive industry, as well as into retail, trading and services'. Business units listed: Qatar Trading Company, Q-Tire, International Tire Center, Karcher Center, Ultra Shield. HQ Doha, Qatar (Al Shoumoukh Tower)."
+  },
+  {
+    "name": "Alshareef for building materials",
+    "domain": "alshareef.com.sa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "building_materials_b2b",
+    "qualification_path": "n/a",
+    "reason": "B2B building-materials importer (bricks, rebar, timber) since 1975; explicitly excluded construction-materials category.",
+    "evidence": "curl 200 OK. Site text: 'Mohammed Sweilem Al-Shareef Sons Company, founded 1975, one of the largest companies in importing building materials in Saudi Arabia'. Product lines: red brick, reinforcement steel/steel mesh (rebar), timber/plywood."
+  },
+  {
+    "name": "Alshaya Watches  الشايع للساعات",
+    "domain": "alshayawatches.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "fashion",
+    "qualification_path": "substantiality",
+    "reason": "Live luxury watch and accessories e-commerce retailer, Saudi HQ, real cart/checkout, large multi-brand catalog.",
+    "evidence": "curl 200 OK. Site shows dozens of SKUs with real SAR prices and Add to Cart buttons across brands Frederique Constant, Maurice Lacroix, Bentley, Avalieri, Kylemore. Categories include men's/women's watches, diamond watches, sunglasses, perfume, pens, wallets. Free shipping over 499 SAR, 2-year warranty. Riyadh/Jeddah references and SAR pricing throughout confirm Saudi HQ."
+  },
+  {
+    "name": "ALSIDDIQI HOLDING",
+    "domain": "alsiddiqiholding.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "diversified_trading",
+    "qualification_path": "n/a",
+    "reason": "Diversified Qatari holding conglomerate (retail, hospitality, brands, entertainment, real estate, industrial divisions) across 9 GCC/MENA countries; corporate holding domain, not a single retail storefront.",
+    "evidence": "Direct fetch returned HTTP 403 with a bot-check interstitial ('Checking your browser before accessing'), inconclusive alone. WebSearch corroboration: 'multinational company... operates six divisions: Al Siddiqi Retail, Al Siddiqi Hospitality, Al Siddiqi Brands, Al Siddiqi Entertainment, Al Siddiqi Real Estate, and Al Siddiqi Industrial'; $128.9M revenue, 286 employees, Doha HQ, founded 1922."
+  },
+  {
+    "name": "Alsourayia Trading Co.",
+    "domain": "alsourayia.com",
+    "verdict": "OUT",
+    "gate_failed": "narrow_repeat_purchase",
+    "category_final": "flooring_carpet (narrow home-goods specialty, not diversified trading)",
+    "qualification_path": "n/a",
+    "reason": "Live e-commerce site, but sells only flooring and carpets (vinyl/parquet/SPC flooring, office/mosque/hotel carpets, artificial grass); matches the explicitly confirmed narrow-category fail pattern of 'flooring/carpet only'.",
+    "evidence": "curl 200 OK (redirected to www.). Site self-describes as 'Al Suraiya for Flooring and Furnishings, the largest flooring store in Saudi Arabia'. Full product list is flooring/carpet variants only, plus real customer reviews and an order-now cart flow. Re-verification found this is a genuine live flooring retailer, not a diversified trading company as the prior category label suggested, but it still fails on narrow product-line grounds."
+  },
+  {
+    "name": "Alsulaiman Group",
+    "domain": "alsulaimangroup.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "general_merch_dept",
+    "qualification_path": "substantiality",
+    "reason": "Saudi-HQ'd conglomerate whose retail division operates the IKEA Saudi Arabia and Circle K Saudi Arabia franchises, the exact scenario the geography gate names as a pass (local group holding genuine in-country franchise rights).",
+    "evidence": "curl 200 OK. Site text: 'We are a leading Saudi holding group with over 40 years of experience'. Investments > Retail lists IKEA, Alsulaiman Circle K (Convenience + Fuel), Livspace; describes retail arm as 'Physical stores and ecommerce platforms'. The corporate domain itself carries no direct cart, but the underlying retail brands it owns and operates (IKEA KSA, Circle K KSA) run genuine large-catalog transactional retail, satisfying the scale and digital-channel gates through the operating business."
+  },
+  {
+    "name": "Al Sulaiman Jewellers",
+    "domain": "alsulaimanjewellers.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "fashion",
+    "qualification_path": "substantiality",
+    "reason": "Live jewelry/luxury e-commerce retailer, Qatar HQ, real cart/checkout with live gold-price ticker, broad catalog across gold/diamond/silver/watches.",
+    "evidence": "curl 200 OK. Site shows a functioning cart ('Cart 0 items - QAR 0.00'), Sign In, live gold price ticker (24K: 498.00 QAR etc). Categories: Bangles, Bracelets, Earrings, Necklace, Rings, Ramadan Collection, Gold Bars, Silver Bars, Diamond Rings/Earrings/Pendant, Limited Edition, Wedding Rings, Cufflinks, Baby Items, Pre-Owned Watches. 46 distinct price points found on a partial fetch. QAR currency confirms Qatar HQ."
+  },
+  {
+    "name": "السلطان | AlSultan",
+    "domain": "alsultan-ksa.com",
+    "verdict": "OUT",
+    "gate_failed": "narrow_repeat_purchase",
+    "category_final": "bedding_linens (narrow home-textile specialty)",
+    "qualification_path": "n/a",
+    "reason": "Live e-commerce site, but sells only bedding/linens (bedspreads, blankets, prayer rugs, hotel pillows), a single narrow home-textile product line with lower repeat-purchase frequency, analogous to the confirmed flooring/carpet-only fail pattern.",
+    "evidence": "curl 200 OK. Site self-describes as 'AlSultan Bedspreads: luxury bed linens and blankets in Saudi Arabia'. Category list is entirely bedding-related: cotton/winter/summer/hotel/compressed bedspreads, Mora blankets, prayer rugs, hotel pillows. Free shipping over 299 SAR confirms Saudi HQ but does not change the narrow-category outcome."
+  },
+  {
+    "name": "ALTAWKILAT",
+    "domain": "altawkilat.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "non_retail (automotive)",
+    "qualification_path": "n/a",
+    "reason": "Major Saudi automotive distributor (Maserati, Infiniti, Chevrolet, GMC, Dongfeng, Hongqi) under Tawad Holding; explicitly excluded automotive category. Domain currently redirects to a Bitly branded-domain landing page (parked/expired), but the underlying business is unambiguously automotive.",
+    "evidence": "curl 200 but final URL redirected to bitly.com's branded short-domain landing page (domain no longer hosts the original site). WebSearch confirms: 'one of the largest Automotive companies with over 70 years of experience... HQ in Jeddah, 28 branches... represents Maserati, Infiniti, Chevrolet, GMC, Dongfeng and Hongqi'; part of Tawad Holding (auto retail, car rental/leasing, consumer finance, real estate, power generation, construction equipment)."
+  },
+  {
+    "name": "Al Waha For Cars",
+    "domain": "alwahacars.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "non_retail (automotive)",
+    "qualification_path": "n/a",
+    "reason": "Qatar car dealership (Jetour showrooms, cars for sale/rent, service centers); explicitly excluded automotive category.",
+    "evidence": "curl 200 OK. Site text: 'AL WAHA FOR CARS, Cars For Sale, Cars For Rent, Service Center... JETOUR - Qatar - Sana Signal Doha - Qatar'. Multiple Doha showroom/service-center listings."
+  },
+  {
+    "name": "Al Wajba Motors",
+    "domain": "alwajbamotors.com.qa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "non_retail (automotive)",
+    "qualification_path": "n/a",
+    "reason": "Exclusive Qatar dealer for Bentley, Lamborghini, Bugatti and McLaren; explicitly excluded luxury automotive category.",
+    "evidence": "Direct curl failed (502 via proxy / connection refused) on both apex and www. WebSearch corroboration: 'Al Wajba Motors, Beyond Ordinary, Exclusive Dealer in Qatar for Bentley, Lamborghini, and Bugatti' (alwajbamotors.com.qa listed live in search results); 'established in Qatar by Sheikh Abdulrahman bin Ahmed Al Thani to be the exclusive distributor of Bentley Motors', now also Lamborghini/Bugatti/McLaren showrooms."
+  },
+  {
+    "name": "Al Wazzan Group of Companies",
+    "domain": "alwazzangrp.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "diversified_trading",
+    "qualification_path": "n/a",
+    "reason": "Kuwaiti diversified holding group of 30+ companies (real estate, healthcare, automotive/Ford Kuwait, retail and distribution, construction); the live site is also a defunct placeholder page with no real retail content.",
+    "evidence": "curl 200 on www.alwazzangrp.com (bare apex domain fails TLS, certificate only valid for www) returned a bare, dated image-map homepage referencing an old Shockwave Flash download link, no products or cart. WebSearch corroboration: 'Kuwait-based regional group of over 30 companies with diverse investments in real-estate, healthcare, auto, retail and distribution, and construction', includes Arabian Motors Group - Ford of Kuwait."
+  }
+]

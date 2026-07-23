@@ -1,0 +1,19 @@
+source	country	name	domain	prior_verdict	prior_category
+original	Saudi Arabia	مجموعة عادل كير الطبية	adelcare.sa	IN	pharmacy / health & beauty retail
+original	Saudi Arabia	Alesayi Electronics | العيسائي للإلكترونيات	aecksa.com	IN	electronics & appliances retail
+original	Saudi Arabia	Abdullah Hashim Company Ltd	ahcl-machinery.com	OUT	non_retail
+original	Saudi Arabia	AL Asasyah Electronics Co Ltd	al-asasyah.com	OUT	non_retail
+original	Saudi Arabia	Al-Dawaa Medical Services Co.	al-dawaa.com.sa	IN	pharmacy / health & beauty retail
+original	Saudi Arabia	al dhahry group	al-dhahry-group.com	OUT	diversified contracting / services conglomerate
+original	Saudi Arabia	Al-Eqtessad Co. for Commercial Investment	al-eqtessad.com	OUT	non_retail
+original	Saudi Arabia	Ahmed Abdullah Hamad Al Essa Company	al-essa.me	OUT	non_retail
+original	Saudi Arabia	ALHADDAD | الحداد	al-haddad.com	IN	electronics (mobile) retail
+original	Saudi Arabia	Al jazera Markets	al-jazera.sa	IN	grocery
+original	Saudi Arabia	Saeed Ahmed Al-Mahroos & Sons Co.	al-mahroos.sa	OUT	wholesale_distribution
+original	Saudi Arabia	Al Sadhan Group	al-sadhan.com	IN	grocery / supermarket retail
+original	Saudi Arabia	ALSAFA UNITED	al-safaunited.com	IN	health_beauty_pharmacy
+original	Saudi Arabia	Al Sawani Group	al-sawani.com	IN	fashion
+original	Saudi Arabia	ِAlsorayai	al-sorayai.com	IN	home_furniture
+original	Saudi Arabia	Al-Talayi | الطلائع, Bridgestone	al-talayi.com.sa	OUT	non_retail
+original	Kuwait	Al-Zayani Automotive	al-zayani.com	OUT	non_retail
+original	Saudi Arabia	alamal advanced medical	alamalph.com	IN	health_beauty_pharmacy

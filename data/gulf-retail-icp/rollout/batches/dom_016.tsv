@@ -1,0 +1,19 @@
+source	country	name	domain	prior_verdict	prior_category
+original	Saudi Arabia	Food Gate	foodgate.com	IN	grocery
+original	Saudi Arabia	Food Unit Company	foodunitco.com	IN	grocery
+original	Kuwait	Ford Alghanim	fordalghanim.com	OUT	non_retail
+original	Saudi Arabia	Forsan Foods and Consumer Products Company Ltd.	forsan.com.sa	IN	grocery
+original	Kuwait	Froyo Cafe	froyo.com.kw	IN	grocery
+original	Saudi Arabia	Fuel Way	fuel.sa.com	OUT	fuel_station
+original	Saudi Arabia	GAC Saudi Arabia	gacmotorsaudi.com	OUT	non_retail
+original	Kuwait	Game Store Company	gamestore.com.kw	IN	sporting_toys_books
+original	Saudi Arabia	Srya | سَرِيّا	ganache-sa.com	IN	grocery
+held_review	Saudi Arabia	Hussein Bakry Gazzaz & Co	gazzaz.com.sa	OUT	diversified_trading
+original	Saudi Arabia	GET MENA	get.med.sa	IN	health_beauty_pharmacy
+original	Saudi Arabia	شركة اطياب غناتي التجارية	ghanaty.com	IN	health_beauty_pharmacy
+held_review	Qatar	Ghasham International RP Tech	ghasham.com	OUT	retail_general
+original	Saudi Arabia	Ghaya Pharmacies Limited	ghaya-pharmacy.com	IN	health_beauty_pharmacy
+original	Saudi Arabia	Gift Mart International	giftmart.net	IN	sporting_toys_books
+original	Kuwait	GISSAH	gissah.com	IN	health_beauty_pharmacy
+original	Kuwait	Go Fresh	gofresh.com.kw	IN	grocery
+original	Saudi Arabia	Goodies Selections Saudi Arabia	goodies.com.sa	IN	grocery

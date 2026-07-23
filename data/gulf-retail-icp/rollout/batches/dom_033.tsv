@@ -1,0 +1,19 @@
+source	country	name	domain	prior_verdict	prior_category
+original	Saudi Arabia	دهانات تايم - Timepaints	timepaints.com	OUT	building_materials_b2b
+original	Qatar	Tivoli Group	tivoligroup.com	IN	home_furniture_appliance
+held_review	Saudi Arabia	Toot Company	toot-t.com	OUT	diversified_trading
+original	Saudi Arabia	Toyland	toyland.world	IN	sporting_toys_books
+original	Kuwait	TOYOTA KUWAIT - MOHAMED NASER ALSAYER & SONS EST.CO.W.L.L	toyota.com.kw	OUT	non_retail
+original	Saudi Arabia	ToYouKSA	toyou.io	OUT	marketplace_delivery
+original	Kuwait	Trafalgar Luxury Group	trafalgarluxurygroup.com	IN	fashion
+original	Qatar	Transind Holding	transindgroup.com	IN	grocery
+original	Kuwait	Trolley Convenience Store	trolley.com.kw	IN	grocery
+original	Saudi Arabia	تركي للذبائح	turkieshop.com	IN	grocery
+original	Kuwait	Ubuy Inc	ubuy.com	OUT	marketplace
+original	Qatar	United International Trading Company W.L.L	uitcqatar.com	IN	health_beauty_pharmacy
+held_review	Saudi Arabia	ULTRA LIGHT | الترا لايت	ultralightstores.com	OUT	home_improvement
+original	Saudi Arabia	United Motors Company	umc.com.sa	OUT	non_retail
+original	Saudi Arabia	UniPharma	unipharma.sa	IN	health_beauty_pharmacy
+original	Saudi Arabia	United Group	unitedgroup.com.sa	IN	grocery
+held_review	Saudi Arabia	United Yousef Naghi Co. Ltd.	unitednaghi.com.sa	OUT	diversified_trading
+original	Kuwait	United Pharma Company	unitedpharma-kw.com	IN	health_beauty_pharmacy

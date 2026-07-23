@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Araboil",
+    "domain": "araboil.co",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "fuel_station",
+    "qualification_path": "n/a",
+    "reason": "WebSearch confirms this is Arab Oil Fuel Company, established 2022 to provide vehicle fuel services in Saudi Arabia. Fuel/gas-station services are not an approved retail category (not fashion, beauty, grocery/F&B, or electronics/furniture); it is automotive-fuel adjacent, a hard-fail vertical. The domain is also now a dead/parked ad-redirect page, so gate 4 would independently fail too.",
+    "evidence": "curl to araboil.co (https and http, root and /en/about-us/) returned only a domain-parking redirect script (\"Redirecting...\", posts to router.parklogic.com) on every path. WebSearch: 'Arab Oil Fuel Company was established on August 29, 2022, to provide high-quality, convenient fuel services in the Kingdom of Saudi Arabia.'"
+  },
+  {
+    "name": "مكتبه جرير",
+    "domain": "arabplaces.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "business_directory (not retail)",
+    "qualification_path": "n/a",
+    "reason": "The domain does not correspond to the stated company (Jarir Bookstore) at all. arabplaces.com is a pan-Arab business-listings/directory website with country subdomains, not a retailer selling any product, let alone one in an approved category.",
+    "evidence": "curl returned a Cloudflare 'Just a moment' bot-challenge (HTTP 403). WebSearch independently confirms: 'Arabplaces.com is a business directory for the Arab world... has country-specific versions, such as arabplaces.com/jo for Jordan' -- a listings/aggregator site unrelated to Jarir Bookstore."
+  },
+  {
+    "name": "Areej AL Khaleej  |  اريج الخليج",
+    "domain": "areejelkhaleej.net",
+    "verdict": "OUT",
+    "gate_failed": "digital_channel",
+    "category_final": "unconfirmed (claimed fashion)",
+    "qualification_path": "n/a",
+    "reason": "Domain returns a persistent server-level 403 Forbidden (Hostinger/LiteSpeed hosting) on https, http, and http/1.1. A WebSearch cross-check per protocol did not find a confirmed live storefront for this exact domain; results were ambiguous/conflicting, surfacing an apparently unrelated same-named 'Areej Al Khaleej' auto sales/rental and construction group plus unrelated Areej-branded fashion influencers, with no verifiable link to this domain. No live site content could be confirmed anywhere.",
+    "evidence": "curl -A <UA> https://areejelkhaleej.net, http://areejelkhaleej.net, and --http1.1 all returned 403 Forbidden (header 'server: LiteSpeed', 'platform: hostinger'). Two WebSearch queries for the company name and domain returned no confirmed live retail site."
+  },
+  {
+    "name": "شركة عبداللطيف احمد العرفج وشريكه",
+    "domain": "arfajco.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "diversified_trading_distribution_construction",
+    "qualification_path": "n/a",
+    "reason": "Domain is dead (no DNS record on any attempt). WebSearch corroboration on the company itself (Al-Hufuf/Dammam/Riyadh/Jeddah/Al-Qassim, Saudi Arabia) shows it has diversified into 8 sectors dominated by wholesale food distribution, rice/provisioning, import agencies, food manufacturing, construction and building, and international investments -- a diversified B2B trading/distribution/construction conglomerate. Its early 'Al-Hafiz Markets' grocery-store origin (25+ years ago) is not evidenced as a current, verifiable direct-to-consumer retail operation, and no live storefront could be found.",
+    "evidence": "curl to arfajco.com and www.arfajco.com (https/http, root and /public/) all failed to connect (exit 35 / HTTP 000); python socket.getaddrinfo returned 'Name or service not known' for both hostnames -- confirmed no DNS record. WebSearch summary of the company: 'expanded to operate across 8 sectors including retail food distribution, rice and provisioning, international imports and agencies, food manufacturing, construction and building, international investments, major customer food distribution, and global distribution of international agencies.'"
+  },
+  {
+    "name": "Armada Retail Concept",
+    "domain": "armadagroupco.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "fashion (multi-brand retail franchise group)",
+    "qualification_path": "app_download_rescue",
+    "reason": "Kuwait-HQ'd (since 1973) multi-brand fashion retail franchise group operating 250+ stores across 19+ brands (Beymen, Riva, Riva Kids, Ipekyol, Machka, Setre, etc.). The armadagroupco.com domain itself is a corporate/brand-portfolio site with no working cart (collections/all is empty, no /products/ pages), so gate 4 would normally fail on this domain. However, Armada Retail Concept is the confirmed developer/operator (same Apple App Store developer account, 'Armada Retail Concept Apps') of the Riva Fashion app, which shows 500K+ installs on Google Play -- well past the 50k+ rescue threshold -- so the account qualifies via app-download rescue regardless of gates 2-5a.",
+    "evidence": "curl armadagroupco.com/collections/all: \"This collection is empty\", no /products/ links found in HTML. WebSearch: 'Armada Retail Concept is a well-recognized franchise operator... headquarters based in Kuwait... retail history in the region since 1973' and Apple App Store developer page 'Armada Retail Concept Apps' lists the Riva Fashion app. Direct fetch of Google Play listing (play.google.com/store/apps/details?id=com.armada.riva) shows '500K+' under 'Downloads'."
+  },
+  {
+    "name": "Armah Sports Company",
+    "domain": "armahsports.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "fitness_club_design_build_operate (B2B services)",
+    "qualification_path": "n/a",
+    "reason": "Riyadh, Saudi Arabia-HQ'd business that curates international fitness brands and designs, builds, and manages gym/fitness facilities for club operators across the GCC -- a B2B franchise/fit-out/management services business, not a consumer retailer of sporting goods or apparel. No product catalog or cart exists; only a corporate contact page.",
+    "evidence": "curl (HTTP 200): 'Armah Sports is a curator of leading fitness brands focused on reshaping the industry... team has first-hand experience designing, constructing and managing over 180+ fitness and sports facilities across the GCC.' Nav is About us/Our Brands/Contact us/Investor Relations/Supplier Portal -- no shop or product listing."
+  },
+  {
+    "name": "Arriyadh Roaster محمصة الرياض",
+    "domain": "arriyadhroaster.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "grocery_fnb (specialty coffee retail)",
+    "qualification_path": "substantiality",
+    "reason": "Riyadh-founded (2019) specialty coffee roaster/retailer running on Salla (confirmed Saudi e-commerce SaaS platform with real cart), with an extensive multi-category catalog (espresso, Turkish coffee, capsules, single-origin beans by country, matcha, chocolate, grinders, filters, bags, cups) well past the 50-SKU floor, plus a wholesale arm (1,100+ wholesale clients) and 900 tons/year roasting capacity. Coffee is a high-frequency consumable, correctly fitting the grocery/F&B repeat-purchase bucket (prior category tag of 'sporting_toys_books' was mistaken).",
+    "evidence": "curl (HTTP 200, 45KB) shows an extensive Arabic product-category tree, customer reviews, and stats ('عملاء الجملة أكثر من 1100', '900 طاقة تحميص سنوية طن'). grep of the HTML confirms 'cdn.salla' (19 hits), 'salla' (192 hits) and 'cart' (12 hits) -- a genuine Salla-powered transactional storefront."
+  },
+  {
+    "name": "ARTECASA",
+    "domain": "artecasa.bz",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "construction_materials_interior_design (tiles/sanitary ware/contracting)",
+    "qualification_path": "n/a",
+    "reason": "Kuwait-HQ'd (Shuwaikh Industrial Area) 'General Trading Contracting Company' selling tiles, marble, and sanitary ware plus carpentry, fixing/installation, and contracting services for residential/commercial projects. This is squarely the building-materials/construction/contracting hard-fail category (explicitly listing sanitary ware, ceramics, tiles), not a home/furniture retailer; no consumer cart, only project case studies.",
+    "evidence": "curl (HTTP 200): 'ARTECASA for General Trading Contracting Company W.L.L... tiles, marble, and sanitary ware... CARPENTRY... CONTRACTING team consists of experienced project managers, site engineers, draftsmen, foremen.' Projects listed are commercial fit-outs (Tamdeen Square, Marina Mall, a medical services center)."
+  },
+  {
+    "name": "شركة عثمان الزامل واخوانه",
+    "domain": "arzamil.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "building_materials_industrial_safety_supply",
+    "qualification_path": "n/a",
+    "reason": "Dammam, Saudi Arabia-HQ'd (est. 1981) trading company supplying building materials, safety equipment, and industrial materials, with its own online store explicitly branded 'Al-Zamil Store for Building Materials and Safety' -- a textbook construction-materials/industrial-supply hard-fail, confirmed even at the retail-store level.",
+    "evidence": "Direct fetch returned a 'Checking your browser before accessing' anti-bot challenge (HTTP 403), corroborated via WebSearch: '...specialized in supplying building materials and construction, safety equipment, supplies, and industrial materials,' HQ Dammam; related store subdomain titled 'متجر الزامل لمواد البناء والسلامة' (Al-Zamil Store for Building Materials and Safety)."
+  },
+  {
+    "name": "Ashley Homestore | KSA",
+    "domain": "ashley.sa",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "home_furniture",
+    "qualification_path": "substantiality",
+    "reason": "ashley.sa itself is only a bare store-locator page, but WebSearch confirms the Saudi Ashley Furniture HomeStore franchise is operated by Hamad M. Alrugaib & Sons Trading Co. (Al Rugaib Furniture), a Saudi company established 1958 in Al Khobar -- a genuinely Saudi-HQ'd franchisee holding local rights to the foreign Ashley brand (passes gate 1, the same pattern as a Saudi conglomerate holding local IKEA/Circle K rights). The same operator's real transactional storefront at store.ashley.sa is a live Shopify site with a full cart/checkout flow (SAR pricing, free-shipping threshold) and a large multi-category furniture catalog (living room, bedroom, dining, lighting, home office, outdoor, rugs), comfortably over the 50-SKU floor.",
+    "evidence": "ashley.sa (HTTP 200) body text is only 'Store Locator Ashley Furniture HomeStore Saudi Arabia... Ashley Furniture HomeStores LLC' (195 chars total, no cart). store.ashley.sa/collections/all (HTTP 200, 70KB) shows live cart total in SAR ('Estimated total 0.00 SAR... Check out') and dozens of named products across many collections. WebSearch: 'Ashley HomeStore Saudi Arabia is... operated by Al Rugaib Furniture, under Hamad M. Al Rugaib & Sons Trading Co. Ltd... established in 1958.'"
+  },
+  {
+    "name": "Asklan Trading & Agriculture W.L.L",
+    "domain": "asklan.net",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "landscaping_irrigation_contracting (B2B services)",
+    "qualification_path": "n/a",
+    "reason": "Doha, Qatar-HQ'd (est. 1991) landscaping and irrigation contractor prequalified with ASHGAL, the Ministry of Municipality, QatarEnergy and other government bodies, executing projects 'as a main contractor and as sub-contractor.' Its 'Trading' arm supplies landscape/irrigation materials and plants to its own contracting projects, not direct consumer retail -- a B2B contracting/services business.",
+    "evidence": "curl (HTTP 200, 121KB): 'ATA is prequalified to work for the Public Works Authority (ASHGAL), Ministry of Municipality & Urban Planning, Ministry of Defense... as a main contractor and as sub-contractor,' plus a service list (Landscape/Hardscape Works, Irrigation System Design, Maintenance) and government/commercial project list (QatarEnergy offshore sites, Wakra Hamad Port, Doha Municipality)."
+  },
+  {
+    "name": "Aster Pharmacy - صيدلية استر",
+    "domain": "asterpharmacy.sa",
+    "verdict": "OUT",
+    "gate_failed": "geography",
+    "category_final": "health_beauty_pharmacy (category itself would pass)",
+    "qualification_path": "n/a",
+    "reason": "The KSA pharmacy rollout is a joint venture between Aster DM Healthcare and Abdulmohsin Al Hokair Holding Group, but the operating brand, healthcare-group systems, and 38-year history are Aster DM Healthcare's, whose global origin and HQ (1987) is the UAE (Dubai). Independent press coverage frames it as 'UAE's Aster DM to open 250 plus pharmacies in Saudi Arabia,' i.e. a UAE-HQ'd group entering Saudi via a local joint-venture partner -- the explicit fail pattern (a store merely run by a UAE-HQ'd group fails, even with a local partner), distinct from a Saudi conglomerate independently holding franchise rights to a foreign brand.",
+    "evidence": "asterpharmacy.sa (HTTP 200): 'From our origin in the UAE in 1987, Aster DM healthcare has been steadily expanding... Aster Pharmacy joins hands with Abdulmohsin Al Hokair Holding Group to set up over 250 pharmacies.' WebSearch corroboration: Gulf News headline 'UAE's Aster DM to open 250 plus pharmacies in Saudi Arabia in 5 years'; Zawya: 'long-term joint venture agreement with Al Hokair Holding Group to setup and operate pharmacies.'"
+  },
+  {
+    "name": "ATHR Gallery",
+    "domain": "athrart.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "art_gallery",
+    "qualification_path": "n/a",
+    "reason": "A Saudi (Jeddah-oriented) contemporary art gallery representing artists for exhibitions and international art fairs (Art Basel), plus an art-storage-depot service. Fine-art gallery representation is not one of the approved retail categories; the presence of a generic Cart/Checkout widget does not change the underlying business, which is curated art representation, not general retail.",
+    "evidence": "curl (HTTP 200): 'ATHR Gallery... Who We Are, Artists, Exhibitions, Art Fairs, Press, Publications... ATHR at Art Basel, Basel 2026... ATHR OPENS SAUDI ARABIA'S FIRST ART STORAGE DEPOT.'"
+  },
+  {
+    "name": "Atyab Al Marshoud",
+    "domain": "atyabalmarshoud.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "beauty_perfume",
+    "qualification_path": "substantiality",
+    "reason": "Kuwait-founded in 1925 ('one of the oldest in the perfume industry in Kuwait and the Middle East'), a genuine Shopify-powered transactional perfume/fragrance store with live cart, KWD pricing, customer ratings, and a broad multi-line catalog (Fragrances, Hairmists, All Over Sprays, gift/body-care sets, a duty-free line) comfortably over the 50-SKU floor. Perfume/fragrance is an explicitly listed consumable, repeat-purchase pass category.",
+    "evidence": "curl (HTTP 200, 124KB) shows dozens of 'Add to Cart' products with KWD prices and star ratings (e.g. 'Marshoud 4 White 4.5 (18) 27.000 KD'), the footer text 'Powered by Shopify,' and company history: 'established in 1925, one of the oldest in the perfume industry in Kuwait and the Middle East.'"
+  },
+  {
+    "name": "ايسوزو العيسى | Alissa Isuzu",
+    "domain": "aum.com.sa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive_dealer",
+    "qualification_path": "n/a",
+    "reason": "Confirmed via WebSearch as Alissa Universal Motors (AUM), the authorized Isuzu dealer in Saudi Arabia since 1985 (member of the Abdullatif Alissa Group), selling Isuzu pick-ups and light/medium/heavy-duty trucks. Automotive dealer -- explicit hard-fail category.",
+    "evidence": "Direct fetch blocked by an anti-bot 'Checking your browser' challenge (HTTP 403). WebSearch corroboration: 'Alissa Universal Motors (AUM) is the authorized dealer of ISUZU Motors in Saudi Arabia since 1985... promotes a wide range of ISUZU products, starting from pick-up (D-Max)... to Heavy Duty trucks.'"
+  },
+  {
+    "name": "Autocapital",
+    "domain": "autocapitalkw.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive_dealer_rental_leasing",
+    "qualification_path": "n/a",
+    "reason": "Kuwait car dealership/rental/leasing company ('Buy, Sell, and Lease Cars in Kuwait'), founded 2018, offering car rental, leasing, lease-to-own, and fleet sales. Automotive dealer/rental -- explicit hard-fail category.",
+    "evidence": "curl (HTTP 200): 'Autocapital Co - Buy, Sell, and Lease Cars in Kuwait... Car rental... Leasing... Lease To Own... Buy/Sell Fleet sales.'"
+  },
+  {
+    "name": "Auto Mall",
+    "domain": "automallksa.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive_parts_dealer",
+    "qualification_path": "n/a",
+    "reason": "Confirmed via WebSearch as a spare auto-parts dealer/distributor operating since 1964, with showrooms in Dammam and Riyadh plus 12 warehouses across Saudi Arabia. Automotive parts dealer/distributor -- explicit hard-fail category.",
+    "evidence": "Direct connection to automallksa.com failed on every attempt (https, http, forced IPv4 -- all HTTP 000 / connection errors), consistent with a dead or firewalled domain. WebSearch corroboration: 'Auto Mall, since 1964, is a Spare Auto Parts Dealer... sells and distributes... spare parts... throughout Saudi Arabia... two showrooms in Dammam and Riyadh plus 12 warehouses.'"
+  },
+  {
+    "name": "Autozone Balubaid",
+    "domain": "autozone.com.sa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive_dealer",
+    "qualification_path": "n/a",
+    "reason": "New-car dealership (اوتوزون) under the Balubaid Group, with 70+ years in the automotive sector and 30+ branches across 13 Saudi cities, selling Toyota, Hyundai, Honda, Kia, Isuzu, and other brands, plus vehicle financing. Automotive dealer -- explicit hard-fail category.",
+    "evidence": "curl (HTTP 200, 46KB): 'اوتوزون – بالبيد للسيارات هي إحدى شركات مجموعة بالبيد، بخبرة عريقة تفوق الـ70 عامًا في قطاع السيارات... أكثر من 30 فرع في 13 مدينة' plus a car brand/model search tool (Toyota, Hyundai, Honda, Kia, Isuzu, etc.)."
+  }
+]

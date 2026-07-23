@@ -1,0 +1,19 @@
+source	country	name	domain	prior_verdict	prior_category
+gap_sweep		ATK Services & Marketing	http://www.atktech.com/	OUT	ecommerce_unverified
+gap_sweep		Hp Store Ksa	https://www.hpstoreksa.com/	OUT	electronics
+gap_sweep		Jamjoom Pharma	http://www.jamjoompharma.com/	OUT	healthcare_or_pharma_mfr
+gap_sweep		Jazeera Pharmaceuticals Industries	http://www.jpi.com.sa/	OUT	healthcare_or_pharma_mfr
+gap_sweep		Pharma Pharmaceutical Industry	http://www.pharma.com.sa/	OUT	healthcare_or_pharma_mfr
+gap_sweep		Tafaseel Store	http://tafaseel.store/	HELD	retail_general
+gap_sweep		Smartable	http://www.smartable.me/	OUT	unknown_naics
+gap_sweep		Saudi Pharmaceutical Industries	http://www.saudi-pharma.net/spi2/	OUT	healthcare_or_pharma_mfr
+gap_sweep		Staybridge Suites Jeddah Alandalus Mall	https://ihg.com	OUT	hospitality_or_travel
+gap_sweep		Ways Marketing Solutions	http://www.moh.gov.sa	OUT	agency_or_services
+gap_sweep		Saudi Goody Products Marketing Co. Ltd.	http://www.goody.com.sa	OUT	ecommerce_unverified
+gap_sweep		Al Bassam Home Appliances	http://www.fordeal.com	IN	electronics
+gap_sweep		SAJA Pharmaceuticals	http://www.tamergroup.com	OUT	healthcare_or_pharma_mfr
+gap_sweep		City Hypermarket	http://www.cityhyper.com	IN	grocery
+gap_sweep		alajlan	alajlan.com	OUT	ecommerce_unverified
+gap_sweep		jumla	jumla.sa	OUT	ecommerce_unverified
+gap_sweep		alfaddagroup	alfaddagroup.com	OUT	ecommerce_unverified
+gap_sweep		froz	froz.sa	OUT	ecommerce_unverified

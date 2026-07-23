@@ -1,0 +1,19 @@
+source	country	name	domain	prior_verdict	prior_category
+original	Saudi Arabia	Saudi Parts Center Company	spc-parts.com	OUT	non_retail
+original	Saudi Arabia	Saudi Perfume & Cosmetics Company Limited	spci-sa.com	IN	health_beauty_pharmacy
+original	Qatar	Speed Marine Qatar	speedmarine.com	OUT	non_retail
+original	Saudi Arabia	SPORT GHORNATAH	sportghornatah.com	IN	sporting_toys_books
+original	Qatar	Sports Corner	sportscorner.qa	IN	sporting_toys_books
+held_review	Kuwait	Starco Holding	starcoholding.com	IN	fashion
+original	Saudi Arabia	Steel Force	steelforceco.com	OUT	building_materials_b2b
+original	Qatar	Store 974	store974.com	IN	specialty_retail
+original	Qatar	Strong Rent a Car	strongrentacar.com	OUT	non_retail
+original	Saudi Arabia	sulalat	sulalat.com	IN	ecommerce
+original	Kuwait	The Sultan Center	sultan-center.com	IN	grocery
+original	Saudi Arabia	Suzuki Barayan	suzukibarayan.com.sa	OUT	non_retail
+original	Saudi Arabia	Suzuki | Najeeb Auto | نجيب أوتو	suzukinajeebauto.com	OUT	non_retail
+original	Saudi Arabia	Syarah	syarah.com	OUT	non_retail
+original	Saudi Arabia	Taajeer Group - مجموعة تأجير	taajeer.com	OUT	non_retail
+original	Saudi Arabia	cool.sa	takeef.store	IN	ecommerce
+original	Saudi Arabia	Tamimi Group	tamimigroup.com.sa	IN	grocery
+original	Saudi Arabia	Tamimi Markets	tamimimarkets.com	IN	grocery

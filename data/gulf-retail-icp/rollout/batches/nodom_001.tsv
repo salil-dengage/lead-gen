@@ -1,0 +1,19 @@
+source	country	name	domain	prior_verdict	prior_category
+original	Saudi Arabia	Almanara Electric Trd Co شركة المنارة الكهربائية للتجارة		OUT	building_materials_b2b
+original	Qatar	ALMEERA CONSUMER GOODS COMPANY QSC		IN	grocery
+original	Saudi Arabia	Almutahidah		OUT	non_retail
+original	Kuwait	Alyasra Group		IN	fashion
+original	Saudi Arabia	Aramco Lubricants & Retail Company		OUT	fuel_station
+original	Saudi Arabia	Cadillac Aljomaih		OUT	non_retail
+original	Saudi Arabia	Cenomi		IN	specialty_retail
+original	Saudi Arabia	CVD Zahid Tractor		OUT	non_retail
+held_review	Saudi Arabia	Decorella Panits EST		OUT	diversified_trading
+held_review	Saudi Arabia	EBEL ابل		OUT	home_improvement
+original	Saudi Arabia	Express Food Company		IN	grocery
+original	Kuwait	Food Industries Company		IN	grocery
+original	Saudi Arabia	Gazzaz قزاز		IN	fashion
+original	Qatar	GRAND HYPER MARKET		OUT	grocery
+original	Saudi Arabia	Haier_Saudi		OUT	non_retail
+held_review	Saudi Arabia	IKEA Alsulaiman		OUT	franchise
+original	Qatar	IMC Kulud Pharmacy		IN	health_beauty_pharmacy
+original	Saudi Arabia	Jazirat Samaa Fashion		IN	fashion

@@ -1,0 +1,19 @@
+source	country	name	domain	prior_verdict	prior_category
+original	Saudi Arabia	United Pharmaceuticals Company	unitedpharmacy.sa	IN	health_beauty_pharmacy
+held_review	Qatar	United Retail Trading WLL	unitedretailholding.com	OUT	diversified_trading
+original	Kuwait	Union Trading Co.	utc.com.kw	IN	general_merch_dept
+held_review	Saudi Arabia	تجارة بلا حدود -  unlimited trade	utradeksa.com	OUT	retail_general
+original	Qatar	NBK - Qatar Automobiles Company	victorygroup24.ru	OUT	non_retail
+held_review	Saudi Arabia	Virgin Megastore Saudi Arabia	virginmegastore.sa	HELD	franchise
+original	Qatar	Volkswagen Group Middle East	volkswagengroup-me.com	OUT	non_retail
+original	Saudi Arabia	وكف | wacafe	wacafe.sa	IN	grocery
+held_review	Saudi Arabia	Wadi Halfa	wadihalfa.sa	OUT	retail_general
+original	Saudi Arabia	Wafi Energy Saudi Arabia | Official Licensee of Shell	wafienergy.com	OUT	non_retail
+original	Saudi Arabia	Wahag Medical Company	wahagco.com	IN	health_beauty_pharmacy
+original	Kuwait	Wahran Trading Company-Kuwait	wahrantrading.com	IN	health_beauty_pharmacy
+original	Saudi Arabia	Wallan Trading Company	wallan.com	OUT	non_retail
+original	Qatar	Wathnan Holding	wathnanholding.com	IN	grocery
+held_review	Saudi Arabia	مياه واڤ | WAV WATER	wav.sa	OUT	beverage_dtc
+original	Kuwait	Wawan Protein	wawanpro.com	IN	health_beauty_pharmacy
+original	Qatar	Wellcare Pharmacy Qatar	wellcaregroup.com	IN	health_beauty_pharmacy
+original	Saudi Arabia	werecle	werecle.com	IN	fashion

@@ -1,0 +1,19 @@
+source	country	name	domain	prior_verdict	prior_category
+gap_sweep		bloomingdales	bloomingdales.sa	OUT	franchise
+gap_sweep		mamasandpapas	mamasandpapas.com.sa	OUT	franchise
+gap_sweep		sbie-arabia	sbie-arabia.com	OUT	ecommerce_unverified
+gap_sweep		ethanallen	ethanallen.sa	OUT	franchise
+gap_sweep		Asteri Beauty	asteribeauty.com	OUT	ecommerce_unverified
+gap_sweep		Gap	gap.sa	OUT	franchise
+gap_sweep		liujo	liujo.sa	OUT	franchise
+gap_sweep		jacquemus	jacquemus.sa	OUT	franchise
+gap_sweep		lacoste	lacoste.sa	OUT	franchise
+gap_sweep		nike	nike.sa	OUT	franchise
+gap_sweep		clarins	clarins.sa	OUT	franchise
+gap_sweep		guess	guess.sa	OUT	franchise
+gap_sweep		charleskeith	charleskeith.sa	OUT	franchise
+gap_sweep		underarmour	underarmour.sa	OUT	franchise
+gap_sweep		neyam	neyam.sa	OUT	ecommerce_unverified
+gap_sweep		hollisterco	hollisterco.sa	OUT	franchise
+gap_sweep		Abercrombie & Fitch Co.	abercrombie.sa	OUT	ecommerce_unverified
+gap_sweep		propertyfinder	propertyfinder.sa	OUT	nonretail_services

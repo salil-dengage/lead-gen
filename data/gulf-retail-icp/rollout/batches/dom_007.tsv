@@ -1,0 +1,19 @@
+source	country	name	domain	prior_verdict	prior_category
+original	Saudi Arabia	alsaifgallery	alsaifgallery.com	IN	home_furniture_appliance
+original	Saudi Arabia	AlSaif Group	alsaiftransport.com	OUT	non_retail
+original	Saudi Arabia	Alsalman Optics	alsalmanoptics.com	IN	health_beauty_pharmacy
+original	Kuwait	Mohamed Naser Al-Sayer & Sons Establishment Company W.L.L.	alsayeronline.com	OUT	non_retail
+original	Saudi Arabia	Alshafi Medical Company	alshafi.sa	IN	health_beauty_pharmacy
+held_review	Qatar	Al Shaheen Est	alshaheenest.com	OUT	diversified_trading
+held_review	Qatar	Marzooq S. Al Shamlan Holding	alshamlanholding.com	OUT	diversified_trading
+original	Saudi Arabia	Alshareef for building materials	alshareef.com.sa	OUT	building_materials_b2b
+original	Saudi Arabia	Alshaya Watches  الشايع للساعات	alshayawatches.com	IN	fashion
+held_review	Qatar	ALSIDDIQI HOLDING	alsiddiqiholding.com	OUT	diversified_trading
+held_review	Saudi Arabia	Alsourayia Trading Co.	alsourayia.com	OUT	diversified_trading
+held_review	Saudi Arabia	Alsulaiman Group	alsulaimangroup.com	IN	general_merch_dept
+held_review	Qatar	Al Sulaiman Jewellers	alsulaimanjewellers.com	IN	fashion
+held_review	Saudi Arabia	السلطان | AlSultan	alsultan-ksa.com	OUT	retail_general
+original	Saudi Arabia	ALTAWKILAT	altawkilat.com	OUT	non_retail
+original	Qatar	Al Waha For Cars	alwahacars.com	OUT	non_retail
+original	Qatar	Al Wajba Motors	alwajbamotors.com.qa	OUT	non_retail
+held_review	Kuwait	Al Wazzan Group of Companies	alwazzangrp.com	OUT	diversified_trading

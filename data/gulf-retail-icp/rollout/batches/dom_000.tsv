@@ -1,0 +1,19 @@
+source	country	name	domain	prior_verdict	prior_category
+original	Kuwait	Seventh Dimension Company	7d.com.kw	IN	consumer electronics and accessories retail
+original	Saudi Arabia	8oz Coffee	8ozcafe.com	IN	specialty coffee cafe chain plus online coffee retail (F&B)
+original	Saudi Arabia	Ahmad A. Abed Holding	aaabed.com	OUT	B2B food manufacturing, ingredients trading, wholesale distribution and logistics
+original	Kuwait	Abdul Aziz Ali Al Al Mutawa Group of Co., Kuwait	aaalmutawa.com	OUT	non_retail
+original	Kuwait	Abdul Rahman Albisher & Zaid Alkazemi Co. - Mercedes-Benz Kuwait	aagroup.com.kw	OUT	non_retail
+original	Qatar	Al Abdulghani Motors	aamotors.com	OUT	non_retail
+original	Kuwait	Ali Abdulwahab Al Mutawa Commercial Co.	aaw.com	IN	retail conglomerate (fashion, sporting goods, home appliances, furniture) plus distribution
+original	Saudi Arabia	Najem Aba Hussain	abahussain.com	OUT	wholesale building materials (ceramics, pipes, sanitary ware, tiles)
+original	Saudi Arabia	Abco Trading	abco-trading.com	OUT	wholesale sanitary and ceramic ware / bathroom and kitchen fixtures (building materials)
+original	Saudi Arabia	abdulsamadalqurashi	abdulsamadalqurashi.com	IN	luxury perfume / oud / personal care retail
+original	Saudi Arabia	Abo Moati l ابو معطي	abomoati.com	IN	stationery, books, toys, gifts and art supplies retail (general merchandise)
+held_review	Saudi Arabia	Abraj Hyper	abrajhypermarket.com	IN	grocery
+held_review	Saudi Arabia	شاهي ابو وليد - Abu Waleed Tea	abuwaleedtea.com	IN	food_service_qsr
+original	Saudi Arabia	ABYAT	abyat.com	OUT	home improvement, furniture and furnishings megastore retail
+original	Kuwait	Al Hasawi Industrial Group	acekuwait.com	IN	home improvement / hardware / DIY retail (ACE Hardware franchise)
+original	Saudi Arabia	Adam Medical Company	adamonline.com	IN	pharmacy and health & beauty (cosmetics) retail chain
+original	Kuwait	aDawliah Electronics	adawliahstore.com	IN	consumer electronics, audio, musical instruments and home appliances retail
+original	Kuwait	ADECO Group	adeco-group.com	OUT	building materials / fit-out contracting

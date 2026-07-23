@@ -1,0 +1,19 @@
+source	country	name	domain	prior_verdict	prior_category
+held_review	Saudi Arabia	EMAAR ALWATAN	emac.sa	OUT	home_improvement
+original	Saudi Arabia	eSpare | Spare Parts Company Ltd.	espare.com	OUT	non_retail
+original	Kuwait	Eureka Trading Co. W.L.L.	eureka.com.kw	IN	electronics
+held_review	Kuwait	Eurocom	eurocomonline.net	OUT	retail_general
+original	Qatar	Ever Fashion Luxury Group	everfashionluxurygroup.com	IN	fashion
+original	Saudi Arabia	extra	extra.com	IN	electronics
+original	Kuwait	Extreme Sports	extreme.com.kw	IN	sporting_toys_books
+original	Kuwait	Fouad Alghanim & Sons Automotive	faa.com.kw	OUT	non_retail
+original	Saudi Arabia	عطور فيصل الدايل | Faisal Aldayel Perfumes	faisalaldayel.com	IN	health_beauty_pharmacy
+held_review	Saudi Arabia	Fakeeh Vision	fakeehvision.com	IN	health_beauty_pharmacy
+original	Qatar	Family Food Centre	family.qa	IN	grocery
+original	Saudi Arabia	Farm	farm.com.sa	IN	grocery
+original	Saudi Arabia	Fast Auto Technic | Ferrari Saudi Arabia	fastautotechnic.com.sa	OUT	non_retail
+original	Kuwait	Future Communications Company	fcc-kuwait.com	IN	electronics
+original	Saudi Arabia	Fitaihi	fitaihi.com.sa	IN	fashion
+held_review	Saudi Arabia	FL Development	fl.sa	OUT	unknown_naics
+held_review	Qatar	Flora Group W.L.L	floragroup.net	OUT	diversified_trading
+original	Saudi Arabia	Floward	floward.co	IN	ecommerce

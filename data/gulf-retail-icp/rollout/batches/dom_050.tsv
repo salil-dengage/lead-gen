@@ -1,0 +1,19 @@
+source	country	name	domain	prior_verdict	prior_category
+gap_sweep		shareefcorner	shareefcorner.sa	OUT	ecommerce_unverified
+gap_sweep		thealmondbeauty	thealmondbeauty.com	OUT	ecommerce_unverified
+gap_sweep		moltonbrown	moltonbrown.sa	OUT	franchise
+gap_sweep		watsons	watsons.sa	OUT	franchise
+gap_sweep		babyjalebi-sa	babyjalebi-sa.com	OUT	ecommerce_unverified
+gap_sweep		decathlon	decathlon.com.sa	OUT	franchise
+gap_sweep		caffeinelab	caffeinelab.me	OUT	ecommerce_unverified
+gap_sweep		tedbaker	tedbaker.sa	OUT	franchise
+gap_sweep		tumi	tumi.sa	OUT	franchise
+gap_sweep		cascadesco	cascadesco.com	OUT	ecommerce_unverified
+gap_sweep		hotpack	hotpack.com.sa	OUT	ecommerce_unverified
+gap_sweep		beauti	beauti.sa	OUT	ecommerce_unverified
+gap_sweep		twinkle	twinkle.sa	OUT	ecommerce_unverified
+gap_sweep		Shub Coffee	shub.coffee	OUT	ecommerce_unverified
+gap_sweep		petit-bateau	petit-bateau.sa	OUT	ecommerce_unverified
+gap_sweep		dovanabeauty	dovanabeauty.com	OUT	ecommerce_unverified
+gap_sweep		iffstore	iffstore.com	OUT	ecommerce_unverified
+gap_sweep		rootsfurniture	rootsfurniture.sa	OUT	ecommerce_unverified

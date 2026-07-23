@@ -1,0 +1,19 @@
+source	country	name	domain	prior_verdict	prior_category
+held_review	Kuwait	Alwazzan United Trading company	alwazzanunited.com	OUT	diversified_trading
+held_review	Saudi Arabia	شركة اليحيا Alyahya Company	alyahya.com	OUT	diversified_trading
+original	Kuwait	Alyasra Fashion	alyasra.com	IN	fashion
+held_review	Saudi Arabia	AlYemni Group - مجموعة اليمني	alyemnigroup.com	OUT	diversified_trading
+original	Saudi Arabia	Alymama اليمامة	alymama.net	IN	fashion
+original	Saudi Arabia	Hassan Misfer Al-Zahrani & Partners Group	alzahrani.com.sa	IN	general_merch_dept
+original	Kuwait	Amal Al-Kuwait	amalalkuwait.com	IN	health_beauty_pharmacy
+original	Saudi Arabia	A Market ماركت	amarkets.com.sa	IN	grocery
+original	Saudi Arabia	Amazon KSA Markets	amazonsaudi.com.sa	OUT	marketplace_delivery
+original	Saudi Arabia	AlGhamdi Company for Sanitary Wares       شركة الغامدي وشركاه للأدوات الصحية	amghamdi.com	OUT	building_materials_b2b
+original	Saudi Arabia	Ninja ?? نينجا	ananinja.com	OUT	marketplace_delivery
+original	Kuwait	Al Andalus Trading Establishment Company	andalus.com.kw	OUT	non_retail
+original	Saudi Arabia	Anoosh Company	anoosh.sa	IN	grocery
+original	Kuwait	Green Wing Co. W.L.L	anotah.com	IN	fashion
+held_review	Qatar	Ansar Group of Companies	ansar-group.com	OUT	diversified_trading
+original	Qatar	Ansar Gallery	ansargallery.com	OUT	grocery
+original	Kuwait	Apotheca Beauty	apothecabeauty.com	IN	health_beauty_pharmacy
+original	Saudi Arabia	Scent	arabianoud.com	IN	health_beauty_pharmacy

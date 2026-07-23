@@ -1,0 +1,19 @@
+source	country	name	domain	prior_verdict	prior_category
+gap_sweep		dmtm	dmtm.sa	OUT	ecommerce_unverified
+gap_sweep		kadoonpro	kadoonpro.com	OUT	ecommerce_unverified
+gap_sweep		actan	actan.com	OUT	ecommerce_unverified
+gap_sweep		selene-official	selene-official.com	OUT	ecommerce_unverified
+gap_sweep		grasse	grasse.sa	OUT	ecommerce_unverified
+gap_sweep		torbastudio	torbastudio.com	OUT	ecommerce_unverified
+gap_sweep		sif-care	sif-care.com	OUT	ecommerce_unverified
+gap_sweep		rebound	rebound.net	OUT	ecommerce_unverified
+gap_sweep		osanoptics	osanoptics.com	OUT	ecommerce_unverified
+gap_sweep		alabbasi	alabbasi.sa	OUT	ecommerce_unverified
+gap_sweep		1886fashion	1886fashion.com	OUT	ecommerce_unverified
+gap_sweep		leem	leem.com	OUT	ecommerce_unverified
+gap_sweep		michaelkors	michaelkors.sa	OUT	franchise
+gap_sweep		toryburch	toryburch.sa	OUT	franchise
+gap_sweep		ptc	ptc.sa	OUT	ecommerce_unverified
+gap_sweep		itcosmetics	itcosmetics.sa	OUT	franchise
+gap_sweep		makeupforever	makeupforever.sa	OUT	franchise
+gap_sweep		narscosmetics	narscosmetics.sa	OUT	franchise

@@ -1,0 +1,19 @@
+source	country	name	domain	prior_verdict	prior_category
+gap_sweep		jnini	jnini.com.sa	OUT	ecommerce_unverified
+gap_sweep		tefal	tefal.sa	OUT	industrial_or_mfr
+gap_sweep		nukhbatech	nukhbatech.sa	OUT	ecommerce_unverified
+gap_sweep		novonordisk	novonordisk.com.sa	OUT	industrial_or_mfr
+gap_sweep		mro	mro.sa	OUT	ecommerce_unverified
+gap_sweep		moharykat	moharykat.sa	OUT	ecommerce_unverified
+gap_sweep		nazih	nazih.sa	OUT	ecommerce_unverified
+gap_sweep		electric-house	electric-house.com	OUT	ecommerce_unverified
+gap_sweep		myesuq	myesuq.com	OUT	ecommerce_unverified
+gap_sweep		qvskincareme	qvskincareme.com	OUT	ecommerce_unverified
+gap_sweep		artofheritage	artofheritage.com.sa	OUT	ecommerce_unverified
+gap_sweep		greenup	greenup.com.sa	OUT	ecommerce_unverified
+gap_sweep		roos	roos.sa	OUT	ecommerce_unverified
+gap_sweep		circleall	circleall.net	OUT	ecommerce_unverified
+gap_sweep		zameter	zameter.com	OUT	ecommerce_unverified
+gap_sweep		osco	osco.sa	OUT	ecommerce_unverified
+gap_sweep		pfizermedicalinformation	pfizermedicalinformation.sa	OUT	healthcare_or_pharma_mfr
+gap_sweep		ictc	ictc.com.sa	OUT	ecommerce_unverified

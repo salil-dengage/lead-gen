@@ -1,0 +1,19 @@
+source	country	name	domain	prior_verdict	prior_category
+gap_sweep		redasafe	redasafe.com	OUT	ecommerce_unverified
+gap_sweep		calvinklein	calvinklein.sa	OUT	franchise
+gap_sweep		dezigndistrict	dezigndistrict.com.sa	OUT	ecommerce_unverified
+gap_sweep		yves-rocher	yves-rocher.com.sa	OUT	franchise
+gap_sweep		dyson	dyson.sa	OUT	industrial_or_mfr
+gap_sweep		saudiradwa	saudiradwa.com	OUT	ecommerce_unverified
+gap_sweep		arabianhouses	arabianhouses.com.sa	OUT	ecommerce_unverified
+gap_sweep		blackice	blackice.sa	OUT	ecommerce_unverified
+gap_sweep		tiffany	tiffany.sa	OUT	franchise
+gap_sweep		morganit	morganit.sa	OUT	ecommerce_unverified
+gap_sweep		tomatostores	tomatostores.sa	OUT	ecommerce_unverified
+gap_sweep		avis	avis.com.sa	OUT	hospitality_or_travel
+gap_sweep		almasyafalbared	almasyafalbared.sa	OUT	ecommerce_unverified
+gap_sweep		saudiceramics	saudiceramics.com	OUT	ecommerce_unverified
+gap_sweep		timehotels	timehotels.com	OUT	franchise
+gap_sweep		smartlaw	smartlaw.sa	OUT	nonretail_services
+gap_sweep		goldentech	goldentech.com.sa	OUT	ecommerce_unverified
+gap_sweep		gozaky	gozaky.sa	OUT	ecommerce_unverified

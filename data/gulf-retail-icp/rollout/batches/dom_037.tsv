@@ -1,0 +1,19 @@
+source	country	name	domain	prior_verdict	prior_category
+gap_sweep		voolaaa	voolaaa.com	OUT	ecommerce_unverified
+gap_sweep		al-araba	al-araba.com	OUT	ecommerce_unverified
+gap_sweep		imtiaz	imtiaz.com.sa	OUT	ecommerce_unverified
+gap_sweep		wecre8	wecre8.com	OUT	ecommerce_unverified
+gap_sweep		Dee Line	thedeeline.com	OUT	ecommerce_unverified
+gap_sweep		azyya	azyya.com	OUT	ecommerce_unverified
+gap_sweep		zadfresh	zadfresh.com	OUT	ecommerce_unverified
+gap_sweep		elevenz	elevenz.net	OUT	ecommerce_unverified
+gap_sweep		teearabia	teearabia.com	OUT	ecommerce_unverified
+gap_sweep		bymaha	bymaha.shop	OUT	ecommerce_unverified
+gap_sweep		mashaelalfaris	mashaelalfaris.com	OUT	ecommerce_unverified
+gap_sweep		fittingroom	fittingroom.store	OUT	ecommerce_unverified
+gap_sweep		saudi-house	saudi-house.com	OUT	ecommerce_unverified
+gap_sweep		ak	ak.com.sa	OUT	ecommerce_unverified
+gap_sweep		daralmasalla	daralmasalla.com	OUT	ecommerce_unverified
+gap_sweep		ghudfah	ghudfah.com	OUT	ecommerce_unverified
+gap_sweep		hofigroup	hofigroup.com	OUT	ecommerce_unverified
+gap_sweep		twomark	twomark.com	OUT	ecommerce_unverified

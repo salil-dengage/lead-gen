@@ -1,0 +1,19 @@
+source	country	name	domain	prior_verdict	prior_category
+gap_sweep		desertcart	desertcart.com.sa	OUT	ecommerce_unverified
+gap_sweep		eternal-jewel	eternal-jewel.com	OUT	ecommerce_unverified
+gap_sweep		gulfindustrialgroup	gulfindustrialgroup.com	OUT	ecommerce_unverified
+gap_sweep		3attar	3attar.com	OUT	ecommerce_unverified
+gap_sweep		tuhoon	tuhoon.com	OUT	ecommerce_unverified
+gap_sweep		freshvery	freshvery.com	OUT	ecommerce_unverified
+gap_sweep		marhbastore	marhbastore.com	OUT	ecommerce_unverified
+gap_sweep		cupiosnacks	cupiosnacks.com	OUT	ecommerce_unverified
+gap_sweep		lavieenrose	lavieenrose.com.sa	OUT	ecommerce_unverified
+gap_sweep		kabrita	kabrita.sa	OUT	ecommerce_unverified
+gap_sweep		industry	industry.com.sa	OUT	ecommerce_unverified
+gap_sweep		katespade	katespade.sa	OUT	franchise
+gap_sweep		silkra	silkra.net	OUT	ecommerce_unverified
+gap_sweep		homectro	homectro.com	OUT	ecommerce_unverified
+gap_sweep		weftrug	weftrug.com	OUT	ecommerce_unverified
+gap_sweep		foulard	foulard.store	OUT	ecommerce_unverified
+gap_sweep		bsupply	bsupply.store	OUT	ecommerce_unverified
+gap_sweep		globalviewsksa	globalviewsksa.com	OUT	ecommerce_unverified

@@ -1,0 +1,11 @@
+source	country	name	domain	prior_verdict	prior_category
+gap_sweep		moderncottagefurnitures	moderncottagefurnitures.com	OUT	ecommerce_unverified
+gap_sweep		rihafbeauty	rihafbeauty.com	OUT	ecommerce_unverified
+gap_sweep		mochaboutique	mochaboutique.com	OUT	ecommerce_unverified
+gap_sweep		mohjewelry	mohjewelry.com	OUT	ecommerce_unverified
+gap_sweep		zakiopticals	zakiopticals.com.sa	OUT	ecommerce_unverified
+gap_sweep		gaudiabeauty	gaudiabeauty.com	OUT	ecommerce_unverified
+gap_sweep		FACES Beauty Middle East	https://faces.sa	OUT	health_beauty_pharmacy
+gap_sweep		SmartLink BPO Solutions	https://smartlink.com.sa/	OUT	agency_or_services
+gap_sweep		Adsela Marketing Solutions	https://adselams.com/en/	OUT	agency_or_services
+gap_sweep		MarTech Tree	https://martechtree.com/	OUT	agency_or_services

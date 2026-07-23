@@ -1,0 +1,19 @@
+source	country	name	domain	prior_verdict	prior_category
+original	Saudi Arabia	Araboil	araboil.co	OUT	fuel_station
+original	Saudi Arabia	مكتبه جرير	arabplaces.com	IN	sporting_toys_books
+original	Saudi Arabia	Areej AL Khaleej  |  اريج الخليج	areejelkhaleej.net	IN	fashion
+original	Saudi Arabia	شركة عبداللطيف احمد العرفج وشريكه	arfajco.com	IN	grocery
+original	Kuwait	Armada Retail Concept	armadagroupco.com	IN	fashion
+original	Saudi Arabia	Armah Sports Company	armahsports.com	IN	fashion
+original	Saudi Arabia	Arriyadh Roaster محمصة الرياض	arriyadhroaster.com	IN	sporting_toys_books
+original	Kuwait	ARTECASA	artecasa.bz	IN	home_furniture_appliance
+held_review	Saudi Arabia	شركة عثمان الزامل واخوانه	arzamil.com	OUT	diversified_trading
+held_review	Saudi Arabia	Ashley Homestore | KSA	ashley.sa	HELD	franchise
+held_review	Qatar	Asklan Trading & Agriculture W.L.L	asklan.net	OUT	diversified_trading
+original	Saudi Arabia	Aster Pharmacy - صيدلية استر	asterpharmacy.sa	IN	health_beauty_pharmacy
+held_review	Saudi Arabia	ATHR Gallery	athrart.com	OUT	art_gallery
+original	Kuwait	Atyab Al Marshoud	atyabalmarshoud.com	IN	health_beauty_pharmacy
+original	Saudi Arabia	ايسوزو العيسى | Alissa Isuzu	aum.com.sa	OUT	non_retail
+original	Kuwait	Autocapital	autocapitalkw.com	OUT	non_retail
+original	Saudi Arabia	Auto Mall	automallksa.com	OUT	non_retail
+original	Saudi Arabia	Autozone Balubaid	autozone.com.sa	OUT	non_retail

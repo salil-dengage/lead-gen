@@ -1,0 +1,19 @@
+source	country	name	domain	prior_verdict	prior_category
+original	Kuwait	Kuwait Automotive Imports Company	kaico.com.kw	OUT	non_retail
+original	Kuwait	Kana Group	kanagroup.com	IN	health_beauty_pharmacy
+original	Kuwait	KAPICO	kapicogroup.com	IN	fashion
+original	Saudi Arabia	KartNGo	kartngo.co	IN	grocery
+original	Saudi Arabia	kayanee	kayanee.com	IN	fashion
+original	Saudi Arabia	Kenz Woman	kenzwoman.com	IN	fashion
+original	Saudi Arabia	Al Khairat Company	khairat.com	IN	sporting_toys_books
+original	Qatar	Kia Qatar	kiaqatar.com	OUT	non_retail
+original	Qatar	KIDDY ZONE	kiddyzone.com	IN	sporting_toys_books
+held_review	Saudi Arabia	Kiffa Roaster	kiffa.sa	IN	grocery
+original	Saudi Arabia	SAUDI KITCHEN LINE	kitchenline.com	OUT	non_retail
+original	Saudi Arabia	Knoz El Hekma - شركة كنوز الحكمة	knozelhekma.com	IN	health_beauty_pharmacy
+original	Kuwait	شركة البترول الوطنية الكويتية Kuwait National Petroleum Company	knpc.com	OUT	non_retail
+held_review	Saudi Arabia	Khereiji Showrooms Company Limited	ksc.com.sa	IN	electronics
+original	Saudi Arabia	Kitchen Zone مطابخ زون	kz.com.sa	OUT	non_retail
+original	Qatar	Alfardan Premier Motors Company	landrover-qatar.com	OUT	non_retail
+original	Saudi Arabia	Mohamed Yousuf Naghi Motors – Official JLR Retailer in KSA	landrover-saudi.com	OUT	non_retail
+original	Saudi Arabia	Laverne Group | مجموعة لافيرن	laverne.com	IN	health_beauty_pharmacy

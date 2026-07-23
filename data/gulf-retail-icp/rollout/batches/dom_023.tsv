@@ -1,0 +1,19 @@
+source	country	name	domain	prior_verdict	prior_category
+original	Qatar	Nasser Bin Khaled Automobiles (NBK Auto)	mercedes-benz.com.qa	OUT	non_retail
+original	Kuwait	Mercedes-Benz Commercial Vehicles | Kuwait	mercedesbenzkuwait.com	OUT	non_retail
+held_review	Qatar	Merch and Partners Co WLL	merch.com.qa	OUT	diversified_trading
+held_review	Saudi Arabia	Meshkati Trading Company	meshkati.sa	OUT	diversified_trading
+original	Saudi Arabia	Modern Electronics - MEC (AL-Faisaliah Group)	mestores.com	IN	electronics
+original	Saudi Arabia	Jiad Modern Motors	mg-sa.com	OUT	non_retail
+original	Kuwait	MG Kuwait	mgkuwait.com	OUT	non_retail
+original	Qatar	M. H. Al Mana Group of Companies	mhalmanagroup.com	OUT	non_retail
+original	Saudi Arabia	Marketing Home Group	mhg-int.com	IN	ecommerce
+original	Saudi Arabia	Masdar Hardware مصدر لمواد النجارة	mhw.com.sa	OUT	building_materials_b2b
+original	Kuwait	Midas Furniture	midasfurniture.com	IN	home_furniture_appliance
+held_review	Saudi Arabia	Mimar	mimar.com.sa	OUT	home_improvement
+original	Saudi Arabia	Alwazn Almithaly الوزن المثالي	mithaly.sa	IN	health_beauty_pharmacy
+original	Kuwait	Mitsubishi Motors Kuwait	mitsubishi-motors.com.kw	OUT	non_retail
+original	Kuwait	Mobile 2000	mobile2000.com	IN	electronics
+held_review	Saudi Arabia	شركة تقنيات الزراعة الحديثة	modernagritec.com	OUT	home_improvement
+original	Kuwait	Morad Yousuf Behbehani	moradbehbehani.com	IN	fashion
+original	Saudi Arabia	MOTOCARE	motocare.sa	OUT	non_retail

@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Aldawaa pharmacies",
+    "domain": "aldawaaegy.com",
+    "verdict": "OUT",
+    "gate_failed": "geography",
+    "category_final": "health_beauty_pharmacy",
+    "qualification_path": "n/a",
+    "reason": "Live, fully transactional pharmacy/beauty e-commerce site, but it is the Egypt operation, not a Saudi Arabia-HQ'd entity. Domain name itself signals Egypt (\"aldawaaegy\"); confirmed by embedded Shopify config (CurrencySymbol/currency = EGP throughout), an Egyptian-format contact mobile number (01283925069) and short-code hotline (15252). This is a different operating entity/market from the row's required Saudi Arabia HQ, even though \"Al Dawaa\" as a brand is Saudi-founded.",
+    "evidence": "HTTP 200. Title 'Aldawaa Pharmacies | صيدلية الدواء'. Live cart/checkout, real SKUs (Vichy, La Roche-Posay, CeraVe, The Ordinary, etc.), real EGP pricing. grep confirmed currency:\"EGP\" (Shopify config) 6+ times and phone 01283925069 in footer contact block."
+  },
+  {
+    "name": "Aldawaeya",
+    "domain": "aldawaeya.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "health_beauty_pharmacy",
+    "qualification_path": "substantiality",
+    "reason": "Domain 301-redirects (primary_domain_redirection) to alsultanpharmacy.com, which the page itself explains: \"Welcome to Alsultan Pharmacy – (formerly Aldawaeya Pharmacy)\", i.e. a legitimate rebrand, not a dead/hijacked domain. Live, real Kuwait online pharmacy: functioning cart, KWD pricing, real branded SKUs (Cetaphil, Eucerin, Fillerina, etc.), physical \"Find a Store\" locator. Passes geography (Kuwait, KWD), category (pharmacy/beauty retail), narrow-category (pharmacy = recurring/consumable), digital channel (real cart) and scale (broad multi-category catalog: skin care, face/neck, sunscreens, eye/lip/body/hand-foot care, etc., well over 50 SKUs).",
+    "evidence": "curl -L HTTP 301 -> https://www.alsultanpharmacy.com/ (HTTP 200, 1.37MB page). Body confirms rebrand notice, 'Online Pharmacy in Kuwait', currency KWD, 40+ product tiles visible on homepage alone across 8+ category sections."
+  },
+  {
+    "name": "Aldrees Petroleum & Transport Services Company (Official)",
+    "domain": "aldrees.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "non_retail",
+    "qualification_path": "n/a",
+    "reason": "Confirmed via live site: a Saudi public company running 1,383 fuel stations plus logistics/transport fleet services (\"الخدمات البترولية\" petroleum services, \"الخدمات اللوجستية والنقليات\" logistics & transport). Fuel stations / logistics services are not one of the four approved retail verticals.",
+    "evidence": "curl required -k (TLS cert issue) then HTTP 200. Body: 'شركة الدريس للخدمات البترولية والنقليات', 'محطات الوقود 1383' (1,383 fuel stations), investor-relations/share-price sections typical of a listed petroleum/transport company, no consumer product catalog."
+  },
+  {
+    "name": "Aleef",
+    "domain": "aleef.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "pet_retail",
+    "qualification_path": "n/a",
+    "reason": "Genuinely live, substantial Saudi e-commerce operation (SAR currency, +966, real cart) selling pet food/supplies (Purina, Acana, Orijen, litter, carriers, beds, grooming) across many brands. However pet retail is not one of the four Gate 2 approved verticals (fashion/apparel/luxury; beauty/pharmacy; grocery/F&B; electronics/home/furniture/general merchandise) and is not general merchandise (it is a single-vertical specialty pet retailer, not a broad multi-category store). Re-verification overturns prior IN.",
+    "evidence": "HTTP 200, 1.49MB page, title 'متجر أليف' (Aleef Store). Body shows full pet-category navigation (cat/dog food wet+dry, litter+accessories, beds+carriers, grooming, health) and 30+ named pet-food/accessory brands. grep confirmed SAR x89, +966 x23 -- Saudi geography is not in question, only the category."
+  },
+  {
+    "name": "Al Emadi Group",
+    "domain": "alemadigroup.qa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "non_retail",
+    "qualification_path": "n/a",
+    "reason": "Alemadi Group's own About Us page describes it as founded 1961, \"one of the largest distributors of air conditioners and home appliances,\" exclusive O General AC dealership since 1974, \"largest stock distributor and contractor\" in HVAC/mechanical, comprising Al Emadi Import & Export Est., Al Emadi Trading Co., Arabian Contractor Company etc. This is wholesale/trading/distribution (B2B) plus HVAC contracting -- a hard-fail category regardless of the fact the site also shows appliance photos. The corporate website itself has no working cart (/store returns 404, only 'View Product' links, no add-to-cart found). Checked app-rescue path since an iOS/Android app exists (io.onemobile.alemadigroup): WebSearch confirms only '10+ downloads' on Google Play, far below the 50,000+ threshold, so no rescue applies.",
+    "evidence": "HTTP 200 homepage; /store subpage HTTP 404. About-us page: 'became one of the largest distributors of air conditioners and home appliances', 'largest stock distributor and contractor in Qatar', lists subsidiaries Al Emadi Import and Export Est., Al Emadi Trading Company, Al Emadi Electronics, Arabian Contractor Company. grep found zero add-to-cart/checkout/distributor-exclusion strings needed since narrative is explicit. WebSearch: Google Play listing io.onemobile.alemadigroup shows '10+ downloads' (Shopping category)."
+  },
+  {
+    "name": "alephksa",
+    "domain": "alephksa.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "electronics",
+    "qualification_path": "substantiality",
+    "reason": "Aleph (ألف) is a live Apple Premium Partner storefront in Saudi Arabia: full Mac/iPhone/iPad/Watch/AirPods/TV&Home/Accessories catalog, SAR pricing, working cart, Tabby BNPL checkout financing, VAT-inclusive checkout flow, physical store locator, and published Saudi Commercial Registration (1010076209) and VAT certificate numbers. Broad multi-category electronics retailer, easily clears all gates.",
+    "evidence": "HTTP 200, 635KB page. Body: 'Apple Premium Partner - Aleph', category nav Mac/iPad/iPhone/Watch/AirPods/TV & Home/Accessories, pricing 'From 3,299 SAR' etc., 'Commercial Registration: 1010076209', 'VAT Certificate: 300056752710003', Tabby BNPL messaging, 'Find a store'."
+  },
+  {
+    "name": "Alesayi Motors",
+    "domain": "alesayi-motors.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "non_retail",
+    "qualification_path": "n/a",
+    "reason": "Site self-identifies as \"MITSUBISHI & MITSUBISHI FUSO Authorized Distributor\" with nav for Cars/Trucks/Genuine Parts/Service Solutions -- an automotive distributor/dealer, hard-fail category regardless of digital presence.",
+    "evidence": "HTTP 200 (redirected to www.alesayi-motors.com), title 'ALESAYI MOTORS'. Body: 'MITSUBISHI & MITSUBISHI FUSO Authorized Distributor ALESAYI MOTORS', nav items Cars, Trucks, Genuine Parts, Service Solutions."
+  },
+  {
+    "name": "ALESAYI HOLDING |  العيسائي القابضة",
+    "domain": "alesayi.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "holding_conglomerate",
+    "qualification_path": "n/a",
+    "reason": "Omar Kassem Alesayi Group corporate/investor site spanning Engineering & Technology, Real Estate & Asset Management, Trade & Retail, Electronics, Services, Marketing & Production, and Investment Partnerships sectors (1000+ employees). It is a diversified holding company's about-us site, not a specific retail storefront: no products, no cart, no checkout anywhere on the domain.",
+    "evidence": "HTTP 200, title 'مجموعة عمر قاسم العيسائي'. Body lists business sectors 'العقارات و إدارة الأصول، التجارة و بيع التجزئة، الهندسة و التكنولوجيا، ...', founded 1945. grep for add-to-cart/shopping-cart/checkout returned zero hits."
+  },
+  {
+    "name": "Al Falah Auto",
+    "domain": "alfalahauto.net",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "non_retail",
+    "qualification_path": "n/a",
+    "reason": "Domain alfalahauto.net is dead (proxy CONNECT returned 502 / DNS does not resolve). WebSearch confirms the live corporate domain is alfalahauto.com.sa: Al-Falah Group (est. 1969) comprising Al-Falah Auto (new vehicle sales, Toyota/Nissan/Ford/GM partnerships), Al-Falah Car Rental, and Al-Falah Transportation. Automotive dealer/rental/transport -- hard-fail category, so the dead-domain question is moot.",
+    "evidence": "curl to https and http both failed (exit 56/timeout); getent DNS lookup returned nothing; proxy status log shows repeated 502 CONNECT rejections pattern consistent with a dead host. WebSearch result: 'Al-Falah Group... automotive, rental, transport, and logistics sectors... Al-Falah Auto for new vehicle sales... strategic partnerships with major brands like Toyota, Nissan, Ford, and General Motors... main website is alfalahauto.com.sa'."
+  },
+  {
+    "name": "fanoos",
+    "domain": "alfanoos.sa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "industrial_tools_equipment",
+    "qualification_path": "n/a",
+    "reason": "Domain alfanoos.sa does not resolve/connect. WebSearch confirms the live business (alfanoos.com.sa / Al-Fanoos Holding, Riyadh, est. 1971) supplies professional power tools, construction equipment, generators and workshop machinery -- industrial tools/construction equipment trading, a hard-fail category (closest to the building-materials/construction/contracting exclusion), also structurally a narrow single product-line business.",
+    "evidence": "curl https/http both failed (exit 56); getent DNS lookup empty. WebSearch: 'Al Fanoos Tools & Industrial Equipment... trusted destination for tools and industrial equipment... power tools, generators, workshop machinery, and construction solutions... official website is alfanoos.sa (or alfanoos.com.sa)'."
+  },
+  {
+    "name": "Alfardan Jewellery",
+    "domain": "alfardanjewellery.com.qa",
+    "verdict": "OUT",
+    "gate_failed": "narrow_repeat_purchase",
+    "category_final": "jewelry_luxury_watches",
+    "qualification_path": "n/a",
+    "reason": "Live, real Qatar luxury jewellery/watch retailer (Chopard, Tiffany & Co., Harry Winston, Vacheron Constantin, Breguet, Franck Muller, Girard-Perregaux, etc.), passes geography and nominally sits under the Gate 2 'luxury' bucket. But it is a single narrow product line (fine jewellery and prestige watches only) with inherently low, occasion-driven repeat-purchase frequency -- the same structural profile as the confirmed narrow-category fail patterns (tires/batteries, lighting-only, flooring-only), just in a luxury wrapper rather than a utilitarian one.",
+    "evidence": "HTTP 200, title 'Alfardan Jewellery | Jewellery in Qatar'. Body lists 20+ single-line jewellery/watch brands (Chopard, Marli New York, Tiffany & Co., Noudar, Harry Winston, Breguet, Girard-Perregaux, Vacheron Constantin, Franck Muller, Chaumet, Ulysse Nardin, Corum, Fabergé, etc.) -- exclusively jewellery and watches, no other merchandise category."
+  },
+  {
+    "name": "Alghanim Motors",
+    "domain": "alghanimindustries.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "non_retail",
+    "qualification_path": "n/a",
+    "reason": "Domain now resolves to a Saw.com 'domain for sale' parking page, not the real business. WebSearch confirms Alghanim Motors (Alghanim International for the Sale and Purchase of Cars Co. W.L.L.) is the exclusive Honda automobiles/power-products/parts distributor in Kuwait, part of Alghanim Industries. Automotive distributor -- hard-fail category, so the parked-domain state is moot.",
+    "evidence": "HTTP 200 but title 'ALGHANIMINDUSTRIES.COM - For Sale', body is Saw.com domain-broker marketing copy ('Saw.com has successfully helped thousands of buyers acquire the perfect domain name'). WebSearch: 'Alghanim Motors... is one of the group companies of Alghanim Industries and has become the sole distributor of Honda Automobiles in Kuwait... exclusive distributor of Honda Automobiles, Honda Power Products, Honda Motorcycles and Genuine Spare Parts'."
+  },
+  {
+    "name": "Al Ghassan Motors",
+    "domain": "alghassanmotors.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "non_retail",
+    "qualification_path": "n/a",
+    "reason": "Domain unreachable through the proxy (CONNECT/DNS failure) at fetch time. WebSearch corroborates this is a real, well-known Jeddah-headquartered Saudi company (est. 1992), exclusive distributor for Lamborghini, McLaren, Bentley, Ferrari, Aston Martin, Infiniti and Bugatti. Automotive dealer/distributor -- hard-fail category regardless of the transient connectivity issue.",
+    "evidence": "curl https/http both failed (exit 56); getent DNS lookup empty. WebSearch: 'Al Ghassan Motors is a private Saudi Arabian company established in 1992, specializing in the sales, distribution, and after-sales service of luxury and sports vehicles... headquartered in Jeddah... exclusive distributor for... Lamborghini, McLaren, Bentley, Ferrari, Aston Martin, Infiniti, and Bugatti'."
+  },
+  {
+    "name": "Al Ghazali  |  الغزالي",
+    "domain": "alghazali.com.sa",
+    "verdict": "OUT",
+    "gate_failed": "narrow_repeat_purchase",
+    "category_final": "watches_retail",
+    "qualification_path": "n/a",
+    "reason": "Live, real, substantial Saudi e-commerce operation with working cart/checkout, SAR pricing, live inventory counts, and multiple physical branches (Riyadh/Jeddah/Mecca referenced) -- passes geography, digital-channel and scale gates cleanly. However the store sells exclusively watches (13+ watch brands: Ebel, Maurice Lacroix, Zodiac, Vulcain, Fendi, Nina Ricci, Jowissa, Saint Honoré, etc., plus watch repair services) -- a single narrow product line with the same low, occasion-driven repeat-purchase profile as the confirmed narrow-category fail pattern (cf. Alfardan Jewellery in this same batch). Re-verification overturns prior IN for consistency with how the analogous jewellery/watch narrow-category case is treated.",
+    "evidence": "HTTP 200, 538KB page, title 'شراء ساعات فاخرة أونلاين فdي السعودية'. Body: dozens of 'SAR x,xxx' watch SKUs with 'add to cart' (إضافة إلى السلة) and stock counts ('باقي 1 حبة'), text 'متجر ساعات فاخر في السعودية' (luxury watch store), mentions branches in Riyadh/Jeddah/Mecca and watch repair services, +966 phone. No non-watch product category found anywhere on the site."
+  },
+  {
+    "name": "مفارش الحبيب | Alhabib Bedding",
+    "domain": "alhabibshop.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "home_bedding_textiles",
+    "qualification_path": "substantiality",
+    "reason": "Re-verification overturns prior OUT/non_retail. This is a genuine, substantial, live Saudi home-textiles e-commerce retailer (Salla platform): working cart, active discount codes, free-shipping and 7-day return policy, VAT-registered ('علامة سعودية رائدة منذ 1427هـ' -- leading Saudi brand since 1427H), own mobile app, Saudi contact number. Category falls under the Gate 2 'home' bucket. Sitemap confirms ~1,767 unique product SKUs (3,534 URLs across ar/en) spanning multiple sub-lines (hotel bedding, bridal sets, baby/kids bedding, pillows, mattresses) sold as explicitly seasonal 'summer and winter collections' -- the same multi-item/seasonal repeat-purchase pattern that passes fashion under Gate 3, distinguishing it from the narrow single-SKU-type fail examples (flooring, lighting). Prior 'non_retail' tag looks like it may have conflated this small bedding brand with the unrelated, much larger Al-Habib Hospital Group name; this domain's actual content is unambiguously a bedding retailer.",
+    "evidence": "HTTP 200 homepage (114KB) plus contact-us subpage. sitemap.xml -> 2 product sitemaps; sitemap-2.xml contains 3,534 <loc> URLs (product pages in ar+en, e.g. PALMA/ZARAGOZA/MARBELLA/TURIN bedding sets) = ~1,767 unique SKUs. Body: 'ALHABIB BEDDING... Specialized in hotel bedding, summer and winter collections, bridal sets, baby & kids bedding, pillows, m[attresses]', 'VAT Account Number 311525278300003', contact page: 'مفارش الحبيب علامة سعودية رائدة منذ 1427هـ' (leading Saudi brand since 1427H), phone +966594241111, mentions of a dedicated mobile app. grep confirmed 'salla' platform markers (273 occurrences)."
+  },
+  {
+    "name": "Al Hamad Automobiles",
+    "domain": "alhamadautomobiles.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "non_retail",
+    "qualification_path": "n/a",
+    "reason": "Site is explicitly a Qatar heavy-vehicle/construction-equipment dealer: JAC and Sunray commercial vehicles/pickups/buses, TATA buses, XCMG cranes/excavators/loaders, and a full forklift range, plus parts/service/quote request flows aimed at commercial buyers. Automotive/heavy-equipment dealer -- hard-fail category.",
+    "evidence": "HTTP 200, title 'Al Hamad Automobiles Co.', phone +974 44510606. Body nav: Brands > Donaldson, JAC, Forklift (Electric/Diesel/LPG/Gasoline/Pallet/Reach/Stacker/Tow Tractor), Vehicles > Sunray/TATA/Bus, XCMG > All Terrain Crane/Crawler Crane/Excavator/Wheel Loader etc., plus 'Get A Quote / Vehicle Quote / Request Parts / Service Appointment'."
+  },
+  {
+    "name": "ALHASAWI GROUP",
+    "domain": "alhasawi.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "non_retail",
+    "qualification_path": "n/a",
+    "reason": "Alhasawi Group's own site describes it primarily as a Kuwaiti manufacturer (refrigerators, water coolers, air-conditioners, water heaters, sandwich panels, refrigerated trucks/shelters) -- manufacturing/industrial, a hard-fail category. It also names retail franchise arms (Ace Hardware -- hardware, itself a hard-fail construction/hardware category; Sears department store; Peak sportswear; Dadida kids fashion), but this corporate group domain is a brochure/product-spec site with no cart or checkout anywhere -- it is not itself a functioning retail storefront for any of those brands.",
+    "evidence": "HTTP 200, 173KB page, title 'Alhasawi Group of company'. Body: 'Alhasawi group has broadened its scope of business, diversifying its portfolio in both manufacturing and retail operations', 'Alhasawi Industrial Group... manufacturing plants... Refrigerators..., Water Coolers, Air-conditioners, Water Heaters..., Sandwich Panels, Refrigerated Truck', 'Alhasawi Trading Group... holds Ace Hardware...also the authorized distributor of Sears'. grep for add-to-cart/shopping-cart/checkout/buy-now/shop-now returned zero hits."
+  },
+  {
+    "name": "Al Hayat Investments Co.",
+    "domain": "alhayatinv.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "non_retail",
+    "qualification_path": "n/a",
+    "reason": "Al Hayat Investment Company is explicitly an investment holding company (\"Our Companies\") whose subsidiaries include SPORTA, a named 'leading B2B brand' / 'premier distributor of state-of-the-art fitness equipment' for gyms and wellness centers (wholesale/trading distribution -- hard fail), a pools/SPA/MEP design-build contractor (construction/contracting -- hard fail), a rubber-recycling materials company (manufacturing/industrial -- hard fail), and a protein-nutrition brand. Client list is heavily institutional/B2B/government (NEOM, Saudi Aramco, Ministry of Sport, military/security forces, banks). This corporate holding-company domain has no cart/checkout; the one B2C fitness-gear sub-brand mentioned is a different, unnamed entity/domain not represented by this row.",
+    "evidence": "HTTP 200, 1.89MB page, title 'Al Hayat Investment Company | Revolutionizing Fitness & Wellness for Modern Saudi'. Body: 'OUR COMPANIES'... 'Founded in 2013, SPORTA is a leading B2B brand... premier distributor of state-of-the-art fitness equipment... collaborate with gyms and wellness centers'; other subsidiaries described as pools/SPA/MEP contracting and rubber-circularity manufacturing. Client logos include NEOM, Saudi Aramco, Ministry of Sport, Ministry of Interior, Saudi Armed Forces, Al Rajhi Bank."
+  }
+]

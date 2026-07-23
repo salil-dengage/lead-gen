@@ -1,0 +1,19 @@
+source	country	name	domain	prior_verdict	prior_category
+original	Saudi Arabia	Motors Gate Company | بوابة العربات	motorsgate.sa	OUT	non_retail
+original	Saudi Arabia	Motory	motory.com	OUT	non_retail
+held_review	Kuwait	Meshaal Al Shatti and Partner General Trading	mssandp.com	OUT	diversified_trading
+original	Kuwait	mubkhar	mubkhar.com	IN	health_beauty_pharmacy
+original	Saudi Arabia	Munch Bakery منش بيكري	munchbakery.com	IN	grocery
+original	Saudi Arabia	Muntazah Holding	muntazaholding.com	IN	grocery
+original	Kuwait	Mutawa AlKazi & Subsidiaries	mutawaalkazi.com	OUT	non_retail
+original	Saudi Arabia	My Little Home | بيتي الصغير	mylittlehome.com.sa	IN	home_furniture_appliance
+original	Saudi Arabia	محمد يوسف ناغي للسيارات - فورد | Mohamed Yousuf Naghi Motors - Ford	mynaghiford.com	OUT	non_retail
+original	Qatar	Nabco Furniture Center	nabcostore.com	IN	home_furniture
+original	Qatar	Nabina Ceramic	nabinaceramic.com	OUT	building_materials_b2b
+original	Kuwait	NAD United General Trading.	nadkw.com	IN	grocery
+original	Saudi Arabia	NAFT Services Company (NAFT)	naft.com.sa	OUT	non_retail
+original	Saudi Arabia	Mohamed Yousuf Naghi Motors	naghi-group.com	OUT	non_retail
+original	Kuwait	Nagwa Boutique & Café	nagwaboutique.com	IN	grocery
+original	Saudi Arabia	Nana	nana.sa	OUT	marketplace_delivery
+held_review	Qatar	Nasir Bin Abdullah & Sons	nas-goc.com	OUT	diversified_trading
+original	Saudi Arabia	نسق	nasaq.info	IN	ecommerce

@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Rolaco Trading & Contracting Holding",
+    "domain": "rolaco.com.sa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "diversified_b2b_holding",
+    "qualification_path": "n/a",
+    "reason": "Rolaco (est. 1968, Jeddah) is a diversified B2B holding conglomerate, not a single-category consumer retailer. Its divisions are Automotive & Equipment (heavy commercial equipment), Hospitality & Retail (B2B linens/cookware supply to hotels), Arabian Sounds & Lights/Bang & Olufsen (commercial AV/lighting project solutions), Al Moumayaza Travel & Tourism, and Industrial & Agriculture (animal feed). Site is a corporate 'Request a Call Back' B2B lead-gen page with no consumer storefront.",
+    "evidence": "curl https://rolaco.com.sa -> 200 OK, 41KB. Full text confirms the five B2B/holding divisions listed above and a 'Request a Call Back' business-sector contact form; grep for shop/cart/buy/store/e-commerce returned zero matches."
+  },
+  {
+    "name": "Saudi Bugshan Company",
+    "domain": "rpgelster.de",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "diversified_holding_non_retail",
+    "qualification_path": "n/a",
+    "reason": "Listed domain rpgelster.de is dead and unrelated to the company (proxy CONNECT failed, no live host). WebSearch confirms Saudi Bugshan Company is genuinely HQ'd in Jeddah, Saudi Arabia, but it is a diversified holding conglomerate spanning real estate, automotive, education, healthcare, security/defense, and a perfumes/cosmetics arm -- not a single retail-category operating business. Both real known domains for the company are non-functional: saudibugshan.com is a parked domain-auction listing (Dynadot) and saudibugshan.com.sa shows 'We're Revamping Our Online Presence. Check Back Soon.'",
+    "evidence": "curl https://rpgelster.de -> proxy CONNECT 502 (dead/unrelated domain). WebSearch 'Saudi Bugshan Company official website' identifies HQ Jeddah, KSA, sectors: real estate/automotive/perfumes & cosmetics/education/healthcare/security & defense. curl https://www.saudibugshan.com -> Dynadot domain-auction parked page. curl https://www.saudibugshan.com.sa -> coming-soon placeholder, no cart/products found anywhere."
+  },
+  {
+    "name": "rubaiyat",
+    "domain": "rubaiyat.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "fashion_luxury",
+    "qualification_path": "n/a",
+    "reason": "Confirmed live, extensive multi-category luxury fashion e-commerce site with real cart/checkout flow ('Your cart is currently empty', free-shipping threshold, checkout). Full catalog spans Clothing (Women/Men/Kids), Shoes, Bags, and Jewelry with dozens of subcategories. Site brands itself explicitly 'Rubaiyat - Saudi Arabia's Luxury Destination' with same-day delivery in Jeddah & Riyadh, confirming a genuine Saudi operating base. Broad multi-item, seasonal, high-repeat-purchase fashion category.",
+    "evidence": "curl https://rubaiyat.com -> 200 OK, 480KB. Stripped body text shows full nav tree (Clothing/Shoes/Bags/Jewelry x Women/Men/Kids, dozens of subcategories), cart/checkout copy, and 'Same day delivery in Jeddah & Riyadh'."
+  },
+  {
+    "name": "Saadeddinpastry",
+    "domain": "saadeddin.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "grocery_fnb",
+    "qualification_path": "n/a",
+    "reason": "Saadeddin Pastry is a large, established Saudi bakery/sweets chain (145+ branches per corroborating WebSearch) selling Arabic/Western sweets, chocolates, nuts, ice cream, and coffee -- a broad, high-repeat-purchase F&B category. The own site is a JS-rendered SPA (curl shows only 'Loading...'), but real production e-commerce infrastructure is confirmed: AWS-hosted static assets, an Apple Pay JS SDK loaded specifically for checkout, GTM/GA, and a Facebook app ID. Corroborated by real, active online ordering via HungerStation and Ninja delivery aggregators across Riyadh and other Saudi cities.",
+    "evidence": "curl https://www.saadeddin.com -> SPA shell only ('Loading...') but includes applepay-sdk.js and an AWS S3 production static bucket (saadeddin-production-static). WebSearch confirms 145+ branches and live delivery ordering via HungerStation/Ninja across Saudi Arabia."
+  },
+  {
+    "name": "Saadeddin Sweets Qatar حلويات سعدالدين",
+    "domain": "saadeddin.qa",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "grocery_fnb",
+    "qualification_path": "app_download_rescue",
+    "reason": "Saadeddin operates on a national franchise model (confirmed via a dedicated franchise-opportunity listing), and the Qatar operation runs 5+ physical branches in Doha (Katara, Al Sadd, Mamoura, Umm Salal Muhammed, Al Wakrah), satisfying geography as a genuine in-country franchise operation. The own .qa domain is currently a bare 'Coming Soon / under construction' placeholder, which would fail gate 4 standalone, but the brand's official 'SAADEDDIN' Google Play app has 100K+ downloads (3.4 stars, 626 reviews) with reviews explicitly describing cart-based ordering (cakes, cancellations), plus heavy real transactional presence on Talabat (1,000+ reviews, 4.5 rating), Snoonu, and Rafeeq -- all past the 50k app-download rescue threshold.",
+    "evidence": "curl https://saadeddin.qa -> 'Coming Soon...Our website is under construction', phone-only contact. WebSearch confirms franchise model, 5 named Doha branches, and Talabat/Snoonu/Rafeeq/Floward listings. Google Play 'SAADEDDIN' app (com.hope.saadeddin): 100K+ Downloads, 3.4 stars, 626 reviews; reviews reference shopping-cart/cake ordering and delivery."
+  },
+  {
+    "name": "شركة سبك الجسور التجارية COMMERCIA SABK ALJUSORE COMPANY",
+    "domain": "sabkaljusore.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "building_materials_b2b",
+    "qualification_path": "n/a",
+    "reason": "Confirmed via full-page read: the company explicitly self-describes as 'a national pillar in the construction-materials retail-trade and logistics sector,' specializing in supplying iron/steel and timber from major local/global factories plus integrated land-transport/logistics solutions. This is a hard-fail B2B construction-materials-and-logistics trading business, not consumer retail. No cart or consumer storefront present.",
+    "evidence": "curl https://sabkaljusore.com -> 200 OK, 93KB. Arabic text: 'تعد شركة سبك الجسور ركيزة وطنية في قطاع تجارة التجزئة لمواد البناء والخدمات اللوجستية...نختص في توريد أجود أنواع الحديد والأخشاب' (iron & timber supply + logistics); nav includes 'المتجر الإلكتروني' link but page content is entirely B2B quote-request / project services, no consumer cart found."
+  },
+  {
+    "name": "saco",
+    "domain": "saco.sa",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "home_furniture_appliance",
+    "qualification_path": "n/a",
+    "reason": "SACO is a major Saudi home-goods/hardware retail chain, operating since 1985 with 32 branches across 20 cities, explicitly self-declared as a 'partner of Saudi Vision 2030.' Confirmed 50,000+ products across 18 departments (electronics 11,186 items, home & kitchen tools 9,892, bathroom furnishings 9,233, indoor/outdoor furniture, garden care, lighting & electrical, home improvement, tools), a real shopping cart, 2-hour delivery service, a loyalty club, and dedicated iOS/Android apps. Overwhelmingly passes substantiality.",
+    "evidence": "curl https://saco.sa -> 200 OK, 370KB. Text: '18 قسماً · أكثر من 50,000 منتج' (18 departments, 50,000+ products), 'عربة التسوق' (shopping cart), '32 فرع ساكو' (32 SACO branches), 'منذ 1985' (since 1985), 'توصيل خلال ساعتين' (2-hour delivery)."
+  },
+  {
+    "name": "SADANA TRADING CO",
+    "domain": "sadana.com.sa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "wholesale_distribution_b2b",
+    "qualification_path": "n/a",
+    "reason": "Sadana explicitly positions itself as a B2B consumer-goods distributor ('Your Trusted Partner in Consumer Goods Distribution across the Kingdom of Saudi Arabia'), built around logistics service centers, freight/transportation, warehousing, and supply-chain management for baby/pharma/cosmetics/personal-care/F&B brands. A 'Retail Shops' division is mentioned only as a one-line tagline with no further detail, cart, or product listing; the only site CTA is a B2B 'Let's talk / Contact us' lead form.",
+    "evidence": "curl https://sadana.com.sa -> 200 OK, 27KB. Text: '17 Years of Experience, 30 Brands & Partners...Network of logistical service centers...Cutting-Edge warehousing and distribution facilities...Synchronised excellence in supply chain management.' No cart/product pages found."
+  },
+  {
+    "name": "Safari Group",
+    "domain": "safarigroup.net",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "grocery_hypermarket_general_merch",
+    "qualification_path": "app_download_rescue",
+    "reason": "Safari Group is the Doha-based parent of a genuine, large Qatari retail conglomerate: Safari Mall plus 4 named Safari Hypermarket branches (Al Khor, Barwa, S16, Birkat), Safari Mobile Shop, and Safari Optical, alongside logistics/travel/engineering/IT sister companies. Claims 7.5M+ customers and 20 years of operation. The group's own corporate domain is an 'About Us' page with no cart, but its 'mySAFARI Qatar' Google Play app (developer Simple Logic IT, a Safari Group company; support tied to Safari Hypermarket's Doha office) has 500K+ downloads, 4.1 stars, 1.63K reviews, with reviews explicitly referencing shopping-cart/delivery issues -- well past the 50k app-download rescue threshold. Qatar HQ confirmed via address/phone (+974) on the app listing.",
+    "evidence": "curl https://safarigroup.net -> 200 OK: '7500000+ happy customers,' '16 Companies,' lists Safari Mall / 4x Safari HyperMarket / Safari Mobile Shop / Safari Optical among the 16 group companies. Google Play 'mySAFARI Qatar - Safari Group' (com.mysafaricard): 500K+ Downloads, 4.1 stars, 1.63K reviews; developer address 'SAFARI HYPERMARKET...Qatar +974 4419 1411'."
+  },
+  {
+    "name": "Safari Hypermarket",
+    "domain": "safarihypermarket.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "grocery_hypermarket",
+    "qualification_path": "app_download_rescue",
+    "reason": "Own site is explicitly under a 'Getting a Makeover' construction placeholder directing customers to purchase from physical stores instead (address given: Safari Mall, Abu Hamour, Doha, Qatar), which would fail gate 4 standalone. Rescued by the same group's 'mySAFARI Qatar' app (500K+ downloads, 4.1 stars), confirmed tied directly to Safari Hypermarket via the developer's registered address (Safari Hypermarket, Doha), with reviews confirming real shopping-cart/delivery functionality. Qatar HQ confirmed via physical address and +974 phone number.",
+    "evidence": "curl https://www.safarihypermarket.com -> 200 OK, 4.9KB: 'Our Website is Under Construction...you can continue to purchase directly from our physical stores...Safari Mall, Abu Hamour, Doha, Qatar +974 4419 1441.' Same mySAFARI Qatar app evidence as Safari Group (500K+ downloads, developer address = Safari Hypermarket Doha)."
+  },
+  {
+    "name": "Safat Home by Alghanim Industries",
+    "domain": "safathome.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "home_furniture_appliance",
+    "qualification_path": "n/a",
+    "reason": "Confirmed genuine, large-scale Kuwait home-furnishings e-commerce operation under Alghanim Industries, a major long-established Kuwait-HQ'd conglomerate. Full working cart/checkout with dozens of specifically priced SKUs across Furniture, Dining Essentials, Home Accessories, Bedding, Bathrooms, Tiles, and Modular categories (sofas, dining sets, beds, wardrobes, cushions, lamps, dinnerware, etc., all with real KD pricing), plus GCC-wide delivery. Overwhelmingly passes scale/substantiality.",
+    "evidence": "curl https://safathome.com -> 200 OK, 749KB. Dozens of confirmed priced products with real 'Added to Cart / View cart / CHECKOUT NOW' flow, e.g. 'Jasper 1 Seater Sofa Light Grey 85.000 KD'; banner: 'Delivery Now Available Across GCC Countries.'"
+  },
+  {
+    "name": "Safi",
+    "domain": "saficosmetics.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "health_beauty_pharmacy",
+    "qualification_path": "n/a",
+    "reason": "Safi Group is a Kuwait-founded (2006) body-care/cosmetics company with confirmed real WooCommerce e-commerce: the /shop page shows 'Showing 1-12 of 560 results' across hair/skin/body-care, perfumes, and makeup, with specific product names, real pricing, and 'Out of stock' status flags (i.e. genuine live inventory, not demo/placeholder data); /cart confirms a working 'Add to cart / Shopping Cart / Checkout details / Order Complete' flow. Cosmetics/perfume is an explicitly approved, high-repeat-purchase category.",
+    "evidence": "curl https://saficosmetics.com/shop/ -> 200 OK: 'Showing 1-12 of 560 results', e.g. '11 Oils Hair Mask 80ml ر.س 178.26', 'After Sun Lotion 250ml...Out of stock'. curl https://saficosmetics.com/cart/ shows 'Add to cart' buttons and WooCommerce checkout steps (Shopping Cart / Checkout details / Order Complete)."
+  },
+  {
+    "name": "Salam Studio and Stores",
+    "domain": "salams.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "general_merch_dept",
+    "qualification_path": "n/a",
+    "reason": "Salam Studio & Stores (Salam International Investment Limited Q.P.S.C.) is a publicly traded (Qatar Exchange: SIIS), Doha-headquartered luxury department-store group established in 1952, operating 300+ designer labels across apparel, perfume, cosmetics, jewelry, photography, and home goods. The live site currently shows a temporary 'scheduled maintenance' page, but an archive.org snapshot from 2026-06-04 (about 7 weeks prior to this check) shows a massive, fully functioning e-commerce platform: dozens of luxury brands (Tom Ford, Dolce & Gabbana, Cartier, Van Cleef & Arpels, etc.), real QAR pricing with 'Add to Cart', 'Regular Price/Special Price' discounts, and 24-hour delivery. Treated as a temporary technical outage on an established, real, large-scale e-commerce business rather than a genuine gate-4 failure.",
+    "evidence": "curl https://salams.com -> 'We'll Be Back Soon! ...scheduled maintenance' (200 OK, static holding page). archive.org snapshot 2026-06-04 (web.archive.org/web/20260604071811/https://salams.com/) shows full live site: 'My Cart', 'currencySymbol: QAR', dozens of luxury brands, 'Add to Cart', 'Regular Price QAR 1,270.00 / Special Price QAR 635.00'. Wikipedia confirms Salam International HQ: Doha, Qatar; founded 1952; public company QE:SIIS."
+  },
+  {
+    "name": "salehcars",
+    "domain": "salehcars.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive_dealer",
+    "qualification_path": "n/a",
+    "reason": "Saleh Cars Group is a multi-brand new/used car dealership and financing broker (dozens of brands including Hyundai, Kia, Toyota, Nissan, Mercedes-Benz, BMW, Land Rover), an explicit hard-fail automotive-dealer category.",
+    "evidence": "curl https://salehcars.com -> 200 OK, 708KB. Text confirms 'موزع معتمد لجميع انواع السيارات' (authorized distributor for all car types), financing partnerships with named banks, and an extensive list of car brands sold, plus customer testimonials about dealership/sales-consultant experience."
+  },
+  {
+    "name": "SAMACO Automotive",
+    "domain": "samaco.com.sa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive_dealer",
+    "qualification_path": "n/a",
+    "reason": "SAMACO is the authorized Saudi dealer for Volkswagen, Audi, Porsche, Bentley, Lamborghini, and Bugatti -- an explicit hard-fail automotive-dealer category.",
+    "evidence": "curl https://samaco.com.sa -> 200 OK, 248KB. Nav confirms 'اشتري سيارة جديدة/مستعملة: فولكس واجن، أودي، بورشه، بنتلي، لامبورغيني، بوغاتي' plus service-booking/spare-parts-pricing pages typical of an auto dealership."
+  },
+  {
+    "name": "Saleh Al-Othaim Investment Co | شركة صالح عبدالله العثيم للاستثمار",
+    "domain": "sao.sa.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "diversified_investment_holding_fnb_tech",
+    "qualification_path": "n/a",
+    "reason": "SAO is explicitly an investment holding company ('one of the leading Saudi companies in the field of investment... investing in luxury restaurants and cafes, as well as in technology'), not a single retail-category operator. Its 'brands' (SAO Catering, LAGO, Sao Lounge, Roaster, Central Kitchen) are all sub-pages of the same corporate WordPress site with no cart/ordering infrastructure; the site is a corporate About/Projects/Brands/Contact page for the investment vehicle itself.",
+    "evidence": "curl https://sao.sa.com -> 200 OK, 326KB. Text: 'Saleh Abdullah Al-Othaim Company is one of the leading Saudi companies in the field of investment...investing in luxury restaurants and cafes, as well as in technology.' All sub-brand links (lago, roaster, sao-catering, central-kitchen, new-generation) resolve to pages on the same corporate site; no cart/shop found."
+  },
+  {
+    "name": "Saudia Group",
+    "domain": "saudiagroup.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "grocery_hypermarket",
+    "qualification_path": "n/a",
+    "reason": "Saudia Group operates Saudia Hypermarket, headquartered in Doha, Qatar (corporate office address given as 'Saudia Hypermarket, Umm Al Dhoom Street, Muaither, Doha-Qatar'). Confirmed live grocery e-commerce with delivery-slot scheduling (home delivery or store pickup), extensive fresh-food categories (meat, poultry, fish, fruits, vegetables, dairy, beverages, dates, roastery items, deli), a real cart, and account system.",
+    "evidence": "curl https://saudiagroup.com -> 200 OK, 87KB. Text shows a delivery-slot picker (Home Delivery/Pickup From Store), extensive category tree (Fresh Meat/Fish/Fruits/Vegetables/Dairy/Beverages/Dates/Roastery/Delicatessen), and 'Corporate Office: 2nd Floor, Saudia Hypermarket, Umm Al Dhoom Street, Muaither, Doha-Qatar.'"
+  },
+  {
+    "name": "Savola Group",
+    "domain": "savola.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "diversified_investment_holding_food_retail",
+    "qualification_path": "n/a",
+    "reason": "Savola Group is explicitly self-described as 'a leading strategic investment holding company in the food and retail sectors' in MENA (publicly traded, live share price shown on-site), not itself a retail operating entity -- it holds strategic investments in food and retail businesses (e.g. Panda supermarkets) rather than running a storefront itself. The site is an investor-relations style corporate page (governance, financials, sustainability); no cart, no products.",
+    "evidence": "curl https://savola.com -> 200 OK, 86KB. Text: 'تعد صافولا شركة استثمارية استراتيجية قابضة رائدة في قطاعَيْ الأغذية والتجزئة' (Savola is a leading strategic investment holding company in the food and retail sectors), with menu sections 'الاستثمارات في قطاع الأغذية / الاستثمارات في قطاع التجزئة / الاستثمارات الاخرى' (Food-sector investments / Retail-sector investments / Other investments) and a live stock ticker '25.88 -0.39%'."
+  }
+]

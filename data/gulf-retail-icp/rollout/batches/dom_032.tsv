@@ -1,0 +1,19 @@
+source	country	name	domain	prior_verdict	prior_category
+original	Saudi Arabia	Tamkeen Stores	tamkeenstores.com.sa	IN	specialty_retail
+original	Saudi Arabia	Tanatel	tanatel.com.sa	OUT	non_retail
+held_review	Qatar	TAQAT	taqat.qa	OUT	retail_general
+original	Saudi Arabia	tas-helat	tas-helat.com	OUT	fuel_station
+held_review	Kuwait	Tawseel Media Group	tawseelgroup.com	OUT	diversified_trading
+original	Qatar	Techno Blue WLL	techno-blue.com	IN	electronics
+original	Qatar	Teyseer Motors W.L.L.	teyseergroup.com	OUT	non_retail
+original	Saudi Arabia	TGC	tgc-ksa.com	IN	fashion
+original	Qatar	Thabt	thabt.qa	OUT	non_retail
+original	Qatar	That's Living Group	thatsliving.com	OUT	non_retail
+original	Saudi Arabia	بيوتي سيكرتس	thebeautysecrets.com	IN	health_beauty_pharmacy
+original	Kuwait	The Beauty Station | Nail Station KW	thebeautystation.com	IN	ecommerce
+original	Kuwait	THE BED SHOP	thebedshop.co	IN	home_furniture_appliance
+held_review	Qatar	The Blue Group - Qatar	thebluegroup.qa	OUT	diversified_trading
+original	Saudi Arabia	The Factory Furniture	thefactoryfurniture.com	OUT	non_retail
+original	Kuwait	OLE Coffee	theolecoffee.com	IN	grocery
+original	Saudi Arabia	سايتوتيك من امازون السعودية 00966538159747 تليجرام  Cytotec pills in Saudi	thesaudiwomen.com	OUT	health_beauty_pharmacy
+original	Saudi Arabia	Special Food Company	thespecialfood.com	IN	grocery

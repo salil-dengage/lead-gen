@@ -1,0 +1,19 @@
+source	country	name	domain	prior_verdict	prior_category
+held_review	Saudi Arabia	wholefoodmarket	cmcjuly2022.in	OUT	grocery
+original	Saudi Arabia	Coffee Complex - كوفي كومبلكس	coffeecomplex.com	IN	sporting_toys_books
+held_review	Kuwait	Concept Combined Group	concept-kw.com	OUT	diversified_trading
+original	Kuwait	Cozmo Group	cozmogroup.com	IN	grocery
+held_review	Qatar	CREDO TRADING	credo-trading.com	OUT	diversified_trading
+original	Qatar	CRYSTALS	crystals.qa	IN	sporting_toys_books
+original	Saudi Arabia	Al Daajan Holding	daajan.com	IN	grocery
+original	Kuwait	Dabdoob	dabdoob.com	IN	specialty_retail
+original	Qatar	Dana Group Qatar	danahypermarket.com	IN	grocery
+original	Saudi Arabia	Danube	danube.sa	IN	grocery
+original	Saudi Arabia	شركة دار الشاي العربي للتجارة DAR ALSHAI ALARABI TRADING .CO	daralshaistore.com	IN	grocery
+original	Saudi Arabia	Darat al-Qahwa	daratalqahwa.com	IN	grocery
+original	Saudi Arabia	Darb station	darbstations.com.sa	OUT	fuel_station
+original	Qatar	Dawaa Pharmacy -صيدلية دواء	dawaapharma.com	IN	health_beauty_pharmacy
+original	Saudi Arabia	Delta Fitness | دلتا فتنس	delta-fitness.com	IN	sporting_toys_books
+original	Saudi Arabia	DELTA (DMC)	deltamarketingco.com	IN	sporting_toys_books
+original	Saudi Arabia	Deraah Trading Company	deraah.com.sa	IN	health_beauty_pharmacy
+original	Saudi Arabia	Dkhoon Emirates	dkhoonemirates.com	OUT	health_beauty_pharmacy

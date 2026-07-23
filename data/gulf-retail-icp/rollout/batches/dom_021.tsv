@@ -1,0 +1,19 @@
+source	country	name	domain	prior_verdict	prior_category
+original	Saudi Arabia	lazurde	lazurde.com	IN	fashion
+original	Saudi Arabia	Lemon Pharmacy	lemon.sa	IN	health_beauty_pharmacy
+original	Saudi Arabia	Lexus Turkey	lexus.com.sa	OUT	non_retail
+original	Saudi Arabia	AlBaha Trading & Contracting Holding	lgd-eg.com	OUT	building_materials_b2b
+held_review	Saudi Arabia	Lighting Stores | مخازن الإضاءة	lightingstores.com.sa	IN	electronics
+original	Saudi Arabia	Line Furniture	linefurniture.net	IN	home_furniture_appliance
+original	Saudi Arabia	Liter Group Company	litergroup.com	OUT	fuel_station
+original	Saudi Arabia	ليوان | Liwan	liwan.sa	IN	fashion
+held_review	Qatar	Logic Group of Companies	logicgrp.com	OUT	diversified_trading
+original	Saudi Arabia	lomar	lomar.sa	IN	fashion
+original	Saudi Arabia	عطور لوريس	lorisksa.com	IN	health_beauty_pharmacy
+original	Kuwait	La Plus Belle	lpbkuwait.com	IN	health_beauty_pharmacy
+original	Kuwait	LSH ( Homaizi Group)	lshinternational.com	IN	grocery
+held_review	Qatar	LULU RAYYAN GROUP W.L.L	lulurayyan.com	OUT	diversified_trading
+original	Saudi Arabia	Madar Hardware Co.	madarhw.com.sa	OUT	building_materials_b2b
+original	Saudi Arabia	Adyaf Gulf Co. Ltd.	madeleine.sa	IN	grocery
+original	Qatar	Magaza	magaza.me	IN	ecommerce
+held_review	Saudi Arabia	Magrabi Hospitals & Centers	magrabihealth.com	IN	health_beauty_pharmacy

@@ -1,0 +1,19 @@
+source	country	name	domain	prior_verdict	prior_category
+original	Qatar	IMALCO	imalcowebstore.com	OUT	non_retail
+original	Qatar	International Medical Company (Kulud Pharmacy)	imcqatar.com	IN	health_beauty_pharmacy
+original	Saudi Arabia	صيدليات انوفا - Innova Pharmacy	innovapharmacy.com	IN	health_beauty_pharmacy
+held_review	Qatar	INTERTEC GROUP W.L.L.	intertecqatar.com	OUT	diversified_trading
+original	Saudi Arabia	ITCO-International Timber Company	itco-sa.com	OUT	building_materials_b2b
+original	Saudi Arabia	Rolly	itsrolly.com	IN	fashion
+original	Qatar	Jaidah Group	jaidah.com	OUT	non_retail
+original	Saudi Arabia	Jamjoom Fashion	jamjoomfashion.com	IN	fashion
+original	Saudi Arabia	Kabbani Trading Center	jareersweets.com	IN	grocery
+original	Saudi Arabia	Jarir Bookstore	jarir.com	IN	sporting_toys_books
+original	Saudi Arabia	Saudi Jawahir	jawahir.sa	IN	fashion
+original	Saudi Arabia	مكتبة الجزيرة	jazeara.com	IN	sporting_toys_books
+original	Qatar	JETOUR QATAR	jetourqatar.com	OUT	non_retail
+original	Saudi Arabia	Juffali Commercial Vehicles	jipco.com.sa	OUT	non_retail
+original	Saudi Arabia	J:OIL | جي اويل	joil.com.sa	OUT	non_retail
+original	Saudi Arabia	Juffali Technical Equipment Company	jteco-online.com.sa	OUT	building_materials_b2b
+original	Qatar	Video Home & Electronic Centre	jumboqatar.com	OUT	non_retail
+original	Saudi Arabia	Kafak International Company	kafak.net	IN	fashion

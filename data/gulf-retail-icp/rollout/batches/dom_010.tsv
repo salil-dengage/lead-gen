@@ -1,0 +1,19 @@
+source	country	name	domain	prior_verdict	prior_category
+original	Qatar	Auto Z Automotive Group W.L.L.	autozqa.com	OUT	non_retail
+original	Saudi Arabia	Awad Badi Nahas Trading Co. Ltd.	awadnahas.com	OUT	non_retail
+original	Saudi Arabia	بلاك نايت Black Knight	b-k.coffee	IN	grocery
+original	Saudi Arabia	Baazeem Trading Company	baazeem.com	IN	grocery
+original	Saudi Arabia	baba khabbaz  بابا خباز	babakhabaz.com	IN	grocery
+held_review	Saudi Arabia	Salem Saleh Babgi Co. Ltd.	babgi.com.sa	OUT	diversified_trading
+original	Kuwait	Al Babtain Group	babtain.com	OUT	non_retail
+original	Saudi Arabia	باك كمفورت - Backcomfort	backcomfort.com.sa	IN	ecommerce
+original	Kuwait	Baix Bakery	baixbakery.com	IN	grocery
+original	Qatar	BaladiMart	baladiexpress.com	IN	grocery
+original	Qatar	Al Baladi Holding	baladiholding.com	IN	grocery
+original	Saudi Arabia	Balsam Medical Care	balsemcare.com	IN	health_beauty_pharmacy
+original	Saudi Arabia	Balsharaf Group	balsharaf.com.sa	IN	grocery
+original	Kuwait	Baqala	baqala.me	IN	grocery
+original	Saudi Arabia	Barakah	barakah.app	IN	grocery
+original	Saudi Arabia	Barns	barns.com.sa	IN	grocery
+original	Kuwait	Bartone Cafe & Restaurant	bartone-me.com	IN	grocery
+held_review	Saudi Arabia	Bastana International Company Ltd	bastana.net	OUT	diversified_trading

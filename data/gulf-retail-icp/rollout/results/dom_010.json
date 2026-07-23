@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Auto Z Automotive Group W.L.L.",
+    "domain": "autozqa.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive",
+    "qualification_path": "n/a",
+    "reason": "Live WordPress site confirms this is a used-car dealership/showroom in Doha, Qatar. Automotive dealers are an explicit Gate 2 hard fail regardless of how real or live the operation is.",
+    "evidence": "Homepage title: \"Get Best Used Car Deals With AutoZ | The Best Car Showroom in Qatar\"; meta description: \"AutoZ in 2017: the best used cars in Doha, Qatar\"; Organization schema confirms Qatar entity, social handles @AutoZqtr / autozqatar."
+  },
+  {
+    "name": "Awad Badi Nahas Trading Co. Ltd.",
+    "domain": "awadnahas.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "home_appliances",
+    "qualification_path": "substantiality",
+    "reason": "Despite the \"Trading Co.\" name, the live site is a genuine, substantial WooCommerce store selling high-end European home appliances (ovens, hobs, hoods, cookers, microwaves, coffee machines, dishwashers, laundry, refrigeration, small appliances) -- a broad multi-category assortment, not a narrow single product line. HQ confirmed Jeddah, Saudi Arabia, matching the row. Real cart/checkout and a 251-SKU catalog easily clear the substantiality floor.",
+    "evidence": "schema.org Organization/Place address: streetAddress \"9444 Sari Br Rd\", addressLocality \"Jeddah\", addressCountry \"SA\". /en/shop page: \"Showing 1-18 of 251 results\"; brand filters AEG/Baumatic/Liebherr/Miele/Smeg; real priced SKUs e.g. \"SMEG Coffee Machine Filter Holder Assy... SAR 57.50 (VAT Included)\", \"AEG Grand Chef Bundle - 90cm 5-Burner Freestanding Gas Cooker...\"; wc_add_to_cart_params configured with live ajax_url; 309 occurrences of \"woocommerce\" and 114 \"add-to-cart\" in page source. Flips prior_verdict OUT/non_retail to IN."
+  },
+  {
+    "name": "بلاك نايت Black Knight",
+    "domain": "b-k.coffee",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "grocery",
+    "qualification_path": "substantiality",
+    "reason": "Live Zid-platform (KSA e-commerce SaaS) online store selling specialty roasted coffee from multiple origins plus brewing equipment, filters, ceramics and gift boxes. Consumable, high-repeat-purchase F&B category with confirmed real transaction volume.",
+    "evidence": "/products page lists 20+ distinct SKUs (coffee origins x package sizes for Costa Rica/Ethiopia/Yemen/Brazil/Colombia/El Salvador/China/Saudi, plus mugs, filters, brewing gear, gift boxes); one SKU shows \"مباع 12093 مرة\" (sold 12,093 times); real SAR pricing with functioning add-to-cart. HQ confirmed Saudi Arabia (+966 phone; \"من أفضل محامص البن في السعودية\" = one of the best coffee roasters in Saudi Arabia). Matches prior IN/grocery."
+  },
+  {
+    "name": "Baazeem Trading Company",
+    "domain": "baazeem.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "wholesale_distribution",
+    "qualification_path": "n/a",
+    "reason": "Live site is a pure corporate/B2B brand-portfolio site for an FMCG distributor, listing 13 distributed food/consumer brands with an explicit \"distribution channels\" nav item and no shop, cart, or checkout anywhere on the domain. Wholesale/trading/distribution (B2B) is an explicit Gate 2 hard fail.",
+    "evidence": "Full link inventory of the site shows only corporate pages: about-us, brands-ar, careers-ar, chairman-ar, channel-ar (\"قنوات التوزيع\" = distribution channels), faq-ar, market-ar, partners-ar -- no shop/store/cart path exists. Page text lists distributed brand names (Tanay Tea, Rio Mare, Mouj, Yodo, Shera, Zamak, Fadfad, Mari, Merito, etc.), not a purchasable product catalog. Flips prior_verdict IN/grocery to OUT."
+  },
+  {
+    "name": "baba khabbaz  بابا خباز",
+    "domain": "babakhabaz.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "grocery",
+    "qualification_path": "substantiality",
+    "reason": "schema.org Restaurant markup confirms a genuine multi-branch bakery-restaurant chain in Saudi Arabia with live online ordering and a large, diverse menu. Bread/bakery/pastry items are consumable, high-frequency purchases.",
+    "evidence": "JSON-LD \"@type\":\"Restaurant\", addressCountry \"SA\", currenciesAccepted \"SAR\", \"hasMenu\" plus \"potentialAction\":\"OrderAction\" targeting /menu (ordering system via tryordersystem.com). /menu page lists 16+ branch names (فرع الفيصلية، فرع النهضة، فرع الزهور، فرع النرجس...) and 60+ distinct product names spanning manakish, Napoli pizzas, salads, sandwiches, cakes and sweets. Matches prior IN/grocery."
+  },
+  {
+    "name": "Salem Saleh Babgi Co. Ltd.",
+    "domain": "babgi.com.sa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "diversified_conglomerate",
+    "qualification_path": "n/a",
+    "reason": "Live site is the corporate group page for a diversified conglomerate founded in 1980, with named divisions Toyota (auto dealership), Hotels, Manufacturing & Production, Construction, Restaurants & Markets, and Farms. No cart/checkout exists; automotive dealership and construction are explicit Gate 2 hard-fail categories, and the entity itself is a multi-sector holding group rather than a single qualifying retail business.",
+    "evidence": "Site navigation: \"تويوتا الفنادق التصنيع والإنتاج مدينة البناء المطاعم والأسواق المزارع\" (Toyota, Hotels, Manufacturing & Production, Construction City, Restaurants & Markets, Farms); \"مجموعة بابقي التي يرأسها الشيخ سالم صالح بابقي، تأسست عام 1980\" (Babgi Group, headed by Sheikh Salem Saleh Babgi, founded 1980). Confirms prior held_review OUT/diversified_trading."
+  },
+  {
+    "name": "Al Babtain Group",
+    "domain": "babtain.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "diversified_conglomerate",
+    "qualification_path": "n/a",
+    "reason": "Al Babtain Group is a large Kuwait-HQ'd conglomerate whose core historic business and largest division is automotive distribution (Infiniti, Nissan, Renault dealerships), alongside IT, investment, real estate, finance, and industrial divisions. Automotive dealer/distributor is an explicit Gate 2 hard fail regardless of the group's other, larger scale.",
+    "evidence": "Direct site fetch was blocked (TLS connection reset on every attempt, including retries and HTTP/1.1 fallback). WebSearch corroboration: \"Al Babtain Group is a conglomerate organization... headquartered in Kuwait... Business Sectors: Automotive, Information Technology, Investment, Real Estate, Finance and Industrial... automotive division features brands like Infiniti, Nissan, and Renault.\" Matches prior OUT/non_retail."
+  },
+  {
+    "name": "باك كمفورت - Backcomfort",
+    "domain": "backcomfort.com.sa",
+    "verdict": "OUT",
+    "gate_failed": "narrow_repeat_purchase",
+    "category_final": "home_furniture_narrow",
+    "qualification_path": "n/a",
+    "reason": "Confirmed live, functioning e-commerce site (Magento-style, real add-to-cart), but the entire catalog is confined to one narrow wellness-seating/sleep niche: massage chairs, office chairs, recliner chairs, and sleep products only, with no broader home-goods range. Like the confirmed-fail patterns for lighting-only, flooring-only, and tires/batteries-only stores, these are big-ticket items bought once every several years, unable to sustain the repeat customer engagement a CDP platform needs.",
+    "evidence": "Category strings found on the live site: \"Massage Chairs\", \"Office Chair\"/\"Office Chairs\", \"Recliner Chairs\", \"Reclining Products\", \"SLEEP PRODUCTS\" -- no other furniture/home-goods categories present. Real cart infrastructure confirmed (\"Item Added To Cart succssfully\", \"Compare Products\", \"View and Edit My Cart\", \"Shopping by Brands\"), but the assortment itself is a narrow specialty niche. Flips prior_verdict IN/ecommerce to OUT."
+  },
+  {
+    "name": "Baix Bakery",
+    "domain": "baixbakery.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "grocery",
+    "qualification_path": "substantiality",
+    "reason": "Real Kuwait-based bakery-cafe chain (The Baker Boys Company) with three branches, offering breads, pastries, flatbreads, fatayer, cakes and coffee, plus its own dedicated online ordering platform in addition to third-party delivery. Direct fetch of the main domain was blocked by bot protection on every attempt; verdict rests on strong corroborating evidence rather than direct SKU count.",
+    "evidence": "WebSearch: \"The Baker Boys Company is a Kuwait-based culinary enterprise... opened its first Baix Bakery branch in 2018... operates three Baix Bakery branches\"; dedicated ordering subdomain order.baixbakery.com returns HTTP 200 (live JS ordering app, separate from the marketing site); Talabat listing with 1,000+ ratings at 4.7; Deliveroo listings (Sharq, Al Khiran Mall); Entrepreneur.com feature on co-founder Abdullah AlWatayan. Matches prior IN/grocery."
+  },
+  {
+    "name": "BaladiMart",
+    "domain": "baladiexpress.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "grocery",
+    "qualification_path": "substantiality",
+    "reason": "Confirmed live online grocery and food delivery platform for Qatar, operated by Al Baladi Holding (HQ Doha, Qatar), with over 150,000 products and native iOS/Android apps. Direct curl access was blocked (connection reset on every attempt); verified instead through multiple independent sources including a dedicated launch news article.",
+    "evidence": "iloveqatar.net: \"Online shopping platform 'Baladi Express' launched with over 150,000 products\"; live App Store/Google Play listings (\"BaladiMart: Grocery\", \"BaladiExpress: Grocery & Food\"); WebSearch snippet of the official site itself: \"Shop Fresh Groceries Online - BaladiExpress... 24/7 delivery across Qatar... Apple Pay and Google Pay.\" Matches prior IN/grocery."
+  },
+  {
+    "name": "Al Baladi Holding",
+    "domain": "baladiholding.com",
+    "verdict": "OUT",
+    "gate_failed": "digital_channel",
+    "category_final": "diversified_holding",
+    "qualification_path": "n/a",
+    "reason": "This domain is the parent holding company's corporate/portfolio website (Home, About Us, Company Profile, Companies pages only), distinct from its retail operating brand BaladiMart/Baladi Express (separately captured and verified IN as baladiexpress.com in this same batch). The holding entity's own site has no cart or checkout; its 30+ company portfolio spans hotels/hospitality and limousine transport (non-qualifying) alongside hypermarkets, supermarkets, department stores, bakeries and restaurants (qualifying) -- but no live transactional storefront exists on baladiholding.com itself, so it fails on digital channel rather than an unambiguous category call.",
+    "evidence": "WebSearch of baladiholding.com pages returns only: \"Home | Al Baladi Holding\", \"Company Profile | Al Baladi Holding\", \"About Us | Al Baladi Holding\", \"Companies | Al Baladi Holding\". Description: \"portfolio includes more than 30 leading companies, including Al Baladi and Al Baladi Express Markets, Al Wajba Dairy and Juice Factory, City Limousine Company...\"; founded 1979, HQ Doha. Flips prior_verdict IN/grocery to OUT (the operating retail brand itself, baladiexpress.com, remains IN as a separate row)."
+  },
+  {
+    "name": "Balsam Medical Care",
+    "domain": "balsemcare.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "healthcare_clinic",
+    "qualification_path": "n/a",
+    "reason": "Balsam Medical is a Saudi hospital/medical-complex/clinic group covering general medicine, family medicine, pediatrics, OB/GYN, dentistry, ophthalmology, dermatology and orthopedics, with pharmacy only one part of a hospital-led portfolio rather than a standalone retail pharmacy chain. Healthcare/clinics/hospitals is an explicit Gate 2 hard fail (only retail pharmacy chains pass). The live domain itself is also a login-gated internal portal, not a public storefront.",
+    "evidence": "balsemcare.com resolves to a password-protected \"Care system\" login page (\"تسجيل الدخول\"), no public catalog of any kind. WebSearch: \"Balsam Medical combines hospitals, medical complexes, and pharmacies...\"; \"Balsam Medical Clinics... provides a wide range of high-quality medical services... general medicine, family medicine, pediatrics, obstetrics and gynecology, dentistry, ophthalmology, dermatology and cosmetic medicine, orthopedics.\" Flips prior_verdict IN/health_beauty_pharmacy to OUT."
+  },
+  {
+    "name": "Balsharaf Group",
+    "domain": "balsharaf.com.sa",
+    "verdict": "OUT",
+    "gate_failed": "digital_channel",
+    "category_final": "fmcg_distribution",
+    "qualification_path": "n/a",
+    "reason": "Balsharaf is a genuine large FMCG manufacturer/distributor/retailer (chain of food stores in Riyadh since 1955, distribution to 16,000 retail outlets, manufacturing in KSA/Egypt/India), but balsharaf.com.sa itself is a static single-page corporate profile (About/Founder/Leaders/Businesses/Products/Retail/Media/Contact/Portal tabs) with product images filed under a \"distribution\" showcase and a B2B \"/portal\" link, not a consumer cart or checkout. No transactional online store was found anywhere on this domain.",
+    "evidence": "Homepage text: \"Balsharaf Group is a diversified concern operating in four related and mutually supporting areas: Retailing, Distribution, Production, and Logistics... a chain of food stores in the Riyadh area, distribution to 16,000 retail outlets...\". Link inventory shows only images/distribution/products/*/001.png galleries (31 numbered folders) and a /portal link -- no cart/checkout/add-to-cart strings found anywhere on the page. Flips prior_verdict IN/grocery to OUT."
+  },
+  {
+    "name": "Baqala",
+    "domain": "baqala.me",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "grocery",
+    "qualification_path": "substantiality",
+    "reason": "Confirmed live Kuwait-based online grocery/convenience delivery service, a brand of Bodega Grocery Co. W.L.L. (est. 2012, explicitly modeled on converting the 7-Eleven concept to the Kuwaiti market), with 24-hour delivery and its own Google Play app. Direct curl access was blocked (connection reset on every attempt); corroborated via WebSearch showing the live domain itself indexed with a matching description.",
+    "evidence": "WebSearch result directly for the domain: \"Baqala | Online Grocery Shopping Store in Kuwait - 2hrs Delivery\"; \"Baqala is a brand by Bodega Grocery Co. W.L.L., established in April 2012... concept of converting the American 7-eleven concept to the Kuwaiti market\"; Google Play listing \"com.getbaqala.retail\". Matches prior IN/grocery."
+  },
+  {
+    "name": "Barakah",
+    "domain": "barakah.app",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "food_marketplace_app",
+    "qualification_path": "app_download_rescue",
+    "reason": "Barakah is a Saudi surplus-food marketplace app (restaurants/cafes/bakeries/grocery stores list unsold food at 50-70% off; partners include Starbucks, Tim Hortons, Cinnabon; live in Jeddah, Riyadh, Dammam, Khobar, Mecca and Medina). As a cross-merchant marketplace rather than a single retailer, it does not cleanly fit a standard retail category, but its Google Play listing is independently confirmed at 1M+ downloads, far above the 50,000-download rescue threshold, so it qualifies regardless of category/narrow/digital-channel/scale gates. Saudi HQ (geography) independently confirmed.",
+    "evidence": "Google Play page for com.barakahapp shows \"1M+\" directly under the \"Downloads\" label. WebSearch: \"Barakah, KSA's food delivery startup...\"; \"saved 350,000 meals from wastage in renowned global stores such as Starbucks, Tim Hortons, and Cinnabon over 15 months\"; operates across six named Saudi cities. Matches prior IN/grocery verdict, though qualification basis is reclassified to app_download_rescue given the true cross-merchant marketplace model."
+  },
+  {
+    "name": "Barns",
+    "domain": "barns.com.sa",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "grocery",
+    "qualification_path": "substantiality",
+    "reason": "\"Barn's is the first contemporary, yet fully home-grown, specialty coffee brand in Saudi Arabia\", with a confirmed live e-commerce store: individual product pages, working add-to-cart, and extensive checkout infrastructure. Consumable, high-repeat-purchase F&B category.",
+    "evidence": "Meta description: \"Barn's is the first contemporary, yet fully home-grown, specialty coffee brand in Saudi Arabia\". Live product URLs found: \"/en/store/product/Roasted-coffee-beans-250g\" and an Arabic-named espresso-capsules product page. Homepage source contains \"Add to cart\" x3, \"cart\" x57, \"checkout\" x124, \"product\" x78 -- consistent with a real, in-use e-commerce theme rather than boilerplate. Matches prior IN/grocery."
+  },
+  {
+    "name": "Bartone Cafe & Restaurant",
+    "domain": "bartone-me.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "grocery",
+    "qualification_path": "substantiality",
+    "reason": "Confirmed real, registered Kuwait company (Bartone Cafe and Restaurant Co WLL, Kuwait City East, Al Asimah; industry listed as \"Specialty Food Retailers\") operating a live WooCommerce ordering site with genuinely functional add-to-cart configuration and a broad 14-category menu across multiple 24-hour locations.",
+    "evidence": "Business directory record: \"BARTONE CAFE AND RESTAURANT CO WLL... Kuwait City East, Al Asimah... Industry: Specialty Food Retailers\". Site menu confirmed live with 14 categories (Babka, Brunch, Drinks, Matcha, Well+, Acai, Iced Tea, Salads, Sandwiches, Grab & Go, Bakery, Soft Serve, Sweets, Juice) and \"SERVING YOU DAILY 24H\" multiple locations. WooCommerce wc_add_to_cart_params populated with a real ajax_url and \"/cart/\" redirect target, confirming a functioning (not leftover-boilerplate) checkout. Matches prior IN/grocery."
+  },
+  {
+    "name": "Bastana International Company Ltd",
+    "domain": "bastana.net",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "landscaping_contracting",
+    "qualification_path": "n/a",
+    "reason": "Bastana is fundamentally a landscaping/garden design-build-maintain contractor for government and private-sector projects in Saudi Arabia (45+ private projects, 6M+ sqm maintained, government classification since 2013) -- a B2B contracting/services business, an explicit Gate 2 hard fail. It does run a small ancillary online plant nursery claiming 250+ products, but this is a minor secondary offering under the same domain that does not redefine the primary identity of the landscaping contractor.",
+    "evidence": "Homepage text: \"خدماتنا: تصميم إنشاء صيانة وتشغيل تطوير الحدائق تنسيق داخلي إدارة المرافق تشجير المناطق المفتوحة\" (Services: design, construction, maintenance & operation, garden development, interior design, facility management, landscaping of open areas); \"المشاريع الحكوميه... منذ عام 2013م\" (government projects since 2013); \"45 مشروع\" (45 private-sector projects). Secondary note: \"متجر حدائق بستنه الالكتروني... يمتلك ما يزيد عن 250 منتج\" (Bastana's electronic garden store has over 250 products) -- present but subordinate to the core contracting identity. Confirms prior held_review OUT/diversified_trading."
+  }
+]
