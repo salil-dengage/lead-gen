@@ -26,7 +26,7 @@ batch). Nothing waits for its own batch's next email date.
 | Lead | Account / geo | Batch | Last LinkedIn touch | Next due | State |
 |---|---|---|---|---|---|
 | Ashraf Elsaghir | NBE, Egypt | b1 | Msg 2 sent 2026-07-20 | Msg 3 · 2026-07-23 (Thu) | Silent, no reply |
-| Enrique Cuentas | CIB, Egypt | b1 | Msg 2 sent 2026-07-20 | Msg 3 · 2026-07-23 (Thu) | Silent, no reply. [CONFIRM: did he reply on LinkedIn? If yes, stop and mark Replied.] |
+| Enrique Cuentas | CIB, Egypt | b1 | Msg 2 sent 2026-07-20 | Msg 3 · 2026-07-23 (Thu) | Silent. HOLD Msg 3 on the 07-23 run until Salil confirms NO LinkedIn reply; if he replied, STOP cadence and mark Replied. |
 | Mohamed Hamdy | Banque Misr, Egypt | b2 | Msg 2 sent 2026-07-20 | Msg 3 · 2026-07-23 (Thu) | Silent, no reply |
 | Moayad Aldawood | Bank Albilad, KSA | b2 | Msg 2 (v1.2) sent 2026-07-22 | Msg 3 · 2026-07-27 (Mon) | Silent |
 | Bahaa Farouk | Suez Canal Bank, Egypt | b3 | Msg 2 (v1.2) sent 2026-07-22 | Msg 3 · 2026-07-27 (Mon) | Silent |
@@ -45,7 +45,7 @@ Ashraf, Mohamed Hamdy, Sridhar, who got Message 1 on Day 0 without an accept ste
   by name against every pending CR list below. ONE new acceptance matching a pending CR:
   **Dr. Ahmed Taqi (BBK, b5), connected 2026-07-20** (role "Chief Retail Banking Officer, Bank of
   Bahrain and Kuwait" confirmed current by the screenshot). His LinkedIn Msg 1 is now due/overdue and
-  will be generated in the batch-05 LinkedIn leg (cross-batch sweep). None of batch-01/02/03/04/06's
+  must be swept on the NEXT reminder run (Thu 2026-07-23), not deferred to the 07-27 batch-05 leg (cross-batch sweep rule: any overdue LinkedIn touch goes on the next run that fires). None of batch-01/02/03/04/06's
   pending CRs appeared as newly accepted. Specifically, none of batch-04's six pending CRs (Amgad,
   Mohammad Alomani, Said, Nawaf, Ali, Marian) accepted, so batch-04 has no new Msg 1.
 
@@ -71,8 +71,8 @@ When Salil reports an acceptance, Message 1 is generated then and the lead moves
   Luciano Di Pietro (KFH), Abdullah Al-Tuwaijri (Boubyan), Constantinos Constantinides (QIB),
   Eiman Al-Naemi (CBQ, https://www.linkedin.com/in/eiman-al-naemi/), Karim Morcos (Banque du Caire).
   ACCEPTED (per 2026-07-22 screenshots): Ahmed Taqi (BBK,
-  https://www.linkedin.com/in/dr-ahmed-taqi-89aba215/), connected 2026-07-20 -> LinkedIn Msg 1 DUE,
-  to be generated in the batch-05 LinkedIn leg.
+  https://www.linkedin.com/in/dr-ahmed-taqi-89aba215/), connected 2026-07-20 -> LinkedIn Msg 1
+  DUE/OVERDUE, sweep on the next reminder run (Thu 2026-07-23).
   Email-only, no LinkedIn located: Sharif Rafei (NBF).
   OAB: Anuj Madan SUPPRESSED (left the bank). REPLACED by Ziad Alshami (Head of CRM & Data Analytics,
   OAB, https://www.linkedin.com/in/ziad-alshami-57a21a14, verified email, current since 2021).
