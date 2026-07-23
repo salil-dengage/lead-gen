@@ -32,9 +32,46 @@ hypermarket / convenience / F&B / QSR; electronics / appliances / home / furnitu
 merchandise (incl. toys, books/stationery, pet supplies).
 
 **Hard-excluded regardless of how real or well-built the operation is**:
-- Wholesale / B2B trading / distribution (a business that explicitly supplies other retailers, a
-  "sole distributor," or a hybrid "we serve consumers and businesses" model — the B2B side alone
-  disqualifies, even if a genuine B2C arm exists somewhere in the same company).
+- Wholesale / B2B trading / distribution **as the primary or only consumer-facing identity** — a
+  business whose own storefront/domain is genuinely B2B (trade pricing, corporate-account language,
+  "no product catalog, pricing or cart" for individuals) with no substantial retail arm of its own.
+  **This does NOT mean any company that also happens to hold distribution/wholesale/manufacturing
+  rights automatically fails.** Being "the sole distributor of X" or "a manufacturer" is a fact
+  about one line of the business, not a verdict by itself — check whether the company **also** runs
+  a genuinely substantial, dedicated consumer retail operation (its own stores and/or its own
+  branded e-commerce, evaluated the same way any other retailer would be: Gates 3-5) alongside the
+  B2B/manufacturing line. If it does, the account passes on the retail arm's own merits — the
+  B2B/manufacturing side is simply a separate fact about the company, exactly like Gate 6 already
+  treats a mixed conglomerate's non-retail divisions as not disqualifying the retail-qualifying
+  subsidiary.
+  - **Confirmed PASS on this exact pattern** (large retail footprint that happens to coexist with
+    wholesale/manufacturing/distribution): Lazurde (world's 4th-largest gold manufacturer, ~80% of
+    revenue wholesale, but ALSO 70 retail stores + 4 branded consumer e-commerce lines); Union
+    Trading Co. (distributes 100+ brands, but ALSO Kuwait's own 17-outlet department-store chain
+    since 1949); Al Andalus Trading Establishment (sole Samsung/Hisense distributor in Kuwait, but
+    ALSO 7 showrooms including its flagship "Centro" super-store plus live e-commerce); Petzone
+    (runs a ~1,000-account wholesale network, but ALSO 14 stores + 30 outlets, the largest pet chain
+    in the Middle East); Aljazierah Home Appliances (9 factories, but ALSO 31 showrooms across the
+    Kingdom plus a dedicated 64-person e-commerce team); Seventh Dimension/ASTORE (distribution plus
+    business-solutions arm, but ALSO 9 dedicated ASTORE retail locations); Fakeeh Vision ("largest
+    wholesaler and retailer chain in KSA" — opticians is an approved category and the retail chain
+    itself is real and multi-location); Go Fresh (self-describes serving "retail, B2B, and
+    e-commerce," but its D2C grocery-delivery app/site is itself a real, substantial consumer
+    business, not a token add-on); Algarawi Group (exclusive brand-agent/distribution model for
+    Tommy Hilfiger etc., but ALSO four decades of dominant, well-documented retail identity
+    including its own flagship "Algarawi Gallery" retail destination).
+  - **Confirmed FAIL, correctly excluded even under this corrected reading**: Alireza Holding
+    (explicitly a brand-agency/import business — "no product catalog, pricing or cart," no retail
+    arm of its own to evaluate); Saudi Radwa Food Company (an industrial-scale poultry producer,
+    ~85% of Saudi market reached via *other* retailers' shelves plus food-service, with only a minor
+    D2C home-delivery add-on — no dedicated Radwa-branded store network of its own); any case where
+    the B2B and B2C activity are so intertwined on the *same* storefront/brand that a genuinely
+    separate, dedicated retail operation can't be identified (evaluate case-by-case; default
+    conservative per Gate 7 if genuinely unclear).
+  - **The test, in one line**: does this company run its OWN dedicated, substantial consumer retail
+    operation (stores and/or branded e-commerce) that you could evaluate as a standalone retailer if
+    the B2B/manufacturing side didn't exist? If yes, pass on that basis. If the only "retail" is a
+    thin storefront bolted onto an otherwise B2B/industrial business, fail.
 - Manufacturing / industrial / factories.
 - Construction materials / hardware / contracting (sanitary ware, ceramics, tiles, cement, timber,
   electrical fittings **for construction**, kitchen/cabinetry sold via project/installation model).
@@ -142,6 +179,20 @@ consistently re-applied during the recent re-verification pass, still valid as s
 
 ## Changelog vs. the 2026-07-23 morning "locked" version
 
+- **2026-07-23, later same day — Gate 2 hybrid-B2B/B2C clause corrected (user-caught error).**
+  The clause was being applied too bluntly: "the B2B side alone disqualifies" was read as "any
+  wholesale/distribution/manufacturing revenue anywhere in the company is disqualifying," which
+  wrongly excluded large, genuinely substantial retailers that happen to also hold distribution or
+  manufacturing lines (caught via Lazurde: a huge, real, 70-store/4-brand consumer jewelry retailer
+  wrongly failed because it is *also* the world's 4th-largest gold manufacturer). Corrected to: only
+  exclude when the company has no substantial dedicated retail arm of its own (a thin storefront
+  bolted onto an otherwise-B2B business); a company that runs a genuinely large retail operation
+  passes on that operation's own merits regardless of a coexisting B2B/manufacturing line, exactly
+  as Gate 6 already treats a mixed conglomerate's non-retail divisions. Re-swept every account
+  excluded on hybrid-B2B/distributor grounds during the same day's cross-verification pass (18
+  candidates) and flipped 9 confirmed misses: Lazurde, Union Trading Co., Petzone, Go Fresh, Al
+  Andalus Trading Establishment, Aljazierah Home Appliances, Seventh Dimension Company, Fakeeh
+  Vision, Algarawi Group. See Section 2 (Gate 2) for the corrected clause and worked examples.
 - **Traffic floor (was hard filter #4, "50k+ monthly visits via Cloudflare Radar/CrUX"): dropped.**
   Empirically tested and confirmed unusable — Cloudflare Radar returns no ranking signal at all
   below roughly the top-200,000 global domains, which doesn't distinguish real qualifying
