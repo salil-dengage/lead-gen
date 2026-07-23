@@ -109,7 +109,16 @@ each batch's files.
 ## Reminder ("routine") naming
 
 Reminders are named **`Outreach · batch-0N · touch-0M · <weekday date>`** so both Salil and Claude
-can read the schedule at a glance. Current live schedule:
+can read the schedule at a glance.
+
+> NOTE (2026-07-22): Salil deleted ALL live routines for a clean re-create. The table below is the
+> AUTHORITATIVE schedule to re-create as live reminders (option (a): b1 t3 and b3 t3 both on Sun 07-26,
+> per Salil). Live re-creation is PENDING the Claude_Code_Remote server, the create_trigger tool is
+> currently unavailable. Until the reminders exist, each date's run must be kicked off manually. Each
+> reminder runs BOTH legs: its batch's email touch AND the cross-batch LinkedIn sweep (every LinkedIn
+> touch due or overdue that day, across ALL batches, keyed to accept dates).
+
+Authoritative schedule to re-create:
 
 | Reminder | Fires |
 |---|---|
