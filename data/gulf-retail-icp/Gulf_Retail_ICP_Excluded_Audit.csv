@@ -1,0 +1,369 @@
+﻿Source pass,Country,Account Name,Domain,Category,Exclusion reason
+HELD-review,Saudi Arabia,Al Sadaf Trading Co. | شركة السدف للتجارة,,fashion,No domain; cannot verify DTC digital presence or scale.
+HELD-review,Saudi Arabia,Almajal Alarabi Holding,almajalholding.com.sa,diversified_trading,"Confirmed: construction/contracting/facility-management conglomerate, not consumer retail (web-verified)."
+HELD-review,Qatar,Almana Group,almanagroup.com,fashion,"Duplicate of Al Mana (same Qatar group, different domain/name variant)."
+HELD-review,Qatar,Al Shaheen Est,alshaheenest.com,diversified_trading,General trading entity; no confirmed consumer-retail storefront.
+HELD-review,Qatar,Marzooq S. Al Shamlan Holding,alshamlanholding.com,diversified_trading,General holding; no confirmed consumer-retail storefront.
+HELD-review,Qatar,ALSIDDIQI HOLDING,alsiddiqiholding.com,diversified_trading,General holding; no confirmed consumer-retail storefront.
+HELD-review,Saudi Arabia,Alsourayia Trading Co.,alsourayia.com,diversified_trading,General trading; no confirmed consumer-retail storefront.
+HELD-review,Saudi Arabia,السلطان | AlSultan,alsultan-ksa.com,retail_general,No identifiable retail signal beyond a generic brand name.
+HELD-review,Kuwait,Al Wazzan Group of Companies,alwazzangrp.com,diversified_trading,General trading group; no confirmed consumer-retail storefront.
+HELD-review,Kuwait,Alwazzan United Trading company,alwazzanunited.com,diversified_trading,General trading; no confirmed consumer-retail storefront.
+HELD-review,Saudi Arabia,شركة اليحيا Alyahya Company,alyahya.com,diversified_trading,General trading; no confirmed consumer-retail storefront.
+HELD-review,Saudi Arabia,AlYemni Group - مجموعة اليمني,alyemnigroup.com,diversified_trading,General trading/catering group; no confirmed consumer-retail storefront.
+HELD-review,Qatar,Ansar Group of Companies,ansar-group.com,diversified_trading,General trading; no confirmed consumer-retail storefront.
+HELD-review,Saudi Arabia,شركة عثمان الزامل واخوانه,arzamil.com,diversified_trading,General trading; no confirmed consumer-retail storefront.
+HELD-review,Qatar,Asklan Trading & Agriculture W.L.L,asklan.net,diversified_trading,Trading/agriculture; not consumer retail.
+HELD-review,Saudi Arabia,ATHR Gallery,athrart.com,art_gallery,Art gallery; outside the approved consumer-retail categories.
+HELD-review,Saudi Arabia,Salem Saleh Babgi Co. Ltd.,babgi.com.sa,diversified_trading,General trading; no confirmed consumer-retail storefront.
+HELD-review,Saudi Arabia,Bastana International Company Ltd,bastana.net,diversified_trading,General trading; no confirmed consumer-retail storefront.
+HELD-review,Saudi Arabia,Bayt Alebaa - بيت الإباء,baytalebaa.com,home_improvement,"Weak/no consumer-retail signal; likely home-goods trade, unconfirmed."
+HELD-review,Kuwait,BGB Holding,bgbholding.co,diversified_trading,General holding; no confirmed consumer-retail storefront.
+HELD-review,Qatar,Bradma Group,bradmagroup.com.qa,diversified_trading,Building-materials/industrial trading (Qatar); not consumer retail.
+HELD-review,Saudi Arabia,Build Station LLC,build-station.com,home_improvement,Hardware/DIY building materials; out of approved category scope.
+HELD-review,Kuwait,Chayah Group,chayahgroup.com,diversified_trading,General trading; no confirmed consumer-retail storefront.
+HELD-review,Saudi Arabia,Circle K Alsulaiman,circlek.com.sa,grocery,Duplicate: same operator as Alsulaiman Group (kept as one consolidated account).
+HELD-review,Saudi Arabia,wholefoodmarket,cmcjuly2022.in,grocery,"Domain resolves to an unrelated/mismatched (.in, India) record; data-quality artifact."
+HELD-review,Kuwait,Concept Combined Group,concept-kw.com,diversified_trading,General trading; no confirmed consumer-retail storefront.
+HELD-review,Qatar,CREDO TRADING,credo-trading.com,diversified_trading,General trading; no confirmed consumer-retail storefront.
+HELD-review,Saudi Arabia,Decorella Panits EST,,diversified_trading,No domain; cannot verify.
+HELD-review,Qatar,Doha Oasis,dohaoasis.com,food_service_qsr,Mixed-use real-estate development (hosts Printemps Doha); not itself a retailer.
+HELD-review,Kuwait,Drops,dropsgroup.com,retail_general,No identifiable retail signal from name/domain.
+HELD-review,Qatar,Eastern Gate,easterngate.online,home_improvement,No identifiable consumer-retail signal.
+HELD-review,Saudi Arabia,EBEL ابل,,home_improvement,No domain; cannot verify.
+HELD-review,Saudi Arabia,EMAAR ALWATAN,emac.sa,home_improvement,Building-materials naming pattern; not consumer retail.
+HELD-review,Kuwait,Eurocom,eurocomonline.net,retail_general,No identifiable consumer-retail signal.
+HELD-review,Saudi Arabia,FL Development,fl.sa,unknown_naics,"""Development"" naming indicates real-estate/property, not retail."
+HELD-review,Qatar,Flora Group W.L.L,floragroup.net,diversified_trading,Florist/gift trading; out of approved category scope.
+HELD-review,Saudi Arabia,Hussein Bakry Gazzaz & Co,gazzaz.com.sa,diversified_trading,General trading; no confirmed consumer-retail storefront.
+HELD-review,Qatar,Ghasham International RP Tech,ghasham.com,retail_general,"""RP Tech"" naming indicates IT/tech reseller, not consumer retail."
+HELD-review,Saudi Arabia,United Yousef M Naghi Co. Ltd,google.com,diversified_trading,General trading; dirty Website field (google.com); no confirmed storefront.
+HELD-review,Saudi Arabia,C1,groupc1.com,unknown_naics,No identifiable retail signal; name too generic.
+HELD-review,Kuwait,GULF STREAM,gulfstreamkw.com,home_improvement,No identifiable consumer-retail signal.
+HELD-review,Saudi Arabia,HATCON,hatcon.com,home_improvement,Naming pattern indicates construction/contracting.
+HELD-review,Qatar,Hilti Qatar,hilti.com.qa,home_improvement,Hilti is a Liechtenstein-HQ'd B2B industrial-tools company; not consumer retail.
+HELD-review,Qatar,Hyatt Plaza Shopping Mall,hyattplaza.com,retail_general,"Mall/real-estate operator, not itself a retail company."
+HELD-review,Saudi Arabia,IKEA Alsulaiman,,franchise,Duplicate: same operator as Alsulaiman Group (kept as one consolidated account).
+HELD-review,Qatar,INTERTEC GROUP W.L.L.,intertecqatar.com,diversified_trading,General trading; no confirmed consumer-retail storefront.
+HELD-review,Qatar,Logic Group of Companies,logicgrp.com,diversified_trading,No identifiable consumer-retail signal.
+HELD-review,Qatar,LULU RAYYAN GROUP W.L.L,lulurayyan.com,diversified_trading,"Confirmed: local entity of LuLu Group International, HQ'd in the UAE; excluded per foreign-HQ operator rule (consistent with Carrefour/Nesto/Spinneys)."
+HELD-review,Saudi Arabia,Musaed Mohammed Bin Ajlan Co,malajlanstore.com,diversified_trading,"Confirmed in the earlier pilot: plumbing/electrical/sanitary building-materials trader, not consumer retail."
+HELD-review,Saudi Arabia,مكارم -Makarem,malnokhba.com,home_improvement,No identifiable consumer-retail signal.
+HELD-review,Qatar,Merch and Partners Co WLL,merch.com.qa,diversified_trading,General trading; no confirmed consumer-retail storefront.
+HELD-review,Saudi Arabia,Meshkati Trading Company,meshkati.sa,diversified_trading,General trading; no confirmed consumer-retail storefront.
+HELD-review,Saudi Arabia,Mimar,mimar.com.sa,home_improvement,No identifiable consumer-retail signal; naming suggests design/architecture.
+HELD-review,Saudi Arabia,شركة تقنيات الزراعة الحديثة,modernagritec.com,home_improvement,Agricultural technology; not consumer retail.
+HELD-review,Kuwait,Meshaal Al Shatti and Partner General Trading,mssandp.com,diversified_trading,General trading; no confirmed consumer-retail storefront.
+HELD-review,Qatar,Nabina Group مجموعة نابينا,,diversified_trading,Ceramics/building-materials trading (Qatar); not consumer retail.
+HELD-review,Qatar,Nasir Bin Abdullah & Sons,nas-goc.com,diversified_trading,General trading conglomerate; no confirmed consumer-retail storefront.
+HELD-review,Kuwait,Nasco Group,nasco-trading.com,diversified_trading,General trading; no confirmed consumer-retail storefront.
+HELD-review,Saudi Arabia,نسمو | Nasmo,nasmoltd.com,home_improvement,No identifiable consumer-retail signal.
+HELD-review,Saudi Arabia,National Building and Marketing Company,nbm.com.sa,diversified_trading,Building-materials naming pattern; not consumer retail.
+HELD-review,Qatar,Printemps Doha,printemps.com,general_merch_dept,"Confirmed: operated directly by Groupe Printemps, global HQ Paris, France (Qatari-owned investment fund, but not Qatar-HQ'd); excluded per HQ rule."
+HELD-review,Saudi Arabia,RIS Group,ris.co,diversified_trading,General trading/services; no confirmed consumer-retail storefront.
+HELD-review,Saudi Arabia,SADANA TRADING CO,sadana.com.sa,diversified_trading,General trading; no confirmed consumer-retail storefront.
+HELD-review,Saudi Arabia,Saleh Al-Othaim Investment Co | شركة صالح عبدالله العثيم للاستثمار,sao.sa.com,diversified_trading,"Investment holding entity, distinct from the Al-Othaim Markets retail operating company already covered."
+HELD-review,Saudi Arabia,Savola Group,savola.com,grocery,FMCG manufacturer/holding; its retail arm (Panda) is already covered as a separate account.
+HELD-review,Saudi Arabia,SITACO Company,sitaco.com.sa,diversified_trading,General trading; no confirmed consumer-retail storefront.
+HELD-review,Saudi Arabia,Sondos,sondos.com,retail_general,No identifiable retail signal beyond a generic brand name.
+HELD-review,Saudi Arabia,Southwind Telecom,southwind.com.sa,retail_general,Telecom naming; consumer-retail storefront unconfirmed.
+HELD-review,Saudi Arabia,SPAR Saudi Arabia,spar.sa,grocery,Duplicate: operated by Al Sadhan Group (kept as one consolidated account under Al Sadhan).
+HELD-review,Qatar,TAQAT,taqat.qa,retail_general,"Name/sector suggests energy or staffing services, not consumer retail."
+HELD-review,Kuwait,Tawseel Media Group,tawseelgroup.com,diversified_trading,Media/logistics naming; not consumer retail.
+HELD-review,Qatar,The Blue Group - Qatar,thebluegroup.qa,diversified_trading,General trading; no confirmed consumer-retail storefront.
+HELD-review,Saudi Arabia,Toot Company,toot-t.com,diversified_trading,General trading/catering; no confirmed consumer-retail storefront.
+HELD-review,Saudi Arabia,TSC,,home_improvement,No domain; cannot verify.
+HELD-review,Saudi Arabia,ULTRA LIGHT | الترا لايت,ultralightstores.com,home_improvement,"Lighting/electrical trade naming; likely B2B, unconfirmed retail."
+HELD-review,Saudi Arabia,United Yousef Naghi Co. Ltd.,unitednaghi.com.sa,diversified_trading,Duplicate variant of United Yousef M Naghi.
+HELD-review,Qatar,United Retail Trading WLL,unitedretailholding.com,diversified_trading,General trading despite name; no confirmed consumer storefront.
+HELD-review,Saudi Arabia,تجارة بلا حدود -  unlimited trade,utradeksa.com,retail_general,No identifiable retail signal beyond a generic name.
+HELD-review,Saudi Arabia,Wadi Halfa,wadihalfa.sa,retail_general,No identifiable retail signal beyond a generic name.
+HELD-review,Saudi Arabia,مياه واڤ | WAV WATER,wav.sa,beverage_dtc,"Bottled-water FMCG producer/brand, not a retailer."
+HELD-review,Kuwait,Zain Tawseel,zaintawseel.com,retail_general,"Telecom-linked delivery/logistics service, not consumer retail."
+HELD-review,Saudi Arabia,ZODE_SA,zode.sa,retail_general,No identifiable retail signal beyond a generic brand name.
+HELD-review,Saudi Arabia,مجموعة شركات اليسر | Alyouser Group,,diversified_trading,No domain; cannot verify.
+Gap-sweep,,Mall of Qatar,,grocery,"Shopping-mall real-estate operator/landlord, not itself a retail company."
+Gap-sweep,,Modern Electronics Company,,electronics,"Duplicate of 'Modern Electronics - MEC (AL-Faisaliah Group)', already in the finalized 368 IN set."
+Gap-sweep,,homzmart,homzmart.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,Yallatoys.com,,sporting_hobby_books,"Duplicate of Yalla Toys (same company, kept as one account)."
+Gap-sweep,,Sameh Mall,,grocery,Egypt-oriented marketplace app; outside the KSA/Kuwait/Qatar scope.
+Gap-sweep,,LG Electronics,,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,Arabic Marketer Network LLC,http://www.ematajer.com/,agency_or_services,Non-retail category (agency_or_services).
+Gap-sweep,,ATK Services & Marketing,http://www.atktech.com/,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,Hp Store Ksa,https://www.hpstoreksa.com/,electronics,"HP-branded storefront; HP Inc. is a foreign-HQ'd (US) principal, not a distinct Saudi-HQ'd operating company."
+Gap-sweep,,Jamjoom Pharma,http://www.jamjoompharma.com/,healthcare_or_pharma_mfr,Non-retail category (healthcare_or_pharma_mfr).
+Gap-sweep,,Jazeera Pharmaceuticals Industries,http://www.jpi.com.sa/,healthcare_or_pharma_mfr,Non-retail category (healthcare_or_pharma_mfr).
+Gap-sweep,,Pharma Pharmaceutical Industries,http://www.pharma.com.sa/,healthcare_or_pharma_mfr,Non-retail category (healthcare_or_pharma_mfr).
+Gap-sweep,,Smartable,http://www.smartable.me/,unknown_naics,No confirmable retail identity from name/domain.
+Gap-sweep,,Saudi Pharmaceutical Industries,http://www.saudi-pharma.net/spi2/,healthcare_or_pharma_mfr,Non-retail category (healthcare_or_pharma_mfr).
+Gap-sweep,,Pharma Pharmaceutical Industry,http://www.pharma.com.sa/,healthcare_or_pharma_mfr,Non-retail category (healthcare_or_pharma_mfr).
+Gap-sweep,,Staybridge Suites Jeddah Alandalus Mall,https://ihg.com,hospitality_or_travel,Non-retail category (hospitality_or_travel).
+Gap-sweep,,ROUTE TO MARKET,,agency_or_services,Non-retail category (agency_or_services).
+Gap-sweep,,Ways Marketing Solutions,http://www.moh.gov.sa,agency_or_services,Non-retail category (agency_or_services).
+Gap-sweep,,Saudi Goody Products Marketing Co. Ltd.,http://www.goody.com.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,SAJA Pharmaceuticals,http://www.tamergroup.com,healthcare_or_pharma_mfr,Non-retail category (healthcare_or_pharma_mfr).
+Gap-sweep,,alajlan,alajlan.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,jumla,jumla.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,alfaddagroup,alfaddagroup.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,froz,froz.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,voolaaa,voolaaa.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,al-araba,al-araba.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,imtiaz,imtiaz.com.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,wecre8,wecre8.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,Dee Line,thedeeline.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,azyya,azyya.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,zadfresh,zadfresh.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,elevenz,elevenz.net,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,teearabia,teearabia.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,bymaha,bymaha.shop,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,mashaelalfaris,mashaelalfaris.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,fittingroom,fittingroom.store,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,saudi-house,saudi-house.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,ak,ak.com.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,daralmasalla,daralmasalla.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,ghudfah,ghudfah.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,hofigroup,hofigroup.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,twomark,twomark.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,zbomksa,zbomksa.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,dovacare,dovacare.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,tamakun,tamakun.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,cvaley,cvaley.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,sitaffood,sitaffood.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,lifepillarsmc,lifepillarsmc.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,sovereign,svnksa.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,lantanaashop,lantanaashop.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,sarinamultiple,sarinamultiple.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,modpatisserie,modpatisserie.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,alrifaisaudi,alrifaisaudi.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,tasooma,tasooma.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,johrh,johrh.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,cityflowerretail,cityflowerretail.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,innovativemeditech,innovativemeditech.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,2d2c2m,2d2c2m.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,mlwsocks,mlwsocks.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,mo4cars,mo4cars.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,edadcom,edadcom.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,monaalshebil,monaalshebil.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,curioartsupplies,curioartsupplies.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,farawlah,farawlah.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,foodtech-sa,foodtech-sa.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,aamaad,aamaad.store,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,zayanstudio,zayanstudio.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,webetr,webetr.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,astraglory,astraglory.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,aani-dani,aani-dani.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,alabuo,alabuo.co,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,olayangroup,olayangroup.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,ajlanbros,ajlanbros.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,keden,keden.com.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,gs-jewelry,gs-jewelry.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,foodhouse,foodhouse.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,othaimmalls,othaimmalls.com,grocery,Mall/real-estate division of the Al-Othaim group; the retail operating company (Abdullah Al-Othaim Markets) is already covered separately.
+Gap-sweep,,kaifalshiuokh,kaifalshiuokh.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,sanar,sanar.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,rasseed,rasseed.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,aya,aya.app,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,allbirds,allbirds.sa,franchise,"Global brand storefront; foreign HQ, not a distinct in-country operating company."
+Gap-sweep,,dkny,dkny.sa,franchise,"Global brand storefront; foreign HQ, not a distinct in-country operating company."
+Gap-sweep,,jazeerapaints,jazeerapaints.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,tamracapital,tamracapital.sa,nonretail_services,Non-retail category (nonretail_services).
+Gap-sweep,,fashion,fashion.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,sulindastore,sulindastore.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,saadeddin,saadeddin.com.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,karazlinen,karazlinen.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,darent,darent.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,sorrah,sorrah.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,partybox,partybox.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,fnp,fnp.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,lodore,lodore.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,abar,abar.app,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,desertcart,desertcart.com.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,eternal-jewel,eternal-jewel.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,gulfindustrialgroup,gulfindustrialgroup.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,3attar,3attar.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,tuhoon,tuhoon.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,freshvery,freshvery.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,marhbastore,marhbastore.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,cupiosnacks,cupiosnacks.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,lavieenrose,lavieenrose.com.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,kabrita,kabrita.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,industry,industry.com.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,katespade,katespade.sa,franchise,"Global brand storefront; foreign HQ, not a distinct in-country operating company."
+Gap-sweep,,silkra,silkra.net,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,homectro,homectro.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,weftrug,weftrug.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,foulard,foulard.store,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,bsupply,bsupply.store,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,globalviewsksa,globalviewsksa.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,bashirco,bashirco.com.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,sedrajewellery,sedrajewellery.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,matjarpanda,matjarpanda.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,72hairsa,72hairsa.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,nasreenalissalaw,nasreenalissalaw.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,nohanabil,nohanabil.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,rkcollection,rkcollection.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,enhancecg,enhancecg.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,dnalifestyle,dnalifestyle.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,saudimarts,saudimarts.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,petite,petite.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,wasmamansour,wasmamansour.com.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,bombsa,bombsa.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,greenlifeksa,greenlifeksa.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,razanalazzouni,razanalazzouni.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,inrest,inrest.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,souqvana,souqvana.store,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,zenitan,zenitan.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,maatic,maatic.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,alshamasy,alshamasy.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,surprisesbox,surprisesbox.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,kadasa,kadasa.com.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,stevemadden,stevemadden.sa,franchise,"Global brand storefront; foreign HQ, not a distinct in-country operating company."
+Gap-sweep,,serajah,serajah.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,abreezgroup,abreezgroup.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,tomorna,tomorna.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,novamart,novamart.digital,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,asqgrp,asqgrp.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,loofah,loofah.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,camicissima,camicissima.sa,franchise,"Global brand storefront; foreign HQ, not a distinct in-country operating company."
+Gap-sweep,,menbur,menbur.sa,franchise,"Global brand storefront; foreign HQ, not a distinct in-country operating company."
+Gap-sweep,,houseofcenmar,houseofcenmar.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,miraymano,miraymano.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,loudy-plus,loudy-plus.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,watheerglo,watheerglo.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,deshdashtii,deshdashtii.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,dmtm,dmtm.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,kadoonpro,kadoonpro.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,actan,actan.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,selene-official,selene-official.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,grasse,grasse.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,torbastudio,torbastudio.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,sif-care,sif-care.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,rebound,rebound.net,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,osanoptics,osanoptics.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,alabbasi,alabbasi.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,1886fashion,1886fashion.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,leem,leem.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,michaelkors,michaelkors.sa,franchise,"Global brand storefront; foreign HQ, not a distinct in-country operating company."
+Gap-sweep,,toryburch,toryburch.sa,franchise,"Global brand storefront; foreign HQ, not a distinct in-country operating company."
+Gap-sweep,,ptc,ptc.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,itcosmetics,itcosmetics.sa,franchise,"Global brand storefront; foreign HQ, not a distinct in-country operating company."
+Gap-sweep,,makeupforever,makeupforever.sa,franchise,"Global brand storefront; foreign HQ, not a distinct in-country operating company."
+Gap-sweep,,narscosmetics,narscosmetics.sa,franchise,"Global brand storefront; foreign HQ, not a distinct in-country operating company."
+Gap-sweep,,bloomingdales,bloomingdales.sa,franchise,"Global brand storefront; foreign HQ, not a distinct in-country operating company."
+Gap-sweep,,mamasandpapas,mamasandpapas.com.sa,franchise,"Global brand storefront; foreign HQ, not a distinct in-country operating company."
+Gap-sweep,,sbie-arabia,sbie-arabia.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,ethanallen,ethanallen.sa,franchise,"Global brand storefront; foreign HQ, not a distinct in-country operating company."
+Gap-sweep,,Asteri Beauty,asteribeauty.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,Gap,gap.sa,franchise,"Global brand storefront; foreign HQ, not a distinct in-country operating company."
+Gap-sweep,,liujo,liujo.sa,franchise,"Global brand storefront; foreign HQ, not a distinct in-country operating company."
+Gap-sweep,,jacquemus,jacquemus.sa,franchise,"Global brand storefront; foreign HQ, not a distinct in-country operating company."
+Gap-sweep,,lacoste,lacoste.sa,franchise,"Global brand storefront; foreign HQ, not a distinct in-country operating company."
+Gap-sweep,,nike,nike.sa,franchise,"Global brand storefront; foreign HQ, not a distinct in-country operating company."
+Gap-sweep,,clarins,clarins.sa,franchise,"Global brand storefront; foreign HQ, not a distinct in-country operating company."
+Gap-sweep,,guess,guess.sa,franchise,"Global brand storefront; foreign HQ, not a distinct in-country operating company."
+Gap-sweep,,charleskeith,charleskeith.sa,franchise,"Global brand storefront; foreign HQ, not a distinct in-country operating company."
+Gap-sweep,,underarmour,underarmour.sa,franchise,"Global brand storefront; foreign HQ, not a distinct in-country operating company."
+Gap-sweep,,neyam,neyam.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,hollisterco,hollisterco.sa,franchise,"Global brand storefront; foreign HQ, not a distinct in-country operating company."
+Gap-sweep,,Abercrombie & Fitch Co.,abercrombie.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,propertyfinder,propertyfinder.sa,nonretail_services,Non-retail category (nonretail_services).
+Gap-sweep,,andalusia-dentalcenters,andalusia-dentalcenters.com,healthcare_or_pharma_mfr,Non-retail category (healthcare_or_pharma_mfr).
+Gap-sweep,,maestropizza,maestropizza.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,aldo,aldo.com.sa,franchise,"Global brand storefront; foreign HQ, not a distinct in-country operating company."
+Gap-sweep,,cb2,cb2.sa,franchise,"Global brand storefront; foreign HQ, not a distinct in-country operating company."
+Gap-sweep,,ezorder,ezorder.com.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,tejaradirect,tejaradirect.com,nonretail_services,Non-retail category (nonretail_services).
+Gap-sweep,,almaraipro,https://www.almarai.com/ar,industrial_or_mfr,Non-retail category (industrial_or_mfr).
+Gap-sweep,,esabonline,esabonline.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,gehealthcare,gehealthcare.sa,healthcare_or_pharma_mfr,Non-retail category (healthcare_or_pharma_mfr).
+Gap-sweep,,investsaudi,investsaudi.sa,nonretail_services,Non-retail category (nonretail_services).
+Gap-sweep,,hilti,hilti.sa,industrial_or_mfr,Non-retail category (industrial_or_mfr).
+Gap-sweep,,thebowerycompany,thebowerycompany.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,aldahan,aldahan.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,jadco-sa,jadco-sa.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,visitsaudi,visitsaudi.com,nonretail_services,Non-retail category (nonretail_services).
+Gap-sweep,,peaberry,peaberry.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,almutawir,almutawir.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,zgames,zgames.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,harveynichols,harveynichols.sa,franchise,"Global brand storefront; foreign HQ, not a distinct in-country operating company."
+Gap-sweep,,repairlabsa,repairlabsa.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,vw,vw.com.sa,industrial_or_mfr,Non-retail category (industrial_or_mfr).
+Gap-sweep,,schindler,schindler.sa,industrial_or_mfr,Non-retail category (industrial_or_mfr).
+Gap-sweep,,interflow,interflow.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,pfizerpro,pfizerpro.sa,industrial_or_mfr,Non-retail category (industrial_or_mfr).
+Gap-sweep,,oryx,oryx.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,alamoudi,alamoudi.com.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,abrtrd,abrtrd.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,alromaihgroup,alromaihgroup.com.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,krabet,krabet.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,alkhorayefshop,alkhorayefshop.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,kpopiashop,kpopiashop.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,philips,philips.sa,industrial_or_mfr,Non-retail category (industrial_or_mfr).
+Gap-sweep,,basp,basp.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,AstraZeneca,azedugate.com,industrial_or_mfr,Non-retail category (industrial_or_mfr).
+Gap-sweep,,invntec,invntec.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,al-kadi,al-kadi.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,jnini,jnini.com.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,tefal,tefal.sa,industrial_or_mfr,Non-retail category (industrial_or_mfr).
+Gap-sweep,,nukhbatech,nukhbatech.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,novonordisk,novonordisk.com.sa,industrial_or_mfr,Non-retail category (industrial_or_mfr).
+Gap-sweep,,mro,mro.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,moharykat,moharykat.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,nazih,nazih.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,electric-house,electric-house.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,myesuq,myesuq.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,qvskincareme,qvskincareme.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,artofheritage,artofheritage.com.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,greenup,greenup.com.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,roos,roos.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,circleall,circleall.net,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,zameter,zameter.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,osco,osco.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,pfizermedicalinformation,pfizermedicalinformation.sa,healthcare_or_pharma_mfr,Non-retail category (healthcare_or_pharma_mfr).
+Gap-sweep,,ictc,ictc.com.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,redasafe,redasafe.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,calvinklein,calvinklein.sa,franchise,"Global brand storefront; foreign HQ, not a distinct in-country operating company."
+Gap-sweep,,dezigndistrict,dezigndistrict.com.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,yves-rocher,yves-rocher.com.sa,franchise,"Global brand storefront; foreign HQ, not a distinct in-country operating company."
+Gap-sweep,,dyson,dyson.sa,industrial_or_mfr,Non-retail category (industrial_or_mfr).
+Gap-sweep,,saudiradwa,saudiradwa.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,arabianhouses,arabianhouses.com.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,blackice,blackice.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,tiffany,tiffany.sa,franchise,"Global brand storefront; foreign HQ, not a distinct in-country operating company."
+Gap-sweep,,morganit,morganit.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,tomatostores,tomatostores.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,avis,avis.com.sa,hospitality_or_travel,Non-retail category (hospitality_or_travel).
+Gap-sweep,,almasyafalbared,almasyafalbared.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,saudiceramics,saudiceramics.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,timehotels,timehotels.com,franchise,"Global brand storefront; foreign HQ, not a distinct in-country operating company."
+Gap-sweep,,smartlaw,smartlaw.sa,nonretail_services,Non-retail category (nonretail_services).
+Gap-sweep,,goldentech,goldentech.com.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,gozaky,gozaky.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,shareefcorner,shareefcorner.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,thealmondbeauty,thealmondbeauty.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,moltonbrown,moltonbrown.sa,franchise,"Global brand storefront; foreign HQ, not a distinct in-country operating company."
+Gap-sweep,,watsons,watsons.sa,franchise,"Global brand storefront; foreign HQ, not a distinct in-country operating company."
+Gap-sweep,,babyjalebi-sa,babyjalebi-sa.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,decathlon,decathlon.com.sa,franchise,"Global brand storefront; foreign HQ, not a distinct in-country operating company."
+Gap-sweep,,caffeinelab,caffeinelab.me,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,tedbaker,tedbaker.sa,franchise,"Global brand storefront; foreign HQ, not a distinct in-country operating company."
+Gap-sweep,,tumi,tumi.sa,franchise,"Global brand storefront; foreign HQ, not a distinct in-country operating company."
+Gap-sweep,,cascadesco,cascadesco.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,hotpack,hotpack.com.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,beauti,beauti.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,twinkle,twinkle.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,Shub Coffee,shub.coffee,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,petit-bateau,petit-bateau.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,dovanabeauty,dovanabeauty.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,iffstore,iffstore.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,rootsfurniture,rootsfurniture.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,moderncottagefurnitures,moderncottagefurnitures.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,rihafbeauty,rihafbeauty.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,mochaboutique,mochaboutique.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,mohjewelry,mohjewelry.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,zakiopticals,zakiopticals.com.sa,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,gaudiabeauty,gaudiabeauty.com,ecommerce_unverified,Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+Gap-sweep,,FACES Beauty Middle East,https://faces.sa,health_beauty_pharmacy,FACES cosmetics chain is an Alshaya Group brand; Alshaya is already covered as the parent account.
+Gap-sweep,,SmartLink BPO Solutions,https://smartlink.com.sa/,agency_or_services,Non-retail category (agency_or_services).
+Gap-sweep,,Adsela Marketing Solutions,https://adselams.com/en/,agency_or_services,Non-retail category (agency_or_services).
+Gap-sweep,,MarTech Tree,https://martechtree.com/,agency_or_services,Non-retail category (agency_or_services).

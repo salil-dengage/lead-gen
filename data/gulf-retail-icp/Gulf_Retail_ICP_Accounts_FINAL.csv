@@ -1,0 +1,388 @@
+﻿Country,Account Name,Domain,Category/Basis,Tier,Zoho Action,Zoho ID
+Kuwait,ABYAT,blink.com.kw,judged,B,ENRICH_domain,3978798000014961175
+Kuwait,AL NASSER,alnasser.net,web_verified,A,POSSIBLE_MATCH,3978798000084745770
+Kuwait,ARTECASA,artecasa.bz,judged,na,CREATE,
+Kuwait,Al Hasawi Industrial Group,acekuwait.com,web_verified,B,CREATE,
+Kuwait,Al Nasser Kuwait,,firmographic_reviewed,na,POSSIBLE_MATCH,3978798000084745770
+Kuwait,Al Ostoura International Company,alostoura.com,firmographic_reviewed,B,CREATE,
+Kuwait,Alarabiya Company الشركة العربية,alarabiya.com.kw,web_verified,B,CREATE,
+Kuwait,Alaysh International Group,alayshgroup.com,web_verified,B,CREATE,
+Kuwait,Aldawaeya,aldawaeya.com,web_verified,B,ENRICH_name,3978798000043259320
+Kuwait,Ali Abdulwahab Al Mutawa Commercial Co.,aaw.com,web_verified,A,CREATE,
+Kuwait,Alyasra Fashion,alyasra.com,firmographic_reviewed,A,CREATE,
+Kuwait,Alyasra Group,,firmographic_reviewed,na,CREATE,
+Kuwait,Amal Al-Kuwait,amalalkuwait.com,firmographic_reviewed,na,CREATE,
+Kuwait,Apotheca Beauty,apothecabeauty.com,firmographic_reviewed,na,CREATE,
+Kuwait,Armada Retail Concept,armadagroupco.com,firmographic_reviewed,A,CREATE,
+Kuwait,Atyab Al Marshoud,atyabalmarshoud.com,firmographic_reviewed,na,CREATE,
+Kuwait,Baix Bakery,baixbakery.com,firmographic_reviewed,na,CREATE,
+Kuwait,Baqala,baqala.me,firmographic_reviewed,na,CREATE,
+Kuwait,Bartone Cafe & Restaurant,bartone-me.com,firmographic_reviewed,na,CREATE,
+Kuwait,Beidoun Trading Co.,beidoun.com,firmographic_reviewed,na,CREATE,
+Kuwait,Boutiqat,boutiqat.com,judged,na,CREATE,
+Kuwait,CHIPS,chipsstore.com,held_resolved:retail_general,B,CREATE,
+Kuwait,City Hypermarket,http://www.cityhyper.com,gap_found:grocery,B,ENRICH_domain,3978798000121998055
+Kuwait,Cozmo Group,cozmogroup.com,firmographic_reviewed,na,CREATE,
+Kuwait,Dabdoob,dabdoob.com,judged,B,CREATE,
+Kuwait,EARTH ROASTERY,earthroastery.com,judged,na,CREATE,
+Kuwait,Eureka Trading Co. W.L.L.,eureka.com.kw,judged,na,CREATE,
+Kuwait,Extreme Sports,extreme.com.kw,judged,na,CREATE,
+Kuwait,Food Industries Company,,firmographic_reviewed,na,POSSIBLE_MATCH,3978798000084734357
+Kuwait,Froyo Cafe,froyo.com.kw,firmographic_reviewed,na,CREATE,
+Kuwait,Future Communications Company,fcc-kuwait.com,judged,na,CREATE,
+Kuwait,GISSAH,gissah.com,firmographic_reviewed,B,CREATE,
+Kuwait,Game Store Company,gamestore.com.kw,judged,na,CREATE,
+Kuwait,Go Fresh,gofresh.com.kw,firmographic_reviewed,na,CREATE,
+Kuwait,Green Wing Co. W.L.L,anotah.com,firmographic_reviewed,na,CREATE,
+Kuwait,Groupxen,groupxen.com,firmographic_reviewed,na,CREATE,
+Kuwait,Gulf Fashion General Trading Company,gulf-fashion.com,firmographic_reviewed,na,CREATE,
+Kuwait,Gulf Group,gulfgroupholding.com,judged,B,CREATE,
+Kuwait,Hanan Dashti Company,hanandashtishop.com,firmographic_reviewed,na,CREATE,
+Kuwait,Hassan Abul Co.,hassanabul.com,judged,B,CREATE,
+Kuwait,Hassan's Optician Co.,hassans.com,judged,B,CREATE,
+Kuwait,Home & Garden,homeandgarden.cc,judged,na,CREATE,
+Kuwait,KAPICO,kapicogroup.com,firmographic_reviewed,na,CREATE,
+Kuwait,Kana Group,kanagroup.com,firmographic_reviewed,na,CREATE,
+Kuwait,LSH ( Homaizi Group),lshinternational.com,firmographic_reviewed,na,CREATE,
+Kuwait,La Plus Belle,lpbkuwait.com,firmographic_reviewed,na,CREATE,
+Kuwait,MS Retail,,judged,na,CREATE,
+Kuwait,Midas Furniture,midasfurniture.com,judged,B,CREATE,
+Kuwait,Mobile 2000,mobile2000.com,firmographic_reviewed,B,CREATE,
+Kuwait,Mohamed Naser Al-Hajery & Sons Ltd.,hajery.com,firmographic_reviewed,B,ENRICH_domain,3978798000014961337
+Kuwait,Morad Yousuf Behbehani,moradbehbehani.com,firmographic_reviewed,na,CREATE,
+Kuwait,NAD United General Trading.,nadkw.com,firmographic_reviewed,na,CREATE,
+Kuwait,Nagwa Boutique & Café,nagwaboutique.com,firmographic_reviewed,na,CREATE,
+Kuwait,Natureland,natureland.net,firmographic_reviewed,na,CREATE,
+Kuwait,Nor Noyau® | Artisan Chocolatier,nornoyau.com,firmographic_reviewed,na,CREATE,
+Kuwait,OLE Coffee,theolecoffee.com,firmographic_reviewed,na,CREATE,
+Kuwait,Oncost Trading Company,oncost.com,firmographic_reviewed,B,ENRICH_name,3978798000017886784
+Kuwait,Otoraat - عطورات,otoraat.com,firmographic_reviewed,na,CREATE,
+Kuwait,Pastry & Coffee,pastry.coffee,firmographic_reviewed,na,CREATE,
+Kuwait,Petzone,petzone.com,judged,B,CREATE,
+Kuwait,Pharmalife Co.,pharmalife-kw.com,firmographic_reviewed,na,CREATE,
+Kuwait,Pharmazone Kuwait,pharmazone.com,firmographic_reviewed,na,CREATE,
+Kuwait,RIVA,rivafashion.com,firmographic_reviewed,na,CREATE,
+Kuwait,Raha,shopraha.com,firmographic_reviewed,na,CREATE,
+Kuwait,Safat Home by Alghanim Industries,safathome.com,judged,B,CREATE,
+Kuwait,Safi,saficosmetics.com,firmographic_reviewed,na,CREATE,
+Kuwait,Seventh Dimension Company,7d.com.kw,web_verified,B,CREATE,
+Kuwait,Starco Holding,starcoholding.com,held_resolved:fashion,A,CREATE,
+Kuwait,THE BED SHOP,thebedshop.co,judged,na,CREATE,
+Kuwait,The Beauty Station | Nail Station KW,thebeautystation.com,judged,na,CREATE,
+Kuwait,The Sultan Center,sultan-center.com,firmographic_reviewed,A,CREATE,
+Kuwait,TheHub Hypermarket,,firmographic_reviewed,na,CREATE,
+Kuwait,Trafalgar Luxury Group,trafalgarluxurygroup.com,firmographic_reviewed,na,CREATE,
+Kuwait,Trolley Convenience Store,trolley.com.kw,firmographic_reviewed,A,ENRICH_domain,3978798000014961486
+Kuwait,Union Trading Co.,utc.com.kw,firmographic_reviewed,na,CREATE,
+Kuwait,United Pharma Company,unitedpharma-kw.com,firmographic_reviewed,na,POSSIBLE_MATCH,3978798000084746793
+Kuwait,Wahran Trading Company-Kuwait,wahrantrading.com,firmographic_reviewed,B,CREATE,
+Kuwait,Wawan Protein,wawanpro.com,firmographic_reviewed,na,CREATE,
+Kuwait,YIACO Medical Company,yiaco.com,firmographic_reviewed,B,CREATE,
+Kuwait,aDawliah Electronics,adawliahstore.com,web_verified,B,ENRICH_name,3978798000015870013
+Kuwait,maktaba,maktabakw.com,judged,na,CREATE,
+Kuwait,mubkhar,mubkhar.com,firmographic_reviewed,na,CREATE,
+Kuwait,pharmalife,,firmographic_reviewed,na,CREATE,
+Kuwait,xcite by alghanim electronics,xcite.com,judged,B,ENRICH_name,3978798000033427127
+Qatar,AL MAKTAB AL QATARI AL HOLLANDI WLL,hollandi.com,judged,na,CREATE,
+Qatar,ALMEERA CONSUMER GOODS COMPANY QSC,,firmographic_reviewed,na,CREATE,
+Qatar,Al Anees Group,,judged,na,CREATE,
+Qatar,Al Aziziya Pharmacy,alaziziyapharmacy.com,web_verified,B,CREATE,
+Qatar,Al Baladi Holding,baladiholding.com,firmographic_reviewed,na,CREATE,
+Qatar,Al Jazeera Perfumes,aljazeeraperfumes.com,web_verified,B,CREATE,
+Qatar,Al Mana,almana.com,held_resolved:fashion,A,CREATE,
+Qatar,Al Meera Consumer Goods Company,,firmographic_reviewed,na,POSSIBLE_MATCH,3978798000070733009
+Qatar,Al Rawabi Group of Companies,rawabihypermarket.com,firmographic_reviewed,na,CREATE,
+Qatar,Al Rawabi Group of Companies W.L.L,alrawabigroup.com,firmographic_reviewed,na,CREATE,
+Qatar,Al Sulaiman Jewellers,alsulaimanjewellers.com,held_resolved:fashion,B,CREATE,
+Qatar,AlaneesQatar,alaneesqatar.qa,web_verified,B,CREATE,
+Qatar,Ali Bin Ali Group,alibinali.com,web_verified,A,ENRICH_domain,3978798000008670029
+Qatar,BTC Fashion,btcfashion.me,firmographic_reviewed,na,CREATE,
+Qatar,BaladiMart,baladiexpress.com,firmographic_reviewed,na,CREATE,
+Qatar,Belleza,belleza.qa,firmographic_reviewed,na,CREATE,
+Qatar,Bin Yousef,binyousef.com,firmographic_reviewed,na,CREATE,
+Qatar,Blue Salon,bluesalon.com,firmographic_reviewed,B,POSSIBLE_MATCH,3978798000084748771
+Qatar,CRYSTALS,crystals.qa,judged,na,CREATE,
+Qatar,Care n Cure Group,carencurepharmacy.com,firmographic_reviewed,na,CREATE,
+Qatar,Dana Group Qatar,danahypermarket.com,firmographic_reviewed,na,CREATE,
+Qatar,Dawaa Pharmacy -صيدلية دواء,dawaapharma.com,firmographic_reviewed,na,CREATE,
+Qatar,Ever Fashion Luxury Group,everfashionluxurygroup.com,firmographic_reviewed,na,CREATE,
+Qatar,Family Food Centre,family.qa,firmographic_reviewed,B,CREATE,
+Qatar,Gulf Beauty International,gulfbeautytrading.com,firmographic_reviewed,na,CREATE,
+Qatar,IMC Kulud Pharmacy,,firmographic_reviewed,na,CREATE,
+Qatar,International Medical Company (Kulud Pharmacy),imcqatar.com,firmographic_reviewed,na,CREATE,
+Qatar,KIDDY ZONE,kiddyzone.com,judged,na,CREATE,
+Qatar,Lubnaas Boutique,,firmographic_reviewed,na,CREATE,
+Qatar,Magaza,magaza.me,judged,na,CREATE,
+Qatar,NBK FASHION,,firmographic_reviewed,na,CREATE,
+Qatar,Nabco Furniture Center,nabcostore.com,firmographic_reviewed,na,CREATE,
+Qatar,Otantik Home,otantik-home.com,judged,na,CREATE,
+Qatar,PREMIUM LIMITED GROUP,plgtrade.com,firmographic_reviewed,na,CREATE,
+Qatar,Pari Gallery Qatar,parigallery.com,firmographic_reviewed,na,CREATE,
+Qatar,Paris United Group,parisunitedgroup.com,firmographic_reviewed,na,CREATE,
+Qatar,Pharmacare Group Retail Pharmacy Chain,pharmacareonline.qa,firmographic_reviewed,na,CREATE,
+Qatar,Rawabi Hypermarket,,firmographic_reviewed,na,CREATE,
+Qatar,Saadeddin Sweets Qatar حلويات سعدالدين,saadeddin.qa,firmographic_reviewed,na,CREATE,
+Qatar,Safari Group,safarigroup.net,firmographic_reviewed,A,CREATE,
+Qatar,Safari Hypermarket,safarihypermarket.com,firmographic_reviewed,B,CREATE,
+Qatar,Salam Studio and Stores,salams.com,firmographic_reviewed,A,CREATE,
+Qatar,Saleh Al Hamad Al Mana Co.,shalmana.com,firmographic_reviewed,B,CREATE,
+Qatar,Saudia Group,saudiagroup.com,firmographic_reviewed,na,CREATE,
+Qatar,Saudia Group Of Companies,,firmographic_reviewed,na,CREATE,
+Qatar,Shine Gold and Diamonds,shinegd.com,firmographic_reviewed,na,CREATE,
+Qatar,Sports Corner,sportscorner.qa,judged,B,CREATE,
+Qatar,Store 974,store974.com,judged,na,CREATE,
+Qatar,Techno Blue WLL,techno-blue.com,judged,na,CREATE,
+Qatar,TechnoBlue,electronyat.qa,judged,na,CREATE,
+Qatar,Tivoli Group,tivoligroup.com,judged,B,ENRICH_name,3978798000014606303
+Qatar,Transind Holding,transindgroup.com,firmographic_reviewed,na,CREATE,
+Qatar,United International Trading Company W.L.L,uitcqatar.com,firmographic_reviewed,na,CREATE,
+Qatar,Wathnan Holding,wathnanholding.com,firmographic_reviewed,na,CREATE,
+Qatar,Wellcare Pharmacy Qatar,wellcaregroup.com,firmographic_reviewed,na,CREATE,
+Qatar,Yalla Toys,https://yallatoys.com/,gap_found:sporting_hobby_books,B,ENRICH_domain,3978798000007460273
+Saudi Arabia,8oz Coffee,8ozcafe.com,web_verified,B,CREATE,
+Saudi Arabia,A Market ماركت,amarkets.com.sa,firmographic_reviewed,na,ENRICH_name,3978798000084747287
+Saudi Arabia,ALASEEL,alaseel.com.sa,web_verified,B,CREATE,
+Saudi Arabia,ALBASEM الباسم,albasem.com.sa,web_verified,B,CREATE,
+Saudi Arabia,ALHADDAD | الحداد,al-haddad.com,web_verified,A,CREATE,
+Saudi Arabia,ALMAHA OPTICAL,almahaopt.com,web_verified,B,CREATE,
+Saudi Arabia,ALMAKTABA,almaktaba.com.sa,judged,na,ENRICH_name,3978798000084748270
+Saudi Arabia,ALRAYA الراية,alraya.com.sa,web_verified,A,ENRICH_name,3978798000084744817
+Saudi Arabia,ALSAFA UNITED,al-safaunited.com,web_verified,A,CREATE,
+Saudi Arabia,ALSAIF Trading Agencies Co.,alsaifco.com,judged,na,CREATE,
+Saudi Arabia,ALdakheel Oud الدخيل للعود,aldakheeloud.com,web_verified,A,ENRICH_name,3978798000084746847
+Saudi Arabia,Abdul Latif Jameel Electronics,alje.com,web_verified,A,POSSIBLE_MATCH,3978798000104179230
+Saudi Arabia,Abdullah Al-Othaim Markets,othaimmarkets.com,firmographic_reviewed,A,ENRICH_name,3978798000016535652
+Saudi Arabia,Abdullah Ali Al Amer & Brothers Trading Co,alamer-market.com,web_verified,A,ENRICH_name,3978798000084746846
+Saudi Arabia,Abo Moati l ابو معطي,abomoati.com,web_verified,A,CREATE,
+Saudi Arabia,Abraj Hyper,abrajhypermarket.com,held_resolved:grocery,B,ENRICH_name,3978798000084746807
+Saudi Arabia,Adam Medical Company,adamonline.com,web_verified,B,ENRICH_name,3978798000018427570
+Saudi Arabia,Adyaf Gulf Co. Ltd.,madeleine.sa,firmographic_reviewed,na,CREATE,
+Saudi Arabia,Ahmad A. Abed,,firmographic_reviewed,na,CREATE,
+Saudi Arabia,Al Barakat Group Co Ltd.,albarakatgroup.com,web_verified,B,CREATE,
+Saudi Arabia,Al Bassam Home Appliances,http://www.fordeal.com,gap_found:electronics,B,ENRICH_domain,3978798000103654041
+Saudi Arabia,Al Daajan Holding,daajan.com,firmographic_reviewed,na,CREATE,
+Saudi Arabia,Al Ghazali  |  الغزالي,alghazali.com.sa,web_verified,na,CREATE,
+Saudi Arabia,Al Khairat Company,khairat.com,judged,na,CREATE,
+Saudi Arabia,Al Majed Oud.co,almajed4oud.com,web_verified,A,ENRICH_name,3978798000012340248
+Saudi Arabia,Al Majed for Oud الماجد للعود,,firmographic_reviewed,na,ENRICH_name,3978798000012340248
+Saudi Arabia,Al Mujtama Pharmacy,almujtama.com.sa,firmographic_reviewed,B,CREATE,
+Saudi Arabia,Al Musbah Group,almusbah.com,firmographic_reviewed,A,ENRICH_name,3978798000084746687
+Saudi Arabia,Al Nahhas Pharmacie,alnahhas.com,firmographic_reviewed,na,CREATE,
+Saudi Arabia,Al Raya For Foodstuff Company Ltd.,,firmographic_reviewed,na,CREATE,
+Saudi Arabia,Al Sadhan Group,al-sadhan.com,web_verified,A,POSSIBLE_MATCH,3978798000084746822
+Saudi Arabia,Al Sadhan Trading Co,,firmographic_reviewed,na,CREATE,
+Saudi Arabia,Al Sawani Group,al-sawani.com,web_verified,A,CREATE,
+Saudi Arabia,Al jazera Markets,al-jazera.sa,web_verified,B,ENRICH_domain,3978798000138949009
+Saudi Arabia,Al-Dawaa Medical Services Co.,al-dawaa.com.sa,web_verified,A,CREATE,
+Saudi Arabia,Al-Maha Optical المها للبصريات,,firmographic_reviewed,na,CREATE,
+Saudi Arabia,AlNafea Foods,alnafeafoods.com,firmographic_reviewed,na,CREATE,
+Saudi Arabia,Alaryaf Sweets |  الارياف للحلويات,alaryaf.com,web_verified,B,CREATE,
+Saudi Arabia,Aleef,aleef.com,web_verified,na,ENRICH_name,3978798000138949051
+Saudi Arabia,Alesayi Electronics | العيسائي للإلكترونيات,aecksa.com,web_verified,B,ENRICH_name,3978798000084747263
+Saudi Arabia,Alhussaini Trading Co.,alhussainitrading.com,web_verified,B,CREATE,
+Saudi Arabia,Almadina Holding Company,,firmographic_reviewed,na,CREATE,
+Saudi Arabia,Almanea Co.,almanea.sa,judged,na,ENRICH_name,3978798000084746790
+Saudi Arabia,Almutlaq Company,almutlaqco.com.sa,judged,B,ENRICH_name,3978798000084745780
+Saudi Arabia,Alomar Furniture Company شركة مفروشات العمر,alomar.com.sa,judged,na,CREATE,
+Saudi Arabia,Alsalman Optics,alsalmanoptics.com,firmographic_reviewed,na,CREATE,
+Saudi Arabia,Alshafi Medical Company,alshafi.sa,firmographic_reviewed,na,CREATE,
+Saudi Arabia,Alshaya Watches  الشايع للساعات,alshayawatches.com,firmographic_reviewed,na,ENRICH_name,3978798000084747256
+Saudi Arabia,Alsulaiman Group,alsulaimangroup.com,held_resolved:general_merch_dept,A,ENRICH_name,3978798000084745712
+Saudi Arabia,Alwazn Almithaly الوزن المثالي,mithaly.sa,firmographic_reviewed,B,ENRICH_name,3978798000084746805
+Saudi Arabia,Alymama اليمامة,alymama.net,firmographic_reviewed,na,CREATE,
+Saudi Arabia,Anoosh Company,anoosh.sa,firmographic_reviewed,na,CREATE,
+Saudi Arabia,Areej AL Khaleej  |  اريج الخليج,areejelkhaleej.net,firmographic_reviewed,na,CREATE,
+Saudi Arabia,Armah Sports Company,armahsports.com,firmographic_reviewed,B,CREATE,
+Saudi Arabia,Arriyadh Roaster محمصة الرياض,arriyadhroaster.com,judged,na,CREATE,
+Saudi Arabia,Aster Pharmacy - صيدلية استر,asterpharmacy.sa,firmographic_reviewed,na,POSSIBLE_MATCH,3978798000084746768
+Saudi Arabia,BATOOK HOLDING COMPANY,batook.com,firmographic_reviewed,B,CREATE,
+Saudi Arabia,BEAM,shopbeam.com,held_resolved:retail_general,B,CREATE,
+Saudi Arabia,Baazeem Trading Company,baazeem.com,firmographic_reviewed,B,CREATE,
+Saudi Arabia,Bafarat Industrial Group,ranafood.com,firmographic_reviewed,na,CREATE,
+Saudi Arabia,Balsam Medical Care,balsemcare.com,firmographic_reviewed,na,ENRICH_name,3978798000084744827
+Saudi Arabia,Balsharaf Group,balsharaf.com.sa,firmographic_reviewed,na,CREATE,
+Saudi Arabia,Barakah,barakah.app,firmographic_reviewed,B,ENRICH_name,3978798000084745392
+Saudi Arabia,Barns,barns.com.sa,firmographic_reviewed,na,CREATE,
+Saudi Arabia,Bayt Aladwia Pharmacy,baytaladwia.com,firmographic_reviewed,na,CREATE,
+Saudi Arabia,Bed Quarter Company,bedquarter.com,firmographic_reviewed,na,ENRICH_name,3978798000084746878
+Saudi Arabia,BinDawood Holding,bindawoodholding.com,firmographic_reviewed,A,ENRICH_name,3978798000084746769
+Saudi Arabia,Blooming Wear,bloomingwear.com,firmographic_reviewed,na,ENRICH_name,3978798000084747833
+Saudi Arabia,Blue Sky Company,blueskycoffe.com,firmographic_reviewed,na,CREATE,
+Saudi Arabia,Bostani,bostani.com,firmographic_reviewed,na,CREATE,
+Saudi Arabia,Casa Piu,casapiu.com.sa,judged,na,CREATE,
+Saudi Arabia,Cenomi,,judged,A,ENRICH_name,3978798000084746767
+Saudi Arabia,Cenomi Group,cenomi.com,judged,na,ENRICH_name,3978798000084746767
+Saudi Arabia,Coffee Complex - كوفي كومبلكس,coffeecomplex.com,judged,na,ENRICH_name,3978798000084747422
+Saudi Arabia,DELTA (DMC),deltamarketingco.com,judged,B,ENRICH_name,3978798000084746812
+Saudi Arabia,DKHOUN دخون,dkhoun.com,firmographic_reviewed,B,ENRICH_name,3978798000084747209
+Saudi Arabia,Danube,danube.sa,firmographic_reviewed,A,ENRICH_name,3978798000014947049
+Saudi Arabia,Darat al-Qahwa,daratalqahwa.com,firmographic_reviewed,na,CREATE,
+Saudi Arabia,Delta Fitness | دلتا فتنس,delta-fitness.com,judged,na,CREATE,
+Saudi Arabia,Deraah Trading Company,deraah.com.sa,firmographic_reviewed,B,CREATE,
+Saudi Arabia,Doos دووس,doos.sa,firmographic_reviewed,na,CREATE,
+Saudi Arabia,Dose Cafe | دوز كافيه,dosecafeksa.com,firmographic_reviewed,na,CREATE,
+Saudi Arabia,Dream Fitness حلم الرشاقة,dreamfitness.shop,judged,na,CREATE,
+Saudi Arabia,Dukan Retailing Company,dukan.me,firmographic_reviewed,na,ENRICH_name,3978798000084744820
+Saudi Arabia,EDDY - Home & Electronics,eddy.com.sa,judged,na,ENRICH_name,3978798000084746799
+Saudi Arabia,Elfaleh Sports House,elfaleh.sa,judged,B,ENRICH_name,3978798000084746838
+Saudi Arabia,Express Food Company,,firmographic_reviewed,na,CREATE,
+Saudi Arabia,Fakeeh Vision,fakeehvision.com,held_resolved:health_beauty_pharmacy,B,ENRICH_name,3978798000084747200
+Saudi Arabia,Farm,farm.com.sa,firmographic_reviewed,A,ENRICH_name,3978798000084746784
+Saudi Arabia,Fitaihi,fitaihi.com.sa,firmographic_reviewed,B,CREATE,
+Saudi Arabia,Floward,floward.co,judged,B,ENRICH_name,3978798000020722262
+Saudi Arabia,Food Gate,foodgate.com,firmographic_reviewed,na,CREATE,
+Saudi Arabia,Food Unit Company,foodunitco.com,firmographic_reviewed,na,CREATE,
+Saudi Arabia,Forsan Foods and Consumer Products Company Ltd.,forsan.com.sa,firmographic_reviewed,na,CREATE,
+Saudi Arabia,GET MENA,get.med.sa,firmographic_reviewed,na,CREATE,
+Saudi Arabia,Gazzaz قزاز,,firmographic_reviewed,B,ENRICH_name,3978798000084747935
+Saudi Arabia,Ghaya Pharmacies Limited,ghaya-pharmacy.com,firmographic_reviewed,na,CREATE,
+Saudi Arabia,Gift Mart International,giftmart.net,judged,na,ENRICH_name,3978798000084746418
+Saudi Arabia,Goodies Selections Saudi Arabia,goodies.com.sa,firmographic_reviewed,na,CREATE,
+Saudi Arabia,Gozl Trading Company,gozl.com.sa,judged,na,CREATE,
+Saudi Arabia,H. M. Al Rugaib & Sons Trading Co. - شركة حمد محمد الرقيب و أولاده التجارية,alrugaibfurniture.com,judged,B,ENRICH_name,3978798000017888307
+Saudi Arabia,Hail House بيت هايل,hail-house.sa,judged,na,CREATE,
+Saudi Arabia,Hakeem Oyoun | حكيم عيون,hakeem.sa,firmographic_reviewed,na,ENRICH_name,3978798000084747950
+Saudi Arabia,Hassan Misfer Al-Zahrani & Partners Group,alzahrani.com.sa,firmographic_reviewed,na,CREATE,
+Saudi Arabia,Hyper Panda,panda-offers.com,firmographic_reviewed,na,CREATE,
+Saudi Arabia,Ibrand - اي براند,ibrand.com.sa,firmographic_reviewed,na,ENRICH_name,3978798000084746808
+Saudi Arabia,Jamjoom Fashion,jamjoomfashion.com,firmographic_reviewed,B,CREATE,
+Saudi Arabia,Jarir Bookstore,jarir.com,judged,A,ENRICH_name,3978798000009702238
+Saudi Arabia,Jazirat Samaa Fashion,,firmographic_reviewed,na,CREATE,
+Saudi Arabia,Jeddah Duty Free  السوق الحرة جدة,,judged,na,CREATE,
+Saudi Arabia,KH Perfumes | عطور كي إتش,perfumekh.com,firmographic_reviewed,na,CREATE,
+Saudi Arabia,Kabbani Trading Center,jareersweets.com,firmographic_reviewed,B,CREATE,
+Saudi Arabia,Kafak International Company,kafak.net,firmographic_reviewed,na,ENRICH_name,3978798000084746832
+Saudi Arabia,KartNGo,kartngo.co,firmographic_reviewed,na,ENRICH_name,3978798000084747334
+Saudi Arabia,Kenz Woman,kenzwoman.com,firmographic_reviewed,B,ENRICH_domain,3978798000138833077
+Saudi Arabia,Khereiji Showrooms Company Limited,ksc.com.sa,held_resolved:electronics,B,CREATE,
+Saudi Arabia,Kiffa Roaster,kiffa.sa,held_resolved:grocery,B,CREATE,
+Saudi Arabia,Knoz El Hekma - شركة كنوز الحكمة,knozelhekma.com,firmographic_reviewed,na,ENRICH_name,3978798000084746814
+Saudi Arabia,Laverne Group | مجموعة لافيرن,laverne.com,firmographic_reviewed,na,CREATE,
+Saudi Arabia,Lemon Pharmacy,lemon.sa,firmographic_reviewed,na,ENRICH_name,3978798000078266008
+Saudi Arabia,Lighting Stores | مخازن الإضاءة,lightingstores.com.sa,held_resolved:electronics,B,CREATE,
+Saudi Arabia,Line Furniture,linefurniture.net,judged,na,ENRICH_name,3978798000084747339
+Saudi Arabia,Magrabi Hospitals & Centers,magrabihealth.com,held_resolved:health_beauty_pharmacy,A,ENRICH_name,3978798000007460296
+Saudi Arabia,Makkah Hypermarket Saudi Arabia,makkahhyper.com,firmographic_reviewed,na,ENRICH_name,3978798000084746833
+Saudi Arabia,Maktab,maktab.com,judged,na,CREATE,
+Saudi Arabia,Manuel Market,manuelsupermarket.com,firmographic_reviewed,B,ENRICH_name,3978798000084744818
+Saudi Arabia,Maraya,maraya.sa,firmographic_reviewed,na,CREATE,
+Saudi Arabia,Marketing Home Group,mhg-int.com,judged,B,CREATE,
+Saudi Arabia,Masdar - مصدر,masdaronline.com,judged,na,CREATE,
+Saudi Arabia,Matajer Al Saudia,matajeralsaudia.com,firmographic_reviewed,na,ENRICH_name,3978798000084746900
+Saudi Arabia,Match | ماتش,matchperfumes.com,firmographic_reviewed,na,CREATE,
+Saudi Arabia,Mazaya Food,onlinemazaya.com,firmographic_reviewed,na,ENRICH_name,3978798000084744823
+Saudi Arabia,Meed Trading Company,meed.sa,firmographic_reviewed,na,ENRICH_name,3978798000084746791
+Saudi Arabia,Modern Electronics - MEC (AL-Faisaliah Group),mestores.com,firmographic_reviewed,na,ENRICH_name,3978798000084746868
+Saudi Arabia,Mohammed Siraj Attar & Bros,sirajattarbros.com,firmographic_reviewed,na,CREATE,
+Saudi Arabia,Munch Bakery منش بيكري,munchbakery.com,firmographic_reviewed,B,CREATE,
+Saudi Arabia,Muntazah Holding,muntazaholding.com,firmographic_reviewed,na,CREATE,
+Saudi Arabia,My Little Home | بيتي الصغير,mylittlehome.com.sa,judged,na,ENRICH_name,3978798000084747265
+Saudi Arabia,NESK Group of Trading Projects,nesk.com.sa,firmographic_reviewed,B,CREATE,
+Saudi Arabia,NICE ONE | نايس ون,niceonesa.com,firmographic_reviewed,B,ENRICH_domain,3978798000024620158
+Saudi Arabia,NOLOR Fragrances | عطور نولور,nolorfragrances.com,firmographic_reviewed,na,CREATE,
+Saudi Arabia,Naseem,naseemsa.com,judged,na,ENRICH_name,3978798000084747274
+Saudi Arabia,Natural Touch ناتشورال تاتش,ntshop.sa,firmographic_reviewed,na,CREATE,
+Saudi Arabia,Oud Elite,oudelite.com,firmographic_reviewed,na,ENRICH_name,3978798000084746786
+Saudi Arabia,POWR,powr.sa,firmographic_reviewed,na,ENRICH_name,3978798000084743178
+Saudi Arabia,Panda Retail Company - Savola Group,panda.com.sa,firmographic_reviewed,A,ENRICH_name,3978798000008419077
+Saudi Arabia,Pharmaciaty,pharmaciaty.com,firmographic_reviewed,na,ENRICH_name,3978798000084747331
+Saudi Arabia,Point Plus,pointplusksa.com,judged,na,ENRICH_name,3978798000084743214
+Saudi Arabia,Primary Care Medical Co.,primarycare.sa,firmographic_reviewed,na,CREATE,
+Saudi Arabia,Q Mart | كيو,qmartstores.com,firmographic_reviewed,na,CREATE,
+Saudi Arabia,Qaf Coffee Roasters - مجموعة قاف لتقديم المشروبات,qafcoffee.com,firmographic_reviewed,na,CREATE,
+Saudi Arabia,Rasees Perfumes,rasees.net,firmographic_reviewed,na,CREATE,
+Saudi Arabia,Richy Group,richy.sa,firmographic_reviewed,na,CREATE,
+Saudi Arabia,RojoCoral Boutique | Children's Fashion & Accessories,,firmographic_reviewed,na,CREATE,
+Saudi Arabia,Rolly,itsrolly.com,firmographic_reviewed,na,CREATE,
+Saudi Arabia,SAVECO Online Hypermarket,,gap_found:grocery,A,ENRICH_domain,3978798000017886732
+Saudi Arabia,SPORT GHORNATAH,sportghornatah.com,judged,na,CREATE,
+Saudi Arabia,SWAJ | سواج,,firmographic_reviewed,na,CREATE,
+Saudi Arabia,Saadeddinpastry,saadeddin.com,firmographic_reviewed,na,CREATE,
+Saudi Arabia,Safari Co Ltd. Riyadh,,judged,na,CREATE,
+Saudi Arabia,Saudi Jawahir,jawahir.sa,firmographic_reviewed,B,ENRICH_name,3978798000084746817
+Saudi Arabia,Saudi Perfume & Cosmetics Company Limited,spci-sa.com,firmographic_reviewed,na,CREATE,
+Saudi Arabia,Scent,arabianoud.com,firmographic_reviewed,B,CREATE,
+Saudi Arabia,Season | سيزون,,firmographic_reviewed,na,ENRICH_name,3978798000084747936
+Saudi Arabia,Shafy,shafy.com.sa,firmographic_reviewed,na,CREATE,
+Saudi Arabia,Siwar Foods (SF),siwar.com,firmographic_reviewed,B,CREATE,
+Saudi Arabia,Special Food Company,thespecialfood.com,firmographic_reviewed,na,CREATE,
+Saudi Arabia,Srya | سَرِيّا,ganache-sa.com,firmographic_reviewed,na,CREATE,
+Saudi Arabia,TAMIMI GROUP OF COMPANIES,,firmographic_reviewed,na,CREATE,
+Saudi Arabia,TGC,tgc-ksa.com,firmographic_reviewed,na,CREATE,
+Saudi Arabia,Tamimi Group,tamimigroup.com.sa,firmographic_reviewed,B,CREATE,
+Saudi Arabia,Tamimi Markets,tamimimarkets.com,firmographic_reviewed,A,ENRICH_name,3978798000017888375
+Saudi Arabia,Tamkeen Stores,tamkeenstores.com.sa,judged,na,ENRICH_name,3978798000084746801
+Saudi Arabia,Toyland,toyland.world,judged,na,ENRICH_name,3978798000084747314
+Saudi Arabia,Two,reefi.me,judged,na,ENRICH_name,3978798000084746885
+Saudi Arabia,UniPharma,unipharma.sa,firmographic_reviewed,na,CREATE,
+Saudi Arabia,United Group,unitedgroup.com.sa,firmographic_reviewed,na,CREATE,
+Saudi Arabia,United Pharmaceuticals Company,unitedpharmacy.sa,firmographic_reviewed,na,ENRICH_name,3978798000084746793
+Saudi Arabia,WHITES,whites.net,firmographic_reviewed,na,ENRICH_name,3978798000016004114
+Saudi Arabia,Wahag Medical Company,wahagco.com,firmographic_reviewed,na,CREATE,
+Saudi Arabia,Wooden Coffee,wooden.sa,firmographic_reviewed,na,CREATE,
+Saudi Arabia,Zagzoog for home Appliances,zagzoog.com,judged,B,ENRICH_name,3978798000084746815
+Saudi Arabia,Zahrat Al-Rawdah Pharmacies Co.,zahra.com.sa,firmographic_reviewed,B,CREATE,
+Saudi Arabia,Zohoor Al Reef,zohooralreef.com,firmographic_reviewed,na,CREATE,
+Saudi Arabia,abdulsamadalqurashi,abdulsamadalqurashi.com,web_verified,A,ENRICH_domain,3978798000138949075
+Saudi Arabia,alamal advanced medical,alamalph.com,web_verified,B,CREATE,
+Saudi Arabia,aldawaa,,firmographic_reviewed,na,CREATE,
+Saudi Arabia,alephksa,alephksa.com,web_verified,B,ENRICH_domain,3978798000138833136
+Saudi Arabia,alsaifgallery,alsaifgallery.com,judged,B,ENRICH_domain,3978798000138824126
+Saudi Arabia,baba khabbaz  بابا خباز,babakhabaz.com,firmographic_reviewed,na,CREATE,
+Saudi Arabia,cenomiretail,cenomiretail.com,gap_found:fashion,A,ENRICH_domain,3978798000138824087
+Saudi Arabia,cool.sa,takeef.store,judged,na,CREATE,
+Saudi Arabia,doctorhouseshop,doctorhouseshop.com,firmographic_reviewed,na,ENRICH_domain,3978798000138833189
+Saudi Arabia,dr.CAFE® COFFEE SAUDI ARABIA,drcafe.com,firmographic_reviewed,B,CREATE,
+Saudi Arabia,drslounge,drslounge.com,firmographic_reviewed,na,ENRICH_domain,3978798000138833074
+Saudi Arabia,extra,extra.com,judged,A,ENRICH_domain,3978798000014369032
+Saudi Arabia,iHome-آي هوم,ihomestore.com,judged,na,CREATE,
+Saudi Arabia,kayanee,kayanee.com,firmographic_reviewed,na,ENRICH_domain,3978798000084747327
+Saudi Arabia,lazurde,lazurde.com,firmographic_reviewed,A,ENRICH_domain,3978798000030304454
+Saudi Arabia,lomar,lomar.sa,firmographic_reviewed,na,ENRICH_domain,3978798000084747837
+Saudi Arabia,nice,nice.com.sa,judged,B,ENRICH_domain,3978798000138824120
+Saudi Arabia,oceanpharmacy,oceanpharmacy.sa,firmographic_reviewed,na,ENRICH_domain,3978798000138833146
+Saudi Arabia,reefperfumes,reefperfumes.com,firmographic_reviewed,na,ENRICH_domain,3978798000138826061
+Saudi Arabia,roastinghouse,roastinghouse.sa,firmographic_reviewed,na,ENRICH_domain,3978798000138833159
+Saudi Arabia,rubaiyat,rubaiyat.com,firmographic_reviewed,B,ENRICH_domain,3978798000027018296
+Saudi Arabia,saco,saco.sa,judged,B,ENRICH_domain,3978798000138833113
+Saudi Arabia,shakersa,shaker.com.sa,firmographic_reviewed,A,ENRICH_name,3978798000138832983
+Saudi Arabia,sulalat,sulalat.com,judged,B,ENRICH_domain,3978798000138833185
+Saudi Arabia,werecle,werecle.com,firmographic_reviewed,na,ENRICH_domain,3978798000138833137
+Saudi Arabia,إبراق | IBRAQ,ibraqperfumes.com,firmographic_reviewed,na,CREATE,
+Saudi Arabia,الخياطة العربية,,firmographic_reviewed,na,CREATE,
+Saudi Arabia,الرشيد Alrasheed,alrasheedsweet.com,firmographic_reviewed,na,CREATE,
+Saudi Arabia,الغانم للأجهزة الكهربائية AL-GHANIM STORE,,judged,na,ENRICH_name,3978798000084734231
+Saudi Arabia,المذاق العربي,almthaqalarabi.com,firmographic_reviewed,na,CREATE,
+Saudi Arabia,باك كمفورت - Backcomfort,backcomfort.com.sa,judged,na,CREATE,
+Saudi Arabia,بلاك نايت Black Knight,b-k.coffee,firmographic_reviewed,na,CREATE,
+Saudi Arabia,بيوتي سيكرتس,thebeautysecrets.com,firmographic_reviewed,B,CREATE,
+Saudi Arabia,تركي للذبائح,turkieshop.com,firmographic_reviewed,na,CREATE,
+Saudi Arabia,حلويات نبيل نفيسة,,firmographic_reviewed,na,CREATE,
+Saudi Arabia,خطوة جمل | Camel Step,camelstep.com,firmographic_reviewed,B,CREATE,
+Saudi Arabia,رنين | Raneen,raneen.com.sa,judged,na,CREATE,
+Saudi Arabia,سدر الخليج للعطور( Sedr Alkhaleej Perfumes ),sedralkhaleej.com,firmographic_reviewed,na,CREATE,
+Saudi Arabia,شاهي ابو وليد - Abu Waleed Tea,abuwaleedtea.com,held_resolved:food_service_qsr,B,CREATE,
+Saudi Arabia,شركة اثاث للتجزئة,zamanifurniture.com,held_resolved:home_furniture,B,CREATE,
+Saudi Arabia,شركة اطياب غناتي التجارية,ghanaty.com,firmographic_reviewed,na,CREATE,
+Saudi Arabia,شركة الجازع الطبية | Al-Jazea Medical Company,aljazeaonline.com,web_verified,na,CREATE,
+Saudi Arabia,شركة دار الشاي العربي للتجارة DAR ALSHAI ALARABI TRADING .CO,daralshaistore.com,firmographic_reviewed,na,CREATE,
+Saudi Arabia,شركة ركاز الاخوان المتحدة المتميزة - اي مارت,,firmographic_reviewed,na,CREATE,
+Saudi Arabia,شركة شموع الماضي,pcandles.com,firmographic_reviewed,na,CREATE,
+Saudi Arabia,شركة عبداللطيف احمد العرفج وشريكه,arfajco.com,firmographic_reviewed,na,CREATE,
+Saudi Arabia,صيدليات انوفا - Innova Pharmacy,innovapharmacy.com,firmographic_reviewed,B,CREATE,
+Saudi Arabia,صيدليات باب الشفاء,,firmographic_reviewed,na,CREATE,
+Saudi Arabia,صيدلية,,firmographic_reviewed,na,CREATE,
+Saudi Arabia,صيدلية الرازي,razi.sa,firmographic_reviewed,B,CREATE,
+Saudi Arabia,صيدلية النهدي,,firmographic_reviewed,na,CREATE,
+Saudi Arabia,عطور فيصل الدايل | Faisal Aldayel Perfumes,faisalaldayel.com,firmographic_reviewed,na,CREATE,
+Saudi Arabia,عطور لوريس,lorisksa.com,firmographic_reviewed,na,CREATE,
+Saudi Arabia,ليوان | Liwan,liwan.sa,firmographic_reviewed,na,CREATE,
+Saudi Arabia,مجموعة عادل كير الطبية,adelcare.sa,web_verified,A,CREATE,
+Saudi Arabia,مخابز وحلويات نعمه,neamah.com,firmographic_reviewed,na,CREATE,
+Saudi Arabia,مخازن العناية | Makhazen Alenayah,makhazenalenaya.sa,firmographic_reviewed,na,CREATE,
+Saudi Arabia,مفارش العييري,aloyayri.sa,judged,na,CREATE,
+Saudi Arabia,مكتبة الجزيرة,jazeara.com,judged,na,CREATE,
+Saudi Arabia,مكتبه جرير,arabplaces.com,judged,na,CREATE,
+Saudi Arabia,نسق,nasaq.info,judged,na,CREATE,
+Saudi Arabia,وكف | wacafe,wacafe.sa,firmographic_reviewed,na,CREATE,
+Saudi Arabia,ِAlsorayai,al-sorayai.com,web_verified,A,CREATE,
