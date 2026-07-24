@@ -223,6 +223,35 @@ consistently re-applied during the recent re-verification pass, still valid as s
 
 ## Changelog vs. the 2026-07-23 morning "locked" version
 
+- **2026-07-24, later same day — No/Held pool quality check completed: 292 Yes → 297 Yes.** With
+  the Yes list finalized via Gate 8, turned to the No (868) and Held (105) pools per the user's own
+  earlier sequencing instruction ("once we finalize what's breaking, then only we go to NO and
+  HELD"). Two passes: (1) duplicate-detection mirroring the Yes-list dedup (domain-root clustering +
+  document-frequency-filtered fuzzy name matching across all 1,265 rows, plus a systematic sweep of
+  every row that makes a claim about another row's tag) — found 5 stale duplicate-merge records where
+  the "kept" row had since been downgraded by the adversarial-recheck or CRM/scale-filter rounds but
+  the dropped twin's text still claimed it "remains tagged Yes" (3 were real inconsistencies, synced
+  to match), one genuine contradiction (Ahmad A. Abed Holding / Ahmad A. Abed shared one Zoho ID with
+  opposite verdicts from two different verification passes — synced to the better-evidenced one), one
+  Held account (Aldawaa pharmacies) that turned out to be the same 900+-branch chain already captured
+  cleanly as Yes under a different name, and one genuine duplicate pair merged (Naqi water / NAQI).
+  (2) A larger, more consequential finding: **57 No-tagged accounts had been auto-excluded solely on
+  a bare Apollo NAICS code with zero semantic verification** — literally just "non-retail NAICS only
+  (codes)" as the reason, never swept into the earlier 33-batch full audit. This is exactly the
+  anti-pattern Gate 7 forbids. Verified all 57 with 4 parallel agents applying the full gate ruleset
+  (live-fetch, web-search corroboration where blocked, Gate 8 CRM/scale check) rather than trusting
+  the stub. Result: **5 flipped to Yes**, every one a real hybrid-B2B miss where a substantial,
+  live-transacting D2C retail subsidiary was overlooked because the parent's B2B/wholesale identity
+  triggered the auto-exclude — Kadoon Company (via its K.Cosmetics beauty e-commerce arm), Alyasra
+  Foods (via its Makani Foods grocery e-commerce arm, KWD 55K+ LinkedIn followers), Abu Khalifa
+  Trading (via its Keakado.com grocery e-commerce arm), شركة صقر الجزيرة/Saqr Al Jazira (via its
+  jzfstore.com home-appliance e-commerce arm), and WISTER (a real 14-branch Jeddah fast-casual QSR
+  chain with 465,000 Instagram followers, missed entirely because the domain on file, wister-sa.com,
+  was a typo returning a bot-block — the real site is wister.sa). The other 52 are confirmed No, now
+  carrying real evidence-based reasons instead of the bare stub (real-estate developers, B2B/wholesale
+  distributors and manufacturers, a testing/certification lab, a car-rental company, a job-listings
+  portal, a media outlet, and one wrong-geography record among them). Final: **297 Yes** (was 292),
+  863 No, 105 Held. See `rollout/no_held_pool_check_log.json` for the full fix log.
 - **2026-07-24 — CRM/Marketing-function + LinkedIn/Instagram scale filter applied (Gate 8,
   user-directed): 408 Yes → 292 Yes, 104 No, 12 Held.** The user judged 408 "still too many YES"
   and, after four hypotheses were offered, specified the exact fix: add two filters applied together
