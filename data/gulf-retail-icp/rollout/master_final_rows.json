@@ -16333,9 +16333,9 @@
     "gate_failed": "",
     "reason": "[FULL-AUDIT FLIP_YES] The 500 'dead' call was a transient/bot error: nahdi.sa is live and Nahdi is Saudi Arabia's largest retail pharmacy chain (Jeddah-HQ'd, 1,151 stores, live online pharmacy). Retail pharmacy chains are the explicit approved exception, so this is a clear qualifier. || ADVERSARIAL-CONFIRM: Jeddah-HQ'd Nahdi Medical Company, largest retail pharmacy chain in MENA (1,150+ pharmacies, Tadawul-listed ticker 4164) with a live online pharmacy; retail pharmacy chains are the explicit Gate 2 approved exception. Clear qualifier.",
     "source": "gap1_apollo_keyword+full_audit_flip+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000165730061",
+    "zoho_match_type": "name_corrected"
   },
   {
     "name": "Mogahwi Stationery & Office Equipment",
@@ -17708,5 +17708,19 @@
     "zoho_status": "existing",
     "zoho_account_id": "3978798000014961175",
     "zoho_match_type": "name_corrected (domain field in Zoho is wrong; matched on company identity, not domain)"
+  },
+  {
+    "name": "معهد الصناعات الغذائية-Food Industries Polytechnic",
+    "domain": "fip.edu.sa",
+    "country": "Saudi Arabia",
+    "tag": "No",
+    "category": "n/a (education/vocational training, not retail)",
+    "qualification_path": "",
+    "gate_failed": "category",
+    "reason": "[GAP-FILL 2026-07-24, from Zoho reconciliation] Not a retail company. Food Industries Polytechnic is a vocational/technical training institute established 2011 in Al-Kharj (Riyadh region) under Saudi Arabia's National Center for Strategic Partnerships and the Technical and Vocational Training Corporation (TVTC), run in strategic partnership with Almarai and other food manufacturers. It offers 2.5-year vocational training programs across 7 specializations (food production technology, farm technologies, equipment maintenance, supply chain, occupational health and safety, accounting, water purification) to train workers for food-industry careers -- sells no consumer products, no D2C storefront. The early-draft Zoho note's 'grocery' categorization was a clear misclassification triggered by the institute's name superficially resembling a food-industry retail/manufacturing company.",
+    "source": "zoho_reconciliation_gapfill",
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000084734357",
+    "zoho_match_type": "domain"
   }
 ]
