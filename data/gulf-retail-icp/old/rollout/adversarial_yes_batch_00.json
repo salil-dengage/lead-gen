@@ -1,0 +1,100 @@
+[
+ {
+  "name": "8oz Coffee",
+  "domain": "8ozcafe.com",
+  "country": "Saudi Arabia",
+  "category": "specialty coffee retail (F&B)",
+  "prior_qualification_reason": "Gate 5: the reason's sole disqualifier (18-SKU catalog with 'no wider physical cafe chain to compensate') rests on a factual error; 8oz is a substantial multi-city Saudi specialty-coffee chain (multiple Riyadh branches plus Dammam/Dhahran, Khobar, Buraydah, Abha) with a live transactional store and a highest-frequency approved F&B category, so the compensating substantiality the gate itself contem"
+ },
+ {
+  "name": "Al Hasawi Industrial Group",
+  "domain": "acekuwait.com",
+  "country": "Kuwait",
+  "category": "home improvement / hardware / general merchandise retail (Ace Hardware franchise)",
+  "prior_qualification_reason": "Gate 2/Gate 6: acekuwait.com is itself a live consumer e-commerce storefront (confirmed cart, 18+ broad consumer categories including kitchenware, furniture, outdoor, cleaning, garden and tools), B2C home-improvement/general-merchandise retail rather than B2B construction supply; evaluated on the retail arm's own domain and merits (Gate 6), the Kuwait parent's manufacturing line is not disqualifyi"
+ },
+ {
+  "name": "aDawliah Electronics",
+  "domain": "adawliahstore.com",
+  "country": "Kuwait",
+  "category": "consumer electronics, audio-visual and musical instruments retail",
+  "prior_qualification_reason": "Corrected Gate 2: the B2B/systems-integration exclusion is wrong; aDawliah runs a substantial dedicated consumer retail operation (Bose/Yamaha musical-instrument and consumer-AV showrooms in Kuwait malls including The Avenues and AlKout, plus Hawally and Shuwaikh showrooms) with live branded e-commerce (adawliahshop.com, confirmed cart). The on-file domain adawliahstore.com is now hijacked gamblin"
+ },
+ {
+  "name": "Alaysh International Group",
+  "domain": "alayshgroup.com",
+  "country": "Kuwait",
+  "category": "general merchandise / grocery (hybrid wholesale+retail: camping-outdoor, houseware, supermarket)",
+  "prior_qualification_reason": "Gate 4/5 met: the exclusion checked the corporate domain (alayshgroup.com, 'store not live'), but the live store is at alaysh.com -- Kuwait, KWD, working add-to-cart, ~100+ SKUs across supermarket, camping/outdoor, fresh, and household (all approved categories). Gate 4's relocated-domain search would have found it."
+ },
+ {
+  "name": "Aleef",
+  "domain": "aleef.com",
+  "country": "Saudi Arabia",
+  "category": "pet_retail",
+  "prior_qualification_reason": "Gate 2 misread: pet supplies are explicitly named in the approved 'general merchandise (incl. toys, books/stationery, pet supplies)' list and Petzone is a confirmed PASS. Aleef is a real Saudi pet retailer (Riyadh branches, live SAR store + cart, own app, many brands) clearing Gates 1-5; pet food/litter are high-repeat, not narrow."
+ },
+ {
+  "name": "Mohammed Alkhuraiji Industrial Company",
+  "domain": "alkhuraiji.com",
+  "country": "Saudi Arabia",
+  "category": "beauty / perfume & cosmetics retail",
+  "prior_qualification_reason": "Corrected Gate 2 (Lazurde/Aljazierah pattern): although also a perfume/cosmetics manufacturer, it runs its own substantial dedicated D2C storefront. Live Salla store with SAR cart/checkout, buy-1-get-1, reviews, free shipping, and ~370 product URLs. Beauty/perfume is approved (Gate 2/3), Saudi Riyadh HQ (Gate 1), cart (Gate 4), 370 SKUs (Gate 5a). The cross-verification that reversed it applied th"
+ },
+ {
+  "name": "ALMAKTABA",
+  "domain": "almaktaba.com.sa",
+  "country": "Saudi Arabia",
+  "category": "stationery / office furniture / general merchandise retail (business appears real; live digital channel unverifiable)",
+  "prior_qualification_reason": "Gate 4 relocated-channel rescue resolves the Held: the verified real Saudi retailer (est. 1958, 14 branches, Riyadh, stationery/books/office/electronics, an approved general-merchandise category) has a live Google Play Zid store app ('ALMAKTABA | المكتبة', pkg store.zid.almaktaba.zstore) and almaktaba.zid.store returns 403 (alive-but-blocked, not dead), the live channel the original audit missed w"
+ },
+ {
+  "name": "مفارش العييري",
+  "domain": "aloyayri.sa",
+  "country": "Saudi Arabia",
+  "category": "home / bedding & mattress retail",
+  "prior_qualification_reason": "Held resolved in favor: independent check confirms a broad multi-line home-textiles retailer (bedding, comforters, sheets, pillows, felt, sleeping supplies; 8+ categories), physical stores in Dammam and Buraydah, live Salla store plus iOS/Android apps, active discount codes and Kingdom-wide shipping. Not mattress-only; broad soft-goods with seasonal/gifting repeat purchase passes Gate 3, and multi"
+ },
+ {
+  "name": "IKEA Alsulaiman",
+  "domain": "alsulaimangroup.com",
+  "country": "Saudi Arabia",
+  "category": "home_furniture",
+  "prior_qualification_reason": "Gates 1-5 pass: the account name is the IKEA retail brand itself, a genuine substantial Saudi-operated franchise (Ghassan Alsulaiman Furniture Trading Co., exclusive IKEA franchise since 1983, 11+ in-Kingdom stores, full live e-commerce on ikea.com/sa with Mada/Apple Pay/Tamara/Tabby/Al Rajhi installments/same-day delivery). The Gate 6 exclusion nitpicked the holding domain, but this account repre"
+ },
+ {
+  "name": "السلطان | AlSultan",
+  "domain": "alsultan-ksa.com",
+  "country": "Saudi Arabia",
+  "category": "bedding_linens (narrow home-textile specialty)",
+  "prior_qualification_reason": "Gate 3 pass: not a single narrow line but a multi-category home-textiles retailer (bedroom textiles, summer/winter bedspreads, pillows, mattress toppers, plus bathroom textiles, bathrobes, prayer mats, shawls, fragrances; 8 categories), live Salla store since 1981 with shipping/tracking and promo codes. Bed linens/towels refresh seasonally and are heavily gifted, so the flooring/carpet-only analog"
+ },
+ {
+  "name": "Green Wing Co. W.L.L",
+  "domain": "anotah.com",
+  "country": "Kuwait",
+  "category": "fashion_domain_compromised",
+  "prior_qualification_reason": "SAMPLE RE-AUDIT CORRECTION (No -> Yes): Gate 4 re-gate: a live curl now shows anotah.com serving a real transactional womenswear store (anotah.com/en/women-dress/: 600+ product refs, KWD pricing, cart/checkout, no gambling-spam) plus a shopping app. Anotah is a genuine Kuwait-HQ'd fashion chain (est. 1998, 64+ stores); the earlier compromised-domain state no longer holds, so it qualifies."
+ },
+ {
+  "name": "Arriyadh Roaster محمصة الرياض",
+  "domain": "arriyadhroaster.com",
+  "country": "Saudi Arabia",
+  "category": "grocery_fnb (specialty coffee retail)",
+  "prior_qualification_reason": "Corrected Gate 2: confirmed live Salla DTC store with an extensive multi-category consumer catalog (coffee, Saudi coffee, matcha, capsules, accessories, bundles) well past the 50-SKU floor, coffee being a high-frequency F&B consumable. The coexisting wholesale/roasting arm does NOT disqualify (Go Fresh/Lazurde pattern); the cross-verification that re-excluded it wrongly applied the discredited 'an"
+ },
+ {
+  "name": "Bed Quarter Company",
+  "domain": "bedquarter.com",
+  "country": "Saudi Arabia",
+  "category": "home_furniture",
+  "prior_qualification_reason": "Gates 1-5 pass: live store (SAR, Saudi) with 149 SKUs spanning mattresses, beds, pillows, toppers, protectors, quilts/duvets, massage chairs and school bags -- a broad bedding/home assortment, not 'mattresses only.' The cross-verification OUT rested on hotel/B2B supply and own-manufacturing 'which alone disqualifies,' the exact blunt Gate 2 reading the changelog corrects; a substantial dedicated r"
+ },
+ {
+  "name": "Dkhoon Emirates",
+  "domain": "dkhoonemirates.com",
+  "country": "Saudi Arabia",
+  "category": "beauty / perfume / oud / incense retail",
+  "prior_qualification_reason": "Gate 1 resolved toward Saudi: despite the 'Emirates' brand identity, the operating entity is Saudi-HQ (Riyadh, est. 2015 per Dealroom, consistent with the Saudi ZATCA VAT/CR the original found on the storefront), matching the Saudi row; category (perfume/oud) is approved and it runs a live SAR e-commerce store with cart and loyalty."
+ }
+]

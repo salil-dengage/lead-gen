@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Almanara Electric Trd Co شركة المنارة الكهربائية للتجارة",
+    "domain": "almanara.com.sa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "electrical_building_materials",
+    "qualification_path": "n/a",
+    "reason": "Almanara (est. 1987, Riyadh HQ, Saudi Arabia) is the sole KSA distributor of Panasonic switches/sockets, Opple and Fumagalli lighting, selling electrical switches & sockets, residential/commercial panel boards, indoor/outdoor lighting and chandeliers. This is electrical wiring/fittings for construction, an explicit Gate 2 hard-fail category, regardless of the fact it runs a genuinely live, fully transactional e-commerce site.",
+    "evidence": "curl to https://www.almanara.com.sa/en/ (HTTP 200, 98KB) shows a real cart/wishlist/order-tracking storefront with priced SKUs (e.g. 'LED slim US R10cm 6w-4k 14.58 SAR Include VAT') and brand pages for Opple, Panasonic, Fumagalli, Lutec, Midea; company profile confirms Al Malaz, Riyadh HQ and 1987 founding."
+  },
+  {
+    "name": "ALMEERA CONSUMER GOODS COMPANY QSC",
+    "domain": "almeera.com.qa",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "grocery",
+    "qualification_path": "substantiality",
+    "reason": "Al Meera Consumer Goods Company Q.P.S.C., established 2005 and headquartered in Doha, Qatar (Gate 1 pass), is Qatar's largest supermarket/hypermarket/convenience retailer (Gate 2/3 pass, high-frequency grocery), publicly listed on the Qatar Stock Exchange since 2009 with 50-65+ branches nationwide (Gate 5 pass via substantiality). It runs a real consumer mobile app with online ordering, scheduled delivery and a 'wafa' loyalty program, plus third-party delivery integrations (Snoonu, Talabat, Rafeeq) (Gate 4 pass).",
+    "evidence": "almeera.com.qa / group.almeera.com.qa confirm Doha HQ and description as 'the leading retailer in Qatar' with 'over 50 branches'. Apple App Store listing (apps.apple.com/qa/app/almeera/id1445590345) confirms a live ordering/delivery app; group site fetch (HTTP 200) confirms an active production web app."
+  },
+  {
+    "name": "Almutahidah",
+    "domain": "almutahidah.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "non_retail_services",
+    "qualification_path": "n/a",
+    "reason": "Almutahidah (Riyadh HQ, Saudi Arabia, 501-1,000 employees) is a domestic-services company offering hourly home cleaning, trained domestic workers, and licensed drivers. This is a staffing/services business with no product retail of any kind, an outright Gate 2 fail (not a retail category).",
+    "evidence": "WebSearch confirms Almutahidah 'offers a range of domestic services including hourly home cleaning and trained domestic workers, as well as licensed drivers for personal and business needs,' HQ Riyadh, Saudi Arabia."
+  },
+  {
+    "name": "Alyasra Group",
+    "domain": "alyasra.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "fashion",
+    "qualification_path": "substantiality",
+    "reason": "Alyasra Fashion, the fashion division of the Kuwaiti Yousef A. Al Sager holding group (Kuwait City HQ since 1958; Fashion division est. 1993), is a genuine, large multi-brand fashion retailer (Gate 1 pass) with 220+ stores across the GCC, 30+ international brands (Kenzo, Marc Jacobs, Banana Republic, DKNY, ECCO, etc.) spanning apparel, footwear, watches/jewelry and fragrance, and 50,000+ sqm of retail space (Gate 2/3/5 pass, broad multi-category, substantial scale). Its Ontime watches/jewelry/accessories chain runs a genuine transactional web store (ontime.com/kw/en) and its own 'Ontime Online Shopping' consumer app (Gate 4 pass).",
+    "evidence": "curl to alyasra.com (HTTP 200, 248KB) confirms '220+ Stores across the GCC', '30+ International brands', '50,000+ sqm of retail space', '30 Years as retail pioneers'. Apple App Store listing confirms 'Ontime Online Shopping' app (id1496952000), developed by Alyasra Fashion, with web store at ontime.com/kw/en."
+  },
+  {
+    "name": "Aramco Lubricants & Retail Company",
+    "domain": "aramco.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "fuel_lubricants",
+    "qualification_path": "n/a",
+    "reason": "Aramco Lubricants & Retail Company is a wholly-owned Saudi Aramco chemicals/lubricants subsidiary (Dhahran HQ) operating under the parent aramco.com corporate site with no dedicated consumer storefront. Petroleum/lubricant and fuel-station retail is not in the approved Gate 2 category list, so it fails category.",
+    "evidence": "WebSearch confirms the company is 'a wholly owned subsidiary of Saudi Aramco with a 20-year history of chemicals business operations,' based at Dhahran, and operates only under the umbrella aramco.com site, matching the prior fuel_station categorization."
+  },
+  {
+    "name": "Cadillac Aljomaih",
+    "domain": "cadillac.aljomaihauto.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive_dealer",
+    "qualification_path": "n/a",
+    "reason": "Cadillac Aljomaih (Aljomaih Automotive Company), founded 1967 and the official Cadillac distributor/dealer in Saudi Arabia and largest GM dealer in the Middle East, is an automotive dealer - an explicit Gate 2 hard-fail category regardless of scale.",
+    "evidence": "cadillac.aljomaihauto.com describes itself as 'the Official Cadillac Distributor in Saudi Arabia' offering 'new and used car sales and after sales services... credit and financing facilities'."
+  },
+  {
+    "name": "Cenomi",
+    "domain": "cenomiretail.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "fashion",
+    "qualification_path": "substantiality",
+    "reason": "Cenomi Retail (formerly Fawaz Alhokair Fashion Retail Co., now AFG International Co.), Saudi Arabia/Riyadh HQ, founded 1991 (Gate 1 pass), is the largest franchise fashion retailer in the Kingdom and the only listed retailer of its kind in the Middle East (Tadawul: 4240). It represents 41 brands spanning womenswear, kids/baby, department stores, shoes/accessories, cosmetics plus F&B across 730 stores in 134 malls in 8 countries (Gate 2/3/5 pass: broad multi-category fashion, very large scale). Its own Q1 2026 investor factsheet reports a real, revenue-generating Online channel (8.6% of Q1'26 revenue vs. 91.4% Stores) alongside physical stores (Gate 4 pass).",
+    "evidence": "Official Q1 2026 factsheet (ir.cenomiretail.com/media/5a2hd24c/cenomi-retail-factsheet-q1-2026-v2.pdf): '730 stores across 134 shopping malls in 8 countries... currently represents 41 brands spanning womenswear, kids and baby, department stores, shoes and accessories, cosmetics'; 'Revenue by Channel' chart shows Online 8.60% / Stores 91.40% in Q1'26. Publicly traded, Tadawul symbol 4240."
+  },
+  {
+    "name": "CVD Zahid Tractor",
+    "domain": "zahidtractor.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive_commercial_vehicles",
+    "qualification_path": "n/a",
+    "reason": "CVD is the Commercial Vehicles Division of Zahid Tractor (Jeddah HQ, est. 1967), the exclusive Saudi distributor of Volvo Trucks, UD Trucks, Renault Trucks, and Volvo/Higer buses. Heavy commercial-vehicle distribution is automotive/industrial, an explicit Gate 2 hard-fail category.",
+    "evidence": "zahidtractor.com and zahid.com/businesses/commercial-vehicles confirm CVD is 'the exclusive distributor of Volvo Trucks, UD Trucks and Renault Trucks in the Kingdom of Saudi Arabia', HQ Jeddah."
+  },
+  {
+    "name": "Decorella Panits EST",
+    "domain": "",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "building_materials_paint",
+    "qualification_path": "n/a",
+    "reason": "Decorella Paints (operated by Zaid Abdul Rahman Al Shalhoub Trading Est, Riyadh, Saudi Arabia) is a paint retail/trading shop. Paint is a construction-material product line closely analogous to the explicitly hard-failed building-materials bucket, and independently a single narrow product line with inherently low repeat-purchase frequency (Gate 2/3 fail). No dedicated live e-commerce website could be found either (only a Facebook page and directory listings), so Gate 4 would independently fail.",
+    "evidence": "WebSearch found only facebook.com/decorella.alshalhoub and branch-directory listings (branchesksa.com) describing 'Decorella Paints... a Riyadh-based company offering paint services and products'; no working company domain located despite multiple search attempts."
+  },
+  {
+    "name": "EBEL ابل",
+    "domain": "ebel.sa",
+    "verdict": "OUT",
+    "gate_failed": "digital_channel",
+    "category_final": "unverifiable",
+    "qualification_path": "n/a",
+    "reason": "No live, reachable website could be confirmed for this business. The only plausible domain (ebel.sa) fails DNS resolution entirely, and extensive English and Arabic WebSearches (including the 'home_improvement' angle from the prior categorization) found no alternate live site or clear real-world identity for this company - the name only collides with the unrelated Swiss EBEL watch brand and with 'Abal', the common Arabic transliteration of 'Apple'. No verifiable digital channel found, and the business's category could not be confirmed either.",
+    "evidence": "curl to https://ebel.sa/ and http://ebel.sa/ both failed to connect (proxy CONNECT tunnel 502 / exit code 1); WebFetch returned 'getaddrinfo ENOTFOUND ebel.sa'. Multiple WebSearch queries (English: 'EBEL Saudi Arabia home improvement furniture company', 'EBEL trading establishment'; Arabic: furniture/decor terms) returned no matching real business or working domain."
+  },
+  {
+    "name": "Express Food Company",
+    "domain": "albaik.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "qsr_fastfood",
+    "qualification_path": "substantiality",
+    "reason": "Express Food Company, Jeddah HQ, Saudi Arabia, is the ALBAIK Food Systems licensee operating 100+ ALBAIK fast-food (Broast chicken) restaurants across Saudi Arabia and Bahrain since 1974 (Gate 1 pass). QSR/fast-food is an approved, high-repeat-purchase category (Gate 2/3 pass), at substantial multi-restaurant scale (Gate 5 pass). ALBAIK runs its own consumer ordering app (iOS/Android) with delivery and pickup, plus third-party delivery integrations (Gate 4 pass).",
+    "evidence": "albaik.com (HTTP 200) confirms Jeddah HQ, 1974 founding, and an 'ALBAIK Branches' network with customer-service line. Apple App Store listing confirmed (apps.apple.com/sa/app/albaik/id1514349620); HungerStation and Ninja delivery-partner integrations also confirmed via search."
+  },
+  {
+    "name": "Food Industries Company",
+    "domain": "ficofood.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "food_manufacturing",
+    "qualification_path": "n/a",
+    "reason": "Food Industries Co. (FICO), Kuwait, is a snack-food MANUFACTURER (potato chips, baked/cooked snacks) established in the late 1970s around its own production lines, not a grocery retailer or supermarket chain. Manufacturing/industrial is an explicit Gate 2 hard-fail, regardless of the basic cart/login feature present on its own corporate site.",
+    "evidence": "curl to ficofood.com (HTTP 200) states: 'Food Industries (FICO) is a Kuwaiti Shareholding (closed) Company... announcing the inception of the snack food industry in Kuwait. The work began with one production line producing potato chips.' Site is organized around brand/production history (History, Vision and Mission, Certificates) rather than a multi-vendor grocery storefront; no separate Kuwaiti grocery-retail 'Food Industries Company' was found in any search."
+  },
+  {
+    "name": "Gazzaz قزاز",
+    "domain": "gazzaz.com.sa",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "beauty_fashion_luxury",
+    "qualification_path": "substantiality",
+    "reason": "Gazzaz, founded 1942 and headquartered in Makkah, Saudi Arabia (Gate 1 pass), is described as the largest Saudi retail group for luxury perfumes, clothes and beauty (Gate 2/3 pass: perfume/beauty is a consumable, high-repeat-purchase category). Its site gazzaz.com.sa is a fully live, transactional e-commerce store with a large real catalog well beyond the 50-SKU floor (Gate 4/5 pass).",
+    "evidence": "curl to gazzaz.com.sa (HTTP 200, 105KB) shows a real cart/checkout storefront: 'Buy one get one free', free shipping over 400 SAR, national-address shipping requirement, and an extensive catalog across perfume brands (Gucci, Armani, YSL, Tom Ford, Givenchy, Carolina Herrera, Creed, Parfums de Marly), makeup/skincare, jewelry, watches, and home/gift items."
+  },
+  {
+    "name": "GRAND HYPER MARKET",
+    "domain": "qatar.grandhyper.com",
+    "verdict": "OUT",
+    "gate_failed": "geography",
+    "category_final": "grocery",
+    "qualification_path": "n/a",
+    "reason": "Grand Hyper's global HQ is in Dubai, UAE (Regency Group for Corporate Management / 'Grand Corporate', Al Quoz Industrial Area 4), not Qatar. The Qatar outlets (qatar.grandhyper.com, ~8 branches) are a local branch of a UAE-HQ'd retail network spanning UAE, Qatar, Kuwait, Oman, KSA and India - this fails Gate 1 geography even though the Qatar operation itself is real, live (online grocery ordering/delivery) and substantial.",
+    "evidence": "WebSearch confirms 'Grand Hypermarkets headquarters are located in Al Quoz Industrial Area 4... Dubai, United Arab Emirates' under 'Regency Group for Corporate Management', operating '93+ hypermarkets and supermarkets across the UAE, Qatar, Kuwait, KSA, and India' via grandcorporate.com; Qatar-specific site at qatar.grandhyper.com lists 8 outlets."
+  },
+  {
+    "name": "Haier_Saudi",
+    "domain": "haier.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "manufacturing_appliances",
+    "qualification_path": "n/a",
+    "reason": "Haier's Saudi Arabia site (haier.com/sa) is the appliance manufacturer's brand/product-support portal, not a retail storefront - it explicitly routes consumers to third-party 'Haier SA Dealers' rather than selling directly. Manufacturing/industrial is an explicit Gate 2 hard-fail category.",
+    "evidence": "curl to https://www.haier.com/sa/ (HTTP 200, 15KB) shows navigation for 'Haier Group', 'Haier Brand', 'Investor Relations', 'Haier SA Dealers', 'Service & Support' with no shopping cart/checkout; local market entry is via distribution/JV with Al Jabr Electronics (Haier & Al Jabr Saudi Electronics Co.), not a Haier-operated store."
+  },
+  {
+    "name": "IKEA Alsulaiman",
+    "domain": "alsulaimangroup.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "home_furniture",
+    "qualification_path": "substantiality",
+    "reason": "IKEA Alsulaiman is operated by Ghassan Alsulaiman Furniture Trading Co. (Alsulaiman Group), a genuinely Saudi-HQ'd conglomerate holding the exclusive IKEA franchise for Saudi Arabia and Bahrain since 1983 (the first-ever IKEA franchise globally) - this is exactly the 'Saudi conglomerate that owns the local IKEA franchise rights' pattern that passes Gate 1 despite IKEA being a foreign brand. It operates 11 stores in-Kingdom plus Bahrain across the broad home/furniture/general-merchandise category (Gate 2/3 pass, not narrow). Its site is a fully functioning e-commerce operation with cart/checkout, financing (0% installments via Al Rajhi Bank, SNB, Tamara) and same-day/free-delivery thresholds, spanning dozens of product categories (Gate 4/5 pass).",
+    "evidence": "alsulaimangroup.com/retail/ikea confirms Alsulaiman Group (Saudi HQ) holds the IKEA franchise since 1983, with 11 stores. curl to https://www.ikea.com/sa/en/ (HTTP 200, 86KB) confirms a live shopping bag/checkout: '0% interest installments with Al Rajhi Bank and SNB, up to 12 payments with Amwal', 'Same-day service starts from 39 SR', 'free delivery when you spend 1,500 SR or more', across categories including furniture, kitchenware, textiles, home electronics, and food & beverages."
+  },
+  {
+    "name": "IMC Kulud Pharmacy",
+    "domain": "kuludonline.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "health_beauty_pharmacy",
+    "qualification_path": "substantiality",
+    "reason": "Kulud Pharmacy is the flagship retail division of International Medical Company (IMC), established 1998 and described as the largest chain of pharmacies in Qatar (Gate 1 pass, Qatar HQ). Pharmacy retail is an approved, recurring-purchase category (Gate 2/3 pass). Kulud runs a fully transactional online pharmacy with 1-hour delivery and an extensive catalog well beyond the 50-SKU floor (Gate 4/5 pass).",
+    "evidence": "curl to kuludonline.com (HTTP 200, 115KB) confirms '1 Hour Delivery across Qatar', a real cart, Apple Pay/Google Pay checkout, free delivery over 99 QAR, and dozens of categories (Medicines, Vitamins & Supplements, Skin/Hair/Beauty Care, Mom & Baby, Health Care, Healthy Grocery, Sports Nutrition, Prescriptions). imcqatar.com confirms IMC/Kulud as Qatar's largest pharmacy chain, est. 1998."
+  },
+  {
+    "name": "Jazirat Samaa Fashion",
+    "domain": "",
+    "verdict": "OUT",
+    "gate_failed": "digital_channel",
+    "category_final": "fashion",
+    "qualification_path": "n/a",
+    "reason": "Jazirat Samaa Fashion Co. Ltd (Al Ahsa, Eastern Province, Saudi Arabia; ~66-80 employees) is a genuine small Saudi apparel/home-goods retail chain (Gate 1/2/3 pass), but no live, verifiable website or online store could be found for it despite thorough English and Arabic searches. A similarly-described consumer brand ('Samena Stores', samena-stores.com, est. 1992) surfaced in searches but could not be confirmed as the same legal entity, so it was not used to pass this account. No verifiable digital channel found.",
+    "evidence": "WebSearch (English and Arabic, multiple query variants including 'جزيرة سماء للأزياء') returned only business-directory, LinkedIn, and TikTok listings for 'Jazirat Samaa Fashion Co Ltd' / 'شركة جزيرة سماء للأزياء المحدودة', describing it only as 'a chain of commercial stores for fashion and home supplies' (Riyadh, Al-Olaya) with no working company domain located; Zawya and arablocal.com profile pages did not resolve to usable company detail (403/generic redirect)."
+  }
+]

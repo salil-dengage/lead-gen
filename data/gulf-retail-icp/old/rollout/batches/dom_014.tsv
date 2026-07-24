@@ -1,0 +1,19 @@
+source	country	name	domain	prior_verdict	prior_category
+original	Saudi Arabia	DKHOUN دخون	dkhoun.com	IN	health_beauty_pharmacy
+original	Saudi Arabia	doctorhouseshop	doctorhouseshop.com	IN	fashion
+held_review	Qatar	Doha Oasis	dohaoasis.com	OUT	food_service_qsr
+original	Qatar	Doha Marketing Services Company, an Al-Futtaim Group company	domasco.com	OUT	foreign_operator
+original	Saudi Arabia	Doos دووس	doos.sa	IN	grocery
+original	Saudi Arabia	Dose Cafe | دوز كافيه	dosecafeksa.com	IN	grocery
+original	Saudi Arabia	dr.CAFE® COFFEE SAUDI ARABIA	drcafe.com	IN	grocery
+original	Saudi Arabia	Dream Fitness حلم الرشاقة	dreamfitness.shop	IN	sporting_toys_books
+held_review	Kuwait	Drops	dropsgroup.com	OUT	retail_general
+original	Saudi Arabia	drslounge	drslounge.com	IN	fashion
+original	Saudi Arabia	Dukan Retailing Company	dukan.me	IN	grocery
+original	Kuwait	EARTH ROASTERY	earthroastery.com	IN	specialty_fnb_retail
+held_review	Qatar	Eastern Gate	easterngate.online	OUT	home_improvement
+original	Kuwait	Mohammad Saleh & Reza Yousuf Behbehani Co.	ebehbehani.com	OUT	non_retail
+original	Saudi Arabia	EDDY - Home & Electronics	eddy.com.sa	IN	home_furniture_appliance
+original	Qatar	TechnoBlue	electronyat.qa	IN	electronics
+original	Saudi Arabia	Elfaleh Sports House	elfaleh.sa	IN	sporting_toys_books
+original	Qatar	Elite Motors Qatar	elitemotorsqatar.com	OUT	non_retail

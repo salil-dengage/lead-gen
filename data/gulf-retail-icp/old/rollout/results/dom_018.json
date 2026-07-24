@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Hassan's Optician Co.",
+    "domain": "hassans.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "health_beauty_pharmacy",
+    "qualification_path": "substantiality",
+    "reason": "Live, substantial multi-brand optical/eyewear e-commerce retailer (sunglasses, prescription eyeglasses, contact lenses, vision-care accessories) HQ'd in Kuwait since 1951; passes all gates.",
+    "evidence": "curl https://www.hassans.com/ returned 200 OK, 47.5KB. Confirmed real cart/checkout: 'Add to Cart' x47, 'checkout' x84, 'product-item' x206 occurrences, prices in KWD, 60+ international eyewear brands (Ray-Ban, Gucci, Prada, Burberry, Tom Ford, etc.), dedicated categories for sunglasses/eyeglasses/lenses/kids/vision-care solutions, native mobile app referenced ('Open in the Hassans app'). WebSearch confirmed HQ in Kuwait City, founded 1951 by Dr. Hassan Saadat Yazdi, 40+ branches across Kuwait/UAE, matching row geography (Kuwait)."
+  },
+  {
+    "name": "HATCON",
+    "domain": "hatcon.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "industrial_b2b_distribution",
+    "qualification_path": "n/a",
+    "reason": "B2B industrial equipment, materials and services distributor for surface preparation/coatings serving oil & gas, petrochemicals and mining industries; no consumer retail storefront.",
+    "evidence": "curl https://hatcon.com returned 200 OK, 110KB. Page text: 'Leading Industrial Solutions Provider in Saudi Arabia & GCC ... premier industrial equipment, materials, and services for surface preparation and coatings since the early 1980s ... serving various industries such as oil & gas, petrochemicals, mining'. Divisions: Coating & Lining, Equipment, Architectural, Abrasives -- all B2B project/industrial supply; no cart or consumer pricing found anywhere on the page."
+  },
+  {
+    "name": "GWM Saudi Arabia",
+    "domain": "haval.com.sa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive",
+    "qualification_path": "n/a",
+    "reason": "Automotive OEM/dealer site for Haval (Great Wall Motors) vehicles in Saudi Arabia; automotive is a hard-fail category regardless of digital sophistication.",
+    "evidence": "curl https://haval.com.sa returned 200 OK, 12.5KB. Page lists car models (Jolion, H6, H7, H9, H6 GT, H6 HEV, V7 Series) with SAR prices (e.g. SAR 73,485-127,200) and 'Book a Test Drive' CTAs -- confirmed automotive dealer/OEM marketing site, footer '© 2024 GWM KSA'."
+  },
+  {
+    "name": "Al Hayat Building Materials Company - IKK Group",
+    "domain": "hbmc.sa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "building_materials_b2b",
+    "qualification_path": "n/a",
+    "reason": "Company name and site title confirm this is a building materials company (construction B2B), an explicitly excluded category.",
+    "evidence": "curl https://www.hbmc.sa returned 200 OK, 757 bytes (bare JS-app shell). <title>Al Hayat Building Materials Company - شركة الحياة لمواد البناء</title> confirms building materials business; matches prior category exactly."
+  },
+  {
+    "name": "H&H Shaker",
+    "domain": "hh-shaker.com.sa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "appliance_distribution_b2b",
+    "qualification_path": "n/a",
+    "reason": "Self-described 'For Modern Trading' distributor of air-conditioning and home-appliance brands operating through 500+ third-party dealer showrooms; no consumer cart/shop/price content found on site -- wholesale/distribution, not direct retail.",
+    "evidence": "curl https://www.hh-shaker.com.sa returned 200 OK, 46.7KB. Text: 'HH-SHAKER For Modern Trading ... A leading provider and distributor of Air Conditioning solutions and renowned Home Appliance brands ... 500+ Dealer Showrooms ... 60+ Partners ... 5 Warehouses ... 5 Service Centers'. Keyword scan found 0 occurrences of cart/price/shop/checkout/'Buy Now'/'online store' anywhere on the page."
+  },
+  {
+    "name": "Haji Husein Alireza & Co. Ltd.",
+    "domain": "hha.com.sa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive",
+    "qualification_path": "n/a",
+    "reason": "Automotive dealer/service site (Mazda maintenance booking, Aston Martin service booking) based in Jeddah; automotive is a hard-fail category.",
+    "evidence": "curl https://hha.com.sa (required -k for an origin cert issue) returned 200 OK, 20.6KB. Arabic text confirms 'الحاج حسين علي رضا وشركاه المحدودة، جدة، المملكة العربية السعودية' (Jeddah, Saudi Arabia) alongside 'صيانة مازدا' (Mazda maintenance) and 'خدمة حجز الصيانه لسيارات أستون مارتن' (Aston Martin service booking) -- confirmed automotive dealership."
+  },
+  {
+    "name": "Hilti Qatar",
+    "domain": "hilti.com.qa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "construction_tools_b2b",
+    "qualification_path": "n/a",
+    "reason": "Professional construction power-tools, chemical anchors and firestop systems for contractors, engineers and jobsites -- construction/contracting is an explicitly excluded category even though the site has a real cart.",
+    "evidence": "curl https://www.hilti.com.qa returned 200 OK, 39.5KB. Page text: '#MakingConstructionBetter ... chemical anchors are designed and developed for use in concrete, masonry ... Nuron cordless power tool ... Firestop and fire protection ... solutions for engineers and contractors'. Site does have Cart/Login functionality, but the entire catalog is professional construction equipment sold to jobsites/contractors, not consumer retail."
+  },
+  {
+    "name": "AL MAKTAB AL QATARI AL HOLLANDI WLL",
+    "domain": "hollandi.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "wholesale_distribution_florist_bakery",
+    "qualification_path": "n/a",
+    "reason": "Core business is a wholesale distributor of bakery ingredients and imported flowers/plants (B2B, founded 1980 as a wholesale bakery-ingredients importer), with only a narrow florist/garden-center/cafe retail offshoot that has no confirmed live transactional consumer website. Prior category label 'sporting_toys_books' does not match any evidence found on this business.",
+    "evidence": "curl https://hollandi.com returned 200 OK, 26.9KB. Text: 'started its business in Qatar in 1980, originally as a wholesale distributor of bakery ingredients ... largest distributor of imported flowers ... Flowers Wholesale Business to Business Market place. Online buying for Wholesale customers.' Retail subsidiary URLs plazahollandi.com and plazahollandi.com/webshop both returned 403 (blocked) on direct fetch. WebSearch corroborated: wholesale distributor since 1980 with separate B2B webshops at flowers.hollandi.online / bakery.hollandi.online; found no evidence of sporting goods, toys, or books anywhere in connection with this business."
+  },
+  {
+    "name": "Home & Garden",
+    "domain": "homeandgarden.cc",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "home_furniture_appliance",
+    "qualification_path": "substantiality",
+    "reason": "Kuwaiti home-and-garden retailer (furniture, decor, lighting, flooring, pots/planters) with 10,000+ product varieties sourced from 20 countries and a live webstore with real priced products. The given domain (.cc) is blocked, but the business and its live storefront are corroborated on its actual operating domain homeandgarden.com.kw.",
+    "evidence": "Given domain https://homeandgarden.cc returned 403 (Cloudflare block, tried both desktop and mobile UA). WebSearch identified the real operating site as homeandgarden.com.kw / shopping.homeandgarden.com.kw. curl https://homeandgarden.com.kw returned 200 OK, 46.3KB, confirming: 'Home & Garden is a Kuwaiti company ... partnership with major international suppliers from 20 countries and more than 10,000 varieties of products including pots, planters, plants and garden ornaments ... garden furniture'; nav lists WEB STORE and RETAIL as core business lines alongside showrooms. Direct fetch of shopping.homeandgarden.com.kw was blocked (403), but WebSearch surfaced live indexed product/collection pages (e.g. 'GARDEN PLANTERS FOR OUTDOOR PLANTS', \"Kuwait's Finest Pots Collection\", 'ALL POTTED PLANTS', a 'Ruby Plastic Planter priced at KWD 1.50', collections tagged 'Sofa' and 'Special Offer') confirming a real, live, priced transactional catalog well beyond the 50-SKU floor."
+  },
+  {
+    "name": "Abdullah Hashim Co. Ltd",
+    "domain": "honda-mideast.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive",
+    "qualification_path": "n/a",
+    "reason": "Honda Motor Co. regional automotive OEM site (automobiles, motorcycles, power products, outboard engines) covering Middle East & Africa; automotive is a hard-fail category.",
+    "evidence": "curl https://honda-mideast.com returned 200 OK, 56.4KB. Page confirms: 'The official website of Honda Motor Co., Ltd., Middle East and Africa' covering Automobiles, Motorcycles, Power Products, Outboard Engines across 13+ regional markets (incl. Saudi Arabia, Bahrain, Kuwait, Qatar, UAE, Egypt) -- a regional automotive OEM marketing site, not a Saudi-specific consumer transactional storefront."
+  },
+  {
+    "name": "Hyatt Plaza Shopping Mall",
+    "domain": "hyattplaza.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "mall_landlord",
+    "qualification_path": "n/a",
+    "reason": "A shopping mall is a real-estate/landlord operation, an explicitly excluded category regardless of digital presence.",
+    "evidence": "curl https://hyattplaza.com returned 200 OK, 11.8KB (thin client-rendered JS-app shell, <title>HyattPlaza</title>). Row name 'Hyatt Plaza Shopping Mall' plus site branding confirm this is a shopping-mall landlord entity in Qatar, not a retailer selling its own merchandise."
+  },
+  {
+    "name": "Almajdouie Hyundai",
+    "domain": "hyundai.sa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive",
+    "qualification_path": "n/a",
+    "reason": "Almajdouie Hyundai is a Hyundai automotive dealership under the Saudi Almajdouie conglomerate; automotive is a hard-fail category regardless of site status.",
+    "evidence": "curl https://hyundai.sa returned Cloudflare error 526 (invalid origin SSL certificate), reproduced both with and without -k. Domain name and company name (Almajdouie Hyundai) unambiguously identify this as a Hyundai automotive dealership; automotive is a hard fail 'regardless of how real/live the operation is', so no further live-site verification was needed."
+  },
+  {
+    "name": "Hyundai - Mohamed Yousuf Naghi Motors Co.",
+    "domain": "hyundaiksa.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive",
+    "qualification_path": "n/a",
+    "reason": "Official Hyundai Saudi Arabia dealer/distributor site; automotive is a hard-fail category.",
+    "evidence": "curl https://hyundaiksa.com returned 200 OK (redirected to /ar), 106KB. Page text: 'Hyundai Saudi Arabia Official Website ... distributors in Riyadh, Jeddah, and Dammam' -- confirmed automotive dealer/distributor site."
+  },
+  {
+    "name": "Hyundai Saudi Arabia",
+    "domain": "hyundaiwallan.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive",
+    "qualification_path": "n/a",
+    "reason": "Domain redirects into the same Hyundai Saudi Arabia dealer network as row hyundaiksa.com (Al Waalan Hyundai branch); automotive hard-fail.",
+    "evidence": "curl https://hyundaiwallan.com returned 200 OK but redirected to https://hyundaiksa.com/ar/wallan, 140KB. Arabic text 'هيونداي الوعلان' (Al Waalan Hyundai) lists car models (Palisade, Santa Fe, Tucson, Sonata) -- confirmed same automotive dealer network as the hyundaiksa.com row."
+  },
+  {
+    "name": "Ibin Ajayan Trading Group",
+    "domain": "ibinajayan.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "trading_automotive_industrial_b2b",
+    "qualification_path": "n/a",
+    "reason": "Diversified B2B trading conglomerate: automotive dealerships for trucks/buses (IVECO, Ashok Leyland, Golden Dragon), forklifts, cranes, tires and industrial oil products, plus transport/catering/security services. Wholesale trading and automotive are both hard-fail categories; no consumer retail found.",
+    "evidence": "curl https://ibinajayan.com returned 403 (Cloudflare challenge) on both desktop and mobile UA. WebSearch corroborated: 'family business established in 1967 ... diversified business portfolio in Automotive Dealerships, Trading Business, Transport Services, Maintenance Services ... exclusive dealer for IVECO (Trucks, Vans, and Buses), Ashok Leyland (Trucks, Buses), Golden Dragon, Clark Forklifts, PM self-loading cranes, NEXEN Tires and Gulf Oil products in Qatar', annual revenue $307.9M, based in Salwa Industrial Area, Doha."
+  },
+  {
+    "name": "Ibrand - اي براند",
+    "domain": "ibrand.com.sa",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "health_beauty_pharmacy",
+    "qualification_path": "substantiality",
+    "reason": "Live Salla-platform pharmacy/beauty e-commerce store based in Riyadh with a real cart and broad categories (skincare, mother & baby, vitamins/supplements, makeup).",
+    "evidence": "curl https://ibrand.com.sa returned 200 OK, 36KB. Arabic text: 'صيدلية آي براند' (iBrand Pharmacy) / 'متجر اي براند ... الرياض - الملز' (Riyadh, Al-Malaz) with nav categories العناية بالبشرة (skincare), العناية بالأم والطفل (mother & baby care), الفيتامينات و المكملات (vitamins & supplements), مكياج (makeup), حفائظ اطفال (diapers). Built on the Salla e-commerce platform (185 'salla' references incl. <salla-login-modal>, <salla-add-product-toast>) confirming real cart/checkout infrastructure, plus a linked companion mobile app."
+  },
+  {
+    "name": "إبراق | IBRAQ",
+    "domain": "ibraqperfumes.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "health_beauty_pharmacy",
+    "qualification_path": "substantiality",
+    "reason": "Live Salla-platform perfume/fragrance e-commerce retailer tracing to the Saudi-founded Ibrahim Al Qurashi perfume legacy brand; a consumable, repeat-purchase category with real reviews, tax registration and physical stores.",
+    "evidence": "curl https://ibraqperfumes.com redirected to https://saudi.ibraqperfumes.com, 200 OK, 21.4KB. Arabic text lists perfume sizes (75ml/100ml/150ml/200ml), oud/bakhoor, home fragrance, gift sets, free delivery over 200 SAR, genuine customer reviews, a Saudi tax registration number (الرقم الضريبي 310713456300003), 'إرثٌ بدأ باسم إبراهيم القرشي' (a legacy that began under the name Ibrahim Al Qurashi -- a well-known Saudi perfume house) and a mobile-app download link. Built on the Salla platform (185 references)."
+  },
+  {
+    "name": "iHome-آي هوم",
+    "domain": "ihomestore.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "home_furniture_appliance",
+    "qualification_path": "substantiality",
+    "reason": "Live Salla-platform home-furnishings retailer (25 years in market) with a broad multi-category catalog (living/dining room, bedroom, decor, lighting, bath fixtures), real SAR pricing, physical branches in four Saudi cities and customer reviews.",
+    "evidence": "curl https://ihomestore.com returned 200 OK, 47.9KB. Arabic text: 'اي هوم للمفروشات' (iHome Furnishings) with categories غرف المعيشة (living room/sofas), غرف الطعام (dining room), الديكور المنزلي (home decor), الاضاءة (lighting/chandeliers), غرف نوم (bedrooms/mattresses), ادوات الصحية (bath fixtures); real priced products (4,444 SAR sofa set, 8,666 SAR bedroom set), 'أضف للسلة' (add to cart) functionality, customer reviews from Tabuk/Jeddah/Mecca/Taif/Riyadh, physical branches in Jeddah/Taif/Khamis Mushait/Jazan, '25 سنة' (25 years) in the market, 5-year warranty. Built on the Salla platform (322 references)."
+  }
+]

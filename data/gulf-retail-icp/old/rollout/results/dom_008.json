@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Alwazzan United Trading company",
+    "domain": "alwazzanunited.com",
+    "verdict": "OUT",
+    "gate_failed": "narrow_repeat_purchase",
+    "category_final": "home_fixtures_fitout_low_repeat",
+    "qualification_path": "n/a",
+    "reason": "Kuwait-HQ'd (est. 1975, Shuwaikh/Hawally addresses, +965 numbers) home fit-out company selling bespoke kitchens, built-in wardrobes, doors and luxury safes on an appointment/consultation basis. Even granting it 'home/furniture' category, it fails the repeat-purchase test: fitted kitchens, wardrobes, doors and safes are one-time, project-based home fixtures, the same low-frequency pattern as the confirmed 'flooring/carpet only' fail, and the site has no cart or pricing at all, only 'Book an Appointment'.",
+    "evidence": "Site: 'AlWazzan United Trading Company W.L.L. established 1975 ... retailer of wooden architectural products'; categories are Kitchens, Wardrobes, Doors, Luxury Safes, Home/Kitchen Appliances, Coffee Equipment; primary CTA is 'Book an Appointment'; no prices or add-to-cart anywhere on the page (HTTP 200, full page read)."
+  },
+  {
+    "name": "شركة اليحيا Alyahya Company",
+    "domain": "alyahya.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "diversified_trading_automotive_realestate",
+    "qualification_path": "n/a",
+    "reason": "Thin, dated (copyright 2011) corporate site listing Cars, Automotive Service, Spare Parts, Apiaries, Nurseries and Realty as the company's activities. None of these are approved retail categories; automotive and real estate are explicit hard-fail categories, and apiaries/nurseries are agriculture, not retail.",
+    "evidence": "Full extracted page text: 'Cars / Automotive Service / Spare Parts / Apiaries / Nurseries / Realty / and other activities', with no product catalog, pricing, or storefront of any kind (HTTP 200, 157 chars of text total)."
+  },
+  {
+    "name": "Alyasra Fashion",
+    "domain": "alyasra.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "fashion_multibrand_footwear_accessories",
+    "qualification_path": "substantiality",
+    "reason": "Kuwait-HQ'd (founded 1993, Kuwait City) fashion retail group with 220-270+ stores across the GCC and a portfolio of 60+ international fashion, footwear, watch/jewelry and fragrance brands. alyasra.com itself is a corporate/portfolio site rather than a direct storefront, but the group's status as a live, real, digitally-enabled retailer is confirmed by e-commerce it directly operates for portfolio brands (e.g. bananarepublic.com.kw, whose customer service runs from help@cs.alyasra.com), on top of its large physical store network.",
+    "evidence": "alyasra.com: '220+ Stores across the GCC', '30+ International brands', '30 Years as retail pioneers'; portfolio pages list Allbirds, Athleta, Banana Republic, Cole Haan, DKNY, Falke, Sam Edelman, Triumph etc. under 'Digital and Ecommerce'; WebSearch confirms bananarepublic.com.kw is a live transactional Alyasra-run store (support email help@cs.alyasra.com) and that Alyasra has been HQ'd in Kuwait City since 1993 with 270+ stores."
+  },
+  {
+    "name": "AlYemni Group - مجموعة اليمني",
+    "domain": "alyemnigroup.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "diversified_trading_automotive_conglomerate",
+    "qualification_path": "n/a",
+    "reason": "Saudi-HQ'd (Riyadh/Jeddah/Al Khobar) diversified conglomerate whose dominant business is automotive dealership (Subaru, Isuzu, Chery, Peugeot, Forthing), plus construction equipment, manufacturing, real estate, and one small Food & Beverage franchise line (Caribou Coffee). The domain is the group's corporate site, not a retail storefront; automotive, construction equipment and real estate are all explicit hard-fail categories and dominate the group's identity.",
+    "evidence": "Site: 'Automotive: Subaru, Isuzu, Chery, Peugeot, Forthing'; 'Equipment: Isuzu Marine, Nichiyu, CTEK, Unic, VARIS'; 'Construction: Arzam'; 'Real Estate: Al Yemni Estates'; 'Food & Beverages: Caribou Coffee' listed as one of six business lines; 'MORE THAN 60 BRANCHES' refers to the automotive/equipment dealer network, not retail stores."
+  },
+  {
+    "name": "Alymama اليمامة",
+    "domain": "alymama.net",
+    "verdict": "OUT",
+    "gate_failed": "narrow_repeat_purchase",
+    "category_final": "watches_accessories_narrow",
+    "qualification_path": "n/a",
+    "reason": "Genuine Saudi-HQ'd (Riyadh, Ministry of Commerce CR registered Dec 2014) e-commerce operation with real SAR pricing and cart, but the entire catalog is a single narrow accessory line: watches (about 20 face/strap color variants) plus 3 leather belts. This is a one-product-type accessory shop, not multi-item fashion, and watches/belts carry inherently low repeat-purchase frequency similar to jewelry.",
+    "evidence": "Full homepage product listing shows only watch variants (e.g. 'إطار ذهبي و جلد بني داكن كلاسيك', 475-525 SAR each) and three belts (155 SAR each); no clothing, footwear, or other apparel categories anywhere on the site; address 'الرياض, المملكة العربية السعودية'."
+  },
+  {
+    "name": "Hassan Misfer Al-Zahrani & Partners Group",
+    "domain": "alzahrani.com.sa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "diversified_trading_contracting_holding",
+    "qualification_path": "n/a",
+    "reason": "This is 'Al Zahrani Holding', a Saudi industrial/trading conglomerate, not a retailer. Its listed operating subsidiaries are Al Zahrani Trading, Taziz General Trading, Al Zahrani Trading & Contracting, Trans Peninsula Trading (cargo), Trans Saudi Travel & Tour, Mansour Stainless Steel Fabricators, and Al Zahrani Industrial Maintenance/Engineering. None of these are a qualifying retail category (contracting, cargo, travel and industrial maintenance are all excluded); the site is a legacy Flash-based page with no storefront. This corrects the prior 'general_merch_dept' categorization, which does not match the actual business found on the live site.",
+    "evidence": "Site navigation (via page script) lists subsidiaries: 'Al Zahrani Trading', 'Taziz General Trading Co. L.L.C', 'Al Zahrani Trading & Contracting', 'Trans Peninsula Trading', 'Trans Saudi Travel & Tour', '...Cargo', 'Mansour Stainless Steel Fabricators', 'Al Zahrani Industrial Maintenance', 'AlZahrani Engineering & Maintenance'; page embeds a Shockwave Flash object, last-modified header 22 Mar 2016; no product catalog or storefront present (fetched via HTTP after HTTPS failed TLS handshake)."
+  },
+  {
+    "name": "Amal Al-Kuwait",
+    "domain": "amalalkuwait.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "beauty_perfume_oud_personalcare",
+    "qualification_path": "substantiality",
+    "reason": "Kuwait-HQ'd (established 1985) perfume, oud and home-fragrance retailer with a fully live, transactional e-commerce site: real KWD pricing, discounts, stock-status tracking, a loyalty points program, and physical branches. Perfume/oud/incense is a consumable, repeat-purchase beauty category, and the catalog spans perfumes, oud oils, home fragrances, body care, incense and gifting, well past the 50-SKU floor.",
+    "evidence": "'شركة أمل الكويت للعطور و البخور ... منذ 1985'; over 40 distinct priced SKUs visible on the homepage alone (perfumes 11-72 KD, oud 29-51 KD, incense/bakhoor, gift sets); 'برنامج نقاط' loyalty program; 'فروعنا' branches page; live cart and stock-out indicators ('نفد من المخزون')."
+  },
+  {
+    "name": "A Market ماركت",
+    "domain": "amarkets.com.sa",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "grocery_supermarket",
+    "qualification_path": "substantiality",
+    "reason": "Saudi-HQ'd (Riyadh) grocery retailer under the Abdulaziz Abdullah Al Othaim Markets company lineage, with a fully live transactional grocery e-commerce site: real SAR pricing across fresh food, meat, dairy, frozen, bakery, beverages, home and personal care, a loyalty/gift-card program, and a downloadable mobile app. Grocery is a very-high-frequency approved category and the catalog is clearly substantial.",
+    "evidence": "'شركة أسواق عبدالعزيز عبدالله العثيم'; address 'حي الروابي ... الرياض - المملكة العربية السعودية'; dozens of priced grocery SKUs shown (rice, chicken, oil, detergent, dates, etc.); 'بطاقة مقاضيك' gift cards; 'حمل التطبيق من متجر ابل أو جوجل بلاي' app download."
+  },
+  {
+    "name": "Amazon KSA Markets",
+    "domain": "amazonsaudi.com.sa",
+    "verdict": "OUT",
+    "gate_failed": "geography",
+    "category_final": "marketplace_ecommerce_us_parent",
+    "qualification_path": "n/a",
+    "reason": "The domain returned an anti-bot 'checking your browser' challenge page, and WebSearch confirms the actual official Amazon Saudi Arabia storefront is amazon.sa (the Souq.com successor), not this domain. Regardless of which exact domain is used, the underlying operating entity is Amazon.com Inc., globally headquartered in Seattle, USA, not Saudi Arabia, so this fails geography outright even though Amazon has substantial real operations in the Kingdom.",
+    "evidence": "curl returned HTTP 403 with a bot-check interstitial page ('Checking your browser before accessing... Just a moment'); WebSearch: 'Amazon launches Amazon.sa ... official URL ... www.amazon.sa', confirming amazonsaudi.com.sa is not Amazon's current official KSA domain; Amazon.com Inc. global HQ is Seattle, WA, USA."
+  },
+  {
+    "name": "AlGhamdi Company for Sanitary Wares       شركة الغامدي وشركاه للأدوات الصحية",
+    "domain": "amghamdi.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "building_materials_sanitary_ware_b2b",
+    "qualification_path": "n/a",
+    "reason": "Saudi-HQ'd (Riyadh, est. 1970) sole Kingdom agent for American Standard/Ideal Standard and Bobrick sanitary ware. Product line is toilets, wash basins, mixers, kitchen sinks, taps and bathroom fixtures/fittings for construction and renovation projects, an explicitly named hard-fail category ('sanitary ware' is listed by name in the Gate 2 exclusions) regardless of the 'virtual showroom'/'SHOP' branding on the site.",
+    "evidence": "'We are the Sole and Exclusive agents in the Kingdom for American Standard / Ideal Standard and Bobrick ... Sanitary ware Fixtures & Fittings and Accessories'; site sections: Mirrors, Mixers, Water Closets, Wash Basin, Kitchen Sink, Taps & Faucets, Toilets & Bidets; three regional B2B sales offices (Riyadh, Jeddah, Dammam)."
+  },
+  {
+    "name": "Ninja ?? نينجا",
+    "domain": "ananinja.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "grocery_convenience_quickcommerce",
+    "qualification_path": "substantiality",
+    "reason": "Saudi-HQ'd (Riyadh, founded 2022) quick-commerce retailer operating its own network of dark stores (first-party inventory, not a third-party marketplace), confirmed by WebSearch as a $1.5B-valuation unicorn active in Saudi Arabia, Bahrain, Qatar and Kuwait, preparing a Tadawul IPO by 2027. The live site/app sells a broad grocery, fresh food, beverage, beauty, household, electronics, fashion, baby, pet, toy and pharmacy assortment through a real cart, matching the grocery/convenience approved category with clear substantiality. This overturns the prior 'marketplace_delivery' OUT label: Ninja is a direct dark-store retailer of its own inventory, not an aggregator marketplace of independent third-party sellers (unlike e.g. Amazon KSA in this same batch).",
+    "evidence": "Site categories: مقاضي (groceries), المشروبات, السناكات والحلى, التغذية الصحية, المكياج, العطور, الجمال, العناية بالمنزل, الإلكترونيات والعناية بالسيارة, الأزياء والموضة, العناية بالطفل, الحيوانات الأليفة, الألعاب, القرطاسية, الصيدلية; 'عربتي' (my cart) present; WebSearch: HQ 'Abdulrahman an Nasir Al Andalus, Riyadh, Saudi Arabia', founded 2022, dark-store fulfillment model, $250M pre-IPO round at $1.5B valuation (2025), operating in 4 GCC countries."
+  },
+  {
+    "name": "Al Andalus Trading Establishment Company",
+    "domain": "andalus.com.kw",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "electronics_appliances_retail",
+    "qualification_path": "substantiality",
+    "reason": "Kuwait-HQ'd (founded 1963) consumer electronics and home appliance retailer; sole Kuwait distributor for Samsung, Hisense, Ariston and Ferre, operating 7 direct-to-consumer showrooms plus a live transactional online store. Direct curl access was blocked (HTTP 403, WAF), but WebSearch independently corroborates a real, substantial, currently-operating retail business with genuine e-commerce (cart, delivery), overturning the prior 'non_retail' OUT label: this is a bona fide electronics/appliance retailer, not a pure B2B-only distributor.",
+    "evidence": "WebSearch: 'Andalus Electronics Kuwait Online Home Appliances & Electronics Store'; 'you can shop online ... add items to your cart directly from their online store'; 'Andalus is the sole distributer of Samsung, Hisense, Ariston and Ferre in Kuwait'; founded 1963, 7 showrooms across Kuwait's governorates, $64.9M revenue, 124 employees. Direct curl fetch returned HTTP 403 (WAF block, no site content retrievable), treated as inconclusive per protocol and corroborated via search."
+  },
+  {
+    "name": "Anoosh Company",
+    "domain": "anoosh.sa",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "fnb_bakery_confectionery",
+    "qualification_path": "substantiality",
+    "reason": "Saudi-HQ'd (Riyadh, founded 2003) chocolate, sweets and bakery chain with 55 branches nationwide (~20% annual growth), its own ordering app plus third-party delivery-app integrations, and a real cart/checkout flow on the site (name, email, mobile, delivery address, order confirmation). Confectionery/bakery F&B is a high-frequency approved category (gifting plus everyday treats), and scale (55 branches, national chain since 2003) is well established.",
+    "evidence": "'تأسست شركة أنوش في عام 2003 م بمدينة الرياض ... تحولت ... إلى سلسلة من 55 فرع حول المملكة، بمعدل نمو يقارب 20% زيادة سنويا'; live cart/checkout UI present ('السلة', 'اتمام عملية الشراء', delivery-detail form); 'تطبيق أنوش' own mobile ordering app plus delivery-platform partnerships."
+  },
+  {
+    "name": "Green Wing Co. W.L.L",
+    "domain": "anotah.com",
+    "verdict": "OUT",
+    "gate_failed": "digital_channel",
+    "category_final": "fashion_domain_compromised",
+    "qualification_path": "n/a",
+    "reason": "Anotah is a real Kuwait-founded (1998) womenswear/kids/teens fashion chain with 25-64+ stores across the GCC, but its own domain anotah.com is currently compromised: the raw response (after resolving a double gzip-over-brotli encoding layer) is Indonesian online-gambling SEO spam ('PRAGMATIC88 ... Situs Judi Slot') injected into a stale scraped Amazon.co.uk page template, and www.anotah.com/en/ is a bare JavaScript redirect to '/lander'. No legitimate live storefront could be confirmed at this domain, and no alternate self-owned live domain was found (only third-party marketplace listings on Namshi and Noon). Per protocol this is treated like a dead/unusable domain: the underlying business is likely real, but the given domain fails Gate 4 as currently served. Recommend a manual check for Anotah's current correct domain before final disposition.",
+    "evidence": "Decompressing the raw HTTP response (outer gzip wrapping an undecoded brotli layer) revealed page title 'PRAGMATIC88: Situs Judi Slot Online Pragmatic Resmi Terpercaya' with Indonesian gambling-SEO body text inside what looks like a cloned Amazon.co.uk department/product template; https://www.anotah.com/en/ returns only `window.onload=function(){window.location.href=\"/lander\"}`; WebSearch confirms Anotah is a genuine Kuwait fashion brand (est. 1998, stores across KSA/UAE/Bahrain/Qatar) sold on Namshi and Noon marketplaces, but no live owned e-commerce site or app could be located."
+  },
+  {
+    "name": "Ansar Group of Companies",
+    "domain": "ansar-group.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "diversified_holding_retail_hospitality_realestate",
+    "qualification_path": "n/a",
+    "reason": "Doha, Qatar-HQ'd holding company (est. 1980s, formalized 1987) whose corporate site explicitly organizes the group into three co-equal pillars: Retail (Superstores/Ansar Gallery), Hospitality (Hotels), and Real Estate. As the holding entity (distinct from the separately-evaluated Ansar Gallery retail row in this same batch), it fails on category: hospitality and real estate are both explicit hard-fail categories and are presented as core, not incidental, business lines.",
+    "evidence": "Site: 'What We Offer: Superstores / Hotels / Real Estate'; 'Businesses: Retail / Hospitality / Real Estate'; nav links to 'A&H Hotel' and 'A&H Real Estate' as sister businesses alongside 'Ansar Smile' (retail loyalty) and a 'Shop Now' link that routes out to the separate Ansar Gallery retail brand."
+  },
+  {
+    "name": "Ansar Gallery",
+    "domain": "ansargallery.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "grocery_hypermarket_general_merch",
+    "qualification_path": "substantiality",
+    "reason": "Doha, Qatar-HQ'd hypermarket/general-merchandise retail chain (Ansar Group's retail arm; founding story traces to a 1980s Doha wholesale/retail outlet, formal group established 1987, later expanded to Dubai/Bahrain/Oman). The live site is a full-scale, transactional hypermarket e-commerce operation: Doha delivery-address selection, real cart/account/order-history, app download, and an enormous approved-category assortment (grocery, electronics, mobile phones, beauty, fashion, household, furnishing, baby, sports, toys, books, etc.) spanning hundreds of subcategories. This overturns the prior 'grocery'-labeled OUT verdict, which appears to have conflated this row with the separate, correctly-excluded 'Ansar Group' holding-company row in this same batch.",
+    "evidence": "Site: 'Online Shopping in Qatar - Ansar Gallery Stores'; 'Deliver To: Doha, Qatar'; category nav: Grocery, Mobile Phones, Electronics, Beauty & Care, Fashion, Household, Furnishing, Tools & Home Improvement, Baby & Infants, Sports & Outdoors, Books, Stationery, Toys, Music (100+ subcategories, e.g. Fruits & Vegetables, Fresh Chicken & Meat, Dairy, Smartphones, Cosmetics, Perfumes); 'My Cart', 'My Orders', 'Download App'; WebSearch independently confirms Doha, Qatar HQ and 1980s founding, with Dubai UAE expansion only from 2012."
+  },
+  {
+    "name": "Apotheca Beauty",
+    "domain": "apothecabeauty.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "beauty_luxury_skincare",
+    "qualification_path": "substantiality",
+    "reason": "Kuwait City-HQ'd (founded 2013 by Nora Al-Ramadhan) luxury skincare, body care, makeup, hair care and fragrance retailer built on Shopify, selling 20+ prestige international brands (Augustinus Bader, Dr. Barbara Sturm, Tatcha, Hourglass, Oribe, etc.) with a live cart, first-order discount, and stated shipping/payment/support infrastructure. Beauty/skincare is a consumable, repeat-purchase approved category and the multi-brand, multi-category catalog comfortably clears the substantiality floor.",
+    "evidence": "WebSearch: HQ 'Office #8, Salhiya Complex, M2, Kuwait City, Kuwait', founded 2013; site runs on apothecabeauty.myshopify.com (Shopify commerce backend, confirmed via CDN/tracking URLs); categories Skin Care, Body Care, Mother & Baby, Makeup, Hair Care, Wellness, Fragrance & Candles, Gifts; 'Shopping Cart ... 15% OFF Your First Order ... Fast & Free Shipping ... Secure Payments'."
+  },
+  {
+    "name": "Scent",
+    "domain": "arabianoud.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "beauty_perfume_oud",
+    "qualification_path": "substantiality",
+    "reason": "Riyadh, Saudi Arabia-HQ'd (founded 1982 by Sheikh Abdul Aziz Al-Jasir) luxury oriental perfume and oud house, the world's largest supplier of oriental fragrances with 1,200+ stores across 37 countries and 3,700+ employees. Live e-commerce with men's/women's/unisex fragrance and oud collections, store locator, and a mobile app; perfume/oud is a consumable, repeat-purchase approved category and scale is exceptionally well established.",
+    "evidence": "WebSearch: 'Arabian Oud is a company based in Riyadh, Saudi Arabia, founded in 1982 ... over 1,200 stores across 37 countries and employing more than 3,700 people'; site: 'Fragrances for him / Perfumes for her / Unisex perfumes', 'Enjoy a Complimentary Gift with Purchases of $400 or More', 'Find store', 'Download Mobile App', '150+ cities around the world'."
+  }
+]

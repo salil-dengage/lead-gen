@@ -1,0 +1,19 @@
+source	country	name	domain	prior_verdict	prior_category
+original	Saudi Arabia	Western Auto by Al Ghurair Mobility I شركة السيارات الغربية	westernautoksa.com	OUT	non_retail
+original	Saudi Arabia	WHITES	whites.net	IN	health_beauty_pharmacy
+original	Saudi Arabia	Wooden Coffee	wooden.sa	IN	grocery
+original	Qatar	WOQOD (Qatar Fuel)	woqod.com.qa	OUT	non_retail
+original	Kuwait	xcite by alghanim electronics	xcite.com	IN	electronics
+original	Kuwait	YIACO Medical Company	yiaco.com	IN	health_beauty_pharmacy
+original	Saudi Arabia	YouGotaGift	yougotagift.com	OUT	marketplace
+original	Kuwait	Easa Husain Alyousifi & Sons Co.	yousifi.com.kw	OUT	non_retail
+original	Saudi Arabia	Zagzoog for home Appliances	zagzoog.com	IN	home_furniture_appliance
+original	Saudi Arabia	Zahrat Al-Rawdah Pharmacies Co.	zahra.com.sa	IN	health_beauty_pharmacy
+held_review	Kuwait	Zain Tawseel	zaintawseel.com	OUT	retail_general
+held_review	Saudi Arabia	شركة اثاث للتجزئة	zamanifurniture.com	IN	home_furniture
+held_review	Saudi Arabia	ZODE_SA	zode.sa	OUT	retail_general
+original	Saudi Arabia	Zohoor Al Reef	zohooralreef.com	IN	health_beauty_pharmacy
+gap_sweep		Yalla Toys	https://yallatoys.com/	IN	sporting_hobby_books
+gap_sweep		Miniz Markets	https://www.tap.company	HELD	grocery
+gap_sweep		homzmart	homzmart.sa	OUT	ecommerce_unverified
+gap_sweep		Arabic Marketer Network LLC	http://www.ematajer.com/	OUT	agency_or_services

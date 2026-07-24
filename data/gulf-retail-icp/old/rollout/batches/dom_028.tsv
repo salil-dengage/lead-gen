@@ -1,0 +1,19 @@
+source	country	name	domain	prior_verdict	prior_category
+original	Kuwait	Q8 Corporate	q8.com	OUT	non_retail
+original	Saudi Arabia	Qaf Coffee Roasters - مجموعة قاف لتقديم المشروبات	qafcoffee.com	IN	grocery
+original	Saudi Arabia	Q Mart | كيو	qmartstores.com	IN	grocery
+original	Saudi Arabia	َQasser Alsaraya Furniture	qsf.sa	OUT	non_retail
+original	Saudi Arabia	Bafarat Industrial Group	ranafood.com	IN	grocery
+original	Saudi Arabia	رنين | Raneen	raneen.com.sa	IN	home_furniture_appliance
+original	Qatar	Rankoussi Group	rankoussi.com	OUT	non_retail
+original	Saudi Arabia	Rasees Perfumes	rasees.net	IN	health_beauty_pharmacy
+original	Qatar	Al Rawabi Group of Companies	rawabihypermarket.com	IN	grocery
+original	Saudi Arabia	صيدلية الرازي	razi.sa	IN	health_beauty_pharmacy
+original	Saudi Arabia	Two	reefi.me	IN	ecommerce
+original	Saudi Arabia	reefperfumes	reefperfumes.com	IN	health_beauty_pharmacy
+original	Saudi Arabia	renault	renault.sa	OUT	non_retail
+original	Saudi Arabia	Richy Group	richy.sa	IN	fashion
+held_review	Saudi Arabia	RIS Group	ris.co	OUT	diversified_trading
+original	Kuwait	RIVA	rivafashion.com	IN	fashion
+original	Saudi Arabia	Riyadh Development Company | شركة الرياض للتعمير	riyadh.dev	OUT	non_retail
+original	Saudi Arabia	roastinghouse	roastinghouse.sa	IN	grocery

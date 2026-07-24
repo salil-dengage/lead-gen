@@ -1,0 +1,182 @@
+[
+  {
+    "dropped_name": "Toyland",
+    "dropped_domain": "toyland.world",
+    "kept_name": "TOYLAND KSA",
+    "kept_domain": "toyland.com.sa",
+    "dropped_had_zoho_id": null,
+    "kept_had_zoho_id": "3978798000084747314",
+    "rationale": "has Zoho match; live Saudi store"
+  },
+  {
+    "dropped_name": "aDawliah Electronic Appliances Holding",
+    "dropped_domain": "adawliah.com.sa",
+    "kept_name": "aDawliah Electronics",
+    "kept_domain": "adawliahstore.com",
+    "dropped_had_zoho_id": null,
+    "kept_had_zoho_id": "3978798000015870013",
+    "rationale": "has Zoho match; operating retail entity"
+  },
+  {
+    "dropped_name": "MAZ HOLDING",
+    "dropped_domain": "mazholding.sa",
+    "kept_name": "Bed Quarter Company",
+    "kept_domain": "bedquarter.com",
+    "dropped_had_zoho_id": null,
+    "kept_had_zoho_id": "3978798000084746878",
+    "rationale": "has Zoho match; specific operating retail brand vs parent holding"
+  },
+  {
+    "dropped_name": "The Blue Group - Qatar",
+    "dropped_domain": "thebluegroup.qa",
+    "kept_name": "Blue Salon",
+    "kept_domain": "bluesalon.com",
+    "dropped_had_zoho_id": null,
+    "kept_had_zoho_id": null,
+    "rationale": "the actual live department-store retail brand vs its holding group"
+  },
+  {
+    "dropped_name": "Hyper Panda",
+    "dropped_domain": "panda-offers.com",
+    "kept_name": "Panda Retail Company - Savola Group",
+    "kept_domain": "panda.com.sa",
+    "dropped_had_zoho_id": "3978798000165702081",
+    "kept_had_zoho_id": "3978798000008419077",
+    "rationale": "canonical registered entity; Hyper Panda's own site is panda.com.sa anyway"
+  },
+  {
+    "dropped_name": "ALMAHA OPTICAL",
+    "dropped_domain": "almahaopt.com",
+    "kept_name": "Al-Maha Optical المها للبصريات",
+    "kept_domain": "almahaopt.com.sa",
+    "dropped_had_zoho_id": "3978798000165720030",
+    "kept_had_zoho_id": "3978798000165720011",
+    "rationale": "both existing Zoho matches (different IDs) -- identical domain root, .com.sa kept as canonical"
+  },
+  {
+    "dropped_name": "Maktab",
+    "dropped_domain": "maktab.com",
+    "kept_name": "ALMAKTABA",
+    "kept_domain": "almaktaba.com.sa",
+    "dropped_had_zoho_id": "3978798000165702055",
+    "kept_had_zoho_id": "3978798000084748270",
+    "rationale": "both existing Zoho matches (different IDs) -- kept the .sa TLD registered-name variant"
+  },
+  {
+    "dropped_name": "saadeddin",
+    "dropped_domain": "saadeddin.com.sa",
+    "kept_name": "Saadeddinpastry",
+    "kept_domain": "saadeddin.com",
+    "dropped_had_zoho_id": null,
+    "kept_had_zoho_id": "3978798000165730005",
+    "rationale": "has Zoho match"
+  },
+  {
+    "dropped_name": "صيدلية النهدي",
+    "dropped_domain": "nahdionline.com",
+    "kept_name": "Nahdi",
+    "kept_domain": "nahdi.sa",
+    "dropped_had_zoho_id": null,
+    "kept_had_zoho_id": null,
+    "rationale": "cleaner official brand domain (nahdi.sa) vs online subdomain variant"
+  },
+  {
+    "dropped_name": "ajlanbros",
+    "dropped_domain": "ajlanbros.com",
+    "kept_name": "Ajlan & Bros",
+    "kept_domain": "ajstore.com",
+    "dropped_had_zoho_id": null,
+    "kept_had_zoho_id": null,
+    "rationale": "ajstore.com is the actual live consumer retail store per the audit note"
+  },
+  {
+    "dropped_name": "UniPharma",
+    "dropped_domain": "unipharma.sa",
+    "kept_name": "Adam Medical Company",
+    "kept_domain": "adamonline.com",
+    "dropped_had_zoho_id": "3978798000165730043",
+    "kept_had_zoho_id": "3978798000018427570",
+    "rationale": "the operating retail pharmacy chain vs its wholesale parent"
+  },
+  {
+    "dropped_name": "AL MOUSA Co. Ltd.",
+    "dropped_domain": "al-mousa.sa",
+    "kept_name": "Woody Furniture",
+    "kept_domain": "woody.com.sa",
+    "dropped_had_zoho_id": null,
+    "kept_had_zoho_id": null,
+    "rationale": "the actual live consumer furniture store vs its parent"
+  },
+  {
+    "dropped_name": "Red Cactus Trading",
+    "dropped_domain": "redcactus.com.sa",
+    "kept_name": "Asteri Beauty",
+    "kept_domain": "asteribeauty.com",
+    "dropped_had_zoho_id": null,
+    "kept_had_zoho_id": null,
+    "rationale": "the actual live consumer beauty retail brand vs its B2B parent"
+  },
+  {
+    "dropped_name": "aldawaa",
+    "dropped_domain": "aldawaa.com",
+    "kept_name": "Al-Dawaa Medical Services Co.",
+    "kept_domain": "al-dawaa.com.sa",
+    "dropped_had_zoho_id": "3978798000165720024",
+    "kept_had_zoho_id": "3978798000165720009",
+    "rationale": "both existing Zoho matches (different IDs) -- kept the full registered legal-name variant"
+  },
+  {
+    "dropped_name": "مكتبه جرير",
+    "dropped_domain": "arabplaces.com",
+    "kept_name": "Jarir Bookstore",
+    "kept_domain": "jarir.com",
+    "dropped_had_zoho_id": "3978798000165720053",
+    "kept_had_zoho_id": "3978798000009702238",
+    "rationale": "arabplaces.com was explicitly a mis-associated directory domain, not Jarir's real site"
+  },
+  {
+    "dropped_name": "MATALAN Middle East",
+    "dropped_domain": "matalan-me.com",
+    "kept_name": "BTC Fashion",
+    "kept_domain": "btcfashion.me",
+    "dropped_had_zoho_id": null,
+    "kept_had_zoho_id": "3978798000165720080",
+    "rationale": "has Zoho match; BTC Fashion is the Qatar operating company running Matalan as one of its brands"
+  },
+  {
+    "dropped_name": "RCIT Holding Co.",
+    "dropped_domain": "rcith.com",
+    "kept_name": "rubaiyat",
+    "kept_domain": "rubaiyat.com",
+    "dropped_had_zoho_id": null,
+    "kept_had_zoho_id": "3978798000027018296",
+    "rationale": "has Zoho match; specific named retail division vs its holding parent"
+  },
+  {
+    "dropped_name": "fashion",
+    "dropped_domain": "fashion.sa",
+    "kept_name": "imtiaz",
+    "kept_domain": "imtiaz.com.sa",
+    "dropped_had_zoho_id": null,
+    "kept_had_zoho_id": null,
+    "rationale": "fashion.sa is imtiaz's own multi-brand storefront platform per its own reason text"
+  },
+  {
+    "dropped_name": "بيوتي سيكرتس",
+    "dropped_domain": "thebeautysecrets.com",
+    "kept_name": "ALSAFA UNITED",
+    "kept_domain": "al-safaunited.com",
+    "dropped_had_zoho_id": "3978798000165730033",
+    "kept_had_zoho_id": "3978798000165720012",
+    "rationale": "ALSAFA UNITED is itself described as the retail-operating arm running multiple brands including Beauty Secrets"
+  },
+  {
+    "dropped_name": "rootsfurniture",
+    "dropped_domain": "rootsfurniture.sa",
+    "kept_name": "H. M. Al Rugaib & Sons Trading Co. - شركة حمد محمد الرقيب و أولاده التجارية",
+    "kept_domain": "alrugaibfurniture.com",
+    "dropped_had_zoho_id": null,
+    "kept_had_zoho_id": "3978798000017888307",
+    "rationale": "has Zoho match; parent furniture retailer that carries Roots Furniture as one of its brands"
+  }
+]

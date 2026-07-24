@@ -1,0 +1,182 @@
+[
+  {
+    "name": "مجموعة عادل كير الطبية",
+    "domain": "adelcare.sa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "home healthcare services (non-retail)",
+    "qualification_path": "n/a",
+    "reason": "Site offers only home-visit healthcare services (nursing, elderly care, physiotherapy, home diagnostics, medication management, post-op and respiratory care) with a 'book an appointment' CTA; no product catalog or pharmacy storefront exists anywhere on the site, so this is a healthcare-services provider, which Gate 2 excludes (only retail pharmacy chains pass, not clinics/home-care services).",
+    "evidence": "adelcare.sa homepage and /services page (Arabic) list exclusively home-visit medical services (nursing, elderly care, physiotherapy, home checkups, medical consultations, wound care, medication management, post-surgery care, respiratory care); nav = Home/About/Services/Offers/Medical Team/Partners/Contact, no Shop/Store link anywhere on site."
+  },
+  {
+    "name": "Alesayi Electronics | العيسائي للإلكترونيات",
+    "domain": "aecksa.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "electronics & appliances retail",
+    "qualification_path": "substantiality",
+    "reason": "Live Salla-hosted storefront selling TVs, air conditioners and home appliances, with real product-card widgets, Tamara/Tabby BNPL badges and a free-shipping threshold, indicating a genuine active multi-product transactional catalog rather than a demo.",
+    "evidence": "Homepage title 'العيسائي للإلكترونيات أفضل أجهزة إلكترونية ومنزلية في السعودية'; Salla e-commerce platform scripts (product-card.js, add-product-toast.js) with product_card_show_tamara_badge/tabby_badge and free_shipping_min_price:400 configured; canonical https://aecksa.com/ar."
+  },
+  {
+    "name": "Abdullah Hashim Company Ltd",
+    "domain": "ahcl-machinery.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "industrial machinery / equipment (non-retail)",
+    "qualification_path": "n/a",
+    "reason": "Site is explicitly the 'Auto & Equipment Division' selling forklifts, pumps, air compressors, marine engines and industrial/agricultural machinery to business customers -- industrial equipment/machinery is a Gate 2 hard-fail category.",
+    "evidence": "Meta description: 'AHCL - Auto & Equipment Division is dedicated to provide premium products... industrial, agricultural and business demands'; keywords: Machinery, Agriculture, Power Solutions, Forklifts, Pumps, Air Compressors, Marine Engines."
+  },
+  {
+    "name": "AL Asasyah Electronics Co Ltd",
+    "domain": "al-asasyah.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "electronics & appliances retail",
+    "qualification_path": "substantiality",
+    "reason": "The corporate site's 'Products' menu leads directly to the company's live transactional storefront at al-asasyahonline.com, which lists roughly 25 appliance/electronics subcategories (split/window/portable/cassette AC, refrigerators, freezers, TVs, audio, car electronics, washers/dryers, cooking ranges, and 9+ small-appliance types) with a working cart, checkout, account login and wishlist -- a broad multi-category retailer well past the 50-SKU floor. This flips the prior OUT verdict.",
+    "evidence": "al-asasyah.com nav 'Products' links to https://al-asasyahonline.com; that site shows 'أضف إلى السلة' (add to cart), 'ادفع الآن' (pay now), account/wishlist icons, and footer 'الشركة الاساسية للاكترونيات المحدودة- الخبر' (Al-Asasyah Electronics Ltd, Al Khobar), Copyright 2026."
+  },
+  {
+    "name": "Al-Dawaa Medical Services Co.",
+    "domain": "al-dawaa.com.sa",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "pharmacy / health & beauty retail",
+    "qualification_path": "substantiality",
+    "reason": "Al-Dawaa Medical Services Co. (Dmsco) is Saudi Arabia's largest pharmacy chain with 500+ branches and a confirmed live consumer online store plus iOS/Android apps (loyalty points, delivery, click-and-collect, barcode ordering) operating since 2019. The exact domain given is the Dmsco corporate/investor-relations site for the same legal entity; the retail storefront for the identical company runs at the sibling domain al-dawaa.com.",
+    "evidence": "al-dawaa.com.sa nav lists 'Al-Dawaa', 'Arbahi' and 'E-commerce' as brands/divisions under the Dmsco holding company; WebSearch confirms www.al-dawaa.com is 'Al-Dawaa Pharmacies Online Store', PRNewswire release 'Al Dawaa Pharmacies Goes Digital: Serving Customers Online Through Mobile and Web', and Google Play/App Store listings for 'AlDawaa Pharmacies' (com.kr.aldawaa)."
+  },
+  {
+    "name": "al dhahry group",
+    "domain": "al-dhahry-group.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "contracting / construction services (non-retail)",
+    "qualification_path": "n/a",
+    "reason": "Site runs on a stock construction/architecture template and describes a contracting/construction services conglomerate -- construction/contracting is a Gate 2 hard-fail category.",
+    "evidence": "Page meta keywords: 'Construction and Architecture HTML Template'; description: 'Archic - Construction and Architecture HTML Template'; site titled 'مجموعة شركات الظاهرى' (Al-Dhahry Group of Companies)."
+  },
+  {
+    "name": "Al-Eqtessad Co. for Commercial Investment",
+    "domain": "al-eqtessad.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "B2B printing services (non-retail)",
+    "qualification_path": "n/a",
+    "reason": "Site sells commercial printing services/equipment (office printing, label printing, large-format banners) to businesses -- a B2B service provider, not a Gate 2 retail category.",
+    "evidence": "Title: 'Al-eqtessad co. For commercial investment Ltd – Printing Solutions That Power Your Business... Office printing, Lable printing, Big banners printing... whatever you need.'"
+  },
+  {
+    "name": "Ahmed Abdullah Hamad Al Essa Company",
+    "domain": "al-essa.me",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "wholesale/distribution -- kitchen brands (non-retail)",
+    "qualification_path": "n/a",
+    "reason": "Site explicitly self-identifies as 'GCC's leading kitchen distributor' representing global kitchen brands (Ixina, Cuisine Plus, Noblessa, Lineadecor) -- a wholesale/franchise distribution business, which Gate 2 excludes.",
+    "evidence": "Meta description: 'Al-Essa prides itself on being the largest kitchen distributor in the Region working with global brands, such as Ixina, Cuisine Plus, Noblessa, and Lineadecor.'"
+  },
+  {
+    "name": "ALHADDAD | الحداد",
+    "domain": "al-haddad.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "electronics (mobile/telecom) retail",
+    "qualification_path": "substantiality",
+    "reason": "Al-Haddad Telecom is a real, substantial Saudi electronics retailer (founded 1990 in Jeddah, 60 showrooms nationwide) selling smartphones, tablets and accessories, with a confirmed live transactional e-commerce site under the same brand (alhaddadshop.com) and native apps on Google Play and the Apple App Store. al-haddad.com itself returned 403 (bot-blocked), which is treated as inconclusive per protocol and is corroborated here via the brand's confirmed live commerce channel.",
+    "evidence": "al-haddad.com returned 403 Forbidden (openresty). WebSearch confirms founding 1990 Jeddah, 60 showrooms, e-commerce at alhaddadshop.com, apps on Play/App Store ('Alhaddad Store'). Direct fetch of alhaddadshop.com returned a live modern storefront titled 'HADDAD | الحداد' with category pages, checkout flow and giftcard functionality."
+  },
+  {
+    "name": "Al jazera Markets",
+    "domain": "al-jazera.sa",
+    "verdict": "OUT",
+    "gate_failed": "digital_channel",
+    "category_final": "grocery / supermarket retail",
+    "qualification_path": "n/a",
+    "reason": "Al Jazera is a real, well-established Riyadh supermarket chain (opened 1979, 5+ branches) and al-jazera.sa is confirmed as its genuine official domain, but the site was unreachable on two attempts about 7 minutes apart (Cloudflare 522 origin timeout) and no working alternate domain or qualifying mobile app (50k+ installs) could be found to confirm current live transactional infrastructure. Flagging for re-check given this looks like a transient outage of an otherwise real business.",
+    "evidence": "Two direct fetches (2026-07-23 06:55 and 07:02 UTC) both returned Cloudflare error 522 'Connection timed out' for al-jazera.sa. WebSearch confirms al-jazera.sa as the correct official domain (cached Home/Contacts pages), opened 1979, branches in Al Sulaymaniyah/Al Ghadeer/Al Rabie/Al Yasmine/Al Aqiq; no alternate domain or dedicated app found."
+  },
+  {
+    "name": "Saeed Ahmed Al-Mahroos & Sons Co.",
+    "domain": "al-mahroos.sa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "wholesale F&B distribution (non-retail)",
+    "qualification_path": "n/a",
+    "reason": "Site self-describes as a 'Leading F&B Distributor' trading since 1944 with overseas supplier links -- a B2B wholesale distribution business, excluded under Gate 2.",
+    "evidence": "Title: 'Saeed Ahmed Al-Mahroos & Sons Co - Leading F&b Distributor'; description: 'trading business 80 years ago (1944), becoming one of the pioneers to have overseas business links in Saudi Arabia.'"
+  },
+  {
+    "name": "Al Sadhan Group",
+    "domain": "al-sadhan.com",
+    "verdict": "OUT",
+    "gate_failed": "digital_channel",
+    "category_final": "grocery / supermarket retail",
+    "qualification_path": "n/a",
+    "reason": "Al Sadhan is a real, large 66-year-old Saudi supermarket chain and the Saudi SPAR franchisee, but its website is a literal 'coming soon' placeholder with no live storefront -- an explicit Gate 4 fail pattern. Checked the app-rescue path: their 'Alsadhan Stores' Google Play app has only 10K+ downloads, below the 50,000+ threshold needed to qualify, so it does not rescue the account.",
+    "evidence": "al-sadhan.com body text: 'Something big is coming soon!' (Tailwind placeholder page, no other content). WebSearch confirms Al Sadhan Group is Saudi Arabia's #1 retailer claim, 66 years in business, SPAR Saudi Arabia franchisee since 2016, $76.7M 2025 revenue; Google Play listing for 'Alsadhan Stores' (com.alsadhan.app) shows '10K+ Downloads'."
+  },
+  {
+    "name": "ALSAFA UNITED",
+    "domain": "al-safaunited.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "beauty / personal care & fashion retail",
+    "qualification_path": "substantiality",
+    "reason": "Alsafa United is the consumer retail-brand operating arm of the Al Safa Group (distinct from the group's separate B2B pharmaceutical distributor, Al-Safa Store Co.), confirmed managing physical store brands including a Hunkemoller franchise launch in Riyadh, within a group retail network of 200+ physical beauty/fashion stores (The Beauty Secrets since 2009, Natural Touch, Hunayn). The domain itself returned a Cloudflare bot-challenge on direct fetch (inconclusive per protocol, not an automatic fail) and is corroborated here via the group's confirmed real, substantial retail operations, including a sister brand (The Beauty Secrets) with a fully live e-commerce site. [VERIFY] direct cart/checkout on al-safaunited.com itself could not be confirmed due to the block.",
+    "evidence": "curl -> Cloudflare 'Just a moment...' JS challenge; WebFetch -> HTTP 403. LinkedIn post: 'Exciting Milestone for ALSAFA Retail! | ALSAFA UNITED ... Hunkemoller Riyadh'. Al Safa Group's retail arm operates 200+ physical stores; sister brand thebeautysecrets.com is a confirmed live e-commerce site (130+ locations, real checkout, also listed on Amazon.sa/Noon.com)."
+  },
+  {
+    "name": "Al Sawani Group",
+    "domain": "al-sawani.com",
+    "verdict": "OUT",
+    "gate_failed": "digital_channel",
+    "category_final": "fashion / apparel retail (franchise operator)",
+    "qualification_path": "n/a",
+    "reason": "Al Sawani Group is a real, very large fashion retail franchise operator (45 international brands including Guess, Esprit, Maxmara, Levi's, Benetton; 500+ physical outlets across 13 countries) but its corporate domain al-sawani.com does not resolve (confirmed DNS failure via multiple independent tools) and no working alternate domain for the Al Sawani entity itself was found. As a multi-brand franchise operator, consumer digital commerce would run through each global brand's own site/app rather than an Al Sawani-branded storefront, so Gate 4 cannot be confirmed for this account as listed.",
+    "evidence": "getent hosts / DNS lookups return no records for al-sawani.com or www.al-sawani.com; curl times out (HTTP_CODE 000) on both; WebFetch reports 'getaddrinfo ENOTFOUND al-sawani.com'. WebSearch (Arab News, PitchBook, GulfBase) confirms the group's listed corporate site is 'http://www.al-sawani.com', apparently now offline, with no alternate storefront domain found."
+  },
+  {
+    "name": "ِAlsorayai",
+    "domain": "al-sorayai.com",
+    "verdict": "OUT",
+    "gate_failed": "digital_channel",
+    "category_final": "home furniture / carpets retail",
+    "qualification_path": "n/a",
+    "reason": "Al Sorayai Group is a real, substantial carpet/furniture manufacturer and trader (est. 1953, ~$67.6M revenue) and al-sorayai.com is their confirmed domain (also branded 'Naseej International Trading Company'), but every page fetched (root, /en/, /en/products, /ar/) returns near-identical templated boilerplate carrying a literal 'Mirrored from rededition.com/en/ by HTTrack Website Copier' artifact plus schema.org data describing an unrelated company ('Red Edition', dated 2018-2019), and a plausible product-category URL 404s. This matches the Gate 4 non-functional/placeholder failure pattern rather than a genuine live operating storefront.",
+    "evidence": "Homepage HTML footer comment: 'Mirrored from rededition.com/en/ by HTTrack Website Copier/3.x... Wed, 06 Nov 2019'; embedded JSON-LD schema.org WebSite/WebPage entities reference rededition.com/'Red Edition' (datePublished 2018-04-23); GET /category/carpets/ returns Apache 404 'Object not found!'; /en/products and /ar/ return the same generic cart JS boilerplate with no visible real product listings."
+  },
+  {
+    "name": "Al-Talayi | الطلائع, Bridgestone",
+    "domain": "al-talayi.com.sa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive (tires) -- non-retail per Gate 2",
+    "qualification_path": "n/a",
+    "reason": "Site is a Bridgestone tire dealer/agent ('Trusted Bridgestone Agent for Over 75 Years') -- automotive (including tires) is an explicit Gate 2 hard-fail category, which is reached before Gate 3's narrow-category rule would otherwise also apply to tires specifically.",
+    "evidence": "Title: 'Homepage - Altalayi'; apple-mobile-web-app-title: 'Altalayi - Trusted Bridgestone Agent for Over 75 Years'; description: 'Bridgestone offers a wide range of tire choices to meet various drivers' needs and driving styles.'"
+  },
+  {
+    "name": "Al-Zayani Automotive",
+    "domain": "al-zayani.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive (luxury vehicle dealer) -- non-retail",
+    "qualification_path": "n/a",
+    "reason": "Confirmed luxury automotive dealership (Ferrari, Maserati, Bentley, Jaguar, Lynk&Co) in Kuwait -- automotive dealers are an explicit Gate 2 hard-fail category.",
+    "evidence": "Title: 'Luxury Vehicle Dealer | Kuwait | Al Zayani - Al Zayani'; description: 'Al Zayani Automotive is a luxury automotive retailer in Kuwait. Discover our range and models of premium cars and brands including Ferrari, Maserati, Bentley, Jaguar, Lynk&Co and more.'"
+  },
+  {
+    "name": "alamal advanced medical",
+    "domain": "alamalph.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "pharmacy / health & beauty retail",
+    "qualification_path": "substantiality",
+    "reason": "Al-Amal Advanced Medical Company operates a distinct retail pharmacy chain ('Al-Amal Pharmacies') with physical branches across five southwestern Saudi cities and a dedicated 'Shop Online' e-commerce application built on a modern Angular stack with real payment integration (Tabby BNPL, Google Sign-In), confirming genuine transactional infrastructure -- distinct from the parent group's separate dental-clinic/medical-complex healthcare services, which would not qualify on their own.",
+    "evidence": "alamalph.com main nav includes a dedicated 'صيدليات الأمل' (Al-Amal Pharmacies) item and a 'تسوق اونلاين' (Shop Online) button linking out to the group's online pharmacy; WebSearch confirms 'Al-Amal Pharmacies' operating in Ad Darb, Abha, Khamis Mushait, Sabya and Jizan with online ordering at alamalonline.com; direct fetch of alamalonline.com shows a modern Angular SPA loading Tabby checkout and Google Sign-In scripts."
+  }
+]

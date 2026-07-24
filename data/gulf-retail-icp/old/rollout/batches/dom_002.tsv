@@ -1,0 +1,19 @@
+source	country	name	domain	prior_verdict	prior_category
+original	Kuwait	Al Ameeri Group Holding	alameeri.com	OUT	diversified_holding
+original	Saudi Arabia	Abdullah Ali Al Amer & Brothers Trading Co	alamer-market.com	IN	grocery
+original	Qatar	AlaneesQatar	alaneesqatar.qa	IN	electronics retail
+original	Kuwait	Alarabiya Company الشركة العربية	alarabiya.com.kw	IN	home_improvement
+original	Saudi Arabia	Alaryaf Sweets |  الارياف للحلويات	alaryaf.com	IN	grocery
+original	Saudi Arabia	ALASEEL	alaseel.com.sa	IN	fashion
+original	Saudi Arabia	Saudi Fisheries Company (SFC)	alasmak.com.sa	OUT	seafood_production_processing
+original	Qatar	Al Attiya Motors & Trading Company	alattiyamotors.com	OUT	non_retail
+original	Kuwait	Alaysh International Group	alayshgroup.com	IN	general_merch_dept
+original	Qatar	Al Aziziya Pharmacy	alaziziyapharmacy.com	IN	health_beauty_pharmacy
+original	Kuwait	AlBabtain Auto	albabtainauto.com	OUT	non_retail
+original	Saudi Arabia	ALBABTAIN FOOD	albabtainfood.com	OUT	wholesale_distribution
+original	Kuwait	Al Babtain Group of Companies	albabtaingroup.com.kw	OUT	non_retail
+original	Saudi Arabia	البدر للبصريات | AlBadr Optical	albadr-optical.com	OUT	optical_eyewear
+original	Kuwait	Al-Bahar Group	albahargroup.com	OUT	machinery_equipment
+original	Saudi Arabia	Al Barakat Group Co Ltd.	albarakatgroup.com	IN	optical_eyewear
+original	Saudi Arabia	ALBASEM الباسم	albasem.com.sa	IN	general_merch_dept
+original	Saudi Arabia	ALdakheel Oud الدخيل للعود	aldakheeloud.com	IN	health_beauty_pharmacy

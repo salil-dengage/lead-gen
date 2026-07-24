@@ -1,0 +1,19 @@
+source	country	name	domain	prior_verdict	prior_category
+original	Kuwait	AAW Pharma & Medical		OUT	pharmaceutical and medical wholesale/distribution (B2B)
+original	Saudi Arabia	Abdullatif Alissa Group Holding Co.		OUT	non_retail
+original	Saudi Arabia	Ahmad A. Abed		IN	grocery
+original	Qatar	Al Anees Group		IN	ecommerce
+original	Saudi Arabia	Al Jabr Holding | الجبر القابضة		OUT	non_retail
+original	Saudi Arabia	Al Majed for Oud الماجد للعود		IN	health_beauty_pharmacy
+original	Qatar	Al Meera Consumer Goods Company		IN	grocery
+original	Kuwait	Al Nasser Kuwait		IN	fashion
+original	Saudi Arabia	Al Raya For Foodstuff Company Ltd.		IN	grocery
+held_review	Saudi Arabia	Al Sadaf Trading Co. | شركة السدف للتجارة		OUT	fashion
+original	Saudi Arabia	Al Sadhan Trading Co		IN	grocery
+original	Saudi Arabia	AL SHAYA INTERNATIONAL TRADING CO		OUT	retail franchise operator (M.H. Alshaya)
+original	Saudi Arabia	Al Yemni Motors Company		OUT	non_retail
+original	Saudi Arabia	Al-Maha Optical المها للبصريات		IN	health_beauty_pharmacy
+original	Saudi Arabia	aldawaa		IN	health_beauty_pharmacy
+original	Qatar	Alfardan Automobiles		OUT	non_retail
+original	Saudi Arabia	Aljabr Trading Company شركة الجبر التجارية		OUT	non_retail
+original	Saudi Arabia	Almadina Holding Company		IN	health_beauty_pharmacy

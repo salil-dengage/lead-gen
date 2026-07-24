@@ -1,0 +1,19 @@
+source	country	name	domain	prior_verdict	prior_category
+gap_sweep		mo4cars	mo4cars.com	OUT	ecommerce_unverified
+gap_sweep		edadcom	edadcom.com	OUT	ecommerce_unverified
+gap_sweep		monaalshebil	monaalshebil.com	OUT	ecommerce_unverified
+gap_sweep		curioartsupplies	curioartsupplies.com	OUT	ecommerce_unverified
+gap_sweep		farawlah	farawlah.sa	OUT	ecommerce_unverified
+gap_sweep		foodtech-sa	foodtech-sa.com	OUT	ecommerce_unverified
+gap_sweep		aamaad	aamaad.store	OUT	ecommerce_unverified
+gap_sweep		zayanstudio	zayanstudio.com	OUT	ecommerce_unverified
+gap_sweep		webetr	webetr.com	OUT	ecommerce_unverified
+gap_sweep		astraglory	astraglory.com	OUT	ecommerce_unverified
+gap_sweep		aani-dani	aani-dani.com	OUT	ecommerce_unverified
+gap_sweep		alabuo	alabuo.co	OUT	ecommerce_unverified
+gap_sweep		olayangroup	olayangroup.com	OUT	ecommerce_unverified
+gap_sweep		ajlanbros	ajlanbros.com	OUT	ecommerce_unverified
+gap_sweep		keden	keden.com.sa	OUT	ecommerce_unverified
+gap_sweep		gs-jewelry	gs-jewelry.com	OUT	ecommerce_unverified
+gap_sweep		foodhouse	foodhouse.sa	OUT	ecommerce_unverified
+gap_sweep		othaimmalls	othaimmalls.com	OUT	grocery

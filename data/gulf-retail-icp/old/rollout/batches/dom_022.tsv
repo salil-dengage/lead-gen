@@ -1,0 +1,19 @@
+source	country	name	domain	prior_verdict	prior_category
+original	Saudi Arabia	Majestic Office Furniture	majestic.com.sa	OUT	non_retail
+original	Saudi Arabia	مخازن العناية | Makhazen Alenayah	makhazenalenaya.sa	IN	grocery
+original	Saudi Arabia	Makkah Hypermarket Saudi Arabia	makkahhyper.com	IN	grocery
+original	Saudi Arabia	Maktab	maktab.com	IN	sporting_toys_books
+original	Kuwait	maktaba	maktabakw.com	IN	sporting_toys_books
+held_review	Saudi Arabia	Musaed Mohammed Bin Ajlan Co	malajlanstore.com	OUT	diversified_trading
+held_review	Saudi Arabia	مكارم -Makarem	malnokhba.com	OUT	home_improvement
+original	Qatar	Mannai Corporation QPSC	mannai.com	OUT	non_retail
+original	Qatar	Mannai Trading Automotive Group	mannaiautos.com	OUT	non_retail
+original	Qatar	Mannai HECV Group	mannaiheavyequipment.com	OUT	non_retail
+original	Saudi Arabia	Manuel Market	manuelsupermarket.com	IN	grocery
+original	Saudi Arabia	Maraya	maraya.sa	IN	fashion
+original	Saudi Arabia	Masdar - مصدر	masdaronline.com	IN	ecommerce
+original	Saudi Arabia	Matajer Al Saudia	matajeralsaudia.com	IN	grocery
+held_review	Qatar	MATALAN Middle East	matalan-me.com	HELD	fashion
+original	Saudi Arabia	Match | ماتش	matchperfumes.com	IN	health_beauty_pharmacy
+original	Kuwait	Al Mulla & Behbehani Motor Co.	mbmc.com.kw	OUT	non_retail
+original	Saudi Arabia	Meed Trading Company	meed.sa	IN	grocery

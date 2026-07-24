@@ -1,0 +1,19 @@
+source	country	name	domain	prior_verdict	prior_category
+original	Saudi Arabia	Bostani	bostani.com	IN	grocery
+original	Kuwait	Boutiqat	boutiqat.com	IN	specialty_retail
+held_review	Qatar	Bradma Group	bradmagroup.com.qa	OUT	diversified_trading
+original	Qatar	BTC Fashion	btcfashion.me	IN	fashion
+held_review	Saudi Arabia	Build Station LLC	build-station.com	OUT	home_improvement
+original	Saudi Arabia	BYD KSA	byd.sa	OUT	non_retail
+original	Kuwait	Cadillac Alghanim كاديلاك الغانم‎	cadillacalghanim.com	OUT	non_retail
+original	Saudi Arabia	خطوة جمل | Camel Step	camelstep.com	IN	grocery
+original	Qatar	Care n Cure Group	carencurepharmacy.com	IN	health_beauty_pharmacy
+original	Qatar	MAF HYPERMARKETS QATAR CARREFOUR	carrefourqatar.com	OUT	grocery
+original	Saudi Arabia	Casa Piu	casapiu.com.sa	IN	home_furniture_appliance
+original	Saudi Arabia	Cenomi Group	cenomi.com	IN	specialty_retail
+held_review	Kuwait	Chayah Group	chayahgroup.com	OUT	diversified_trading
+original	Kuwait	Chery Alghanim	cheryalghanim.com	OUT	non_retail
+original	Saudi Arabia	Sanabel Modern Motors	cheryksa.com	OUT	non_retail
+original	Kuwait	Chevrolet Alghanim شفروليه الغانم	chevroletalghanim.com	OUT	non_retail
+held_review	Kuwait	CHIPS	chipsstore.com	IN	retail_general
+held_review	Saudi Arabia	Circle K Alsulaiman	circlek.com.sa	OUT	grocery

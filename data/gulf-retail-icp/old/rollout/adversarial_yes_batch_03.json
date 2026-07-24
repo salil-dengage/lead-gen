@@ -1,0 +1,100 @@
+[
+ {
+  "name": "United International Trading Company W.L.L",
+  "domain": "uitcqatar.com",
+  "country": "Qatar",
+  "category": "distribution",
+  "prior_qualification_reason": "SAMPLE RE-AUDIT CORRECTION (No -> Yes): Stated reason (not a retail pharmacy chain) is wrong. Corrected Gate 2 hybrid: UITC runs its own retail pharmacy chain SunLife Pharmacy (20+ Qatar branches) with a full transactional store at sunlife.qa (cart/checkout, 24/7 delivery, medicines/health/beauty) alongside its wholesale arm, mirroring the Union Trading/Lazurde pass. Qatar-HQ'd, approved pharmacy "
+ },
+ {
+  "name": "Wellcare Pharmacy Qatar",
+  "domain": "wellcaregroup.com",
+  "country": "Qatar",
+  "category": "pharmacy",
+  "prior_qualification_reason": "Gate 2 (corrected hybrid clause): a 90+ branch Qatar pharmacy chain (approved category) with a live online pharmacy e-commerce platform (wellcareonline.com); the substantial dedicated retail-pharmacy arm qualifies on its own merits despite the group's coexisting wholesale/distribution line, so the Held was overly conservative."
+ },
+ {
+  "name": "alrifaisaudi",
+  "domain": "alrifaisaudi.com",
+  "country": "Saudi Arabia",
+  "category": "f_and_b",
+  "prior_qualification_reason": "SAMPLE RE-AUDIT CORRECTION (Held -> Yes): Gate 1 resolves to PASS: Al Rifai Saudi is run by Gulf Trading Holding Company (Riyadh-HQ'd, 120+ outlets since 1998, in-country roasting), a local operator running a franchise brand (Cenomi/Jarir precedent); nuts/coffee is high-repeat F&B and the original pass already confirmed a live cart/checkout, so the geography Hold was over-conservative."
+ },
+ {
+  "name": "cityflowerretail",
+  "domain": "cityflowerretail.com",
+  "country": "Saudi Arabia",
+  "category": "n/a",
+  "prior_qualification_reason": "Gates 4 and 5: City Flower (Fleeriya Group, Riyadh HQ) is a 20 department-store + 4 hypermarket general-merchandise chain (approved category) with a live, actively-maintained transactional grocery app (v3.0, July 2025) on both app stores plus a responding store site (cityflower.sa); the Held was a digital-channel load failure (503/SPA), now resolved."
+ },
+ {
+  "name": "carly",
+  "domain": "halacarly.com",
+  "country": "Saudi Arabia",
+  "category": "n/a",
+  "prior_qualification_reason": "SAMPLE RE-AUDIT CORRECTION (No -> Yes): Gate 5b app-download rescue: Carly (One Sky, Riyadh-HQ'd so Gate 1 passes) runs an ~80,000-download consumer car-marketplace app (AppBrain, active Jan 2026), above the 50k threshold that overrides the automotive category exclusion; the prior reason stopped at Gate 2 without applying Gate 5b."
+ },
+ {
+  "name": "مخابز وحلويات نعمه",
+  "domain": "neamah.com",
+  "country": "Saudi Arabia",
+  "category": "n/a",
+  "prior_qualification_reason": "SAMPLE RE-AUDIT CORRECTION (No -> Yes): The 'placeholder page' exclusion skipped the Gate 4 follow-up; Neamah Bakery & Sweets is a real 8+ branch Jeddah/Mecca chain with its own branded online ordering (neamah.my.taker.io) plus HungerStation, an approved high-repeat F&B category with genuine Saudi multi-branch scale."
+ },
+ {
+  "name": "sondos",
+  "domain": "sondos.com",
+  "country": "Saudi Arabia",
+  "category": "general_merchandise",
+  "prior_qualification_reason": "Excluded as a tissue manufacturer/hybrid-B2B, which is the corrected Gate 2 error. Al Faris Industrial Group also runs sondos.com as a genuine dedicated consumer D2C store (live cart, SAR consumer pricing, 4 branded lines across tissues/hand-soap/plastics, Dammam KSA, Kingdom-wide delivery, customer reviews). Approved high-repeat household-consumables category; qualifies on the retail arm's own me"
+ },
+ {
+  "name": "Sleep High",
+  "domain": "sleephigh.com",
+  "country": "Saudi Arabia",
+  "category": "home_furniture",
+  "prior_qualification_reason": "Reason 'mattress-only' is false. Verified a broad bedroom/bedding range (mattresses, beds, pillows, bed sheets, protectors, bath towels, recliners) across multiple KSA showrooms (Riyadh/Jeddah/Mecca) with live e-commerce (Tabby/Tamara), operating since 1963. Bedding/linens are repeat-purchase so Gate 3 does not apply; approved home/furniture category, Saudi-HQ'd, dedicated retail plus own factorie"
+ },
+ {
+  "name": "AAW Pharma & Medical",
+  "domain": "",
+  "country": "Kuwait",
+  "category": "distribution",
+  "prior_qualification_reason": "Reason 'B2B distribution, not a retail pharmacy chain' is factually wrong. AAW (Ali Abdulwahab Al Mutawa, Kuwait) operates Al Mutawa Pharmacies, a leading retail pharmacy chain of 30+ branches with an e-commerce platform, mobile app and home delivery; retail pharmacy chains are the explicit Gate 2 exception. Qualifies via that retail arm (should be mapped/deduped to the Al Mutawa Pharmacies entity"
+ },
+ {
+  "name": "RojoCoral Boutique | Children's Fashion & Accessories",
+  "domain": "",
+  "country": "Saudi Arabia",
+  "category": "n/a",
+  "prior_qualification_reason": "The 'Facebook-only / no live domain' reason is false: rojocoral.com is a live transactional Saudi store with SAR pricing, +966 contact, ready-to-ship/outlet/new-arrivals collections and a returns policy. Approved children's-apparel category, Saudi-based; catalog is boutique-scale but shows real ongoing operation."
+ },
+ {
+  "name": "SWAJ | سواج",
+  "domain": "",
+  "country": "Saudi Arabia",
+  "category": "n/a",
+  "prior_qualification_reason": "Resolves to the Saudi streetwear brand 'SWAG' at swag.sa, an established unisex apparel label with Kingdom-wide shipping and active Instagram/TikTok. Domain returns a 403 (live, bot-protected server, not dead/parked), so per Gate 4's blocked-site rule it re-gates as a live apparel store. Approved multi-item category, Saudi-based."
+ },
+ {
+  "name": "الغانم للأجهزة الكهربائية AL-GHANIM STORE",
+  "domain": "",
+  "country": "Saudi Arabia",
+  "category": "n/a",
+  "prior_qualification_reason": "Geography exclusion wrongly assumed this is Kuwait's Alghanim Industries. It is a distinct Saudi appliance retail chain (alghanim-store.com, ~14-19 branches across the Kingdom since 2001) with a live transactional store: SAR pricing, cart/checkout, Tabby/Tamara installments, hundreds of SKUs, Kingdom-wide shipping. Approved electronics/appliances category, Saudi HQ, clear scale."
+ },
+ {
+  "name": "Alif Stores",
+  "domain": "",
+  "country": "Qatar",
+  "category": "fashion",
+  "prior_qualification_reason": "Live Qatar e-commerce retailer (alifstores.com): working cart/wishlist, QAR pricing, ~8-10 categories (books, electronics, toys, stationery, gaming, lifestyle), iOS/Android apps, Doha + Vendome Mall showrooms, licensed by Qatar Ministry of Commerce. Approved category (books/stationery/general merchandise), Qatar HQ, real scale. The scale/category hold is resolved."
+ },
+ {
+  "name": "SAVECO Online Hypermarket",
+  "domain": "",
+  "country": "Saudi Arabia",
+  "category": "grocery",
+  "prior_qualification_reason": "Kuwait's largest hypermarket chain (Al-Qatami Group, est. 2013), grocery/general merchandise (approved) with live online ordering and delivery via Talabat, WhatsApp and its own site. Kuwait HQ is in-scope; original OUT rested on a false 'Savola arm' premise plus a 'no domain on file' data gap, not a real disqualifier."
+ }
+]

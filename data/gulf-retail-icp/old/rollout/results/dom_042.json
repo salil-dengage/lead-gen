@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Bashir Shakib Al-Jabri & Co. Ltd. (MPS - Medical & Pharmaceutical Services)",
+    "domain": "bashirco.com.sa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "B2B pharma/dental wholesale distribution",
+    "qualification_path": "n/a",
+    "reason": "Real, live Jeddah-HQ'd Saudi company (passes geography), but it is MPS, a B2B distributor of dental and pharmaceutical products supplying pharmacies, hospitals, universities and government institutions across the Gulf, not a direct-to-consumer retail storefront.",
+    "evidence": "Homepage: 'MPS - Bashir Shakib Al-Jabri & Co. Ltd.', P.O.Box 9584, Jeddah 21423, KSA, +966 12 6700430. States 'Main Dental supplier for MOH' and lists customer channels as 'Universities & research centers, Pharmacies, PVT Hospitals, E commerce, Hypertrade, GVT Institutions' - explicit institutional/B2B distribution model."
+  },
+  {
+    "name": "Sedra Jewellery",
+    "domain": "sedrajewellery.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "fashion/luxury - fine jewelry retail",
+    "qualification_path": "substantiality",
+    "reason": "Live Saudi-HQ'd jewelry e-commerce store (Zid platform) with a genuine cart/checkout and a large, diverse catalog (chains, bracelets, earrings, rings, anklets, personalized-letter jewelry).",
+    "evidence": "curl of /ar-us/products shows 'إجمالي 170 منتجات' (170 products total) with live 'أضف للسلة' add-to-cart buttons and real pricing. Footer shows Saudi commercial registration 'السجل التجارى: 1010667229' and +966 phone numbers (+966597058787, 966505050505)."
+  },
+  {
+    "name": "Matjar Panda",
+    "domain": "matjarpanda.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "pet supplies / pet food retail (not an approved ICP category)",
+    "qualification_path": "n/a",
+    "reason": "Real, live, substantial Saudi e-commerce store (same-day Riyadh/Jeddah delivery, loyalty program, cashback) but it sells exclusively pet food, litter, and accessories for cats, dogs, birds and small animals - a specialty vertical outside the four approved retail categories (fashion, beauty/pharmacy, grocery/F&B, electronics/home/furniture/general merchandise).",
+    "evidence": "Full site navigation/category tree is 100% pet-specific (cat/dog/bird/small-animal food, litter, toys, grooming). Banner text confirms Saudi operation: same-day delivery in 'مدينة الرياض و جدة', SAR pricing, 'باقي مناطق المملكة' (rest of the Kingdom)."
+  },
+  {
+    "name": "72Hair (sold via Beauty Steps Trading Co.)",
+    "domain": "72hairsa.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "beauty/cosmetics - skincare, haircare, eye care and makeup (multi-brand)",
+    "qualification_path": "substantiality",
+    "reason": "72hairsa.com redirects entirely to a brand-collection page on beautysteps.sa, operated by Beauty Steps Trading Company, a genuine Saudi-HQ'd multi-brand dermocosmetics retailer with a live cart and a large catalog spanning several international skincare/haircare/makeup brands.",
+    "evidence": "curl -L https://72hairsa.com lands on beautysteps.sa/collections/72هير. Beauty Steps footer: 'الوكيل الحصري شركة بيوتي ستبس للتجارة', CR (سجل تجاري) 1010855359, tax no. 311531626100003, +966536512485. /collections/all confirms 'هناك 185 نتائج في المجموع' (185 products total: EltaMD, IMAGE, PCA Skin, Revitalash, 72Hair, Oxygen Botanicals, Dr. Melaxin, Edit.B, Sungboon) with live add-to-cart buttons."
+  },
+  {
+    "name": "The Law Firm of Nasreen Alissa",
+    "domain": "nasreenalissalaw.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "legal services (law firm)",
+    "qualification_path": "n/a",
+    "reason": "Riyadh-HQ'd Saudi boutique law firm offering corporate, M&A, litigation, employment and family-law services - legal services is an explicit hard-fail category, and there is no product catalog or checkout of any kind.",
+    "evidence": "Homepage: 'The Law Firm of Nasreen Alissa is a boutique firm in Riyadh, Saudi Arabia, that provides clients with contentious and non-contentious legal services'; services list is Corporate/Company Formation/M&A/Employment/IP/Litigation/Family Law."
+  },
+  {
+    "name": "Noha Nabil",
+    "domain": "nohanabil.sa",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "beauty/cosmetics - color cosmetics (own-brand makeup)",
+    "qualification_path": "substantiality",
+    "reason": "Live Saudi-HQ'd DTC makeup brand (eyes, brows, face, lips, accessories) with a real Shopify cart and full checkout/payment infrastructure, distributed physically through major Gulf specialty beauty chains across roughly 20 Saudi doors plus UAE/Kuwait/Qatar/Oman.",
+    "evidence": "Product sitemap lists 37 distinct product pages (each with multiple shade/color variants). Live cart with SAR pricing and full payment methods (Mada, Visa, Mastercard, Apple Pay). /pages/store-locator lists ~20 physical points of sale in KSA (Riyadh x5, Jeddah x7, Dammam, Dhahran, Medina, Taif, Mecca, Abha, Al Baha, Hail) via Faces/Gold Apple/Etoile, plus UAE, Oman, Kuwait and Qatar doors."
+  },
+  {
+    "name": "RF Collection (formerly/aka RK Collection)",
+    "domain": "rkcollection.sa",
+    "verdict": "OUT",
+    "gate_failed": "scale",
+    "category_final": "beauty/perfume (fragrance)",
+    "qualification_path": "n/a",
+    "reason": "rkcollection.sa now redirects fully to rfcollection.sa, a real, live Saudi perfume e-commerce store with a genuine cart/checkout, but the entire catalog totals only about 19 SKUs, well under the ~50 SKU substantiality floor, with no other evidence of scale (no physical store network or stated customer base found).",
+    "evidence": "curl -L https://rkcollection.sa redirects to https://rfcollection.sa ('RF COLLECTION'). The /collections/all 'Products' listing enumerates exactly 19 perfumes across Classic/Artistic/Deluxe collections plus a Discovery Set; +966515260542 appears sitewide confirming Saudi contact; no store-locator or scale claims found."
+  },
+  {
+    "name": "Enhance CG (formerly Saudi Ethraa)",
+    "domain": "enhancecg.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "financial/management consulting (B2B professional services)",
+    "qualification_path": "n/a",
+    "reason": "Jeddah/Riyadh/Al-Khobar HQ'd Saudi firm, but it is a financial advisory house (business valuation, M&A advisory, IPO readiness, debt advisory, corporate governance) - B2B professional services is an explicit hard-fail category, and there is no retail storefront.",
+    "evidence": "Homepage: 'Enhance CG - Financial Advisory'; 'Saudi Ethraa is Now ENHANCE'; offices listed in Jeddah, Riyadh and Al-Khobar, KSA; services are entirely financial/management consulting (Business Valuation, Buy/Sell-Side Advisory, Financial Due Diligence, IPO Readiness, Debt Advisory)."
+  },
+  {
+    "name": "DNA Lifestyle KSA",
+    "domain": "dnalifestyle.sa",
+    "verdict": "OUT",
+    "gate_failed": "digital_channel",
+    "category_final": "electronics/gaming retail (live storefront unconfirmable at check time)",
+    "qualification_path": "n/a",
+    "reason": "dnalifestyle.sa (and www subdomain) does not resolve at all (DNS failure via three independent methods). WebSearch confirms DNA Lifestyle KSA is a real electronics/gaming/gadgets retailer with a physical store at Al Othaim Mall Rabwa, Riyadh, and active multi-platform social media, but no alternate live domain was found and no currently reachable transactional storefront (own site or a clearly-confirmed marketplace store) could be verified.",
+    "evidence": "curl, WebFetch, and python socket.getaddrinfo all return 'Name or service not known'/ENOTFOUND for dnalifestyle.sa and www.dnalifestyle.sa. WebSearch snippet describes 'DNA KSA Online | Shop Now | Electronics, Gaming & Entertainment' with specific real-sounding details (free shipping over 200 SAR, support@dnalifestyle.sa, phone 920006333, physical store at Al Othaim Mall Rabwa Riyadh), but the site could not be reached to confirm a live cart; a Noon.com 'DNA' brand search returned unrelated hair-care/automotive results, not a confirmed DNA Lifestyle storefront. Flag [VERIFY]: may be a transient outage worth rechecking rather than a permanently dead business."
+  },
+  {
+    "name": "Saudi Marts",
+    "domain": "saudimarts.com",
+    "verdict": "OUT",
+    "gate_failed": "digital_channel",
+    "category_final": "n/a (parked domain, no real business found)",
+    "qualification_path": "n/a",
+    "reason": "saudimarts.com is a parked/for-sale domain listed on HugeDomains, not a live business, and WebSearch found no evidence a business called 'Saudi Marts' exists under any other domain.",
+    "evidence": "curl -L https://saudimarts.com resolves to hugedomains.com/domain_profile.cfm?d=saudimarts.com, a domain-sales landing page ('SaudiMarts.com is for sale: $2,395') with no retail content. WebSearch for 'Saudi Marts' online store Saudi Arabia grocery/supermarket/retail returned no matching business."
+  },
+  {
+    "name": "Petite Store",
+    "domain": "petite.sa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "pet supplies / pet food retail (not an approved ICP category)",
+    "qualification_path": "n/a",
+    "reason": "petite.sa redirects to petite-store.com, a real, live Saudi e-commerce pet-supplies retailer (cats and dogs: food, litter, care, accessories) with same-day Riyadh delivery, but pet supplies falls outside the four approved retail categories.",
+    "evidence": "curl -L https://petite.sa redirects to petite-store.com. Full nav/category tree is Cats/Kittens/Dogs/Puppies with dry/wet food, litter, toys, grooming - 100% pet-specific; real cart ('Add to cart'), SAR pricing, 'SAME DAY DELIVERY in Riyadh! only for orders before 2PM.'"
+  },
+  {
+    "name": "Wasma Mansour",
+    "domain": "wasmamansour.com.sa",
+    "verdict": "OUT",
+    "gate_failed": "scale",
+    "category_final": "beauty/perfume and home fragrance (candles)",
+    "qualification_path": "n/a",
+    "reason": "Real, live Saudi Shopify fragrance/candle brand (three scent lines: Silver Lake, Harlem Rose, London Fields) with a functioning cart and checkout, but the entire catalog is only 12 SKUs total, well below the ~50 SKU substantiality floor, with several items sold out.",
+    "evidence": "sitemap_products_1.xml lists exactly 12 product URLs; /collections/all confirms the same 12 items (3 EDPs, 2 oil roll-ons, 6 candles across two sizes, 1 discovery set). +966491738946/+966765173894 present, confirming Saudi contact."
+  },
+  {
+    "name": "Bomb Cosmetics Saudi Arabia (Kayan Al-Tajmeel Trading Est.)",
+    "domain": "bombsa.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "beauty/personal-care - bath & body cosmetics",
+    "qualification_path": "substantiality",
+    "reason": "Live, substantial Saudi-HQ'd bath-and-body/cosmetics e-commerce retailer (bath bombs, soaps, scrubs, shampoo/conditioner bars, body sprays, candles, gift sets) with a real Shopify cart, a physical showroom in Riyadh, and a very large product catalog.",
+    "evidence": "Products sitemap lists 238 product URLs (237 SKUs) spanning bath bombs, lip scrubs, shampoo bars, body sprays, soaps and candles. Footer: Saudi CR 'سجل تجاري: 4030526914', company 'مؤسسة كيان التجميل للتجارة'; physical branch listed as 'الرياض/ الحياة مول' (Riyadh, Al Hayat Mall); free shipping over 50 SAR, 7-day returns, secure-payment messaging."
+  },
+  {
+    "name": "Green Life",
+    "domain": "greenlifeksa.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "wholesale/bulk food & personal-care distribution (B2B/B2C wholesale)",
+    "qualification_path": "n/a",
+    "reason": "Riyadh-HQ'd Saudi company, but it explicitly describes itself as a wholesale distributor of organic/specialty grocery and personal-care brands serving both B2B and B2C customers at wholesale prices, and enforces a 2,000 SAR minimum order - this is a wholesale/bulk distribution business model, an explicit hard-fail category, not consumer retail grocery.",
+    "evidence": "/pages/about-us: 'مهمتنا هي توفير أفضل برنامج بيع بالجملة ... لقطاعي B2B و B2C، نحن نقدم طلبات الشراء بالجملة وأسعار الجملة لجميع العناصر المتاحة للبيع في جرين لايف للبيع بالجملة' (our mission is the best wholesale program for the B2B and B2C sectors, bulk orders at wholesale prices - 'Green Life FOR WHOLESALE'). Site-wide banner: 'نقبل الطلب فوق 2000 ريال فقط' (orders accepted above 2,000 SAR only). Address: Al Sulaimaniyah, Riyadh 46001, KSA."
+  },
+  {
+    "name": "Razan Alazzouni",
+    "domain": "razanalazzouni.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "fashion/luxury - designer womenswear",
+    "qualification_path": "substantiality",
+    "reason": "Live Saudi-registered luxury fashion-designer e-commerce store (kaftans, dresses, tops, skirts, jackets, accessories, shoes) with a real Shopify cart, size selection and checkout, seasonal runway/resort collections, and a large catalog.",
+    "evidence": "Products sitemap lists 254 product URLs (253 SKUs). Footer: 'Razan Alazzouni Trading EST. / مؤسسة رزان العزوني التجارية, CR # 2051048704, VAT # 310074903800003' confirming Saudi registration; live checkout with size selectors (34F-42F) and SAR pricing in the thousands (luxury price point); designer collaborations with Piaget, SILSAL, Rene Caovilla."
+  },
+  {
+    "name": "Inrest Home",
+    "domain": "inrest.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "home - bedding & bath textiles",
+    "qualification_path": "substantiality",
+    "reason": "Live Saudi-HQ'd home-textiles retailer (duvets, duvet covers, pillows, mattresses, mattress protectors, towels, bathrobes, room fragrance) with a real cart/checkout, 10 physical branches across the Kingdom, and a catalog well over 100 SKUs.",
+    "evidence": "Homepage category counts: duvet covers (غطاء لحاف) 56, duvets (لحاف سرير) 48, pillows (مخدات) 12, mattress protectors 4 - over 120 SKUs before counting mattresses/towels/robes/fragrance. Saudi CR 1010237753; 10 named branches listed under 'فروعنا'; 'إضافة إلى السلة' add-to-cart, free shipping over 99 SAR, 24-hour support, +966559161822."
+  },
+  {
+    "name": "Souqvana",
+    "domain": "souqvana.store",
+    "verdict": "OUT",
+    "gate_failed": "digital_channel",
+    "category_final": "n/a (domain dead, no business found)",
+    "qualification_path": "n/a",
+    "reason": "souqvana.store does not resolve at all (DNS failure), and WebSearch found no trace of a real business called 'Souqvana' under this or any other domain.",
+    "evidence": "curl and direct python socket.getaddrinfo both fail with 'Name or service not known' for souqvana.store. WebSearch for 'souqvana Saudi Arabia store' returned no matching business, only unrelated generic 'souq' (traditional market) results."
+  },
+  {
+    "name": "Zenitan",
+    "domain": "zenitan.com",
+    "verdict": "OUT",
+    "gate_failed": "digital_channel",
+    "category_final": "n/a (domain dead, no business found)",
+    "qualification_path": "n/a",
+    "reason": "zenitan.com does not resolve at all (DNS failure), and WebSearch found no trace of a real business called 'Zenitan' under this or any other domain in the Gulf.",
+    "evidence": "curl and direct python socket.getaddrinfo both fail with 'Name or service not known' for zenitan.com. WebSearch for 'zenitan.com Saudi Arabia OR Kuwait OR Qatar store' returned no matching business."
+  }
+]

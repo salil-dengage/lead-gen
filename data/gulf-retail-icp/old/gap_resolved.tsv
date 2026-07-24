@@ -1,0 +1,294 @@
+zoho_id	name	website	verdict	category	tier	reason
+3978798000007460273	Yalla Toys	https://yallatoys.com/	IN	sporting_hobby_books	B	Qatar-based toy e-commerce retailer with an active DTC store.
+3978798000014733037	Mall of Qatar		OUT	grocery	na	Shopping-mall real-estate operator/landlord, not itself a retail company.
+3978798000014947271	Miniz Markets	https://www.tap.company	HELD	grocery	na	Small Kuwait grocery chain; 100+ employee scale not confirmed.
+3978798000014961599	Alif Stores		HELD	fashion	na	Plausible Qatar multi-brand retailer; scale and category not independently confirmed.
+3978798000016535558	Modern Electronics Company		OUT	electronics	na	Duplicate of 'Modern Electronics - MEC (AL-Faisaliah Group)', already in the finalized 368 IN set.
+3978798000016818200	homzmart	homzmart.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000017886441	Yallatoys.com		OUT	sporting_hobby_books	na	Duplicate of Yalla Toys (same company, kept as one account).
+3978798000017886732	SAVECO Online Hypermarket		IN	grocery	A	Savola Group's online hypermarket arm; substantial grocery e-commerce operation (Saudi-HQ'd).
+3978798000018427730	Sameh Mall		OUT	grocery	na	Egypt-oriented marketplace app; outside the KSA/Kuwait/Qatar scope.
+3978798000022196593	LG Electronics		OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000084482074	Arabic Marketer Network LLC	http://www.ematajer.com/	OUT	agency_or_services	na	Non-retail category (agency_or_services).
+3978798000084482077	ATK Services & Marketing	http://www.atktech.com/	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000084482107	Hp Store Ksa	https://www.hpstoreksa.com/	OUT	electronics	na	HP-branded storefront; HP Inc. is a foreign-HQ'd (US) principal, not a distinct Saudi-HQ'd operating company.
+3978798000084482116	Jamjoom Pharma	http://www.jamjoompharma.com/	OUT	healthcare_or_pharma_mfr	na	Non-retail category (healthcare_or_pharma_mfr).
+3978798000084482117	Jazeera Pharmaceuticals Industries	http://www.jpi.com.sa/	OUT	healthcare_or_pharma_mfr	na	Non-retail category (healthcare_or_pharma_mfr).
+3978798000084482148	Pharma Pharmaceutical Industries	http://www.pharma.com.sa/	OUT	healthcare_or_pharma_mfr	na	Non-retail category (healthcare_or_pharma_mfr).
+3978798000084482179	Tafaseel Store	http://tafaseel.store/	HELD	retail_general	na	Name suggests a retail storefront; company identity and scale unconfirmed.
+3978798000084482189	Smartable	http://www.smartable.me/	OUT	unknown_naics	na	No confirmable retail identity from name/domain.
+3978798000084482199	Saudi Pharmaceutical Industries	http://www.saudi-pharma.net/spi2/	OUT	healthcare_or_pharma_mfr	na	Non-retail category (healthcare_or_pharma_mfr).
+3978798000084482202	Pharma Pharmaceutical Industry	http://www.pharma.com.sa/	OUT	healthcare_or_pharma_mfr	na	Non-retail category (healthcare_or_pharma_mfr).
+3978798000098793207	Staybridge Suites Jeddah Alandalus Mall	https://ihg.com	OUT	hospitality_or_travel	na	Non-retail category (hospitality_or_travel).
+3978798000101530670	ROUTE TO MARKET		OUT	agency_or_services	na	Non-retail category (agency_or_services).
+3978798000101632365	Ways Marketing Solutions	http://www.moh.gov.sa	OUT	agency_or_services	na	Non-retail category (agency_or_services).
+3978798000102430150	Saudi Goody Products Marketing Co. Ltd.	http://www.goody.com.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000103654041	Al Bassam Home Appliances	http://www.fordeal.com	IN	electronics	B	Known multi-branch Saudi home-appliance retail chain.
+3978798000104444795	SAJA Pharmaceuticals	http://www.tamergroup.com	OUT	healthcare_or_pharma_mfr	na	Non-retail category (healthcare_or_pharma_mfr).
+3978798000121998055	City Hypermarket	http://www.cityhyper.com	IN	grocery	B	Named grocery hypermarket chain (Kuwait).
+3978798000138824055	alajlan	alajlan.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824056	jumla	jumla.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824057	alfaddagroup	alfaddagroup.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824058	froz	froz.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824059	voolaaa	voolaaa.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824060	al-araba	al-araba.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824061	imtiaz	imtiaz.com.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824062	wecre8	wecre8.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824063	Dee Line	thedeeline.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824064	azyya	azyya.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824065	zadfresh	zadfresh.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824066	elevenz	elevenz.net	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824067	teearabia	teearabia.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824068	bymaha	bymaha.shop	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824069	mashaelalfaris	mashaelalfaris.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824070	fittingroom	fittingroom.store	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824071	saudi-house	saudi-house.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824072	ak	ak.com.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824073	daralmasalla	daralmasalla.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824074	ghudfah	ghudfah.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824075	hofigroup	hofigroup.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824076	twomark	twomark.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824077	zbomksa	zbomksa.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824078	dovacare	dovacare.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824079	tamakun	tamakun.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824080	cvaley	cvaley.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824081	sitaffood	sitaffood.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824082	lifepillarsmc	lifepillarsmc.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824083	sovereign	svnksa.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824084	lantanaashop	lantanaashop.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824085	sarinamultiple	sarinamultiple.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824086	modpatisserie	modpatisserie.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824087	cenomiretail	cenomiretail.com	IN	fashion	A	Confirmed: Cenomi Retail (formerly Fawaz Alhokair), Riyadh-HQ'd, Tadawul-listed, 880 stores/9 countries (web-verified). Consolidates the HELD Cenomi/Cenomi Group entries into one account.
+3978798000138824088	alrifaisaudi	alrifaisaudi.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824089	tasooma	tasooma.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824090	johrh	johrh.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824091	cityflowerretail	cityflowerretail.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824092	innovativemeditech	innovativemeditech.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824093	2d2c2m	2d2c2m.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824094	mlwsocks	mlwsocks.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824095	mo4cars	mo4cars.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824096	edadcom	edadcom.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824097	monaalshebil	monaalshebil.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824098	curioartsupplies	curioartsupplies.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824099	farawlah	farawlah.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824100	foodtech-sa	foodtech-sa.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824101	aamaad	aamaad.store	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824102	zayanstudio	zayanstudio.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824103	webetr	webetr.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824104	astraglory	astraglory.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824105	aani-dani	aani-dani.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824106	alabuo	alabuo.co	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824107	olayangroup	olayangroup.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824108	ajlanbros	ajlanbros.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824109	keden	keden.com.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824110	gs-jewelry	gs-jewelry.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824111	foodhouse	foodhouse.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824113	othaimmalls	othaimmalls.com	OUT	grocery	na	Mall/real-estate division of the Al-Othaim group; the retail operating company (Abdullah Al-Othaim Markets) is already covered separately.
+3978798000138824114	kaifalshiuokh	kaifalshiuokh.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824115	sanar	sanar.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824116	rasseed	rasseed.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824117	aya	aya.app	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824118	allbirds	allbirds.sa	OUT	franchise	na	Global brand storefront; foreign HQ, not a distinct in-country operating company.
+3978798000138824119	dkny	dkny.sa	OUT	franchise	na	Global brand storefront; foreign HQ, not a distinct in-country operating company.
+3978798000138824121	jazeerapaints	jazeerapaints.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824122	tamracapital	tamracapital.sa	OUT	nonretail_services	na	Non-retail category (nonretail_services).
+3978798000138824123	fashion	fashion.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824124	sulindastore	sulindastore.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824125	saadeddin	saadeddin.com.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824127	karazlinen	karazlinen.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824128	darent	darent.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824129	sorrah	sorrah.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824130	partybox	partybox.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824131	fnp	fnp.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824132	lodore	lodore.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824133	abar	abar.app	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824134	desertcart	desertcart.com.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824135	eternal-jewel	eternal-jewel.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824136	gulfindustrialgroup	gulfindustrialgroup.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824137	3attar	3attar.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824138	tuhoon	tuhoon.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138824139	freshvery	freshvery.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138832957	marhbastore	marhbastore.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138832958	cupiosnacks	cupiosnacks.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138832959	lavieenrose	lavieenrose.com.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138832960	kabrita	kabrita.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138832961	industry	industry.com.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138832962	katespade	katespade.sa	OUT	franchise	na	Global brand storefront; foreign HQ, not a distinct in-country operating company.
+3978798000138832963	silkra	silkra.net	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138832964	homectro	homectro.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138832965	weftrug	weftrug.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138832966	foulard	foulard.store	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138832967	bsupply	bsupply.store	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138832968	globalviewsksa	globalviewsksa.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138832969	bashirco	bashirco.com.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138832970	sedrajewellery	sedrajewellery.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138832971	matjarpanda	matjarpanda.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138832972	72hairsa	72hairsa.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138832973	nasreenalissalaw	nasreenalissalaw.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138832974	nohanabil	nohanabil.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138832975	rkcollection	rkcollection.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138832976	enhancecg	enhancecg.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138832977	dnalifestyle	dnalifestyle.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138832978	saudimarts	saudimarts.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138832979	petite	petite.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138832980	wasmamansour	wasmamansour.com.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138832981	bombsa	bombsa.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138832982	greenlifeksa	greenlifeksa.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138832984	razanalazzouni	razanalazzouni.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138832985	inrest	inrest.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138832986	souqvana	souqvana.store	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138832987	zenitan	zenitan.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138832988	maatic	maatic.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138832989	alshamasy	alshamasy.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138832990	surprisesbox	surprisesbox.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138832991	kadasa	kadasa.com.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138832992	stevemadden	stevemadden.sa	OUT	franchise	na	Global brand storefront; foreign HQ, not a distinct in-country operating company.
+3978798000138832993	serajah	serajah.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138832994	abreezgroup	abreezgroup.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138832995	tomorna	tomorna.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138832996	novamart	novamart.digital	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138832997	asqgrp	asqgrp.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138832998	loofah	loofah.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138832999	camicissima	camicissima.sa	OUT	franchise	na	Global brand storefront; foreign HQ, not a distinct in-country operating company.
+3978798000138833000	menbur	menbur.sa	OUT	franchise	na	Global brand storefront; foreign HQ, not a distinct in-country operating company.
+3978798000138833059	houseofcenmar	houseofcenmar.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833060	miraymano	miraymano.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833061	loudy-plus	loudy-plus.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833062	watheerglo	watheerglo.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833063	deshdashtii	deshdashtii.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833064	dmtm	dmtm.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833065	kadoonpro	kadoonpro.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833066	actan	actan.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833067	selene-official	selene-official.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833068	grasse	grasse.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833069	torbastudio	torbastudio.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833070	sif-care	sif-care.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833071	rebound	rebound.net	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833072	osanoptics	osanoptics.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833073	alabbasi	alabbasi.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833075	1886fashion	1886fashion.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833076	leem	leem.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833078	michaelkors	michaelkors.sa	OUT	franchise	na	Global brand storefront; foreign HQ, not a distinct in-country operating company.
+3978798000138833079	toryburch	toryburch.sa	OUT	franchise	na	Global brand storefront; foreign HQ, not a distinct in-country operating company.
+3978798000138833080	ptc	ptc.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833081	itcosmetics	itcosmetics.sa	OUT	franchise	na	Global brand storefront; foreign HQ, not a distinct in-country operating company.
+3978798000138833082	makeupforever	makeupforever.sa	OUT	franchise	na	Global brand storefront; foreign HQ, not a distinct in-country operating company.
+3978798000138833083	narscosmetics	narscosmetics.sa	OUT	franchise	na	Global brand storefront; foreign HQ, not a distinct in-country operating company.
+3978798000138833084	bloomingdales	bloomingdales.sa	OUT	franchise	na	Global brand storefront; foreign HQ, not a distinct in-country operating company.
+3978798000138833085	mamasandpapas	mamasandpapas.com.sa	OUT	franchise	na	Global brand storefront; foreign HQ, not a distinct in-country operating company.
+3978798000138833086	sbie-arabia	sbie-arabia.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833087	ethanallen	ethanallen.sa	OUT	franchise	na	Global brand storefront; foreign HQ, not a distinct in-country operating company.
+3978798000138833088	Asteri Beauty	asteribeauty.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833089	Gap	gap.sa	OUT	franchise	na	Global brand storefront; foreign HQ, not a distinct in-country operating company.
+3978798000138833090	liujo	liujo.sa	OUT	franchise	na	Global brand storefront; foreign HQ, not a distinct in-country operating company.
+3978798000138833091	jacquemus	jacquemus.sa	OUT	franchise	na	Global brand storefront; foreign HQ, not a distinct in-country operating company.
+3978798000138833092	lacoste	lacoste.sa	OUT	franchise	na	Global brand storefront; foreign HQ, not a distinct in-country operating company.
+3978798000138833093	nike	nike.sa	OUT	franchise	na	Global brand storefront; foreign HQ, not a distinct in-country operating company.
+3978798000138833094	clarins	clarins.sa	OUT	franchise	na	Global brand storefront; foreign HQ, not a distinct in-country operating company.
+3978798000138833095	guess	guess.sa	OUT	franchise	na	Global brand storefront; foreign HQ, not a distinct in-country operating company.
+3978798000138833096	charleskeith	charleskeith.sa	OUT	franchise	na	Global brand storefront; foreign HQ, not a distinct in-country operating company.
+3978798000138833097	underarmour	underarmour.sa	OUT	franchise	na	Global brand storefront; foreign HQ, not a distinct in-country operating company.
+3978798000138833098	neyam	neyam.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833099	hollisterco	hollisterco.sa	OUT	franchise	na	Global brand storefront; foreign HQ, not a distinct in-country operating company.
+3978798000138833100	Abercrombie & Fitch Co.	abercrombie.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833101	propertyfinder	propertyfinder.sa	OUT	nonretail_services	na	Non-retail category (nonretail_services).
+3978798000138833102	andalusia-dentalcenters	andalusia-dentalcenters.com	OUT	healthcare_or_pharma_mfr	na	Non-retail category (healthcare_or_pharma_mfr).
+3978798000138833103	maestropizza	maestropizza.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833104	aldo	aldo.com.sa	OUT	franchise	na	Global brand storefront; foreign HQ, not a distinct in-country operating company.
+3978798000138833105	cb2	cb2.sa	OUT	franchise	na	Global brand storefront; foreign HQ, not a distinct in-country operating company.
+3978798000138833106	ezorder	ezorder.com.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833107	tejaradirect	tejaradirect.com	OUT	nonretail_services	na	Non-retail category (nonretail_services).
+3978798000138833108	almaraipro	https://www.almarai.com/ar	OUT	industrial_or_mfr	na	Non-retail category (industrial_or_mfr).
+3978798000138833109	esabonline	esabonline.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833110	gehealthcare	gehealthcare.sa	OUT	healthcare_or_pharma_mfr	na	Non-retail category (healthcare_or_pharma_mfr).
+3978798000138833111	investsaudi	investsaudi.sa	OUT	nonretail_services	na	Non-retail category (nonretail_services).
+3978798000138833112	hilti	hilti.sa	OUT	industrial_or_mfr	na	Non-retail category (industrial_or_mfr).
+3978798000138833114	thebowerycompany	thebowerycompany.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833115	aldahan	aldahan.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833116	jadco-sa	jadco-sa.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833118	visitsaudi	visitsaudi.com	OUT	nonretail_services	na	Non-retail category (nonretail_services).
+3978798000138833119	peaberry	peaberry.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833120	almutawir	almutawir.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833121	zgames	zgames.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833122	harveynichols	harveynichols.sa	OUT	franchise	na	Global brand storefront; foreign HQ, not a distinct in-country operating company.
+3978798000138833123	repairlabsa	repairlabsa.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833124	vw	vw.com.sa	OUT	industrial_or_mfr	na	Non-retail category (industrial_or_mfr).
+3978798000138833125	schindler	schindler.sa	OUT	industrial_or_mfr	na	Non-retail category (industrial_or_mfr).
+3978798000138833126	interflow	interflow.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833127	pfizerpro	pfizerpro.sa	OUT	industrial_or_mfr	na	Non-retail category (industrial_or_mfr).
+3978798000138833128	oryx	oryx.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833129	alamoudi	alamoudi.com.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833130	abrtrd	abrtrd.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833131	alromaihgroup	alromaihgroup.com.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833132	krabet	krabet.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833133	alkhorayefshop	alkhorayefshop.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833134	kpopiashop	kpopiashop.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833135	philips	philips.sa	OUT	industrial_or_mfr	na	Non-retail category (industrial_or_mfr).
+3978798000138833138	basp	basp.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833139	AstraZeneca	azedugate.com	OUT	industrial_or_mfr	na	Non-retail category (industrial_or_mfr).
+3978798000138833140	invntec	invntec.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833141	al-kadi	al-kadi.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833142	jnini	jnini.com.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833143	tefal	tefal.sa	OUT	industrial_or_mfr	na	Non-retail category (industrial_or_mfr).
+3978798000138833144	nukhbatech	nukhbatech.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833145	novonordisk	novonordisk.com.sa	OUT	industrial_or_mfr	na	Non-retail category (industrial_or_mfr).
+3978798000138833147	mro	mro.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833148	moharykat	moharykat.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833149	nazih	nazih.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833150	electric-house	electric-house.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833151	myesuq	myesuq.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833152	qvskincareme	qvskincareme.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833153	artofheritage	artofheritage.com.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833154	greenup	greenup.com.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833155	roos	roos.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833156	circleall	circleall.net	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833157	zameter	zameter.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833158	osco	osco.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833160	pfizermedicalinformation	pfizermedicalinformation.sa	OUT	healthcare_or_pharma_mfr	na	Non-retail category (healthcare_or_pharma_mfr).
+3978798000138833161	ictc	ictc.com.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833162	redasafe	redasafe.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833163	calvinklein	calvinklein.sa	OUT	franchise	na	Global brand storefront; foreign HQ, not a distinct in-country operating company.
+3978798000138833164	dezigndistrict	dezigndistrict.com.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833165	yves-rocher	yves-rocher.com.sa	OUT	franchise	na	Global brand storefront; foreign HQ, not a distinct in-country operating company.
+3978798000138833166	dyson	dyson.sa	OUT	industrial_or_mfr	na	Non-retail category (industrial_or_mfr).
+3978798000138833167	saudiradwa	saudiradwa.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833168	arabianhouses	arabianhouses.com.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833169	blackice	blackice.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833170	tiffany	tiffany.sa	OUT	franchise	na	Global brand storefront; foreign HQ, not a distinct in-country operating company.
+3978798000138833171	morganit	morganit.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833172	tomatostores	tomatostores.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833173	avis	avis.com.sa	OUT	hospitality_or_travel	na	Non-retail category (hospitality_or_travel).
+3978798000138833174	almasyafalbared	almasyafalbared.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833175	saudiceramics	saudiceramics.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833176	timehotels	timehotels.com	OUT	franchise	na	Global brand storefront; foreign HQ, not a distinct in-country operating company.
+3978798000138833177	smartlaw	smartlaw.sa	OUT	nonretail_services	na	Non-retail category (nonretail_services).
+3978798000138833178	goldentech	goldentech.com.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833179	gozaky	gozaky.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833180	shareefcorner	shareefcorner.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833181	thealmondbeauty	thealmondbeauty.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833182	moltonbrown	moltonbrown.sa	OUT	franchise	na	Global brand storefront; foreign HQ, not a distinct in-country operating company.
+3978798000138833183	watsons	watsons.sa	OUT	franchise	na	Global brand storefront; foreign HQ, not a distinct in-country operating company.
+3978798000138833184	babyjalebi-sa	babyjalebi-sa.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833186	decathlon	decathlon.com.sa	OUT	franchise	na	Global brand storefront; foreign HQ, not a distinct in-country operating company.
+3978798000138833187	caffeinelab	caffeinelab.me	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833188	tedbaker	tedbaker.sa	OUT	franchise	na	Global brand storefront; foreign HQ, not a distinct in-country operating company.
+3978798000138833190	tumi	tumi.sa	OUT	franchise	na	Global brand storefront; foreign HQ, not a distinct in-country operating company.
+3978798000138833191	cascadesco	cascadesco.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833192	hotpack	hotpack.com.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833193	beauti	beauti.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833194	twinkle	twinkle.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833195	Shub Coffee	shub.coffee	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138833196	petit-bateau	petit-bateau.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138949010	dovanabeauty	dovanabeauty.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138949035	iffstore	iffstore.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138949037	rootsfurniture	rootsfurniture.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138949041	moderncottagefurnitures	moderncottagefurnitures.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138949059	rihafbeauty	rihafbeauty.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138949087	mochaboutique	mochaboutique.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138949094	mohjewelry	mohjewelry.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138949101	zakiopticals	zakiopticals.com.sa	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000138949127	gaudiabeauty	gaudiabeauty.com	OUT	ecommerce_unverified	na	Bulk-imported small/DTC storefront; no evidence of confirmed company identity or 100+ employee scale (default per approved size floor).
+3978798000156940003	FACES Beauty Middle East	https://faces.sa	OUT	health_beauty_pharmacy	na	FACES cosmetics chain is an Alshaya Group brand; Alshaya is already covered as the parent account.
+3978798000157675148	SmartLink BPO Solutions	https://smartlink.com.sa/	OUT	agency_or_services	na	Non-retail category (agency_or_services).
+3978798000157675335	Adsela Marketing Solutions	https://adselams.com/en/	OUT	agency_or_services	na	Non-retail category (agency_or_services).
+3978798000157675587	MarTech Tree	https://martechtree.com/	OUT	agency_or_services	na	Non-retail category (agency_or_services).

@@ -1,0 +1,15 @@
+country	name	domain	category	tier	reconcile	zoho_id	zoho_name	reason
+Saudi Arabia	Abraj Hyper	abrajhypermarket.com	grocery	B	ENRICH_name	3978798000084746807	Abraj Hyper	Hypermarket chain (name confirms format); domain live.
+Saudi Arabia	شاهي ابو وليد - Abu Waleed Tea	abuwaleedtea.com	food_service_qsr	B	CREATE			Multi-branch tea cafe chain, F&B retail, in-scope category.
+Qatar	Al Mana	almana.com	fashion	A	CREATE			Confirmed Qatar-HQ'd conglomerate; Al Mana Fashion Group operates 300+ retail outlets (Zara, Mango, Hermes JV), $2B+ turnover, 3500+ staff (web-verified).
+Saudi Arabia	Alsulaiman Group	alsulaimangroup.com	general_merch_dept	A	ENRICH_name	3978798000084745712	Alsulaiman Group	Confirmed Saudi-HQ'd conglomerate (Forbes Top 100 Arab Family Business); operates IKEA Saudi/Bahrain franchise + Circle K Saudi franchise (web-verified).
+Qatar	Al Sulaiman Jewellers	alsulaimanjewellers.com	fashion	B	CREATE			Name confirms jewellery retail (Qatar); distinct entity from Alsulaiman Group (Saudi).
+Kuwait	CHIPS	chipsstore.com	retail_general	B	CREATE			Domain (chipsstore.com) confirms a retail storefront (Kuwait).
+Saudi Arabia	Fakeeh Vision	fakeehvision.com	health_beauty_pharmacy	B	ENRICH_name	3978798000084747200	Fakeeh Vision	Confirmed: largest optical wholesaler/retailer chain in KSA (web-verified), a genuine retail operation.
+Saudi Arabia	Kiffa Roaster	kiffa.sa	grocery	B	CREATE			Specialty coffee roaster/retailer with an active DTC domain.
+Saudi Arabia	Khereiji Showrooms Company Limited	ksc.com.sa	electronics	B	CREATE			"""Showrooms Company"" naming confirms a retail-facing operation (Saudi trading/electronics house)."
+Saudi Arabia	Lighting Stores | مخازن الإضاءة	lightingstores.com.sa	electronics	B	CREATE			Domain and name confirm a lighting retail chain (Saudi).
+Saudi Arabia	Magrabi Hospitals & Centers	magrabihealth.com	health_beauty_pharmacy	A	ENRICH_name	3978798000007460296	Magrabi Hospitals & Centers	Confirmed: Magrabi Retail Group is a standalone 200+ store optical retail chain across the Gulf (web-verified), distinct from the hospital arm.
+Saudi Arabia	BEAM	shopbeam.com	retail_general	B	CREATE			Domain (shopbeam.com) confirms a retail storefront (Saudi).
+Kuwait	Starco Holding	starcoholding.com	fashion	A	CREATE			Confirmed Kuwait-HQ'd conglomerate (est. 1958); 300+ stores, 2000+ staff, franchises Benetton/Mango/Stradivarius/U.S. Polo (web-verified).
+Saudi Arabia	شركة اثاث للتجزئة	zamanifurniture.com	home_furniture	B	CREATE			"Name translates to ""Furniture Retail Company"" — explicit consumer furniture retail."

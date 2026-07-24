@@ -1,0 +1,19 @@
+source	country	name	domain	prior_verdict	prior_category
+original	Saudi Arabia	BATOOK HOLDING COMPANY	batook.com	IN	grocery
+original	Saudi Arabia	Bayt Aladwia Pharmacy	baytaladwia.com	IN	health_beauty_pharmacy
+held_review	Saudi Arabia	Bayt Alebaa - بيت الإباء	baytalebaa.com	OUT	home_improvement
+original	Saudi Arabia	Bakhashab Brothers Co Ltd	bbhc.com.sa	OUT	non_retail
+original	Saudi Arabia	BD Holding	bdholding.co	OUT	non_retail
+original	Saudi Arabia	Bed Quarter Company	bedquarter.com	IN	home_furniture
+original	Kuwait	Behbehani Motors Company	behbehanimotors.com	OUT	non_retail
+original	Kuwait	Beidoun Trading Co.	beidoun.com	IN	fashion
+original	Qatar	Belleza	belleza.qa	IN	health_beauty_pharmacy
+held_review	Kuwait	BGB Holding	bgbholding.co	OUT	diversified_trading
+original	Saudi Arabia	BinDawood Holding	bindawoodholding.com	IN	grocery
+original	Saudi Arabia	ABDULLAH BIN TALEB FOR SWIMMING POOLS	bintaleb.com	OUT	building_materials_b2b
+original	Qatar	Bin Yousef	binyousef.com	IN	fashion
+original	Kuwait	ABYAT	blink.com.kw	IN	specialty_retail
+original	Saudi Arabia	Blooming Wear	bloomingwear.com	IN	fashion
+original	Qatar	Blue Salon	bluesalon.com	IN	fashion
+original	Saudi Arabia	Blue Sky Company	blueskycoffe.com	IN	grocery
+original	Saudi Arabia	Mohamed Yousuf Naghi Motors - BMW Group Importer KSA	bmw-saudiarabia.com	OUT	non_retail

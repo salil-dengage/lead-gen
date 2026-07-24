@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Mohammed Alkhuraiji Industrial Company",
+    "domain": "alkhuraiji.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "beauty / perfume & cosmetics retail",
+    "qualification_path": "substantiality",
+    "reason": "Prior verdict (OUT / manufacturing) reversed on evidence: the live site is an unmistakable D2C beauty/perfume e-commerce storefront, not just a manufacturer's catalog. Riyadh-HQ'd (Second Industrial City), SFDA-licensed, est. 1982, matching Gate 1 (Saudi HQ). Beauty/perfume is an approved, high-repeat-purchase Gate 2/3 category. Real Salla-platform cart/checkout with SAR pricing, buy-1-get-1 promos, customer reviews, and a return/exchange policy satisfy Gate 4. Sitemap lists 370 individual product URLs, well above the Gate 5 substantiality floor.",
+    "evidence": "raw_1.html contains 167x 'salla', 18x 'cart', 4x 'checkout', 3x 'SAR', 1x 'add_to_cart'. sitemap-2.xml returns 370 <loc> product entries (e.g. /p631724339, /p2005694524...). WebSearch confirmed HQ at Second Industrial City, Riyadh 11521, est. 1982, SFDA-licensed perfumes/cosmetics/medical-products company."
+  },
+  {
+    "name": "ALMAHA OPTICAL",
+    "domain": "almahaopt.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "health_beauty_pharmacy (optical/eyewear + contact lenses retail)",
+    "qualification_path": "substantiality",
+    "reason": "Saudi-only optical/eyewear retail chain with physical branches. Contact lenses and eyewear fit the approved beauty/personal-care/health-retail category with real repeat-purchase dynamics (lens replenishment, seasonal eyewear). Live transactional store confirmed directly: repeated 'إضافة للسلة' (add to cart) buttons with real SAR prices, stock-out states ('نفدت الكمية'), 5% online-payment discount, loyalty-points program, and a return/exchange policy. Dozens of branded SKUs (Ray-Ban, Gucci, YSL, Versace, Adidas, Polo, Lacoste, etc.) visible on the homepage alone, well above the substantiality floor.",
+    "evidence": "text_2.txt shows repeated pattern of product name + brand + 'XXX.00 ر.س' price + 'إضافة للسلة' across sunglasses (men/women/kids), prescription glasses, and contact lens categories; explicit sold-out state 'نفدت الكمية'; store-locator ('فروعنا'/'مواقع الفروع') and loyalty-points ('رصيدك نقطة') sections."
+  },
+  {
+    "name": "AlMailem Group",
+    "domain": "almailemgroup.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive (tires, batteries, auto glass, auto parts, garage equipment)",
+    "qualification_path": "n/a",
+    "reason": "Confirmed Kuwait-HQ'd (Shuwaikh head office, Safat registered address) but the business is automotive products/services: tires, auto-glass replacement, batteries, oils/lubricants, garage equipment, auto parts, recycled tire products, and a car-maintenance garage network. Automotive is an explicit Gate 2 hard fail regardless of the site's real, live e-commerce/service-booking sophistication.",
+    "evidence": "text_3.txt: 'AlMailem Group is the leading business house in Kuwait in automotive products'; site sections 'Tires / Auto Glass Replacement / Oils and Lubricant / Automotive Batteries / Garage Equipment / Auto Garage / Auto Parts / Recycled Tire Products / AutoLab'; 'Kuwait's largest tire retailer... Continental, Goodyear, Toyo Tires, Hankook'."
+  },
+  {
+    "name": "Almajal Alarabi Holding",
+    "domain": "almajalholding.com.sa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "diversified holding - construction / contracting / facility management (non-retail, B2B)",
+    "qualification_path": "n/a",
+    "reason": "Domain is unreachable (Cloudflare 'DNS resolution error' on the origin, confirmed independent of this session via the Cloudflare edge page itself, i.e. the origin server is down, not just blocked from us), so WebSearch was used per protocol. Confirmed real, large Riyadh-HQ'd holding (est. 1990, 500-1,000+ employees) operating 12 specialized companies across construction & architecture, engineering & design, facility management, contracting, industrial/manufacturing, IT, healthcare-facility operations, and catering/hygiene services. This is a B2B services / construction / contracting conglomerate with no consumer retail line found anywhere - an explicit Gate 2 hard-fail category on its own terms, independent of the dead-domain question.",
+    "evidence": "WebSearch: 'operating within the Construction and Architecture, Engineering & Design sectors... expanded into varied fields including trade, real estate, contracting, industry and manufacturing, communications, IT, services, technical systems, health care, operating, environmental sanitation, general maintenance, medical maintenance, food catering and hygiene... operates through 12 specialized companies'; related brand 'Al Majal Alarabi Group | Facility Management Saudi Arabia' (mag-sa.com). curl to https:// and http:// both failed/returned Cloudflare error pages."
+  },
+  {
+    "name": "Almajdouie Holding",
+    "domain": "almajdouie.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "diversified holding - logistics / automotive / real estate / manufacturing (non-retail)",
+    "qualification_path": "n/a",
+    "reason": "Direct fetch returned HTTP 403 (Cloudflare bot-check interstitial, 'Just a moment...'), so WebSearch was used to corroborate. Confirmed Dammam-HQ'd conglomerate (est. 1965, ~$803M revenue, 5,000+ employees) whose divisions are logistics/supply chain, motors (automotive), real estate & investment, manufacturing, and education. This is the parent holding corporate entity, not a specific retail storefront, and its core lines are all Gate 2 hard-fail categories (logistics/trading, automotive, real estate, manufacturing).",
+    "evidence": "WebSearch: 'flourished into a group of companies providing a wide range of solutions and services across the automotive, logistic, manufacturing, real estates and investment, and education industries'; 'Almajdouie Holding annual revenue was $803 million'. curl https://almajdouie.com -> HTTP 403 (Cloudflare challenge page, raw_5.html = 'Just a moment... Enable JavaScript and cookies to continue')."
+  },
+  {
+    "name": "Almajdouie Motors",
+    "domain": "almajdouiemotors.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive (car dealership)",
+    "qualification_path": "n/a",
+    "reason": "Almajdouie Group's automotive dealership division (parent Dammam-HQ'd, Saudi Arabia). Direct fetch returned HTTP 403 (Cloudflare challenge) but the business's automotive-dealer nature is independently well-established via the parent group's own description. Automotive is an explicit Gate 2 hard fail.",
+    "evidence": "WebSearch on Almajdouie Group confirms 'Almajdouie Motors' as a named division within the group's automotive business line. curl https://almajdouiemotors.com -> HTTP 403 (Cloudflare 'Just a moment...' challenge, raw_6.html)."
+  },
+  {
+    "name": "Al Majed Oud.co",
+    "domain": "almajed4oud.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "beauty / perfume & personal-care retail",
+    "qualification_path": "substantiality",
+    "reason": "Direct fetch returned HTTP 403 (Cloudflare challenge), so WebSearch was used per protocol and strongly corroborates the business. Al Majed for Oud Company is a Saudi Joint Stock Company HQ'd in Riyadh (As Sahafah district), est. 1956, Tadawul-listed (IPO approved June 2024), with ~1,000 developed brands/products and 300 sales platforms across KSA, Kuwait, UAE, Bahrain, Oman and Qatar. Perfume/oud is an approved, consumable, repeat-purchase Gate 2/3 category. WebSearch explicitly confirms a live online store selling perfumes, oils, oud products, incense, and beauty items with regional shipping - satisfying Gate 4 and Gate 5 (substantiality) even though direct fetch was blocked.",
+    "evidence": "WebSearch: 'Al Majed for Oud Company is a Saudi Joint Stock Company registered in Riyadh... operates 300 sales platforms in the Kingdom of Saudi Arabia, Kuwait, UAE, Bahrain, Oman, and Qatar... The online store at almajed4oud.com offers various product categories including perfumes, oils, oud products, incense, and beauty items, with shipping available across multiple Middle Eastern countries.' curl https://almajed4oud.com -> HTTP 403 (Cloudflare challenge, raw_7.html)."
+  },
+  {
+    "name": "ALMAKTABA",
+    "domain": "almaktaba.com.sa",
+    "verdict": "OUT",
+    "gate_failed": "unverifiable",
+    "category_final": "stationery / office furniture / general merchandise retail (business appears real; live digital channel unverifiable)",
+    "qualification_path": "n/a",
+    "reason": "WebSearch confirms this is a real, substantial Saudi retailer (Riyadh-based, est. 1958, 14 branches across Saudi Arabia's main cities, with consumer-facing 'Almaktaba Pro' office/education/hospital-furniture and 'Almaktaba Express' school-stationery/books/electronics retail concepts) that would likely clear gates 1-3. However both almaktaba.com.sa and corp.almaktaba.com.sa are genuinely dead: independent Google DNS-over-HTTPS returns NXDOMAIN at the .com.sa registry level itself (not a proxy-specific block), confirmed by a second tool (WebFetch: ENOTFOUND) on a different network path, and Wayback Machine's most recent snapshot is from Dec 2025. A similarly-described live store (almaktaba.co - real cart/checkout, ~55 SKUs of office furniture/stationery/art/engineering supplies) was located, but could not be confirmed as the same Saudi entity (no address, phone, branch, or company-history match to the verified 1958/14-branch business; pricing is in USD, inconsistent with the SAR pricing seen across every other confirmed-Saudi storefront in this batch). Given inability to confirm a live transactional channel belonging to the verified entity, Gate 4/5 cannot be positively confirmed, so this is flagged rather than assumed IN. [VERIFY]",
+    "evidence": "dns.google resolve: almaktaba.com.sa and corp.almaktaba.com.sa both Status 3 (NXDOMAIN), answer coming directly from com.sa registry nameservers (c1.dns.sa). WebFetch to https://almaktaba.com.sa -> 'getaddrinfo ENOTFOUND'. archive.org/wayback availability API shows last snapshot 2025-12-08. WebSearch confirms real business: 'Almaktaba is a pioneer in office furniture, supplies and equipment... served business needs for over 55 years... 14 branches... Almaktaba Pro / Almaktaba Express'. Candidate alternate almaktaba.co fetched via WebFetch shows real add-to-cart/checkout with USD pricing but no Saudi/company-identity confirmation found on-page."
+  },
+  {
+    "name": "Al Mana",
+    "domain": "almana.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "diversified holding conglomerate (automotive / real estate / retail / F&B / engineering / media - parent corporate page, not a storefront)",
+    "qualification_path": "n/a",
+    "reason": "Site loads (HTTP 200) but is a thin corporate 'About / Divisions / Contact / Careers' page for a Qatari conglomerate ('55+ companies in 8 countries... automotive distribution and services, real estate and investments, retail, food & beverage, engineering, technology, media and entertainment'). Although the group's stated portfolio includes real retail lines (luxury/beauty/fashion/home-interiors across 300+ outlets), this specific domain represents the diversified parent holding as a whole - not a dedicated retail operating storefront - and the page itself has zero product listings, cart, or checkout of any kind, so it does not map to a single approved Gate 2 vertical and would independently fail Gate 4 as a pure brochure page.",
+    "evidence": "text_9.txt (full stripped page, 721 bytes): 'Al Mana is a Qatari conglomerate operating over 55 companies in 8 countries and employing over 3500 personnel. Industry activities include automotive distribution and services, real estate and investments, retail, food & beverage, engineering, technology, media and entertainment... Operating over 300 outlets'. Page navigation is limited to 'Divisions / Contact / Careers' with no product or transactional content."
+  },
+  {
+    "name": "Almana Group",
+    "domain": "almanagroup.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "diversified holding conglomerate (automotive dealers, industrial/steel, contracting, real estate, F&B bottling, financial, IT, travel/car-rental - no retail line)",
+    "qualification_path": "n/a",
+    "reason": "Doha-HQ'd conglomerate (est. 1960, 5,000+ employees, 30+ businesses) whose disclosed sectors are Automotive (Chrysler/Jeep/Dodge dealer, Ford Heavy Trucks dealer, used cars, Hertz car rental), Industrial (steel structures, galvanizing, gratings), Contracting (EPC/engineering), Real Estate, Food & Beverage (Coca-Cola bottling), Financial (money exchange, securities), Security & IT, and Travel (Skyline Travel) - no retail/fashion division is listed anywhere on this site. Automotive, contracting, real estate, and travel/car-rental are all explicit Gate 2 hard fails, and the page has no cart or products.",
+    "evidence": "text_10.txt: 'Established as a trading house in 1960... 30+ Businesses, 100+ Global Brands, 5,000+ Employees'; sector list = 'Automotive, Industrial, Contracting, Real Estate, Projects Division, Food & Beverage, Financial, Security & IT, Travel'; named subsidiaries include 'United Cars Almana', 'Almana Ford Heavy Trucks', 'Hertz Rent a Car', 'Almana Steel Structures WLL', 'Chiyoda Almana Engineering LLC', 'Almana Real Estate', 'Coca-Cola Almana', 'Skyline Travel'."
+  },
+  {
+    "name": "Almanea Co.",
+    "domain": "almanea.sa",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "electronics / appliances / home / general merchandise",
+    "qualification_path": "substantiality",
+    "reason": "Saudi multi-city electronics and home-appliance retail chain ('mobiles, electronics, home appliances') with a broad category range: gaming, smartwatches, hot-beverage machines, ovens, food-prep appliances, speakers, dishwashers, mobile phones, refrigerators, washing machines, laptops, split ACs, tablets, plus a downloadable app. Broad multi-category electronics retail is an explicitly-approved Gate 3 pass pattern. Live cart/checkout confirmed via AddToCart tracking events and SAR/ريال pricing in the page code; store-locator by city and the sheer breadth of appliance/electronics categories confirm real scale.",
+    "evidence": "text_11.txt category list: 'الألعاب (games), الساعات الذكية (smartwatches), أجهزة المشروبات الساخنة, افران (ovens), أجهزة تحضير الطعام, السماعات, غسالات صحون (dishwashers), الجوالات (mobiles), الثلاجات (refrigerators), غسالات الملابس (washers), لابتوب, مكيفات سبليت (split ACs), التابلت'; raw_11.html signals: 'AddToCart'(2), 'Cart'/'cart'(4), 'Checkout'(1), 'ريال'(3), 'أضف'(2), city selector ('إختر المدينة')."
+  },
+  {
+    "name": "Al-Moallem Group",
+    "domain": "almoallem-h.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "diversified holding conglomerate (food/QSR brands + retail (My Mart, Shona) + industrial (Lamina) + real estate - parent corporate page, not a storefront)",
+    "qualification_path": "n/a",
+    "reason": "Riyadh-HQ'd holding company ('شركة المعلم القابضة') whose four sectors are Food (multiple restaurant/food brands: Al-Romansiah, Shawez, Mazameez, On Off), Industry (Lamina manufacturing), Retail (My Mart, Shona), and Real Estate (Lana Dar Real Estate). This domain is purely an 'About us / Our Sectors / News' corporate page for the whole group with no cart or product catalog of its own; real estate and industrial manufacturing sit as co-equal sectors alongside retail, and the specific retail subsidiaries (My Mart, Shona) have their own separate storefronts not represented by this row's domain. Resolves the prior 'HELD' status to OUT: as represented by almoallem-h.com, this is a non-transactional diversified-holding corporate page, independently also failing Gate 4.",
+    "evidence": "text_12.txt: 'شركة المعلم القابضة هي مجموعة تملك وتدير عدد من الشركات ذات أنشطة استثمارية متنوعة في عدة قطاعات' (a holding group that owns/manages companies with diverse investment activities across sectors); sector list = 'الأغذية (Food) / الصناعة (Industry - شركة لامينا) / التجزئة (Retail - ماي مارت, شونة) / العقار (Real Estate - لنا دار العقارية)'. No product/cart content anywhere on the page (91 lines, purely nav + about-us + CSR news)."
+  },
+  {
+    "name": "المذاق العربي",
+    "domain": "almthaqalarabi.com",
+    "verdict": "OUT",
+    "gate_failed": "scale",
+    "category_final": "grocery / F&B (specialty confectionery - Baklawa, Petit Four, Ush Bulbul, Mshabak, Caramel Biscoff Cookies)",
+    "qualification_path": "n/a",
+    "reason": "Real, legitimate Salla-powered confectionery e-commerce brand (est. 1983, VAT-registered, ships across all GCC countries) with genuine cart/checkout/delivery/return policies - clears Gates 1-4. However the sitemap shows only 5 product categories and ~21 unique SKUs total, meaningfully below the ~50 SKU substantiality floor for Gate 5(a). A mobile app was found on Google Play (developer based in Riyadh), so the app-download rescue path (5b) was checked, but the Play Store listing returned HTTP 404 when queried directly and no 50,000+ install evidence could be obtained, so the rescue is not confirmed.",
+    "evidence": "sitemap-1.xml + sitemap-2.xml combined: 42 <loc> entries = 21 unique products (Arabic+English URL pairs) across categories بيتيفور/بقلاوة/عش-البلبل/مشبك/كوكيز-الكراميل-والبسكوف; raw_13.html signals confirm salla/cart/checkout/SAR platform. Google Play app 'com.almthaqalarabi.www' found via WebSearch but https://play.google.com/store/apps/details?id=com.almthaqalarabi.www returned HTTP 404 on direct check (install count unconfirmed)."
+  },
+  {
+    "name": "Al Mujtama Pharmacy",
+    "domain": "almujtama.com.sa",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "health_beauty_pharmacy",
+    "qualification_path": "substantiality",
+    "reason": "Saudi multi-branch pharmacy chain (Tadawul-listed public company, evidenced by embedded investor-relations API endpoints). The site is a Vue.js SPA so server-rendered HTML is a thin shell, but it embeds Moyasar (a licensed, SAMA-regulated Saudi payment gateway) for checkout, and the compiled JS bundle contains extensive real product/cart code plus hundreds of branch references, confirming a genuine, substantial, multi-branch transactional pharmacy operation. Pharmacy retail is an explicitly-approved, recurring-purchase Gate 2/3 category.",
+    "evidence": "raw_14.html <head> loads cdn.moyasar.com/mpf/1.7.3/moyasar.css and moyasar.js; title 'صيدلية المجتمع | almujtama pharmacy'. app_14.js (fetched JS bundle) contains 241x 'product', 93x 'Product', 21x 'addToCart', 295x 'branch', 232x 'store', 55x 'فرع', plus investor-relations API paths (listFinanceMarket, investor_relation_questions, listInvestigator) consistent with a Tadawul-listed public pharmacy company."
+  },
+  {
+    "name": "Al Mulhim Auto Services Holding Co. L.t.d.",
+    "domain": "almulhimauto.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive (new-car dealership: Changan, Chevrolet, Ford, Geely, KIA + spare parts + maintenance)",
+    "qualification_path": "n/a",
+    "reason": "Al-Ahsa (Eastern Province), Saudi Arabia-HQ'd automotive dealership holding (est. 1987) - new-car sales (multiple live SAR-priced listings), spare parts, roadside assistance, maintenance/denting/painting/tuning services. Automotive is an explicit Gate 2 hard fail regardless of the site's genuine live inventory/pricing sophistication.",
+    "evidence": "text_15.txt: 'Founded in Al-Ahsa, Saudi Arabia, in 1987, AlMulhim Automotive Services Holding Company... entered the new car trade sector'; live vehicle listings with real SAR prices, e.g. 'Chevrolet Tahoe LS 2025... 244,375 SAR', 'KIA Sorento EX 2025... 162,955 SAR'; brands sold: Changan, Chevrolet, Ford, Geely, KIA."
+  },
+  {
+    "name": "Al Mulla Group",
+    "domain": "almullagroup.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "diversified holding conglomerate (automotive, engineering, financial services, rental/leasing, trading & manufacturing, education, healthcare, real estate - no retail sector)",
+    "qualification_path": "n/a",
+    "reason": "Kuwait-HQ'd conglomerate (founded 1938, 15,000+ employees, 40+ subsidiaries, 200+ represented brands). Its eight disclosed business sectors are Automotive, Engineering, Financial Services, Rental & Leasing, Trading & Manufacturing, Education, Healthcare, and Real Estate - none of which is a retail vertical, and several (automotive, real estate, trading/manufacturing) are explicit Gate 2 hard fails. Pure corporate 'About / Business Sectors' page with no products or cart.",
+    "evidence": "text_16.txt: 'Business Sectors: Automotive, Engineering, Financial Services, Rental & Leasing, Trading & Manufacturing, Education, Healthcare, Real Estate'; 'a prominent distributor of global automotive brands in Kuwait... the largest multi-disciplined engineering firm in Kuwait, a non-banking Islamic financing company, a money exchange company... top-tier... healthcare and education institutions'."
+  },
+  {
+    "name": "Al Musbah Group",
+    "domain": "almusbah.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "diversified holding conglomerate (SENSI perfume retail + Abraj Hypermarket/Avenue exist within the group, but co-mingled with BYD auto dealership, airport travel-retail/VIP-lounge hospitality, and parking management on a static, non-transactional corporate portfolio page)",
+    "qualification_path": "n/a",
+    "reason": "Jeddah-HQ'd conglomerate with a genuinely large retail portfolio (SENSI perfume/cosmetics, 41 outlets, 2,500+ products, 100+ brands; Abraj Hypermarket 9,000 sqm in Makkah; Abraj Avenue department store) that could plausibly qualify if evaluated at its own dedicated storefront domain. However almusbah.com itself is a static corporate 'About Us / Portfolio' page (copyright still reads '© 2017', unchanged) with zero e-commerce of its own, and the group's overall identity as represented here also spans explicit Gate 2 hard-fail lines as co-equal 'Portfolio' sectors: BYD Auto dealership (automotive), Xplora/Duty-Free airport travel-retail and Meeza VIP-lounge hospitality (hospitality/travel), and Mawgif parking management (non-retail service). As represented by this specific domain it does not map to a single approved vertical and independently fails Gate 4 (no cart/checkout/product listing anywhere on the page).",
+    "evidence": "text_17.txt: 'Commencing business as a retailer of perfumes, the Group has since expanded business into varied sectors; Real Estate, Retail, Construction, IT, Food & Beverage, Xplora Travel Retail, ForeVision, Al Musbah Telecom, and BYD Auto Dealership'; 'Automotive: BYD Auto...'; 'Parking Management:... Mawgif... 50,000 parking spaces'; 'Hospitality:... Meeza... 12 VIP Lounges'; footer '© 2017 Al Musbah Group' with no product/cart content in 11,801 bytes of stripped page text."
+  },
+  {
+    "name": "Almutlaq Company",
+    "domain": "almutlaqco.com.sa",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "home_furniture_appliance",
+    "qualification_path": "substantiality",
+    "reason": "Confirmed Saudi home-furniture retail specialist (founded 1954/1957 by Mohammed AlMutlaq, first store Khobar, expanded to Jeddah 1981 and Riyadh 1986; today 7 showrooms, 62,000 sqm retail display area, 500+ employees, owning three retail brands: AlMutlaq Company Ltd, CityW, and Roomz). The apex domain almutlaqco.com.sa did not resolve from this environment (no A record at the bare domain; only a www CNAME to Odoo hosting per independent Google DNS, still unreachable here), so per protocol the live channel was corroborated at a same-entity alternate: CityW ('Almutlaq Co. – CityW', one of AlMutlaq's own owned retail brands) was fetched directly and shows a fully live, populated shopping cart with real SAR line-item prices (dining/bedroom/sofa sets, roughly 5,000-16,000 SAR each), delivery-date estimates, and a working checkout button - unambiguous, substantial, real transactional furniture e-commerce. Distinguished from an unrelated same-named entity, 'Almutlaq Group' (AMG, a private-equity/investment holding at almutlaq.com), which is NOT this business.",
+    "evidence": "WebSearch: 'AlMutlaq Co. was established... currently... owns Three brands, namely, AlMutlaq Company LTD, CityW and Roomz... operates its business with more than 500 employees through 7 showrooms in Saudi Arabia with a retail display area of 62,000 sqm'. Direct curl of cityw.com.sa shows live cart: 'سلة المشتريات / 60,338' with line items e.g. 'Dining Table/10 Chairs with 10 Chairs GCT01... 1 × 5,977', 'Sofa Set Classic 7 Seater... 1 × 15,950', and buttons 'عرض السلة' / 'إتمام الطلب' (view cart / complete order). dns.google confirms www.almutlaqco.com.sa CNAMEs to almutlaqco.odoo.com; almutlaq.com (text_18_amg.txt) independently confirmed as a separate PE/investment holding entity, not this furniture retailer."
+  }
+]

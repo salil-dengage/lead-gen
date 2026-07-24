@@ -1,0 +1,86 @@
+[
+ {
+  "name": "Tigro App",
+  "domain": "tigro.app",
+  "country": "Kuwait",
+  "category": "building_materials",
+  "prior_qualification_reason": "Live Kuwait City B2C toy e-commerce store (LEGO, Barbie, Paw Patrol; KNET/Visa/Apple Pay checkout; cart/wishlist; dozens of SKUs across categories). Approved toys category, Kuwait HQ; the 'building_materials' tag is a false match."
+ },
+ {
+  "name": "TOYLAND KSA",
+  "domain": "toyland.com.sa",
+  "country": "Saudi Arabia",
+  "category": "n/a",
+  "prior_qualification_reason": "Domain is live (HTTP 429 rate-limit, not the 404 tagged); Toyland is a homegrown Saudi toy retailer operating since 1985 with multiple physical stores, its own transactional site, and Amazon.sa/Noon presence. Approved toys category, Saudi; the 'dead 404' call was stale (own-cart not visually captured due to rate-limiting)."
+ },
+ {
+  "name": "Tambah",
+  "domain": "tambahkw.com",
+  "country": "Kuwait",
+  "category": "automotive",
+  "prior_qualification_reason": "Live Kuwait B2C toy and children's-products e-commerce store (KWD pricing, working cart/checkout, WhatsApp orders, several hundred SKUs). Approved toys category, Kuwait HQ; the 'automotive' tag is a false match."
+ },
+ {
+  "name": "Toy & Surprise - لعبة ومفاجأة",
+  "domain": "toyandsurprise.com",
+  "country": "Saudi Arabia",
+  "category": "building_materials",
+  "prior_qualification_reason": "Live Saudi toy retailer founded 2020, HQ Jeddah with stores in Riyadh/Jeddah/Makkah and its own online shop (domain live behind a rate-limiter; also a SAMACO retail partner). Approved toys category, Saudi; the 'building_materials' tag is a false match."
+ },
+ {
+  "name": "Tasweeq - Toys R Us KSA",
+  "domain": "toysrus.com.sa",
+  "country": "Saudi Arabia",
+  "category": "n/a",
+  "prior_qualification_reason": "Official Toys R Us Saudi Arabia store operated by the Saudi franchisee Tasweeq (Marketing Services and Commercial Projects), roughly 17 stores, 20,000+ products, live e-commerce plus iOS/Android apps. Local in-country franchise operator passes Gate 1; approved toys category. The 'dead 000' reflects a DNS/fetch artifact, not a dead site."
+ },
+ {
+  "name": "SARA Group KSA",
+  "domain": "saragroups.com",
+  "country": "Saudi Arabia",
+  "category": "wholesale_distribution",
+  "prior_qualification_reason": "Sara Group Holdings is HQ'd in Al Khobar, Saudi Arabia and operates a substantial dedicated luxury-retail arm: Paris Gallery (15 KSA stores, 11,000+ items across perfume/cosmetics/watches/jewellery/fashion, with a live consumer e-commerce platform) and JFVT franchised luxury boutiques. Qualifies on the retail arm under the corrected Gate 2, the coexisting FMCG-distribution line not being disqualif"
+ },
+ {
+  "name": "Yuehlia | يوليا",
+  "domain": "yuehlia.com",
+  "country": "Kuwait",
+  "category": "building_materials",
+  "prior_qualification_reason": "Live Kuwait B2C baby/family e-commerce store (feeding, diapers, bath, toys, clothing plus pharmacy items; multiple brands; roughly 1,000+ SKUs; KWD pricing and working add-to-cart). Approved general-merchandise category, Kuwait HQ; the 'building_materials' tag is a false match."
+ },
+ {
+  "name": "Woody Furniture",
+  "domain": "woody.com.sa",
+  "country": "Saudi Arabia",
+  "category": "building_materials",
+  "prior_qualification_reason": "Live Saudi B2C home/office furniture e-commerce store (SAR pricing from 141 to 14,749 SAR, working cart, hundreds of SKUs across bedroom/living/dining/office/rugs/outdoor, multiple branches). Approved furniture/home category; not construction materials as tagged."
+ },
+ {
+  "name": "ASTRA MARKETS",
+  "domain": "astramarkets.com",
+  "country": "Saudi Arabia",
+  "category": "grocery",
+  "prior_qualification_reason": "SAMPLE RE-AUDIT CORRECTION (Held -> Yes): Gate 4 resolved: Astra Markets (real Tabuk, Saudi grocery chain) launched its Astra Klick e-commerce platform in 2025, and astraklick.com is a live transactional grocery store (900+ product refs, SAR pricing, /cart, home delivery). The digital channel the Held status lacked is now confirmable; grocery is approved and in-country, so it qualifies."
+ },
+ {
+  "name": "Skindollize",
+  "domain": "thefaceshop.com.kw",
+  "country": "Kuwait",
+  "category": "n/a",
+  "prior_qualification_reason": "thefaceshop.com.kw is a large live e-commerce beauty store (246 add-to-cart elements, prices in KWD, checkout, 1000+ products) operated by Skindollize, a Kuwait-HQ'd company (Hawalli) with multiple Kuwait branches. A local franchise operator genuinely HQ'd in-country passes Gate 1 (Cenomi/Alshaya pattern); beauty is approved and scale is met."
+ },
+ {
+  "name": "Toys Brand Trading Co. LLC",
+  "domain": "toysbrand.com.sa",
+  "country": "Saudi Arabia",
+  "category": "wholesale_distribution",
+  "prior_qualification_reason": "Beyond its distributor/'Our Retailers' B2B arm, toysbrand.com.sa/shop is a live WooCommerce consumer store with a multi-page catalog of real branded toys (Nexus dart blaster, Flying Heroes, etc.), prices and cart. That dedicated consumer retail operation (toys, approved) refutes the 'not a direct consumer store' reason and passes on its own merits (Lazurde pattern)."
+ },
+ {
+  "name": "Arabian Furniture & Design",
+  "domain": "arabianfurnituredesign.com",
+  "country": "Saudi Arabia",
+  "category": "home_furniture",
+  "prior_qualification_reason": "Alongside a separate B2B store (afdc-b2b.store), the company runs a live consumer store at arabianfdstore.com with SAR prices (e.g. Herman Miller Aeron 3,943 to 5,491 SAR), add-to-cart, wishlists, a mobile app and consumer payment methods (mada, Apple Pay, Tamara BNPL). Office furniture is within the approved furniture category and the Riyadh entity is Saudi-HQ'd; the dedicated consumer retail arm"
+ }
+]

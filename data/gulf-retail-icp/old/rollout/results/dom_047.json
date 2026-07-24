@@ -1,0 +1,182 @@
+[
+  {
+    "name": "harveynichols",
+    "domain": "harveynichols.sa",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "fashion/luxury/beauty department store",
+    "qualification_path": "substantiality",
+    "reason": "Live site is the real Harvey Nichols Riyadh e-commerce store, and the local operating entity is Alfa International Company, a Saudi Arabia luxury-retail operator genuinely HQ'd in Riyadh, not a foreign Gulf group -- so it passes the franchise-operator carve-out in Gate 1. Passes category (fashion/beauty/luxury), is multi-item/seasonal + consumable beauty/fragrance (not narrow), has a real Magento cart with SAR checkout, and carries a huge multi-brand catalog (hundreds of SKUs).",
+    "evidence": "curl https://harveynichols.sa -> 200, live Magento storefront: hundreds of SKUs across Women/Men/Beauty/Fragrance/Jewellery with real SAR pricing (e.g. 'GOLDEN GOOSE Stardan ... SAR2,677.00'), 'ALFA REWARDS' loyalty program, full cart/checkout chrome. WebSearch confirms: 'Harvey Nichols partnered with Saudi Arabian luxury retail operator Alfa International' (opened May 2000, first HN international store); Alfa International Co Ltd HQ is Riyadh, Saudi Arabia (Crunchbase/Bloomberg/Panjiva); RocketReach shows a dedicated 'ALFA International Co - Harvey Nichols, Riyadh' management team (Finance Director, Beauty Division Manager, Buyer) based locally. Store is physically in Al Faisaliah Mall, Riyadh. Prior verdict OUT was keyed to 'franchise' under the old blanket rule; under the new Gate-1 franchise-operator carve-out this flips to IN."
+  },
+  {
+    "name": "repairlabsa",
+    "domain": "repairlabsa.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "device repair/maintenance service (ancillary phone-accessory e-commerce)",
+    "qualification_path": "n/a",
+    "reason": "Business is fundamentally a single-location phone/device repair and maintenance shop in Khobar, not a retail store; the accessories/used-phone e-commerce is explicitly framed as an add-on. Does not fit any of the 4 approved retail categories as its primary nature.",
+    "evidence": "curl https://repairlabsa.com -> 200. Meta title: 'Best iPhone Screen Replacement Repair Shop In Khobar | iPhone Fix'. About-us text: 'RepairLab is your trusted partner for smart-device MAINTENANCE in Khobar ... specialized in maintenance of all Apple devices ... we ALSO provide device replacement/purchase/sale services' (repair stated as primary, sales as secondary/'also'). Top nav leads with 'الصيانة' (Maintenance) before phones/accessories. Legal entity shown in footer is 'MERIEM AHMAD MOHAMED AL-ESSA For maintenance' -- a sole-proprietorship CR registered for maintenance activity, single Khobar location, Saudi Arabia."
+  },
+  {
+    "name": "vw",
+    "domain": "vw.com.sa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive OEM/dealer (manufacturer marketing + dealer-locator site)",
+    "qualification_path": "n/a",
+    "reason": "Volkswagen Saudi Arabia official site is an automotive manufacturer/dealer site (models, configurator, dealer/service-center locator, brochures) -- automotive dealers/distributors are an explicit hard-fail category regardless of ownership structure.",
+    "evidence": "curl https://www.vw.com.sa/en.html -> 200 (552KB). Content: 'Welcome to Volkswagen Saudi Arabia Official Website', model range (Golf GTI, Jetta, Passat, Tiguan, Teramont, Touareg, Amarok, Crafter), 'Find a Volkswagen Retailer', service-center hours in Jeddah/Riyadh/Khobar, 'Certified Used Cars', 'Trade in your current VW' -- classic OEM/dealer marketing site, matches prior_category industrial_or_mfr and hard-excluded automotive category."
+  },
+  {
+    "name": "schindler",
+    "domain": "schindler.sa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "elevators/escalators manufacturer (industrial equipment, construction-adjacent)",
+    "qualification_path": "n/a",
+    "reason": "Local operating entity (Schindler Olayan Elevator Co. Ltd, a genuine Saudi joint venture with Olayan Group, HQ disclosed as Jeddah) passes Gate 1, but the business itself is an elevator/escalator manufacturer and modernization/maintenance provider -- squarely the excluded manufacturing/industrial (and construction-adjacent capital equipment) category, not retail.",
+    "evidence": "curl https://www.schindler.sa/en.html -> 200. Content: 'Manufacturer of elevators, escalators & moving walks', full product range (Schindler 3000/5000/6000/7000, freight elevators, PORT destination dispatch), segments include Residential/Office/Hotel/Retail/Transport/Healthcare (i.e. Schindler sells INTO retail buildings, is not itself a retailer). Footer: 'Schindler Olayan Elevator Co.Ltd, Headquarter: Ash Shati District, Corniche Road, Jeddah Square, Jeddah, Kingdom Of Saudi Arabia'. No cart/checkout anywhere -- B2B capital equipment and maintenance contracts only."
+  },
+  {
+    "name": "interflow",
+    "domain": "interflow.sa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "B2B restaurant POS / digital-menu SaaS (software vendor, not a retailer)",
+    "qualification_path": "n/a",
+    "reason": "Interflow sells cashier/POS and digital-menu software to restaurants and cafes -- it is a B2B software vendor, not itself a fashion/beauty/grocery/electronics retailer. Explicit Gate-2 B2B-services exclusion applies.",
+    "evidence": "curl https://interflow.sa -> 200. Title: '• أنترفلو - كاشير ومنيو الكتروني للمطاعم والكافيهات' (Interflow - cashier and e-menu for restaurants and cafes). Meta description: comprehensive restaurant management system, cashier to menu, free apps, dashboard. Pricing page ('الاسعار'), 'book a free demo', 'start free' CTAs -- SaaS subscription business model targeting restaurant owners as customers, not a consumer storefront itself."
+  },
+  {
+    "name": "pfizerpro",
+    "domain": "pfizerpro.sa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "pharmaceutical manufacturer HCP professional portal (not retail)",
+    "qualification_path": "n/a",
+    "reason": "PfizerPro is Pfizer's login-gated professional/medical-information portal for healthcare professionals in Saudi Arabia -- a pharmaceutical manufacturer's corporate site with zero consumer commerce, not a retail pharmacy. Does not match any approved retail category.",
+    "evidence": "curl https://www.pfizerpro.sa -> 200. 'This site is intended for healthcare professionals in Saudi Arabia'; content is therapy-area info, medical inquiries, adverse-event reporting, journal subscriptions, speaker-program registration. Footer: 'Pfizer Scientific Technical Limited Company is a subsidiary of Pfizer Inc.' -- direct branch/subsidiary of the global manufacturer (HQ New York, USA), no distinct locally-HQ'd operator disclosed, and no product for sale anywhere on the site."
+  },
+  {
+    "name": "oryx",
+    "domain": "oryx.sa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive/scooter distributor (Arabian Auto Agency Co. Ltd)",
+    "qualification_path": "n/a",
+    "reason": "oryx.sa is suspended, but the business has moved to oryx.com.sa, which shows it is Arabian Auto Agency Co. Ltd's ORYX scooter/vehicle distribution business -- an automotive distributor, hard-excluded regardless of the fact it is genuinely Saudi-HQ'd (Jeddah).",
+    "evidence": "curl https://oryx.sa -> hosting 'Account Suspended' page. WebSearch found the live current site at https://oryx.com.sa (per dead-domain protocol): 'ARABIAN AUTO AGENCY CO. LTD... one of the kingdom's leading distributors', HQ Jeddah with Riyadh and Dammam/Al Khobar branches, product is the 'ORYX Commuter Scooter (XC170)'. No e-commerce cart, brochure + contact-form only -- B2B vehicle distributor, matches prior_category industrial_or_mfr and hard-excluded automotive/distributor category."
+  },
+  {
+    "name": "alamoudi",
+    "domain": "alamoudi.com.sa",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "home appliances / consumer electronics retail",
+    "qualification_path": "substantiality",
+    "reason": "Al-Amoudi is a genuine Saudi (Jizan-region) home-appliances retail chain with a real, extensive e-commerce catalog (large + small appliances, screens/audio, AC units), live cart/account/wishlist/order infrastructure, and 3 physical branches. Passes geography (Jizan HQ, Saudi family trading company since 1986), category (electronics/appliances), scale (dozens of subcategories, far above the 50-SKU floor), and digital channel (real transactional store, not a brochure).",
+    "evidence": "Direct curl to the root returns a 403 bot-check, but a curl to a sub-path returned a 404 whose surrounding site chrome fully rendered: 'Al-Amoudi Company is a commercial company specialized in the world of home appliances', full category tree (large appliances: refrigerators/washers/dryers/built-ins/freezers; small appliances: blenders/toasters/kettles/air-fryers/mixers/juicers/irons/fans/vacuums; screens & audio; AC units -- split/window/portable/cassette/standing), live cart ('سلة المشتريات'), account/wishlist/orders, tiered shipping fees (Free/19/49/99/150/349 SR), branches listed: 'فرع جازان' (Jazan), 'فرع صبيا' (Sabya), 'فرع بيش' (Baish). WebSearch corroborates: Al Amoudi Store = 'Mohammed Hassan Omar Al Amoudi Trading Company', home appliances/electronics leader in the Saudi market since 1986, based in Jizan, contact info@alamoudi.com.sa matching this exact domain."
+  },
+  {
+    "name": "abrtrd",
+    "domain": "abrtrd.com",
+    "verdict": "OUT",
+    "gate_failed": "digital_channel",
+    "category_final": "unverifiable / no live site",
+    "qualification_path": "n/a",
+    "reason": "Domain resolves but hosts nothing except a bare LiteSpeed 'Index of /' directory listing with zero files -- functionally no website. A WebSearch for the business turned up several different, unrelated 'ABR' trading/contracting companies in Saudi Arabia/UAE, none confirmably tied to this exact domain, so no live alternative site could be confirmed.",
+    "evidence": "curl https://abrtrd.com -> 200 but body is literally just an autoindex template: '<h1>Index of /</h1>' with an empty file table and 'Proudly Served by LiteSpeed Web Server at abrtrd.com'. WebSearch for \"abrtrd\" / \"ABR Trading\" Saudi Arabia surfaced only unrelated entities (ABR Contracting Riyadh, Abr Alkhalij for Trading, ABR Trading FZCO in UAE) with no confirmed link to abrtrd.com specifically."
+  },
+  {
+    "name": "alromaihgroup",
+    "domain": "alromaihgroup.com.sa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "diversified industrial/real-estate/hospitality holding company (not retail)",
+    "qualification_path": "n/a",
+    "reason": "Al-Romaih Group's site is a diversified holding-company corporate portfolio page (paints manufacturing, hotels, chemicals, real estate, poultry, steel, oilfield chemicals, IT, fintech) -- not a retail storefront in any approved category, and has no cart/checkout of its own.",
+    "evidence": "curl https://www.alromaihgroup.com.sa -> 200. Content lists 'Own Entities': Jazeera Paints Company (paint manufacturer), Bayat Hospitality (hotels), Tinting Systems Company, Future Company for Iron & Steel Industries, Future Building Materials Co., Tanagoum Al-Alwan for Contracting, Bayat Real Estates, Nema Breeders (poultry), Dynamic Oil Tools (oilfield drilling chemicals), plus sectors 'Information Technology / Petrochemicals / Construction Materials / Biomedical Technology / Real Estate / Poultry / Fintech'. One entity is named 'Unified Retail Platform' but no detail/link is given and this corporate domain itself has no products or cart -- it is the group's 'About us / Our companies' page, registered Khamis Mushayt, Saudi Arabia."
+  },
+  {
+    "name": "krabet",
+    "domain": "krabet.sa",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "general merchandise (specialty coffee gear, hobbies/crafts, pet/aquarium, toys, home/outdoor)",
+    "qualification_path": "substantiality",
+    "reason": "krabet.sa itself was Cloudflare-blocked (inconclusive per protocol), but WebSearch strongly corroborates a real, substantial, Saudi-HQ'd multi-category general-merchandise retail chain with 16 physical branches plus a dedicated shopping app -- passes geography, category, breadth (not narrow), digital channel (app + site), and scale.",
+    "evidence": "curl https://krabet.sa -> Cloudflare 'Sorry, you have been blocked' (403, inconclusive). WebSearch corroboration: Apple App Store ('Krabet Store App') and Google Play ('krabet.sa store') listings describe a real multi-category retailer -- specialty coffee/espresso gear, hobbies/crafts/resin-art supplies, aquarium & pet supplies, kids toys, home/car/outdoor/camping gear, 'delivery across all major cities in Saudi Arabia', '16 branches throughout Saudi Arabia'. Google Maps shows a physical 'krabet' store in Dhahrat Laban, Riyadh; Pik.sa (third-party Saudi mall directory) lists additional physical branches (Al Rawabi, Ar Rawabi, Riyadh)."
+  },
+  {
+    "name": "alkhorayefshop",
+    "domain": "alkhorayefshop.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "powersports/marine vehicle & industrial-equipment dealer (Yamaha motorcycles/ATVs/jet-skis, forklifts, tractors)",
+    "qualification_path": "n/a",
+    "reason": "Real, live, substantial e-commerce site (real SAR cart/checkout, large catalog) but the product line is Yamaha motorcycles, ATVs, jet skis and marine engines plus Linde forklifts and John Deere agricultural equipment -- a motorized-vehicle dealer and heavy/industrial-equipment distributor, matching the automotive-dealer / industrial-equipment hard exclusions, not an approved retail category.",
+    "evidence": "curl https://www.alkhorayefshop.com/acc_ar/ -> 200. Title: 'Online shopping in Saudi Arabia: Yamaha motorcycles and jet-skis and marine engines and diving/fishing equipment and logistics solutions'. Real cart and SAR pricing confirmed (e.g. Yamaha MT-09 2025 '45,425.00 شامل الضريبة', 'ADD TO CART'), but core catalog is motorcycles/ATVs/jet-skis/marine engines, Linde forklifts ('روافع شوكية'), and John Deere tractors/harvesters -- retail arm of Al-Khorayef Group (Saudi industrial conglomerate: pumps, generators, agri-equipment). Email footer: Alkhorayefshop@alkhorayef.com."
+  },
+  {
+    "name": "kpopiashop",
+    "domain": "kpopiashop.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "general merchandise / pop-culture retail (K-pop albums, lightsticks, apparel, accessories)",
+    "qualification_path": "substantiality",
+    "reason": "Real, live, substantial multi-category e-commerce store (albums, lightsticks, apparel, accessories, stationery, snacks) with genuine SAR cart/checkout and well above 50 SKUs, targeting and delivering within Saudi Arabia. Fan-merchandise retail has real repeat-purchase behavior (collectors buying multiple album versions/lightstick releases), so it is not a narrow single-product-line business, and social/geo evidence supports a Saudi Arabia base.",
+    "evidence": "curl https://kpopiashop.com -> 200. Real Magento-style cart ('أضف إلى السلة'), dozens of priced SKUs visible on the homepage alone across albums/lightsticks/best-sellers, currency selector defaults to SAR, 'free delivery on orders over 399 SAR', 'fast delivery within Saudi Arabia and the Gulf, COD available'. WebSearch corroboration: Instagram '(@kpopiashop) · Saudi Arabia' with 161K followers, TikTok references to 'Kpop Shop in Riyadh', affiliate program -- an established, real Saudi-based retailer, not a placeholder store."
+  },
+  {
+    "name": "philips",
+    "domain": "philips.sa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "consumer electronics manufacturer brand site (no cart, not a retailer)",
+    "qualification_path": "n/a",
+    "reason": "philips.sa is Philips N.V.'s own regional consumer-electronics marketing/information site for Saudi Arabia -- product categories, registration and newsletter sign-up, but no pricing, cart, or checkout anywhere. It is a manufacturer's brand site, not a retail storefront.",
+    "evidence": "curl https://www.philips.sa -> 200. Full product taxonomy (audio/video, personal care, mother & child/Avent, home appliances, lighting/Hue, health/sleep-apnea, automotive lamps) but every link leads to product-info pages, 'My Philips' account/warranty registration, or a newsletter opt-in -- no add-to-cart, no price shown anywhere. Footer: '© Koninklijke Philips N.V., 2004-2026' -- the global manufacturer's own site, HQ Amsterdam, Netherlands."
+  },
+  {
+    "name": "basp",
+    "domain": "basp.sa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive spare parts",
+    "qualification_path": "n/a",
+    "reason": "Babalghoum Auto Spare Parts is an automotive parts business (American car parts, classic and modern) -- explicit Gate-2 hard-fail category, and the site itself is a contact/brochure page (phone + WhatsApp only) with no cart.",
+    "evidence": "curl https://basp.sa -> 200. Title: 'بابلغوم لقطع غيار السيارات' (Babalghoum Auto Spare Parts), meta description: 'genuine American car spare parts ... leading company since 1956 ... 10 branches in Saudi Arabia'. Page content is just phone/WhatsApp contact, working hours, and a map pin for the Jeddah (Bani Malik) location -- no product listing or checkout of any kind."
+  },
+  {
+    "name": "AstraZeneca",
+    "domain": "azedugate.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "pharmaceutical manufacturer HCP professional portal (not retail)",
+    "qualification_path": "n/a",
+    "reason": "azedugate.com is AstraZeneca's login-gated professional/medical portal for healthcare professionals across the Gulf and Saudi Arabia -- therapy-area content, screening tools, adverse-event reporting -- with zero consumer commerce. Not a retail business in any approved category.",
+    "evidence": "curl https://www.azedugate.com -> 200. 'Pre Login' portal covering Oncology/Respiratory/CVRM/Hematology/Vaccine & Immunology/Rare Disease, 'Screening Solutions for patients' (surveys, not purchases), 'HCP Services'. Disclosed offices: 'AstraZeneca Gulf, Dubai Science Park, Dubai, UAE' and 'AstraZeneca Saudi Arabia, Al-Nakhla Tower, Riyadh' -- both branch offices of the global AstraZeneca group (true global HQ Cambridge, UK), no distinct locally-owned operator, no products, no cart."
+  },
+  {
+    "name": "invntec",
+    "domain": "invntec.sa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "3D-printing / reverse-engineering specialist services and niche equipment reseller",
+    "qualification_path": "n/a",
+    "reason": "INVNTEC self-describes as an engineering/technology enterprise built around 3D-printing and reverse-engineering SERVICES, with an 'INVNTEC Store' selling 3D printers/materials/spare parts as a narrow, low-repeat-purchase adjunct. This is a specialist B2B-leaning technical services and niche-equipment business, not a general consumer retail operation in an approved category.",
+    "evidence": "curl https://invntec.sa/en -> 200. Homepage headline: 'Elevating Industries through Innovation'; two co-equal offerings are 'INVNTEC Store' (3D printers/materials/spare parts/upgrades) and '3D Printing & Reverse Engineering' services ('Transforming Ideas into Reality'). About-us: 'innovative Saudi enterprise ... driving progress ... in line with Vision 2030 ... engineers and technicians'. Customer testimonials describe getting items 3D-printed (a service) rather than repeat product purchases, and one review calls it 'the only agent for Bambu printers in Saudi Arabia' -- a narrow specialist distributor/service shop, not general merchandise retail."
+  },
+  {
+    "name": "al-kadi",
+    "domain": "al-kadi.sa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive/truck spare parts distribution (B2B wholesale + automotive parts)",
+    "qualification_path": "n/a",
+    "reason": "Al-Kadi Commerce & Industry Co. is a large-scale truck/trailer/passenger-vehicle spare-parts distributor (44K+ SKUs, vendor/supplier program, OEM brand partnerships) -- doubly hard-excluded as both automotive parts and B2B wholesale/distribution, despite being a genuine, substantial, Saudi-HQ'd (Dammam) operation with a real e-store.",
+    "evidence": "curl https://al-kadi.sa -> redirects to https://al-kadi.com -> 200. 'Genuine Truck Spare Parts | Al-Kadi Company, Saudi Arabia'; 'Al-Kadi Commerce & Industry Co. is a Saudi company with over 100 years of legacy ... automotive sector dating back to 1960'; stats '48+ Countries, 44K+ SKUs, 33K Area, 7M Stock of parts'; 'Official Hella Truck Parts Supplier in KSA'; site targets 'Are You a Supplier?' vendor registrations and B2B clients (quotes from other companies' MDs, e.g. SAF-HOLLAND Middle East). Headquarters Dammam with Riyadh/Jeddah branches."
+  }
+]

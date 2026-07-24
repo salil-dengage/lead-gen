@@ -1,0 +1,182 @@
+[
+  {
+    "name": "redasafe",
+    "domain": "redasafe.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "industrial_safety_supplies_b2b",
+    "qualification_path": "n/a",
+    "reason": "REDA Safe sells PPE, firefighting gear and industrial/workplace safety supplies to companies across industries -- a B2B industrial-supplies business, not any approved consumer retail category.",
+    "evidence": "Direct fetch was blocked by an AWS WAF JS challenge (HTTP/2 202, x-amzn-waf-action: challenge, 0 bytes body). WebSearch confirms REDA Safe, founded 2020, HQ Khobar, Eastern Province, Saudi Arabia (Gate 1 would pass) -- an e-commerce platform for PPE, firefighting gear and environmental safety solutions serving 'various industries' and workplace needs. This is B2B industrial/safety supply, not a fit for fashion, beauty, grocery/F&B, or electronics/home/general-merchandise retail."
+  },
+  {
+    "name": "calvinklein",
+    "domain": "calvinklein.sa",
+    "verdict": "OUT",
+    "gate_failed": "geography",
+    "category_final": "fashion_apparel_luxury",
+    "qualification_path": "n/a",
+    "reason": "calvinklein.sa is run by CNNB Arabia for Trading LLC, the Saudi compliance subsidiary of CNNB Solutions, which is press-described as a UAE-headquartered regional e-commerce operator running D2C storefronts for global brands (L'Oreal, Estee Lauder, Swiss Arabian Perfumes) across the UAE, Saudi Arabia, Egypt and Kuwait. The real operating group's HQ is the UAE, the same pattern as the confirmed Dyson/Chalhoub case in this batch.",
+    "evidence": "Direct fetch blocked by an Azure WAF JS challenge (403). WebSearch surfaced calvinklein.sa's own 'Company Information' (imprint) page naming the operator as CNNB Arabia for Trading LLC, CR 1010913834, Al Takhasosi / Olaya District, Riyadh. A separate WebSearch (Gulf Business) independently identifies 'CNNB Solutions' as a 'UAE e-commerce firm' with regional offices in UAE, Saudi Arabia, Egypt and Kuwait providing D2C e-commerce for global beauty/fashion brands -- confirming the Saudi entity is a local branch of a UAE-HQ'd group rather than a genuinely Saudi-headquartered operator."
+  },
+  {
+    "name": "dezigndistrict",
+    "domain": "dezigndistrict.com.sa",
+    "verdict": "OUT",
+    "gate_failed": "geography",
+    "category_final": "furniture_home",
+    "qualification_path": "n/a",
+    "reason": "A real, live luxury furniture e-commerce store with a Riyadh showroom, named products, warranty and free-shipping policy -- but it is explicitly 'Part of Indospace Group,' whose headquarters, production and distribution are confirmed to be in Central Java, Indonesia, not Saudi Arabia.",
+    "evidence": "Direct fetch 200 OK (267KB decompressed): real Magento-style furniture store, named product ('Saga Sofa'), 5-year warranty, free Riyadh shipping, interior design service, showroom in Al Olaya, Riyadh; footer credit '-Part of Indospace Group'. WebSearch confirms: 'Indospace Group is based in Indonesia with its headquarters, showroom, production sites and distribution center located in Central Java, Indonesia' -- Riyadh is only a retail/showroom outpost of an Indonesia-HQ'd manufacturer."
+  },
+  {
+    "name": "yves-rocher",
+    "domain": "yves-rocher.com.sa",
+    "verdict": "OUT",
+    "gate_failed": "digital_channel",
+    "category_final": "beauty_cosmetics",
+    "qualification_path": "n/a",
+    "reason": "The domain is dead: DNS does not resolve (confirmed via two independent network paths) and every HTTP/HTTPS variant tried failed. No live replacement domain was found; the brand now appears reachable only via third-party marketplaces (Noon, Amazon.sa), not its own transactional site.",
+    "evidence": "curl: 'CONNECT tunnel failed, response 502' on https://yves-rocher.com.sa and https://www.yves-rocher.com.sa. WebFetch independently returned 'getaddrinfo ENOTFOUND www.yves-rocher.com.sa' (DNS does not resolve at all). WebSearch confirms yves-rocher.com.sa was the official KSA site (regional operator 'Al Batool Company', +966 55 791 7714) with previously indexed pages (terms-and-conditions), but no currently-live version could be found anywhere."
+  },
+  {
+    "name": "dyson",
+    "domain": "dyson.sa",
+    "verdict": "OUT",
+    "gate_failed": "geography",
+    "category_final": "home_appliances_electronics",
+    "qualification_path": "n/a",
+    "reason": "The site's own footer states all dyson.sa orders are fulfilled by Chalhoub Company and gives the operating office as Dyson Middle East and Africa, Dubai Design District (D3), Dubai, UAE -- explicit first-party confirmation the storefront is UAE-operated, not Saudi HQ'd.",
+    "evidence": "Direct fetch 200 OK (223KB). Page footer (Arabic, translated): 'All products purchased through the Dyson online store are provided by Chalhoub Company, the official distributor of Dyson in Saudi Arabia. Dyson Middle East and Africa, Office 112, Floor 1, Building 2, Dubai Design District (D3), Dubai, United Arab Emirates.'"
+  },
+  {
+    "name": "saudiradwa",
+    "domain": "saudiradwa.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "grocery_fb_frozen_food",
+    "qualification_path": "substantiality",
+    "reason": "A genuinely Saudi-headquartered poultry/frozen-food producer-retailer (Radwa Food Co. Ltd, part of Al-Taher Group, operating since 1979) running a real, live D2C grocery e-commerce platform with multi-city home delivery. Grocery/F&B is a high-frequency approved category, and the catalog spans 20+ real product subcategories.",
+    "evidence": "Direct fetch 200 OK (168KB). Self-identifies as 'شركة رضوى السعودية الغذائية المحدودة' (Radwa Saudi Food Co. Ltd), part of Al-Taher Group, chaired by Tariq Abdulhadi Al-Taher, operating since 1979. Live Magento storefront: login/OTP verification/account/cart/wishlist/order-tracking, city selection (Jeddah, Riyadh, Madinah, Khobar/Eastern, Makkah), VAT-inclusive pricing, free delivery over 200 SAR, dedicated mobile app. 20+ subcategories: fresh/frozen whole and cut chicken, marinated chicken, nuggets/strips/burgers/fillets, frozen and breaded seafood, chicken sausages/mortadella, ready meals. WebSearch corroborates dedicated LinkedIn (sa.linkedin.com/company/saudiradwa), ZoomInfo and Facebook (@SaudiRadwa) company profiles."
+  },
+  {
+    "name": "arabianhouses",
+    "domain": "arabianhouses.com.sa",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "electronics_appliances_general_merchandise",
+    "qualification_path": "substantiality",
+    "reason": "A genuine, substantial Saudi multi-category electronics/appliance retailer with real SAR pricing, buy-now-pay-later checkout options and physical branch pickup. No evidence of any foreign parent; content, phone numbers and domain are all Saudi-specific.",
+    "evidence": "Direct fetch 200 OK (1.5MB decompressed). 'شركة البيوت العربية للأجهزة الكهربائية' sells air conditioners, refrigerators, freezers, washers, dryers, dishwashers, ovens, small kitchen appliances, personal-care devices, TVs/screens, audio, computers/laptops and mobile accessories. Real Regular/Special SAR pricing shown per SKU (e.g. AC unit 'BSACQ-FI24HC': Regular 3,778 SAR / Special 2,699 SAR). 115 distinct 'Add to Cart' buttons counted on the homepage alone. Tabby buy-now-pay-later, free AC installation, nearest-branch pickup, WhatsApp contact. WebSearch corroborates the brand's Instagram (@arabianapplian1) and this domain as its official store."
+  },
+  {
+    "name": "blackice",
+    "domain": "blackice.sa",
+    "verdict": "OUT",
+    "gate_failed": "digital_channel",
+    "category_final": "electronics_appliances",
+    "qualification_path": "n/a",
+    "reason": "The live site is a bare 'Coming Soon' placeholder with no products, cart, or checkout. Despite the brand having a real-world reputation as a Jizan-based AC/appliance retailer, the domain itself is not currently a functioning transactional store.",
+    "evidence": "curl blocked by a Cloudflare JS challenge ('Checking your browser', 403). WebFetch retrieved the actual rendered content: the page shows only a logo and 'Coming Soon - Get ready, something cool is coming!' with no products, categories, cart, or pricing anywhere. WebSearch independently confirms Black Ice is an AC/appliance retailer in Jizan, Saudi Arabia (Admiral, Kraft, Haier, ZTrust, TCL brands) with a Facebook page, but blackice.sa itself is a placeholder, not a live storefront."
+  },
+  {
+    "name": "tiffany",
+    "domain": "tiffany.sa",
+    "verdict": "OUT",
+    "gate_failed": "geography",
+    "category_final": "fashion_luxury_jewelry",
+    "qualification_path": "n/a",
+    "reason": "Tiffany & Co in Saudi Arabia is operated by Chalhoub Group as a joint venture (flagship at Solitaire, Riyadh); Chalhoub Group is headquartered in Dubai, UAE, not Saudi Arabia.",
+    "evidence": "curl: TLS handshake failed ('Recv failure: Connection reset by peer') -- site unreachable from this path. WebSearch (Chalhoub Group's own press release) confirms: 'Chalhoub Group operates Tiffany & Co. in Saudi Arabia as a joint venture brand at Solitaire' in Riyadh; Chalhoub Group is described as 'a privately held luxury goods retailer and distributor headquartered in Dubai, UAE, and the largest retail operator in the Middle East.'"
+  },
+  {
+    "name": "morganit",
+    "domain": "morganit.sa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "b2b_it_reseller_wholesale",
+    "qualification_path": "n/a",
+    "reason": "Morgan Arabia Trading Company is a vendor-neutral B2B value-added IT reseller selling servers, networking gear and enterprise software (ERP/CRM/HRMS) to government, education, enterprise, healthcare, oil & gas, and power/utility customers -- wholesale/trading B2B distribution, not consumer retail.",
+    "evidence": "Direct fetch 200 OK (152KB). Self-description: 'Morgan Arabia Trading Company is a vendor-neutral value-added reseller dealing in the whole range of ICT products,' explicitly serving 'Government,' 'Education,' 'Enterprise,' 'Healthcare,' 'Oil & Gas,' and 'Power & Utilities' with servers, UPS units, switches, and ERP/CRM/HRMS software; dual SAR/USD pricing typical of B2B quoting (e.g. Ubiquiti switch 'SAR 2,879.96 / USD 767.99'). Riyadh phone +966 11 4348702."
+  },
+  {
+    "name": "tomatostores",
+    "domain": "tomatostores.sa",
+    "verdict": "OUT",
+    "gate_failed": "geography",
+    "category_final": "fashion_apparel",
+    "qualification_path": "n/a",
+    "reason": "tomatostores.sa itself is dead (502 on every variant tried). The only reachable live version of the Tomato Store brand, tomatostores.com, is explicitly the Egypt storefront (EGP/'LE' pricing, +20 phone) -- confirming the operating entity is Egypt-based, not Saudi HQ'd. No live Saudi-specific site was found.",
+    "evidence": "curl: 502 Bad Gateway on https://tomatostores.sa, http variants, and https://www.tomatostores.sa. tomatostores.com resolved 200 OK instead: 'Tomato Store Egypt | Men, Kids & Big Size Fashion Online,' prices shown in 'LE' (Egyptian Pounds, e.g. 'LE 1,999.00'), contact 'info@tomatostores.com +20 010'. sa.tomatostores.com (found indexed via WebSearch as an apparent KSA path/about-us page) failed to resolve (curl code 000)."
+  },
+  {
+    "name": "avis",
+    "domain": "avis.com.sa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "car_rental_hospitality_travel",
+    "qualification_path": "n/a",
+    "reason": "Avis Saudi Arabia is car rental, an explicitly excluded category, regardless of the operator's Saudi headquarters.",
+    "evidence": "Direct fetch 200 OK (144KB): entirely a car-hire booking flow (pickup/drop-off locations and dates, driver age, AWD discount codes, fleet categories). WebSearch confirms the Saudi Avis franchisee is Arabian Hala Co. Ltd, Riyadh-founded 1977 as Hala Rent-a-Car (genuinely Saudi HQ'd, so Gate 1 would pass), but the underlying business is car rental, hard-excluded under Gate 2."
+  },
+  {
+    "name": "almasyafalbared",
+    "domain": "almasyafalbared.sa",
+    "verdict": "OUT",
+    "gate_failed": "digital_channel",
+    "category_final": "home_appliances",
+    "qualification_path": "n/a",
+    "reason": "The domain is now completely dead: DNS does not resolve via two independent network paths. It was previously a home-appliance/AC e-commerce store, but no live current version was found anywhere.",
+    "evidence": "curl: connection failures (code 000) on both https and http. WebFetch independently returned 'getaddrinfo ENOTFOUND almasyafalbared.sa', confirming DNS no longer resolves at all. WebSearch found only stale cached listings: 'متجر المصيف البارد للأجهزة المنزلية' (Al-Masyaf Al-Bared home appliances & AC store), homepage indexed as 'تسوق أونلاين الأجهزة المنزلية والمكيفات' (shop home appliances and AC online), but no replacement domain could be found."
+  },
+  {
+    "name": "saudiceramics",
+    "domain": "saudiceramics.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "building_materials_ceramics_tiles",
+    "qualification_path": "n/a",
+    "reason": "Saudi Ceramic Company is a genuinely Saudi-HQ'd (Riyadh) manufacturer of tiles, sanitary ware, water heaters and red brick -- building materials/construction, a hard-excluded category regardless of the small e-commerce storefront link on its corporate site.",
+    "evidence": "Direct fetch 200 OK (205KB): 'Saudi Ceramic Company - Saudi Ceramics - Tiles, Sanitary Ware, Water Heaters, Bathware, Mixers & Showers, Red Bricks, Bathroom PODS, Industry Minerals.' Owns and operates production facilities in the 2nd Industrial City, Riyadh, with 11 factories and roughly 4,000-5,000 employees. Has an 'المتجر الإلكتروني' (e-store) link, but the core business is ceramics/tiles/sanitary-ware/brick manufacturing -- the explicitly excluded construction-materials category."
+  },
+  {
+    "name": "timehotels",
+    "domain": "timehotels.com",
+    "verdict": "OUT",
+    "gate_failed": "geography",
+    "category_final": "hospitality_hotels",
+    "qualification_path": "n/a",
+    "reason": "TIME Hotels Management is headquartered in Dubai, UAE (founded 2012), operating hotel brands across the UAE, Qatar, Saudi Arabia, Morocco and Egypt -- it fails geography before its hospitality-category exclusion is even reached.",
+    "evidence": "Direct fetch 200 OK (209KB): 'Home | TIME Hotels, Luxury Hotels in UAE,' a booking engine spanning multiple hotel brands/properties across the Middle East, listing Saudi Arabia only as one of several 'Locations.' WebSearch confirms TIME Hotels Management is headquartered in Dubai, UAE, founded 29 Feb 2012 by Mohamed Awadalla."
+  },
+  {
+    "name": "smartlaw",
+    "domain": "smartlaw.sa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "legal_services",
+    "qualification_path": "n/a",
+    "reason": "Smartlaw is a Saudi law firm / legal consultancy (litigation, contracts, arbitration, corporate legal services) -- legal services is an explicitly excluded category.",
+    "evidence": "Direct fetch 200 OK (254KB): 'شركة الحلول الذكية للمحاماة والاستشارات القانونية' (Smart Solutions Company for Law and Legal Consultations) -- litigation and pleading, execution, drafting of regulations/memoranda, legal consultations, notarization, corporate/investor legal services, international arbitration, named lawyer profiles, '21 years of experience.' Saudi phone +966 057 039 7776."
+  },
+  {
+    "name": "goldentech",
+    "domain": "goldentech.com.sa",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "electronics_computers",
+    "qualification_path": "substantiality",
+    "reason": "Golden Technology Trading Company is a genuine, long-running (est. 2009) Riyadh-headquartered computer/electronics retailer with a multi-category catalog (laptops, desktops, Apple Mac, servers, printers, gaming PCs, monitors, accessories) sold via showroom, click-and-collect and an online store -- corroborated independently since direct fetch was blocked.",
+    "evidence": "Both curl and WebFetch were blocked by a Cloudflare bot challenge (403, 'Sorry, you have been blocked'). WebSearch corroboration across multiple independent sources: the site's own indexed subpages (about-us, faqs, pc-gaming.html, terms-and-conditions), LinkedIn, Glassdoor, ZoomInfo, Facebook, and a business directory (arabplaces.com) giving an exact address ('Olaya St, Al Olaya, Riyadh') and phone ('+966 50 641 2556'). Consistently described as 'Saudi Arabia's biggest computer store,' established in Riyadh in 2009, selling Dell/HP/Lenovo/Asus across laptops, desktops, Apple Mac, printers, servers and gaming PCs, with showroom, click-and-collect and delivery."
+  },
+  {
+    "name": "gozaky",
+    "domain": "gozaky.sa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "catering_events_services",
+    "qualification_path": "n/a",
+    "reason": "Gozaky is a bespoke gourmet catering business for weddings, corporate functions and events -- an events/catering services model, not a standard repeat-purchase retail storefront, and it does not fit any approved retail category. The live site is also currently unreachable.",
+    "evidence": "curl: Cloudflare 522 ('origin connection timed out') on both http and https -- the site is currently down at the origin. WebSearch describes Gozaky as 'a distinguished partner in gourmet catering... crafting exceptional culinary experiences... for weddings, corporate functions, special celebrations, and cafes' -- a bespoke B2B/event-catering model rather than a retail grocery/F&B storefront."
+  }
+]

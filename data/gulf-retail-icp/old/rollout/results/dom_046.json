@@ -1,0 +1,182 @@
+[
+  {
+    "name": "andalusia-dentalcenters",
+    "domain": "andalusia-dentalcenters.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "healthcare_hospital_clinic",
+    "qualification_path": "n/a",
+    "reason": "Andalusia is a Jeddah hospital group (hospital plus dental, women's health and children's health centers/clinics). Healthcare clinics/hospitals are explicitly excluded under gate 2 (only retail pharmacy chains pass, and this is not a pharmacy).",
+    "evidence": "Domain redirects (HTTP 200) to andalusiaksa.com, title 'مستشفى أندلسية جدة' (Andalusia Hospital Jeddah). Nav lists: مستشفى أندلسية حي الجامعة (hospital), مركز أندلسية لطب الأسنان (dental center), مركز أندلسية لصحة المرأة (women's health center), مركز أندلسية لصحة الطفل (children's health center), عيادات أندلسية لصحة العائلة (family clinics), مراكز الاورام (oncology). No product catalog or cart of any kind; pure hospital/clinic group."
+  },
+  {
+    "name": "maestropizza",
+    "domain": "maestropizza.sa",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "fb_qsr_pizza",
+    "qualification_path": "substantiality",
+    "reason": "Maestro Pizza is a Riyadh-HQ'd Saudi QSR pizza chain (subsidiary of Daily Food Co.) with 140 outlets in Saudi Arabia and a genuine live online/app ordering system. Passes geography (Saudi HQ), category (F&B/QSR), repeat-purchase (food, high frequency), digital channel (real app/web ordering with basket, loyalty, order tracking) and scale (140-outlet national chain, 2,000+ staff, established since 2013).",
+    "evidence": "maestropizza.sa itself would not load through the proxy (repeated 'gateway answered 502 to CONNECT' on both https and http). Per protocol, WebSearch was used: confirmed Maestro Pizza founded 2013 in Riyadh by Khalid al Omran, subsidiary of Daily Food Co. HQ'd in Riyadh; 140 outlets in KSA plus 22 in UAE; 2,000+ associates; listed on HungerStation delivery and on the Apple App Store ('Maestro Pizza'). Verified the business is live and operating by fetching maestropizza.com directly (HTTP 200, 38.8KB): a real ordering single-page app exposing LANG_BASKET / LANG_PICKUP_CART / LANG_DELIVERY_CART / LANG_ORDER_TRACKER / LANG_MY_MAESTRO (loyalty wallet with points) and promo-code entry -- genuine transactional infrastructure, not a brochure site."
+  },
+  {
+    "name": "aldo",
+    "domain": "aldo.com.sa",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "fashion_apparel_footwear_accessories",
+    "qualification_path": "substantiality",
+    "reason": "ALDO KSA is operated under franchise by Cenomi Retail (formerly Alhokair Fashion Retail / Fawaz Alhokair & Co), a Saudi conglomerate genuinely HQ'd in Riyadh and listed on the Tadawul exchange -- this matches the rule's own example of a Saudi conglomerate holding local franchise rights, so gate 1 passes. Fashion/footwear/handbags is an approved, multi-item, repeat-purchase category, and the storefront is a fully live transactional e-commerce site with a large catalog.",
+    "evidence": "aldo.com.sa (HTTP 200, 105KB, live Shopify storefront): full catalog of women's/men's shoes (heels, sandals, flats, loafers, sneakers, boots), handbags (satchels, shoulder bags, clutches, backpacks), jewelry, sunglasses, belts, socks -- well over 50 SKUs across categories. Real checkout: free shipping over 250 SAR, Tamara installments, Apple Pay, Mada, cash on delivery, physical branch locator, VAT 300047016410003, CR 1010228886. WebSearch confirmed the KSA franchise operator is Cenomi Retail (formerly Fawaz Alhokair & Co / Alhokair Fashion Retail), HQ Riyadh (Building 8838, University Blvd, Riyadh 12373), Tadawul-listed, founded 1990/91 by the Alhokair brothers -- a genuinely Saudi-HQ'd franchise conglomerate (same fact pattern as the rule's Saudi-conglomerate-owns-IKEA-franchise example), not a foreign group."
+  },
+  {
+    "name": "cb2",
+    "domain": "cb2.sa",
+    "verdict": "OUT",
+    "gate_failed": "geography",
+    "category_final": "home_furniture_general_merchandise",
+    "qualification_path": "n/a",
+    "reason": "CB2 in Saudi Arabia is operated under franchise by Majid Al Futtaim Lifestyle, which is HQ'd in Dubai, UAE. Per gate 1, a store run by a UAE-HQ'd group fails even with genuine, substantial local stores.",
+    "evidence": "cb2.sa could not be fetched directly (TLS handshake completed but HTTP/2 stream errored on repeated attempts over both HTTP/2 and HTTP/1.1; treated as inconclusive per protocol). WebSearch corroborated the business is real and live ('CB2 KSA' storefront and store-locator pages indexed) and confirmed the operator: 'Majid Al Futtaim Lifestyle is the franchise operator for CB2 in Saudi Arabia and holds exclusive licensing rights.' Majid Al Futtaim is HQ'd in Dubai, UAE; stores opened in Riyadh (Sahara Mall, 2022) and Jeddah (Red Sea Mall) are local outlets of the UAE-HQ'd group, not an independent Saudi conglomerate."
+  },
+  {
+    "name": "ezorder",
+    "domain": "ezorder.com.sa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "b2b_wholesale_distribution_office_supplies",
+    "qualification_path": "n/a",
+    "reason": "EZOrder is a B2B office-supplies and Managed Print Services distributor serving corporate/office clients via SAP/Oracle Punchout (cXML/SAP Ariba) procurement integration, not a consumer retail storefront. This matches the explicitly excluded wholesale/trading/distribution (B2B) category.",
+    "evidence": "Fetched via www.ezorder.com.sa (apex domain's TLS cert did not match the hostname; -k used to view content; HTTP 200, 19.2KB). Site: 'Office Supplies Company In Saudi Arabia... The Powerhouse Behind Saudi Arabia's Busiest Offices... trusted partner behind Saudi Arabia's executive offices since 1991... Our Punchout solution integrates our full catalog directly into your SAP or Oracle system.' Riyadh 11314 address (confirms Saudi HQ, so gate 1 passes). Core business and marketing are entirely B2B corporate procurement/MPS, not consumer retail."
+  },
+  {
+    "name": "tejaradirect",
+    "domain": "tejaradirect.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "b2b_wholesale_distribution_industrial_electrical",
+    "qualification_path": "n/a",
+    "reason": "Tejaradirect is a B2B industrial/electrical/construction-machinery distributor (generators, pumps, circuit breakers, industrial connectors, construction wiring devices, forklifts, excavators). This matches multiple explicitly excluded categories: wholesale/trading/distribution (B2B), and construction/electrical-wiring-for-construction.",
+    "evidence": "tejaradirect.com (HTTP 200, 29.3KB): catalog spans Engines/Generators/UPS, Water & Wastewater pumps, Electrical (circuit breakers and fuses, industrial connectors, domestic switching devices, cable ducts, wiring devices), Construction Machinery (forklifts, excavators, loaders, backhoes), MRO hand tools -- almost entirely 'Request for Price' B2B-priced items. JSON-LD address confirms Saudi HQ: King Abdul Aziz Branch Road, PO Box 321, Riyadh, SA (gate 1 passes; fails at category)."
+  },
+  {
+    "name": "almaraipro",
+    "domain": "https://www.almarai.com/ar",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "fmcg_manufacturing",
+    "qualification_path": "n/a",
+    "reason": "Almarai is a large-scale Saudi dairy/juice/bakery/poultry manufacturer that distributes through 220,000+ third-party points of sale; the site is a corporate/brand site with no consumer e-commerce cart. This matches the explicitly excluded manufacturing/industrial category (confirms prior verdict).",
+    "evidence": "www.almarai.com/ar (HTTP 200, 19.4KB): '4 مليون لتر حليب في اليوم... أكبر أسطول أطعمة ومشروبات في الشرق الأوسط... 12,000 مركبة... منتجات المراعي تصل إلى أكثر من 220,000 نقطة بيع في 7 دول' (4M liters milk/day, 12,000-vehicle distribution fleet, reaches 220,000+ points of sale in 7 countries). Purely a corporate/brand/investor site (recipes, sustainability, financial reports) -- no shop, no cart. HQ: PO Box 8524, Riyadh 11492 (Saudi HQ confirmed, but fails on category as a manufacturer/distributor, not a retailer)."
+  },
+  {
+    "name": "esabonline",
+    "domain": "esabonline.sa",
+    "verdict": "OUT",
+    "gate_failed": "geography",
+    "category_final": "industrial_welding_equipment_manufacturing",
+    "qualification_path": "n/a",
+    "reason": "ESAB is a global welding/cutting equipment manufacturer; esabonline.sa is a login-gated regional B2B ordering portal whose copyright is held directly by the global ESAB Corporation, not by an independent Saudi-HQ'd entity, so it fails gate 1. The business itself (industrial welding equipment, closed B2B account portal) would also fail gate 2.",
+    "evidence": "esabonline.sa/esab-as/en/login (HTTP 200, 5.2KB): 'Login page | ESAB Saudi Online... Returning Customer Email/Password... ESAB Saudi | (c) 2026 ESAB Corporation.' Account-gated B2B ordering portal with no public catalog; copyright and brand ownership rest with the global ESAB Corporation, a multinational welding/cutting-equipment manufacturer headquartered outside Saudi Arabia, not a Saudi conglomerate-owned franchise."
+  },
+  {
+    "name": "gehealthcare",
+    "domain": "gehealthcare.sa",
+    "verdict": "OUT",
+    "gate_failed": "geography",
+    "category_final": "healthcare_equipment_manufacturing",
+    "qualification_path": "n/a",
+    "reason": "GE HealthCare is a global medical-imaging/equipment manufacturer headquartered in the United States; gehealthcare.sa is simply its Saudi-localized corporate domain, not an independently Saudi-HQ'd entity, and the business is medical-equipment manufacturing, not retail.",
+    "evidence": "https://www.gehealthcare.sa/ returned a same-URL HTTP 301 redirect loop on repeated plain curl fetches (likely bot/cookie gating), so body content could not be read, but the TLS certificate presented during the handshake was decisive: 'CN=www.gehealthcare.com, O=GE HealthCare Inc., L=Waukesha, ST=Wisconsin, C=US, issuer=DigiCert' -- confirming the operating entity is GE HealthCare Inc. (US HQ), a global medical-equipment manufacturer, not a Saudi entity and not retail."
+  },
+  {
+    "name": "investsaudi",
+    "domain": "investsaudi.sa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "government_investment_promotion",
+    "qualification_path": "n/a",
+    "reason": "Invest Saudi is the Ministry of Investment of Saudi Arabia's FDI-promotion site -- a government body, not a retail business of any kind.",
+    "evidence": "investsaudi.sa (HTTP 200, 3.2KB): 'Ministry of Investment of Saudi Arabia (MISA)... Invest in Saudi Arabia... driven by world-class opportunities... powered by Vision 2030... Investment Sectors... E-Services... Contact the Ministry of Investment.' No products, no commerce, no storefront of any kind; a pure government investment-promotion portal."
+  },
+  {
+    "name": "hilti",
+    "domain": "hilti.sa",
+    "verdict": "OUT",
+    "gate_failed": "geography",
+    "category_final": "construction_industrial_tools_manufacturing",
+    "qualification_path": "n/a",
+    "reason": "Hilti is a global power-tools/construction-equipment manufacturer headquartered in Liechtenstein; hilti.sa is its own Saudi B2B sales portal for construction professionals and contractors, not an independent Saudi-HQ'd retailer. The business (professional construction tools/chemical anchors/firestop systems) would also fail gate 2 as construction/industrial equipment.",
+    "evidence": "hilti.sa (HTTP 200, 41.4KB): 'Hilti Saudi Arabia... Products: Power tools, Chemical Anchors, Firestop and fire protection... SPEC2SITE solutions for engineers and contractors... 80 years of industry knowledge... Sourcing Area - Direct/Indirect Materials' (supplier portal links). Clearly the global Hilti brand's own regional site (HQ Schaan, Liechtenstein), targeting professional contractors/engineers, not an independent Saudi retail conglomerate."
+  },
+  {
+    "name": "thebowerycompany",
+    "domain": "thebowerycompany.sa",
+    "verdict": "OUT",
+    "gate_failed": "geography",
+    "category_final": "home_furniture_b2b_projects",
+    "qualification_path": "n/a",
+    "reason": "The Bowery Company was founded and remains HQ'd in the UAE; its Saudi showroom/e-commerce presence is a market expansion of the UAE-HQ'd group, which fails gate 1 regardless of the genuine Riyadh showroom and real e-commerce site.",
+    "evidence": "thebowerycompany.sa returned HTTP 403 ('Forbidden', generic Apache page -- treated as inconclusive per protocol, not an automatic fail). WebSearch corroborated a real, live e-commerce site (indexed pages: thebowerycompany.sa/en/new-in 'Shop Latest Luxury Furniture & Decor', /en/outdoor 'Buy Luxury Outdoor Furniture') and the decisive HQ fact: 'The Bowery Company was founded in 2014 in the UAE... GCC's leading homegrown curator and distributor of Scandinavian design,' which then 'launched its flagship showroom in Riyadh' as an expansion, with a stated 'dedication to B2B projects -- including hospitality, commercial, and government sectors.'"
+  },
+  {
+    "name": "aldahan",
+    "domain": "aldahan.sa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "building_materials_construction",
+    "qualification_path": "n/a",
+    "reason": "Aldahan is a building-materials retailer/contracting supplier (شركة أبناء حسن حسن الدهان -- 'Al-Dahan Store for Building Materials') based in Al-Qatif, Eastern Province, Saudi Arabia. Building materials/construction/contracting is explicitly excluded under gate 2.",
+    "evidence": "aldahan.sa could not be fetched (connection failures on both http and https, with and without -k, over multiple attempts). WebSearch confirmed the business: 'aldahan.sa is the website for شركة أبناء حسن حسن الدهان وشركائهم (Hassan Hassan Al-Dahan and Partners Company)... متجر الدهان لمواد البناء (Al-Dahan Store for Building Materials), located in Al-Qatif, Eastern Province, Saudi Arabia.' A related family entity, 'شركة عبدالعزيز حسن الدهان وشركاه للمقاولات والمواد الصحية,' is also building-materials/contracting/sanitary-ware. Saudi HQ is genuine (gate 1 passes) but the category is a hard fail."
+  },
+  {
+    "name": "jadco-sa",
+    "domain": "jadco-sa.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "b2b_services_software_erp",
+    "qualification_path": "n/a",
+    "reason": "JAD Portal Company (JADTECH) is a B2B digital-transformation and software consultancy (a JAD-B2B platform for the agriculture/water sector, plus a JAD-ERP resource-planning product), not a retail business. Matches the explicitly excluded B2B services/agencies category.",
+    "evidence": "jadco-sa.com (HTTP 200, 162KB): 'شركة جاد تك... البوابة المنطقية للحلول التقنية... قامت الشركة بتصميم وتنفيذ منتجها المبتكر JAD-B2B المخصص لمنظومة الزراعة والمياه... ونظام تخطيط الموارد JAD-ERP' (JADTECH designed the JAD-B2B platform for agriculture/water and the JAD-ERP resource-planning system). Address explicitly 'Kingdom of Saudi Arabia' (gate 1 passes). No products or cart anywhere on the site -- pure B2B software/consulting."
+  },
+  {
+    "name": "visitsaudi",
+    "domain": "visitsaudi.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "government_tourism_board",
+    "qualification_path": "n/a",
+    "reason": "Visit Saudi is the official Saudi Tourism Authority destination-marketing site. Travel/tourism/hospitality is explicitly excluded under gate 2, and it is a government body rather than a retail business.",
+    "evidence": "visitsaudi.com (HTTP 200, 218.6KB, redirected to /en): 'Discover Saudi Arabia: Culture, Nature & More - Visit Saudi Official Website... Plan your trip to Saudi Arabia with Visit Saudi. Explore top cities, saudi attractions, cultural sites.' Official national tourism-promotion site; no retail commerce of any kind."
+  },
+  {
+    "name": "peaberry",
+    "domain": "peaberry.sa",
+    "verdict": "OUT",
+    "gate_failed": "digital_channel",
+    "category_final": "fb_coffee_cafe_roastery",
+    "qualification_path": "n/a",
+    "reason": "Peaberry is a genuine small Jeddah specialty-coffee cafe/roastery (Saudi HQ'd; F&B/coffee would pass category and repeat-purchase gates) built on a real Salla e-commerce platform, but the storefront currently has no live purchasable products -- every product URL listed in its own sitemap returns HTTP 410 Gone, so there is no confirmed, currently-operating transactional catalog.",
+    "evidence": "peaberry.sa redirects to store.peaberryksa.com (a real Salla-platform store, HTTP 200). Its sitemap (store.peaberryksa.com/ar/sitemap-2.xml) lists only 13 product URLs; 5 sampled (NKDqeZm, zvZlYaq, AzxbwBy, vXYlBGK, bRZNKzA) each returned HTTP 410 'نأسف، الرابط غير موجود' (sorry, this link no longer exists). WebSearch confirmed it is a real, currently-known small business (Jeddah cafe/roastery, ~9,600 Instagram followers, Facebook/X presence) but found no evidence of a currently functioning online catalog; the historical sitemap count (13) is also well under the 50-SKU substantiality floor."
+  },
+  {
+    "name": "almutawir",
+    "domain": "almutawir.sa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "b2b_services_software_pos_erp",
+    "qualification_path": "n/a",
+    "reason": "Al Mutawir (الأبداع المطور) is a B2B point-of-sale/accounting/ERP SaaS product (ZATCA e-invoicing compliance) sold to shops, restaurants, cafes and billiard halls -- it is a software vendor, not a retail storefront itself, matching the excluded B2B services/software category.",
+    "evidence": "almutawir.sa (HTTP 200, 14.3KB): 'نظام محاسبي ونقاط بيع POS معتمد للزكاة... برنامج ERP سعودي لإدارة المبيعات والمخزون والفواتير الإلكترونية والربط مع هيئة الزكاة ZATCA... للمحلات والمطاعم والكافيهات وصالات البلياردو' (Saudi accounting/POS ERP system with ZATCA e-invoicing integration, for shops/restaurants/cafes/billiard halls), sold by 'الأبداع المطور', Al-Khobar/Bandariyah, KSA. Sells software licenses/subscriptions and a desktop POS app ('نسخة سطح المكتب... شراء لمرة واحدة'), not physical or consumer retail products."
+  },
+  {
+    "name": "zgames",
+    "domain": "zgames.sa",
+    "verdict": "OUT",
+    "gate_failed": "geography",
+    "category_final": "electronics_gaming_general_merchandise",
+    "qualification_path": "n/a",
+    "reason": "ZGames is a real, large-scale multi-category gaming/electronics retailer that would otherwise pass gates 2 through 5 easily, but the operating group (ZamZam Distribution / ZGames) opened its first office in the UAE in 1998 and runs one shared retail platform across the UAE, KSA, Qatar, Kuwait, Bahrain and Oman -- a UAE HQ, which fails gate 1.",
+    "evidence": "zgames.sa (HTTP 200, 48.8KB): live storefront with an explicit 'OUR STORES | UAE KSA QA KW BH' country switcher, a large real catalog (PlayStation/Xbox/Nintendo/PC gaming, consoles, accessories, gaming furniture, merchandise, trading cards) with real SAR pricing and working 'Add to Cart' -- gates 2 through 5 would all pass on content alone. WebSearch confirmed the parent: 'ZGames opened its first office in the UAE in 1998... parent company... ZamZam Distribution... operates across GCC nations including the United Arab Emirates, Kuwait, Bahrain, Qatar, Oman and Saudi Arabia' with 18 stores and 9 warehouses region-wide -- a UAE-founded and UAE-HQ'd group, not a Saudi conglomerate."
+  }
+]

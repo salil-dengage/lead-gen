@@ -1,0 +1,604 @@
+[
+ {
+  "domain": "abercrombie.sa",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ },
+ {
+  "domain": "astraglory.com",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ },
+ {
+  "domain": "asqgrp.com",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ },
+ {
+  "domain": "abreezgroup.com",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD_HTTP: http_code=503, no live site found",
+  "evidence": "http_code=503"
+ },
+ {
+  "domain": "curioartsupplies.com",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ },
+ {
+  "domain": "cenomiretail.com",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD_HTTP: http_code=404, no live site found",
+  "evidence": "http_code=404"
+ },
+ {
+  "domain": "bsupply.store",
+  "verdict": "OUT",
+  "gate_failed": "category",
+  "reason": "Strong signal match: category:healthcare",
+  "evidence": " B Supply Skip to content Facebook X (Twitter) Instagram YouTube TikTok Free shipping for orders over 250 SAR A question? Visit our contact page Pause slideshow Play slideshow Shop All Hair Hair Care "
+ },
+ {
+  "domain": "dmtm.sa",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ },
+ {
+  "domain": "farawlah.sa",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ },
+ {
+  "domain": "ghaya-pharmacy.com",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ },
+ {
+  "domain": "ghasham.com",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ },
+ {
+  "domain": "ghudfah.com",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ },
+ {
+  "domain": "get.med.sa",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ },
+ {
+  "domain": "globalviewsksa.com",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD_HTTP: http_code=404, no live site found",
+  "evidence": "http_code=404"
+ },
+ {
+  "domain": "gozl.com.sa",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ },
+ {
+  "domain": "forsan.com.sa",
+  "verdict": "OUT",
+  "gate_failed": "category",
+  "reason": "Strong signal match: category:b2b_wholesale",
+  "evidence": " --> Saudi Arabia Food Supplier | HORECA Supplier | Forsan Foods top of page GALLERY Home Our Story Our Community Blog Forsan Pro UAE KUWAIT EGYPT BAHRAIN JORDAN LEBANON OMAN Products Cheese Dairy Mea"
+ },
+ {
+  "domain": "fordalghanim.com",
+  "verdict": "OUT",
+  "gate_failed": "category",
+  "reason": "Strong signal match: category:automotive",
+  "evidence": " Ford Alghanim | Ford Car Dealers | Ford Vehicles Vehicles Cars SUVs Electric Vehicles Trucks Vans Performance Vehicles Taurus Mustang Owner Owner Owner Manuals, Warranties Other Information View Deta"
+ },
+ {
+  "domain": "homectro.com",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ },
+ {
+  "domain": "hail-house.sa",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD_HTTP: http_code=502, no live site found",
+  "evidence": "http_code=502"
+ },
+ {
+  "domain": "hollisterco.sa",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ },
+ {
+  "domain": "innovativemeditech.com",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ },
+ {
+  "domain": "itsrolly.com",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ },
+ {
+  "domain": "itcosmetics.sa",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ },
+ {
+  "domain": "hassanabul.com",
+  "verdict": "OUT",
+  "gate_failed": "category",
+  "reason": "Strong signal match: category:construction",
+  "evidence": " Home | Hassan Abul Company Special promotions Hasan Abul Company --> Main navigation About us Products Brands Services Projects Showrooms Quotations Careers Contact us Search Catalogues Latest Awards"
+ },
+ {
+  "domain": "2d2c2m.com",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ },
+ {
+  "domain": "aamaad.store",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ },
+ {
+  "domain": "kadasa.com.sa",
+  "verdict": "OUT",
+  "gate_failed": "category",
+  "reason": "Strong signal match: category:healthcare",
+  "evidence": " Expert Intellectual Property Services | Kadasa IP Saudi Arabia العربية About Us Services Patent Filing and Prosecution Copyright Services IP Litigation and Dispute Resolution Trademark Registration a"
+ },
+ {
+  "domain": "kartngo.co",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ },
+ {
+  "domain": "bymaha.shop",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ },
+ {
+  "domain": "kiaqatar.com",
+  "verdict": "OUT",
+  "gate_failed": "category",
+  "reason": "Strong signal match: category:automotive",
+  "evidence": " Home - Kia Qatar | Sedans, Hatchbacks, SUVs MPVs open menu Showroom All Vehicles Sedan SUV MPV EV Pickup All Vehicles Picanto Starts from QAR 49,900 Pegas Starts from QAR 52,000 K3 Starts from QAR 75"
+ },
+ {
+  "domain": "lgd-eg.com",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ },
+ {
+  "domain": "lorisksa.com",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ },
+ {
+  "domain": "lshinternational.com",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ },
+ {
+  "domain": "majestic.com.sa",
+  "verdict": "OUT",
+  "gate_failed": "category",
+  "reason": "Strong signal match: category:construction",
+  "evidence": " Majestic — Office Furniture Made in Saudi Arabia Skip to content Company Products Projects Inspirations E-Quotation 0 Cart, 0 items AR Showrooms | Material and Colors | Warranty Company About Who we "
+ },
+ {
+  "domain": "lulurayyan.com",
+  "verdict": "OUT",
+  "gate_failed": "category",
+  "reason": "Strong signal match: category:construction",
+  "evidence": " Building Construction Materials Suppliers in Qatar | Lulu Rayyan Lulu Rayyan Group is one of the largest company. Supplying building materials, electrical, sanitary, and PPE materials in Qatar Home A"
+ },
+ {
+  "domain": "makkahhyper.com",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ },
+ {
+  "domain": "makeupforever.sa",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ },
+ {
+  "domain": "maktab.com",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ },
+ {
+  "domain": "maraya.sa",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ },
+ {
+  "domain": "matalan-me.com",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ },
+ {
+  "domain": "malnokhba.com",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "PARKED: http_code=200, no live site found",
+  "evidence": "http_code=200"
+ },
+ {
+  "domain": "mbmc.com.kw",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ },
+ {
+  "domain": "mashaelalfaris.com",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "PARKED: http_code=200, no live site found",
+  "evidence": "http_code=200"
+ },
+ {
+  "domain": "moderncottagefurnitures.com",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ },
+ {
+  "domain": "meed.sa",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ },
+ {
+  "domain": "mannai.com",
+  "verdict": "OUT",
+  "gate_failed": "category",
+  "reason": "Strong signal match: category:construction",
+  "evidence": " Home - Mannai Corporation QPSC CORPORATE Mannai &#8211; Your Trusted Partner. WHO WE ARE WHAT WE DO About Mannai Mannai owes its success and continued market leadership to shared values, core compete"
+ },
+ {
+  "domain": "itco-sa.com",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ },
+ {
+  "domain": "nesk.com.sa",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ },
+ {
+  "domain": "linefurniture.net",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ },
+ {
+  "domain": "nolorfragrances.com",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ },
+ {
+  "domain": "novamart.digital",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ },
+ {
+  "domain": "jteco-online.com.sa",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ },
+ {
+  "domain": "nobles.com.sa",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ },
+ {
+  "domain": "olayangroup.com",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ },
+ {
+  "domain": "ngt.com.kw",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ },
+ {
+  "domain": "panda-offers.com",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ },
+ {
+  "domain": "perfumekh.com",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ },
+ {
+  "domain": "petrogen.co",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ },
+ {
+  "domain": "parisunitedgroup.com",
+  "verdict": "OUT",
+  "gate_failed": "category",
+  "reason": "Strong signal match: category:construction",
+  "evidence": " Paris United Group Holding | Qatar Business Group Skip to main content Home About Us Group Companies News Events Careers Media Contact Us AR Join Us Paris United Group Holding Powering everyday life "
+ },
+ {
+  "domain": "petromin-stellantis.com",
+  "verdict": "OUT",
+  "gate_failed": "category",
+  "reason": "Strong signal match: category:automotive",
+  "evidence": " Car Dealer | Jeddah Dammam, Saudi Arabia | Petromin Stellantis Manage Settings Manage Cookies and related technologies on this site Required Cookies Required cookies are essential to let you move aro"
+ },
+ {
+  "domain": "primarycare.sa",
+  "verdict": "OUT",
+  "gate_failed": "category",
+  "reason": "Strong signal match: category:healthcare",
+  "evidence": " Home new en - Primary Care Home About Us Branches Our Service Our Doctors Home Health Care Telemedicine العربية Home About Us Branches Our Service Our Doctors Home Health Care Telemedicine العربية Co"
+ },
+ {
+  "domain": "rihafbeauty.com",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ },
+ {
+  "domain": "nbks.com",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ },
+ {
+  "domain": "sbie-arabia.com",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ },
+ {
+  "domain": "nissan.com.sa",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ },
+ {
+  "domain": "sparqatar.shop",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ },
+ {
+  "domain": "spc-parts.com",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ },
+ {
+  "domain": "smartlink.com.sa",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ },
+ {
+  "domain": "mo4cars.com",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ },
+ {
+  "domain": "takeef.store",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ },
+ {
+  "domain": "steelforceco.com",
+  "verdict": "OUT",
+  "gate_failed": "category",
+  "reason": "Strong signal match: category:construction",
+  "evidence": " --> Steel Force - Your Building Partner top of page Call Us Now! sales@steelforceco.com Blog About Us Contact Us Log In Mild Steel Tubes Pipes Bars Angles Sheets Beams Stainless Steel Tubes Bars Shee"
+ },
+ {
+  "domain": "oncost.com",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ },
+ {
+  "domain": "onlinemazaya.com",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ },
+ {
+  "domain": "tas-helat.com",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "PARKED: http_code=200, no live site found",
+  "evidence": "http_code=200"
+ },
+ {
+  "domain": "thebluegroup.qa",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ },
+ {
+  "domain": "tawseelgroup.com",
+  "verdict": "OUT",
+  "gate_failed": "category",
+  "reason": "Strong signal match: category:construction",
+  "evidence": " Tawseel eCommerce Group - Leading the e&#8209;commerce Revolution in the Middle East Home Our Companies our team our gallery Contact us Leading the e&#8209;commerce Revolution in the Middle East Taws"
+ },
+ {
+  "domain": "suzukibarayan.com.sa",
+  "verdict": "OUT",
+  "gate_failed": "category",
+  "reason": "Strong signal match: category:automotive",
+  "evidence": " Suzuki Barayan – Suzuki Motorcycles in Saudi Arabia Maintenance Book [email&#160;protected] 920031503 Motorcycle Super Sport Street Adventure Boulivard Scooter Multi Purpose Off Road ATV Hover over a"
+ },
+ {
+  "domain": "thesaudiwomen.com",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ },
+ {
+  "domain": "unitednaghi.com.sa",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ },
+ {
+  "domain": "victorygroup24.ru",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ },
+ {
+  "domain": "virginmegastore.sa",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ },
+ {
+  "domain": "wecre8.com",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ },
+ {
+  "domain": "thespecialfood.com",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ },
+ {
+  "domain": "toryburch.sa",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ },
+ {
+  "domain": "spci-sa.com",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ },
+ {
+  "domain": "tamimimarkets.com",
+  "verdict": "OUT",
+  "gate_failed": "digital_channel",
+  "reason": "DEAD: http_code=000, no live site found",
+  "evidence": "http_code=000"
+ }
+]

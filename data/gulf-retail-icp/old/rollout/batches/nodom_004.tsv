@@ -1,0 +1,18 @@
+source	country	name	domain	prior_verdict	prior_category
+original	Saudi Arabia	حلويات نبيل نفيسة		IN	grocery
+original	Saudi Arabia	شركة التسهيلات للتسويق (سهل)		OUT	fuel_station
+original	Saudi Arabia	شركة ركاز الاخوان المتحدة المتميزة - اي مارت		IN	grocery
+original	Saudi Arabia	صيدليات باب الشفاء		IN	health_beauty_pharmacy
+original	Saudi Arabia	صيدلية		IN	health_beauty_pharmacy
+original	Saudi Arabia	صيدلية النهدي		IN	health_beauty_pharmacy
+original	Saudi Arabia	كهرباء الجنوب للإنارة		OUT	building_materials_b2b
+held_review	Saudi Arabia	مجموعة شركات اليسر | Alyouser Group		OUT	diversified_trading
+original	Saudi Arabia	منتجات فورايفر الامريكية في العراق والعالم		OUT	health_beauty_pharmacy
+gap_sweep		Mall of Qatar		OUT	grocery
+gap_sweep		Alif Stores		HELD	fashion
+gap_sweep		Modern Electronics Company		OUT	electronics
+gap_sweep		Yallatoys.com		OUT	sporting_hobby_books
+gap_sweep		SAVECO Online Hypermarket		IN	grocery
+gap_sweep		Sameh Mall		OUT	grocery
+gap_sweep		LG Electronics		OUT	ecommerce_unverified
+gap_sweep		ROUTE TO MARKET		OUT	agency_or_services

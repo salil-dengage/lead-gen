@@ -1,0 +1,19 @@
+source	country	name	domain	prior_verdict	prior_category
+original	Saudi Arabia	Petromin Nissan Official		OUT	non_retail
+original	Kuwait	pharmalife		IN	health_beauty_pharmacy
+original	Qatar	Porsche Centre Doha		OUT	non_retail
+original	Saudi Arabia	Porsche Saudi Arabia		OUT	non_retail
+original	Qatar	Rawabi Hypermarket		IN	grocery
+original	Saudi Arabia	RojoCoral Boutique | Children's Fashion & Accessories		IN	fashion
+original	Saudi Arabia	Safari Co Ltd. Riyadh		IN	specialty_retail
+original	Qatar	Saudia Group Of Companies		IN	grocery
+original	Saudi Arabia	Season | سيزون		IN	fashion
+original	Qatar	Spinneys Middle East		OUT	grocery
+original	Saudi Arabia	SWAJ | سواج		IN	fashion
+original	Saudi Arabia	TAMIMI GROUP OF COMPANIES		IN	grocery
+original	Kuwait	TheHub Hypermarket		IN	grocery
+original	Saudi Arabia	Toyota ALJ		OUT	non_retail
+held_review	Saudi Arabia	TSC		OUT	home_improvement
+original	Saudi Arabia	Wallan Group		OUT	non_retail
+original	Saudi Arabia	الخياطة العربية		IN	fashion
+original	Saudi Arabia	الغانم للأجهزة الكهربائية AL-GHANIM STORE		IN	electronics

@@ -1,0 +1,103 @@
+country	name	domain	verdict	category	tier	reason
+Saudi Arabia	Abraj Hyper	abrajhypermarket.com	IN	grocery	B	Hypermarket chain (name confirms format); domain live.
+Saudi Arabia	شاهي ابو وليد - Abu Waleed Tea	abuwaleedtea.com	IN	food_service_qsr	B	Multi-branch tea cafe chain, F&B retail, in-scope category.
+Saudi Arabia	Al Sadaf Trading Co. | شركة السدف للتجارة		OUT	fashion	na	No domain; cannot verify DTC digital presence or scale.
+Saudi Arabia	Almajal Alarabi Holding	almajalholding.com.sa	OUT	diversified_trading	na	Confirmed: construction/contracting/facility-management conglomerate, not consumer retail (web-verified).
+Qatar	Al Mana	almana.com	IN	fashion	A	Confirmed Qatar-HQ'd conglomerate; Al Mana Fashion Group operates 300+ retail outlets (Zara, Mango, Hermes JV), $2B+ turnover, 3500+ staff (web-verified).
+Qatar	Almana Group	almanagroup.com	OUT	fashion	na	Duplicate of Al Mana (same Qatar group, different domain/name variant).
+Saudi Arabia	Al-Moallem Group	almoallem-h.com	HELD	food_service_qsr	na	Large Saudi catering/facilities group; consumer-facing retail vs B2B catering share unconfirmed.
+Qatar	Al Shaheen Est	alshaheenest.com	OUT	diversified_trading	na	General trading entity; no confirmed consumer-retail storefront.
+Qatar	Marzooq S. Al Shamlan Holding	alshamlanholding.com	OUT	diversified_trading	na	General holding; no confirmed consumer-retail storefront.
+Qatar	ALSIDDIQI HOLDING	alsiddiqiholding.com	OUT	diversified_trading	na	General holding; no confirmed consumer-retail storefront.
+Saudi Arabia	Alsourayia Trading Co.	alsourayia.com	OUT	diversified_trading	na	General trading; no confirmed consumer-retail storefront.
+Saudi Arabia	Alsulaiman Group	alsulaimangroup.com	IN	general_merch_dept	A	Confirmed Saudi-HQ'd conglomerate (Forbes Top 100 Arab Family Business); operates IKEA Saudi/Bahrain franchise + Circle K Saudi franchise (web-verified).
+Qatar	Al Sulaiman Jewellers	alsulaimanjewellers.com	IN	fashion	B	Name confirms jewellery retail (Qatar); distinct entity from Alsulaiman Group (Saudi).
+Saudi Arabia	السلطان | AlSultan	alsultan-ksa.com	OUT	retail_general	na	No identifiable retail signal beyond a generic brand name.
+Kuwait	Al Wazzan Group of Companies	alwazzangrp.com	OUT	diversified_trading	na	General trading group; no confirmed consumer-retail storefront.
+Kuwait	Alwazzan United Trading company	alwazzanunited.com	OUT	diversified_trading	na	General trading; no confirmed consumer-retail storefront.
+Saudi Arabia	شركة اليحيا Alyahya Company	alyahya.com	OUT	diversified_trading	na	General trading; no confirmed consumer-retail storefront.
+Saudi Arabia	AlYemni Group - مجموعة اليمني	alyemnigroup.com	OUT	diversified_trading	na	General trading/catering group; no confirmed consumer-retail storefront.
+Qatar	Ansar Group of Companies	ansar-group.com	OUT	diversified_trading	na	General trading; no confirmed consumer-retail storefront.
+Saudi Arabia	شركة عثمان الزامل واخوانه	arzamil.com	OUT	diversified_trading	na	General trading; no confirmed consumer-retail storefront.
+Saudi Arabia	Ashley Homestore | KSA	ashley.sa	HELD	franchise	na	US furniture brand storefront; Saudi operating franchisee not confirmed.
+Qatar	Asklan Trading & Agriculture W.L.L	asklan.net	OUT	diversified_trading	na	Trading/agriculture; not consumer retail.
+Saudi Arabia	ATHR Gallery	athrart.com	OUT	art_gallery	na	Art gallery; outside the approved consumer-retail categories.
+Saudi Arabia	Salem Saleh Babgi Co. Ltd.	babgi.com.sa	OUT	diversified_trading	na	General trading; no confirmed consumer-retail storefront.
+Saudi Arabia	Bastana International Company Ltd	bastana.net	OUT	diversified_trading	na	General trading; no confirmed consumer-retail storefront.
+Saudi Arabia	Bayt Alebaa - بيت الإباء	baytalebaa.com	OUT	home_improvement	na	Weak/no consumer-retail signal; likely home-goods trade, unconfirmed.
+Kuwait	BGB Holding	bgbholding.co	OUT	diversified_trading	na	General holding; no confirmed consumer-retail storefront.
+Qatar	Bradma Group	bradmagroup.com.qa	OUT	diversified_trading	na	Building-materials/industrial trading (Qatar); not consumer retail.
+Saudi Arabia	Build Station LLC	build-station.com	OUT	home_improvement	na	Hardware/DIY building materials; out of approved category scope.
+Kuwait	Chayah Group	chayahgroup.com	OUT	diversified_trading	na	General trading; no confirmed consumer-retail storefront.
+Kuwait	CHIPS	chipsstore.com	IN	retail_general	B	Domain (chipsstore.com) confirms a retail storefront (Kuwait).
+Saudi Arabia	Circle K Alsulaiman	circlek.com.sa	OUT	grocery	na	Duplicate: same operator as Alsulaiman Group (kept as one consolidated account).
+Saudi Arabia	wholefoodmarket	cmcjuly2022.in	OUT	grocery	na	Domain resolves to an unrelated/mismatched (.in, India) record; data-quality artifact.
+Kuwait	Concept Combined Group	concept-kw.com	OUT	diversified_trading	na	General trading; no confirmed consumer-retail storefront.
+Qatar	CREDO TRADING	credo-trading.com	OUT	diversified_trading	na	General trading; no confirmed consumer-retail storefront.
+Saudi Arabia	Decorella Panits EST		OUT	diversified_trading	na	No domain; cannot verify.
+Qatar	Doha Oasis	dohaoasis.com	OUT	food_service_qsr	na	Mixed-use real-estate development (hosts Printemps Doha); not itself a retailer.
+Kuwait	Drops	dropsgroup.com	OUT	retail_general	na	No identifiable retail signal from name/domain.
+Qatar	Eastern Gate	easterngate.online	OUT	home_improvement	na	No identifiable consumer-retail signal.
+Saudi Arabia	EBEL ابل		OUT	home_improvement	na	No domain; cannot verify.
+Saudi Arabia	EMAAR ALWATAN	emac.sa	OUT	home_improvement	na	Building-materials naming pattern; not consumer retail.
+Kuwait	Eurocom	eurocomonline.net	OUT	retail_general	na	No identifiable consumer-retail signal.
+Saudi Arabia	Fakeeh Vision	fakeehvision.com	IN	health_beauty_pharmacy	B	Confirmed: largest optical wholesaler/retailer chain in KSA (web-verified), a genuine retail operation.
+Saudi Arabia	FL Development	fl.sa	OUT	unknown_naics	na	"""Development"" naming indicates real-estate/property, not retail."
+Qatar	Flora Group W.L.L	floragroup.net	OUT	diversified_trading	na	Florist/gift trading; out of approved category scope.
+Saudi Arabia	Hussein Bakry Gazzaz & Co	gazzaz.com.sa	OUT	diversified_trading	na	General trading; no confirmed consumer-retail storefront.
+Qatar	Ghasham International RP Tech	ghasham.com	OUT	retail_general	na	"""RP Tech"" naming indicates IT/tech reseller, not consumer retail."
+Saudi Arabia	United Yousef M Naghi Co. Ltd	google.com	OUT	diversified_trading	na	General trading; dirty Website field (google.com); no confirmed storefront.
+Saudi Arabia	C1	groupc1.com	OUT	unknown_naics	na	No identifiable retail signal; name too generic.
+Kuwait	GULF STREAM	gulfstreamkw.com	OUT	home_improvement	na	No identifiable consumer-retail signal.
+Saudi Arabia	HATCON	hatcon.com	OUT	home_improvement	na	Naming pattern indicates construction/contracting.
+Qatar	Hilti Qatar	hilti.com.qa	OUT	home_improvement	na	Hilti is a Liechtenstein-HQ'd B2B industrial-tools company; not consumer retail.
+Qatar	Hyatt Plaza Shopping Mall	hyattplaza.com	OUT	retail_general	na	Mall/real-estate operator, not itself a retail company.
+Saudi Arabia	IKEA Alsulaiman		OUT	franchise	na	Duplicate: same operator as Alsulaiman Group (kept as one consolidated account).
+Qatar	INTERTEC GROUP W.L.L.	intertecqatar.com	OUT	diversified_trading	na	General trading; no confirmed consumer-retail storefront.
+Saudi Arabia	Kiffa Roaster	kiffa.sa	IN	grocery	B	Specialty coffee roaster/retailer with an active DTC domain.
+Saudi Arabia	Khereiji Showrooms Company Limited	ksc.com.sa	IN	electronics	B	"""Showrooms Company"" naming confirms a retail-facing operation (Saudi trading/electronics house)."
+Saudi Arabia	Lighting Stores | مخازن الإضاءة	lightingstores.com.sa	IN	electronics	B	Domain and name confirm a lighting retail chain (Saudi).
+Qatar	Logic Group of Companies	logicgrp.com	OUT	diversified_trading	na	No identifiable consumer-retail signal.
+Qatar	LULU RAYYAN GROUP W.L.L	lulurayyan.com	OUT	diversified_trading	na	Confirmed: local entity of LuLu Group International, HQ'd in the UAE; excluded per foreign-HQ operator rule (consistent with Carrefour/Nesto/Spinneys).
+Saudi Arabia	Magrabi Hospitals & Centers	magrabihealth.com	IN	health_beauty_pharmacy	A	Confirmed: Magrabi Retail Group is a standalone 200+ store optical retail chain across the Gulf (web-verified), distinct from the hospital arm.
+Saudi Arabia	Musaed Mohammed Bin Ajlan Co	malajlanstore.com	OUT	diversified_trading	na	Confirmed in the earlier pilot: plumbing/electrical/sanitary building-materials trader, not consumer retail.
+Saudi Arabia	مكارم -Makarem	malnokhba.com	OUT	home_improvement	na	No identifiable consumer-retail signal.
+Qatar	MATALAN Middle East	matalan-me.com	HELD	fashion	na	UK value-fashion brand; Qatar/regional operating franchisee not confirmed.
+Qatar	Merch and Partners Co WLL	merch.com.qa	OUT	diversified_trading	na	General trading; no confirmed consumer-retail storefront.
+Saudi Arabia	Meshkati Trading Company	meshkati.sa	OUT	diversified_trading	na	General trading; no confirmed consumer-retail storefront.
+Saudi Arabia	Mimar	mimar.com.sa	OUT	home_improvement	na	No identifiable consumer-retail signal; naming suggests design/architecture.
+Saudi Arabia	شركة تقنيات الزراعة الحديثة	modernagritec.com	OUT	home_improvement	na	Agricultural technology; not consumer retail.
+Kuwait	Meshaal Al Shatti and Partner General Trading	mssandp.com	OUT	diversified_trading	na	General trading; no confirmed consumer-retail storefront.
+Qatar	Nabina Group مجموعة نابينا		OUT	diversified_trading	na	Ceramics/building-materials trading (Qatar); not consumer retail.
+Qatar	Nasir Bin Abdullah & Sons	nas-goc.com	OUT	diversified_trading	na	General trading conglomerate; no confirmed consumer-retail storefront.
+Kuwait	Nasco Group	nasco-trading.com	OUT	diversified_trading	na	General trading; no confirmed consumer-retail storefront.
+Saudi Arabia	نسمو | Nasmo	nasmoltd.com	OUT	home_improvement	na	No identifiable consumer-retail signal.
+Saudi Arabia	National Building and Marketing Company	nbm.com.sa	OUT	diversified_trading	na	Building-materials naming pattern; not consumer retail.
+Qatar	Printemps Doha	printemps.com	OUT	general_merch_dept	na	Confirmed: operated directly by Groupe Printemps, global HQ Paris, France (Qatari-owned investment fund, but not Qatar-HQ'd); excluded per HQ rule.
+Saudi Arabia	RIS Group	ris.co	OUT	diversified_trading	na	General trading/services; no confirmed consumer-retail storefront.
+Saudi Arabia	SADANA TRADING CO	sadana.com.sa	OUT	diversified_trading	na	General trading; no confirmed consumer-retail storefront.
+Saudi Arabia	Saleh Al-Othaim Investment Co | شركة صالح عبدالله العثيم للاستثمار	sao.sa.com	OUT	diversified_trading	na	Investment holding entity, distinct from the Al-Othaim Markets retail operating company already covered.
+Saudi Arabia	Savola Group	savola.com	OUT	grocery	na	FMCG manufacturer/holding; its retail arm (Panda) is already covered as a separate account.
+Saudi Arabia	BEAM	shopbeam.com	IN	retail_general	B	Domain (shopbeam.com) confirms a retail storefront (Saudi).
+Saudi Arabia	SITACO Company	sitaco.com.sa	OUT	diversified_trading	na	General trading; no confirmed consumer-retail storefront.
+Saudi Arabia	Sondos	sondos.com	OUT	retail_general	na	No identifiable retail signal beyond a generic brand name.
+Saudi Arabia	Southwind Telecom	southwind.com.sa	OUT	retail_general	na	Telecom naming; consumer-retail storefront unconfirmed.
+Saudi Arabia	SPAR Saudi Arabia	spar.sa	OUT	grocery	na	Duplicate: operated by Al Sadhan Group (kept as one consolidated account under Al Sadhan).
+Qatar	SPAR QATAR	sparqatar.shop	HELD	grocery	na	SPAR International franchise; Qatar operating entity not confirmed (Saudi operator is Al Sadhan Group, does not extend to Qatar).
+Kuwait	Starco Holding	starcoholding.com	IN	fashion	A	Confirmed Kuwait-HQ'd conglomerate (est. 1958); 300+ stores, 2000+ staff, franchises Benetton/Mango/Stradivarius/U.S. Polo (web-verified).
+Qatar	TAQAT	taqat.qa	OUT	retail_general	na	Name/sector suggests energy or staffing services, not consumer retail.
+Kuwait	Tawseel Media Group	tawseelgroup.com	OUT	diversified_trading	na	Media/logistics naming; not consumer retail.
+Qatar	The Blue Group - Qatar	thebluegroup.qa	OUT	diversified_trading	na	General trading; no confirmed consumer-retail storefront.
+Saudi Arabia	Toot Company	toot-t.com	OUT	diversified_trading	na	General trading/catering; no confirmed consumer-retail storefront.
+Saudi Arabia	TSC		OUT	home_improvement	na	No domain; cannot verify.
+Saudi Arabia	ULTRA LIGHT | الترا لايت	ultralightstores.com	OUT	home_improvement	na	Lighting/electrical trade naming; likely B2B, unconfirmed retail.
+Saudi Arabia	United Yousef Naghi Co. Ltd.	unitednaghi.com.sa	OUT	diversified_trading	na	Duplicate variant of United Yousef M Naghi.
+Qatar	United Retail Trading WLL	unitedretailholding.com	OUT	diversified_trading	na	General trading despite name; no confirmed consumer storefront.
+Saudi Arabia	تجارة بلا حدود -  unlimited trade	utradeksa.com	OUT	retail_general	na	No identifiable retail signal beyond a generic name.
+Saudi Arabia	Virgin Megastore Saudi Arabia	virginmegastore.sa	HELD	franchise	na	Founded in Jeddah with its own Saudi entity per LinkedIn, but regional Virgin Megastore brand is often Azadea/Lebanon-linked elsewhere; operator ownership genuinely unconfirmed.
+Saudi Arabia	Wadi Halfa	wadihalfa.sa	OUT	retail_general	na	No identifiable retail signal beyond a generic name.
+Saudi Arabia	مياه واڤ | WAV WATER	wav.sa	OUT	beverage_dtc	na	Bottled-water FMCG producer/brand, not a retailer.
+Kuwait	Zain Tawseel	zaintawseel.com	OUT	retail_general	na	Telecom-linked delivery/logistics service, not consumer retail.
+Saudi Arabia	شركة اثاث للتجزئة	zamanifurniture.com	IN	home_furniture	B	"Name translates to ""Furniture Retail Company"" — explicit consumer furniture retail."
+Saudi Arabia	ZODE_SA	zode.sa	OUT	retail_general	na	No identifiable retail signal beyond a generic brand name.
+Saudi Arabia	مجموعة شركات اليسر | Alyouser Group		OUT	diversified_trading	na	No domain; cannot verify.

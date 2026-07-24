@@ -1,0 +1,19 @@
+source	country	name	domain	prior_verdict	prior_category
+original	Saudi Arabia	سدر الخليج للعطور( Sedr Alkhaleej Perfumes )	sedralkhaleej.com	IN	health_beauty_pharmacy
+original	Saudi Arabia	Shafy	shafy.com.sa	IN	health_beauty_pharmacy
+original	Saudi Arabia	shakersa	shaker.com.sa	IN	electronics
+original	Qatar	Saleh Al Hamad Al Mana Co.	shalmana.com	IN	grocery
+original	Qatar	Shine Gold and Diamonds	shinegd.com	IN	fashion
+held_review	Saudi Arabia	BEAM	shopbeam.com	IN	retail_general
+original	Kuwait	Raha	shopraha.com	IN	grocery
+original	Qatar	Simex Group	simexgroup.qa	OUT	non_retail
+original	Saudi Arabia	Mohammed Siraj Attar & Bros	sirajattarbros.com	IN	fashion
+held_review	Saudi Arabia	SITACO Company	sitaco.com.sa	OUT	diversified_trading
+original	Saudi Arabia	Siwar Foods (SF)	siwar.com	IN	grocery
+original	Saudi Arabia	Sleep High	sleephigh.com	OUT	non_retail
+original	Saudi Arabia	SmSm	smsm.sa	OUT	marketplace
+held_review	Saudi Arabia	Sondos	sondos.com	OUT	retail_general
+original	Saudi Arabia	Soum	soum.sa	OUT	marketplace
+held_review	Saudi Arabia	Southwind Telecom	southwind.com.sa	OUT	retail_general
+held_review	Saudi Arabia	SPAR Saudi Arabia	spar.sa	OUT	grocery
+held_review	Qatar	SPAR QATAR	sparqatar.shop	HELD	grocery

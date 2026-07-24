@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Seventh Dimension Company",
+    "domain": "7d.com.kw",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "consumer electronics, gadgets and accessories retail",
+    "qualification_path": "substantiality",
+    "reason": "Passes all gates: Kuwait-HQ'd conglomerate (est. 2010) whose /shop section is a genuine, large live storefront.",
+    "evidence": "Homepage confirms Kuwait HQ since 2010 with retail/distribution/e-commerce divisions. The /shop page (7d.com.kw/shop) is a fully functional Odoo e-commerce catalog showing 2760 products across electronics/gadget brands (Anker, Baseus, Naturehike, Ecoflow, JMGO, etc.), real KWD pricing, add-to-cart, and GTM ecommerce (productImpressions) tracking."
+  },
+  {
+    "name": "8oz Coffee",
+    "domain": "8ozcafe.com",
+    "verdict": "OUT",
+    "gate_failed": "scale",
+    "category_final": "specialty coffee retail (F&B)",
+    "qualification_path": "n/a",
+    "reason": "Real Riyadh-HQ'd Saudi e-commerce coffee store with genuine cart/checkout (passes gates 1-4), but the live product sitemap lists only 18 total SKUs across 6 categories, well under the ~50 SKU substantiality floor, with no evidence of a wider physical cafe chain to compensate.",
+    "evidence": "sitemap_products.xml lists exactly 18 product URLs (assorted thermal mugs, 4 coffee-bean origins, filters/tools, coffee sachets). Real cart confirmed (\"أضف للسلة\"/add-to-cart), SAR pricing, Riyadh shown in checkout address config. Only 3 generic mentions of \"فرع\" (branch) found, no branch list, so this reads as a small online roastery rather than a multi-location chain."
+  },
+  {
+    "name": "Ahmad A. Abed Holding",
+    "domain": "aaabed.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "B2B food ingredients manufacturing / wholesale distribution / hospitality holding",
+    "qualification_path": "n/a",
+    "reason": "Saudi-HQ'd, but the business is an integrated B2B food-solutions holding company (manufacturing brand \"BakeMate\", plus trading, logistics and hospitality) that explicitly serves bakeries, retailers, hotels and industrial clients as a B2B supplier, not a consumer storefront.",
+    "evidence": "Site tagline: \"Saudi Arabia's Integrated Food Solutions Group... manufacturing, retail, trading, logistics, and hospitality.\" Site text: \"Whether you are a bakery, retailer, hotel, or industrial client, our team can direct you to the right solution across our operating sectors.\" No consumer cart anywhere on site."
+  },
+  {
+    "name": "Abdul Aziz Ali Al Al Mutawa Group of Co., Kuwait",
+    "domain": "aaalmutawa.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive dealership",
+    "qualification_path": "n/a",
+    "reason": "Kuwait-HQ'd (Safat, founded 1951), but an automotive dealership group, a hard-fail category regardless of scale or real operations.",
+    "evidence": "Homepage: \"Authorized dealership for Kia Motors, Volvo Trucks, Changan Motors, Bosch Power Tools, and Kinglong Buses in Kuwait.\" Address: POBox 164 Safat, Kuwait."
+  },
+  {
+    "name": "Abdul Rahman Albisher & Zaid Alkazemi Co. - Mercedes-Benz Kuwait",
+    "domain": "aagroup.com.kw",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive dealership",
+    "qualification_path": "n/a",
+    "reason": "Site was unreachable on repeated curl attempts (connection failure/timeout, including with -k). Per protocol, corroborated via web search: confirmed as the exclusive Mercedes-Benz/AMG/Maybach distributor for Kuwait, HQ Kuwait City - an automotive dealer, hard-fail category.",
+    "evidence": "Web search: \"exclusive distributor of Mercedes-Benz, AMG and Maybach passenger cars in Kuwait\" and Mercedes-Benz Commercial Vehicles (trucks/vans); founded 1953; HQ Kuwait City / Safat, Kuwait."
+  },
+  {
+    "name": "Al Abdulghani Motors",
+    "domain": "aamotors.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive dealership",
+    "qualification_path": "n/a",
+    "reason": "Site is a client-rendered JS shell with no fetchable content over curl. Corroborated via web search: sole distributor of Toyota and Lexus vehicles in Qatar, HQ Doha - automotive hard fail.",
+    "evidence": "Web search: \"Al Abdulghani Motors (AAM) is a prominent automotive company in Qatar, recognized as the sole distributor of Toyota and Lexus vehicles\"; HQ Abdulghani Tower, C Ring Rd, Doha, Qatar; founded 1958; official site confirmed as aamotors.com."
+  },
+  {
+    "name": "Ali Abdulwahab Al Mutawa Commercial Co.",
+    "domain": "aaw.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "multi-brand retail conglomerate (fashion/footwear, home living/furniture, F&B, pharmacy)",
+    "qualification_path": "substantiality",
+    "reason": "Kuwait-HQ'd, century-old retail and distribution conglomerate. The corporate site itself has no unified cart, but its Shop Online hub routes to multiple real, substantial branded retail channels it operates, which collectively satisfy the digital-channel and scale gates.",
+    "evidence": "HQ Al-Soor Street, Sharq, Kuwait. /shop-online links out to real, live branded storefronts and apps it operates: JYSK Kuwait (jysk.com.kw), plus App Store/Google Play listings for Intersport Kuwait, The Athletes Foot, SNKR Store, Al-Mutawa Pharmacy, and Joe & The Juice. Nine retail divisions spanning consumer goods, sports/lifestyle, home living, pharmaceuticals, F&B."
+  },
+  {
+    "name": "Najem Aba Hussain",
+    "domain": "abahussain.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "sanitary ware / bathroom fixtures / tiles (building materials)",
+    "qualification_path": "n/a",
+    "reason": "Riyadh-HQ'd (since 1978, with showrooms in Riyadh, Jeddah and Dammam) wholesaler/retailer of bathtubs, sinks, shower cabins, faucets and tiles - an explicit building-materials hard-fail category.",
+    "evidence": "Product navigation: مغاطس (bathtubs), مغاسل (sinks), كبائن شاور (shower cabins), خلاطات (mixers/faucets), بلاط وموزاييك (tiles & mosaic), اثاث حمامات (bathroom furniture). Founded 1978 on Al Takhassusi St, Riyadh."
+  },
+  {
+    "name": "Abco Trading",
+    "domain": "abco-trading.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "bathroom fixtures / faucets / showers (building materials)",
+    "qualification_path": "n/a",
+    "reason": "Jeddah, Saudi Arabia HQ; sells faucets, showers and ceramics - a building-materials hard fail. Independently, the site also explicitly labels itself a demo store, which would fail gate 4 as well.",
+    "evidence": "Category nav: Premium Faucets, Modern Showers, Electric Products, Ceramics, Accessories. Site banner: \"This is a demo store for testing purposes — no orders shall be fulfilled.\" Every product listing shares identical templated boilerplate description text."
+  },
+  {
+    "name": "abdulsamadalqurashi",
+    "domain": "abdulsamadalqurashi.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "luxury perfume / oud / personal care retail",
+    "qualification_path": "substantiality",
+    "reason": "Root domain returns a soft-404 (cPanel default placeholder page) rather than real content, but per protocol a live current site was located: the regional storefront sa.abdulsamadalqurashi.com is a large, fully functioning Saudi oud/perfume e-commerce site, so gates were re-checked against it.",
+    "evidence": "sa.abdulsamadalqurashi.com shows dozens of live categories (Women/Men/Unisex perfumes, Home fragrances, Cologne, Musk, Oud oil, Incense varieties, Care products, plus sub-brand collections Viva, Dehn Oud, Safari, Ouda City), Cart/Products navigation, VAT number 300295357100003, and a Download Mobile App link. Heritage Saudi brand operating since 1852."
+  },
+  {
+    "name": "Abo Moati l ابو معطي",
+    "domain": "abomoati.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "stationery, school/office supplies, gifts and art supplies (general merchandise)",
+    "qualification_path": "substantiality",
+    "reason": "Riyadh-HQ'd, Tadawul-listed (since 2017) stationery and gifts retailer operating since 1994. Its linked storefront domain did not respond to direct fetch, but is well corroborated as a real, extensive live e-commerce operation.",
+    "evidence": "abomoati.com nav links to \"المتجر الالكتروني\" (the online store) at abomoati.com.sa. abomoati.com.sa returned connection errors/HTTP 530 on direct fetch, but web search confirms it as a live store (\"متجر إلكتروني شامل للقرطاسية...\") with individually indexed product pages, 16+ physical branches, a dedicated iOS app on the App Store, and status as a distributor for HP/Canon, Schneider, Prima and Donia."
+  },
+  {
+    "name": "Abraj Hyper",
+    "domain": "abrajhypermarket.com",
+    "verdict": "OUT",
+    "gate_failed": "digital_channel",
+    "category_final": "grocery hypermarket",
+    "qualification_path": "n/a",
+    "reason": "Makkah-based 3-branch grocery hypermarket (approved category), but the site itself is a static brochure with only three \"weekly offers\" flyer pages, no cart/checkout, and no evidence of a proprietary ordering app after a targeted search.",
+    "evidence": "Full href inventory of the live site is limited to social links, Google Maps links, a tel: link, and three static offer pages (haram_offers.html, rashidiya_offers.html, zaidy_offers.html) - no shop, cart, or product links. Web search turned up only third-party deal-aggregator listings (ClicFlyer, D4D Online, wowdeals) and no dedicated Abraj app."
+  },
+  {
+    "name": "شاهي ابو وليد - Abu Waleed Tea",
+    "domain": "abuwaleedtea.com",
+    "verdict": "OUT",
+    "gate_failed": "digital_channel",
+    "category_final": "tea/beverage QSR chain (F&B)",
+    "qualification_path": "n/a",
+    "reason": "Riyadh-based tea chain (approved, high-frequency F&B category), but its own site is a franchise/investor-relations site with no direct ordering capability; it is reachable only through third-party delivery marketplaces, not an owned transactional channel or app.",
+    "evidence": "Site navigation is Home / About / Investment / Branches / Gallery / Franchise / Contact Us - no shop, menu-order, or cart links anywhere. Web search shows ordering is only available via HungerStation and the \"Ninja\" third-party delivery platform; no dedicated Abu Waleed Tea app found."
+  },
+  {
+    "name": "ABYAT",
+    "domain": "abyat.com",
+    "verdict": "OUT",
+    "gate_failed": "geography",
+    "category_final": "home improvement / furniture / furnishings megastore retail",
+    "qualification_path": "n/a",
+    "reason": "The row lists Saudi Arabia, but ABYAT's actual global operating HQ is Kuwait City, Kuwait; Saudi Arabia (Dhahran, Riyadh, Jeddah) is an expansion market with showrooms, not the headquarters, so it fails the hard geography gate even though the category would otherwise pass.",
+    "evidence": "Web search corroboration (company's own /kw/en/about URL path, LinkedIn, and third-party company profiles): \"ABYAT Megastore is headquartered in Kuwait City, Kuwait... Founded in 2005... opened many showrooms in the GCC markets in Kuwait and Kingdom of Saudi Arabia Dhahran, Riyadh, and Jeddah.\""
+  },
+  {
+    "name": "Al Hasawi Industrial Group",
+    "domain": "acekuwait.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "home improvement / hardware / general merchandise retail (Ace Hardware franchise)",
+    "qualification_path": "substantiality",
+    "reason": "Kuwait-HQ'd operator of the Ace Hardware franchise: consumer-facing DIY/home/hardware retail (not B2B construction supply) with a massive live catalog and confirmed real cart.",
+    "evidence": "Live Ace Hardware Kuwait storefront (\"The Helpful Place\") with dozens of consumer categories (cleaning & disinfectants, camping & adventure, bikes & gear, building supplies, hardware, safety & security, cabinet hardware) and 20 add-to-cart instances confirmed in page source; extracted catalog text alone ran to ~40,000 characters."
+  },
+  {
+    "name": "Adam Medical Company",
+    "domain": "adamonline.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "pharmacy and health & beauty retail",
+    "qualification_path": "substantiality",
+    "reason": "Saudi-HQ'd online pharmacy with a large live catalog, real cart, and real SAR pricing - a strong pass on all gates, pharmacy being an explicitly recurring/high-frequency approved category.",
+    "evidence": "Title: \"صيدلية ادم اونلاين\" (Adam Pharmacy Online). 24 \"اضافة للسلة\" (add-to-cart) instances found, real SAR prices, dozens of products shown across medicines, personal care, hair care, home care, makeup, mother & child, skin care, healthy living and Hajj-supplies categories. Saudi Arabia/Riyadh/Jeddah/Makkah referenced 40+ times."
+  },
+  {
+    "name": "aDawliah Electronics",
+    "domain": "adawliahstore.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "consumer electronics, audio-visual and musical instruments retail",
+    "qualification_path": "substantiality",
+    "reason": "Kuwait-HQ'd, 35+-year-established electronics/AV/musical-instrument retailer with mall presence. Direct fetch was blocked by a bot-protection challenge (HTTP 403), which per protocol is inconclusive alone; web search strongly corroborates a genuine, live retail business with its own online shop.",
+    "evidence": "Direct curl returned a Cloudflare \"checking your browser\" challenge page (403). Web search confirms a Kuwait company founded 1982, $14.7M revenue, showrooms in Hawally, Shuwaikh, The Avenues Mall, AlKout Mall and Marina Mall, distributing Yamaha, Fender, Bose, Klipsch, Jamo, ViewSonic and Barco; search results include an indexed page titled \"Shop – aDawliah Store\" at adawliahstore.com/shop/."
+  },
+  {
+    "name": "ADECO Group",
+    "domain": "adeco-group.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "interior design / fit-out contracting (building materials/construction services)",
+    "qualification_path": "n/a",
+    "reason": "Kuwait-HQ'd, but the business is a home-design/fit-out contractor (wallpaper printing/design, blinds and wooden flooring installation, steel-frame housing) - a B2B contracting/building-materials category, hard fail.",
+    "evidence": "Site: \"Your trusted Home Design Consultants for elegant home improvements... wallpaper Printing & Design... Blinds & wooden Flooring Installations... Steel Frame Housing... INNOVATING SPACES SINCE 1993.\" Kuwait phone +965-22099995. (Page also contained unrelated injected gambling-spam text consistent with a compromised WordPress install, but the legitimate business content is unambiguously interior-design/fit-out contracting.)"
+  }
+]

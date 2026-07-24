@@ -1,0 +1,100 @@
+[
+ {
+  "name": "ALshaya Group",
+  "domain": "alshaya.com",
+  "country": "Kuwait",
+  "category": "n/a",
+  "prior_qualification_reason": "M.H. Alshaya is a Kuwait-HQ'd retail franchise operator with 3,000+ stores and 70+ brands (H&M, Mothercare, Starbucks, etc.) across fashion, footwear, F&B, beauty, pharmacy, optics and home, plus a growing online business. The 'DEAD http_code=000' was a bot-block (site is live); every division is retail-qualifying so it passes as a consolidated account per Gate 6, consistent with the rulebook alre"
+ },
+ {
+  "name": "BelovedOne",
+  "domain": "belovedone.com",
+  "country": "Kuwait",
+  "category": "n/a",
+  "prior_qualification_reason": "Live Kuwait-HQ'd baby/kids retailer (since 2015, Avenues Mall store plus full e-commerce with cart) carrying ~500+ SKUs across clothing, toys, decor, bath, bags, and jewelry. The 'narrow, low-repeat boutique' basis is contradicted by the broad multi-category catalog, which clears the substantiality and repeat-purchase gates."
+ },
+ {
+  "name": "حكاية طفل | Baby Story",
+  "domain": "baby-story.com",
+  "country": "Saudi Arabia",
+  "category": "building_materials",
+  "prior_qualification_reason": "SAMPLE RE-AUDIT CORRECTION (No -> Yes): Gate 2 keyword false positive: live Saudi toy/baby retailer (baby-story.com HTTP 200, SAR pricing, online shopping/fast delivery) with multiple Jeddah/Makkah physical stores; toys/baby goods is an approved category. The 'building_materials' tag was a pure keyword mismatch."
+ },
+ {
+  "name": "Fantasy World",
+  "domain": "fantasyworldtoys.com",
+  "country": "Kuwait",
+  "category": "building_materials",
+  "prior_qualification_reason": "Misfiled as 'building_materials': fantasyworldtoys.com is a live Kuwait toy retailer (est. 1996, 7 stores, full cart/checkout, thousands of SKUs). Toys are an approved general-merchandise category and the operating entity is Kuwait-HQ'd."
+ },
+ {
+  "name": "Dimos Furniture | ديموس اثــــاث",
+  "domain": "dimos.com.sa",
+  "country": "Saudi Arabia",
+  "category": "building_materials",
+  "prior_qualification_reason": "Misfiled as 'building_materials': Dimos is a Riyadh-HQ'd consumer furniture retailer (Bin Hadi Investment Group) with showrooms in Riyadh, Jeddah, and Dammam and a live online store (sofas, bedroom, living, outdoor, decor). Furniture/home is approved and it clears scale."
+ },
+ {
+  "name": "ALKAFFARY GROUP",
+  "domain": "kaffary.com",
+  "country": "Saudi Arabia",
+  "category": "n/a",
+  "prior_qualification_reason": "Riyadh-HQ'd home-furnishings retailer since 1951 with 70+ stores plus online (carpets, rugs, flooring, furniture, home decor, wallpaper) and a presence on noon. It is retail-led and diversified well beyond carpets, so the narrow/low-repeat and mixed-conglomerate concerns do not hold; the Alkaffary Projects contracting arm is a non-disqualifying separate line under the corrected Gate 2 / Gate 6."
+ },
+ {
+  "name": "Masco Saudi Arabia",
+  "domain": "mascoonline.com",
+  "country": "Saudi Arabia",
+  "category": "n/a",
+  "prior_qualification_reason": "Jeddah-HQ'd stationery/office-supplies business running a genuine D2C store at mascoonline.com (individual customers, prices, 90-day returns, free delivery over 99 SAR) alongside a wholesale/own-brand arm. Under the corrected Gate 2 the wholesale line is a separate fact; the dedicated retail arm plus approved category (stationery) qualify it."
+ },
+ {
+  "name": "MINISO Saudi Arabia",
+  "domain": "miniso.sa",
+  "country": "Saudi Arabia",
+  "category": "building_materials",
+  "prior_qualification_reason": "Misfiled as 'building_materials': miniso.sa is a live Saudi variety/lifestyle retailer operated by MINISO Saudi Arabia (a Riyadh-HQ'd local franchise entity, storefront on Salla) with physical stores nationwide and hundreds of SKUs. Approved category, in-country operating entity (the Cenomi-style Gate 1 pass), clears scale."
+ },
+ {
+  "name": "La Maison Dorèe",
+  "domain": "lamaisondoree.com",
+  "country": "Saudi Arabia",
+  "category": "automotive",
+  "prior_qualification_reason": "Misfiled as 'automotive': lamaisondoree.com is a Riyadh-HQ'd furniture and home-decor e-commerce retailer plus showroom (secure checkout, returns, broad catalog across furniture, lighting, tableware, decor), with B2B/design only a secondary line. Approved category, Saudi HQ, real digital channel."
+ },
+ {
+  "name": "Nahdi",
+  "domain": "nahdi.sa",
+  "country": "Saudi Arabia",
+  "category": "n/a",
+  "prior_qualification_reason": "The 500 'dead' call was a transient/bot error: nahdi.sa is live and Nahdi is Saudi Arabia's largest retail pharmacy chain (Jeddah-HQ'd, 1,151 stores, live online pharmacy). Retail pharmacy chains are the explicit approved exception, so this is a clear qualifier."
+ },
+ {
+  "name": "Mogahwi Stationery & Office Equipment",
+  "domain": "mogahwi.com.kw",
+  "country": "Kuwait",
+  "category": "automotive",
+  "prior_qualification_reason": "Misfiled as 'automotive': mogahwi.com.kw (Almuqahwi Library Co, est. 1942) is a Kuwait stationery/art-supplies retailer with physical stores (Shuwaikh, Sharq) and a live online shop. Stationery is an approved, repeat-purchase category and the entity is Kuwait-HQ'd."
+ },
+ {
+  "name": "Pet Barn",
+  "domain": "petbarnkw.com",
+  "country": "Kuwait",
+  "category": "n/a",
+  "prior_qualification_reason": "petbarnkw.com is a substantial Kuwait consumer pet retailer (2 stores, online cart/checkout, grooming, mobile app, shop-by-brand). Its B2B/wholesale arm does not disqualify it under the corrected Gate 2 (the Petzone precedent); pet supplies are an approved category and the retail operation stands on its own."
+ },
+ {
+  "name": "ORANGE BED & BATH",
+  "domain": "orangebedbath.com",
+  "country": "Saudi Arabia",
+  "category": "building_materials",
+  "prior_qualification_reason": "Live B2C home-textiles/bedding/bath e-commerce store (SAR pricing, active cart, roughly 200+ SKUs, Saudi commercial registration and tax number on file). Approved home/general-merchandise category; the 'building_materials' tag is a false keyword match."
+ },
+ {
+  "name": "SuperPets_SA",
+  "domain": "superpets.com.sa",
+  "country": "Saudi Arabia",
+  "category": "healthcare",
+  "prior_qualification_reason": "Live Salla-hosted B2C pet-supplies store (food, accessories, treats, litter; 40+ brands such as Royal Canin/Hills/Kong; several hundred SKUs; working cart/checkout), Saudi. Pet supplies is an explicitly approved category and the attached vet clinic is a side service; the 'healthcare' tag is a false match."
+ }
+]

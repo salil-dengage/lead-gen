@@ -1,0 +1,182 @@
+[
+  {
+    "name": "wholefoodmarket",
+    "domain": "cmcjuly2022.in",
+    "verdict": "OUT",
+    "gate_failed": "digital_channel",
+    "category_final": "unverifiable (dead domain)",
+    "qualification_path": "n/a",
+    "reason": "Domain is completely dead (curl connection failure). Per protocol, a web search for the domain and for the company name found no live site anywhere, and no evidence connecting this domain to any real grocery business.",
+    "evidence": "curl https://cmcjuly2022.in -> HTTP_CODE 000, connection failed. WebSearch \"cmcjuly2022.in\" returned no relevant results at all. WebSearch \"wholefoodmarket Saudi Arabia grocery online store\" surfaced only unrelated entities (Whole Foods Market Jeddah rumors, Ubuy, Carrefour KSA) with no connection to this domain or a company literally named \"wholefoodmarket.\""
+  },
+  {
+    "name": "Coffee Complex - كوفي كومبلكس",
+    "domain": "coffeecomplex.com",
+    "verdict": "OUT",
+    "gate_failed": "narrow_repeat_purchase",
+    "category_final": "coffee brewing equipment retail (home appliances, narrow)",
+    "qualification_path": "n/a",
+    "reason": "Live Saudi-registered e-commerce site, but the entire catalog is coffee-preparation EQUIPMENT only (espresso machines, grinders, roasters, ice makers, boilers, presses) - a single narrow durable-goods vertical with inherently low repeat-purchase frequency, matching the confirmed narrow-category fail pattern rather than a consumable coffee/beverage retailer.",
+    "evidence": "curl https://coffeecomplex.com -> HTTP 200. Categories: الحماصات (roasters), مكائن الاسبريسو (espresso machines), المطاحن (grinders), صانعات الثلج (ice makers), غلايات الماء (water boilers), المكابس الاتوماتيكية (automatic presses); tagline \"معدات وأدوات تحضير القهوة\" (coffee-preparation equipment and tools); offers professional installation services. VAT/CR number 310569549700003 confirms genuine Saudi registration."
+  },
+  {
+    "name": "Concept Combined Group",
+    "domain": "concept-kw.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "diversified trading / wholesale / telecom IT services conglomerate",
+    "qualification_path": "n/a",
+    "reason": "Site is Cloudflare-blocked on repeated attempts. Web search corroborates a Kuwait-HQ'd (matches row) conglomerate whose own description leads with wholesale telecom distribution and B2B IT/apps-development services, with retail showrooms serving a stated commercial/B2B clientele - a diversified trading/wholesale/services business, not a focused qualifying retail category.",
+    "evidence": "curl https://concept-kw.com -> HTTP 403 \"Attention Required! | Cloudflare\" (blocked); retry on /entities also failed to connect. WebSearch (Apollo.io, RocketReach, Kuwait Local Business Directory, LinkedIn): \"Concept Combined was established in 2005 and owns an independent creative house for supplying & providing Telecom, retail & wholesale, IT Solutions and Apps development services... chain of showrooms for mobile devices and accessories sales (retail & wholesale)... clients are the top notch of the commercial society in Kuwait.\" HQ: Al Asimah, Kuwait."
+  },
+  {
+    "name": "Cozmo Group",
+    "domain": "cozmogroup.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "entertainment / leisure (bowling and family entertainment centers)",
+    "qualification_path": "n/a",
+    "reason": "Root domain meta-redirects to a client portal revealing this is a family entertainment center chain (bowling, \"Recharge\" attraction) with branches in Kuwaiti malls, booking birthdays/school trips/corporate events/memberships. This is leisure/entertainment, not retail commerce in any approved category; prior categorization as \"grocery\" was incorrect.",
+    "evidence": "curl https://www.cozmogroup.com -> meta refresh to Client/Index.aspx. That page: \"Bowl, Recharge, DISCOVER OUR BRANCHES\" (Souk Al Salmiya, Sama Mall, Jalboot Village, Norma Mall, Platinum Health Club, Manara Mall), \"BOOK EVENTS: BIRTHDAY, SCHOOL, CORPORATE, MEMBERSHIP,\" footer: \"Cozmo Entertainment General Trading And Contracting Company,\" address in Salmiya, Hawalli Governorate, Kuwait."
+  },
+  {
+    "name": "CREDO TRADING",
+    "domain": "credo-trading.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "B2B trading: sanitaryware, tiles, MEP, construction projects",
+    "qualification_path": "n/a",
+    "reason": "Landing page splits into /b2b and /b2c portals, both describing CREDO as a Qatar B2B trading/projects supplier of sanitary ware, tiles, kitchens, lighting and MEP for hospitality/commercial PROJECTS - explicitly hard-failing wholesale/trading and building-materials/sanitaryware/construction-contracting categories.",
+    "evidence": "curl https://credo-trading.com -> \"Credo Landing page... The Art of Luxury!... Credo Showroom / Our projects\" linking to /b2b and /b2c/. /b2b page (HQ Lusail City, The e18hteen Tower, Doha, Qatar): \"We as CREDO proved ourselves as trusted trading company... supplying the highest quality... for the projects in all sectors\"; categories Furniture, Lighting, Sanitaryware & Tiles, MEP, Wall Covering & Flooring; Latest Projects: Mall of Qatar, Sheraton Doha Resort, Double Tree by Hilton. /b2c page catalog is entirely water closets, wash basins, mixers/faucets, bathtubs and tiles."
+  },
+  {
+    "name": "CRYSTALS",
+    "domain": "crystals.qa",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "beauty/wellness, jewelry and lifestyle retail",
+    "qualification_path": "substantiality",
+    "reason": "Genuine, live Qatar-HQ'd e-commerce store selling crystals/minerals, jewelry, wellness items, decor, accessories and apparel, with real cart/checkout, same-day Qatar delivery plus worldwide shipping. Broad multi-category assortment across 12+ subcategories comfortably clears the substantiality floor.",
+    "evidence": "curl https://crystals.qa -> HTTP 200, 670KB page. Real \"Add to cart\" buttons with priced products (Amethyst Musbah $90, Rose Quartz Smudge Set $33, Jade Musbah $65, etc.); footer address \"Area 39 Street 343 Building 71 Office 1/3 +974 5068 0057 contact@crystals.qa\"; \"Same day delivery to Qatar before 3pm... Worldwide shipping.\" Category nav spans Crystals/By Type, Crystal Sets, Decor (8 subcats), Jewelry (5 subcats), Wellness (4 subcats), Accessories (3 subcats), Clothing and Apparel."
+  },
+  {
+    "name": "Al Daajan Holding",
+    "domain": "daajan.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "diversified holding conglomerate (real estate, security services, food manufacturing, retail)",
+    "qualification_path": "n/a",
+    "reason": "daajan.com is the corporate site of a Qassim-based diversified holding group, not a retail storefront. Its stated business lines span general trade, real-estate investment/construction, private security services and food manufacturing; its one grocery-retail brand (Al Hatab Supermarket/Market) is confirmed to run on a wholly separate domain (alhatab.com.sa) not represented by this row. The account as given is a mixed conglomerate including explicitly hard-failing lines (real estate, B2B security services), and this domain itself has no cart or shop anywhere.",
+    "evidence": "curl https://daajan.com -> \"Al Daajan Holding... an ambitious group in the field of food industries, real estate investment and general trade\"; brand tiles for Juhaina (chocolate factory), Al Hatab Bakery, Serbal Security, Daajan Investment & Construction, and Al Hatab Supermarket, each only linking to a \"Learn more\" page (no shop/cart). HQ: \"King Fahd Road - Al Rass – Al Qassim - Saudi Arabia.\" WebSearch confirms Al Hatab Foods/Hatab Market supermarket brand operates its own separate site at alhatab.com.sa with branches in Riyadh, Ar Rass, Unayzah, Al Duwadimi, Hail, Buraydah, Sakakah."
+  },
+  {
+    "name": "Dabdoob",
+    "domain": "dabdoob.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "toys, kids and baby products (general merchandise)",
+    "qualification_path": "substantiality",
+    "reason": "Confirmed live, large-scale kids/baby e-commerce retailer HQ'd in Shuwaikh Industrial, Kuwait (matches row), serving Kuwait, Saudi Arabia, UAE and Qatar with localized sitemaps. Product sitemap for Kuwait alone contains thousands of individually named, real SKUs across toys, books, costumes, games, school and party supplies and newborn/mom essentials, plus its own iOS/Android app - comfortably clears scale and digital-channel gates.",
+    "evidence": "curl https://dabdoob.com -> JS SPA shell referencing its own iOS/Android app. sitemap.xml/robots.txt reveal /_static_/sitemap/{en,ar}-{KW,SA,AE,QA}/{categories,brands,products}/ structure; en-KW products sitemap is a 940,410-byte file of real product URLs, e.g. \"seashell-kids-beach-towel-yellow-stars-large-12605,\" \"disney-minnie-mouse-doll-12208,\" \"bburago-bugatti-divo-1-18-satin-12278,\" changefreq=daily. WebSearch confirms HQ \"Shuwaikh Industrial, Kuwait... founded 2017... serves Kuwait and Saudi Arabia,\" with a Google Play listing."
+  },
+  {
+    "name": "Dana Group Qatar",
+    "domain": "danahypermarket.com",
+    "verdict": "OUT",
+    "gate_failed": "digital_channel",
+    "category_final": "grocery hypermarket / department store",
+    "qualification_path": "n/a",
+    "reason": "Real, substantial physical hypermarket chain (5 branches across Doha/Qatar) with Supermarket/Fresh Food/Department Store divisions. However, its own domain is a pure brochure/info site with no cart or checkout anywhere and no evidence of an owned app; its only \"online shopping\" presence is via third-party weekly-flyer aggregators, not a transactional channel of its own.",
+    "evidence": "curl https://danahypermarket.com -> HTTP 200. Full nav = Home/About Us/News and Updates/Offers/Vacancies/Contact Us; only interactive element is a \"Send Message\" contact form, no shop/cart link, no App Store/Google Play mentions found in page source. WebSearch corroboration: Dana Hypermarket listed on third-party flyer/offer aggregators (D4D Online, ClicFlyer, offersinme) with no dedicated e-commerce site or branded app surfaced."
+  },
+  {
+    "name": "Danube",
+    "domain": "danube.sa",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "grocery hypermarket",
+    "qualification_path": "substantiality",
+    "reason": "Major, live Saudi hypermarket chain (Danube Company Ltd, HQ Jeddah, part of Saudi BinDawood Holding since 2001, 47+ locations) - confirmed via search to be distinct from the unrelated UAE-based \"Danube Group\" home-furnishings company. Site has a genuine functioning cart, 10,000+ products advertised online, regional weekly offers, delivery/pickup options and real customer testimonials.",
+    "evidence": "curl https://danube.sa -> HTTP 200. \"تسوق أونلاين من أكثر من 10,000 منتج\" (shop online from 10,000+ products); functioning cart (\"السلة\"/\"عربة تسوقك\") with delivery-method and store-pickup flows; regional weekly offers for Western/Central/Eastern/Southern regions plus Tabuk; customer testimonials from Jeddah. WebSearch confirms Danube Company Ltd HQ Jeddah, owned by Saudi BinDawood Holding, founded 1987, 47 locations."
+  },
+  {
+    "name": "شركة دار الشاي العربي للتجارة DAR ALSHAI ALARABI TRADING .CO",
+    "domain": "daralshaistore.com",
+    "verdict": "OUT",
+    "gate_failed": "digital_channel",
+    "category_final": "specialty food/beverage trading (tea, coffee, spices)",
+    "qualification_path": "n/a",
+    "reason": "Original domain has expired and now redirects to a domain-resale marketplace. Web search located the company's current domain (Jeddah HQ, matches row, est. 2003, trades tea/coffee/herbs/spices/nuts), but that site is only a one-page contact/link-in-bio card with social links; no shop/product/cart link exists anywhere, and the /en path 404s. No live transactional online store found on any domain.",
+    "evidence": "curl https://daralshaistore.com -> redirected to \"https://expireddomains.com/domain/daralshaistore.com... Buy daralshaistore.com – Premium Expired .com Domain on GoDaddy,\" price $195, WHOIS birth date 11/09/2024 (re-registered as a parked resale domain). WebSearch located replacement domain daralshai.com.sa; curl of that domain -> only an \"اتصل بنا\" (Contact Us) page with company name/HQ (\"جدة - المملكة العربية السعودية\"), phone/email and social links (Facebook/Twitter/Instagram/LinkedIn/Snapchat/TikTok/YouTube) - no shop, no products, no cart; /en path returns HTTP 404."
+  },
+  {
+    "name": "Darat al-Qahwa",
+    "domain": "daratalqahwa.com",
+    "verdict": "OUT",
+    "gate_failed": "digital_channel",
+    "category_final": "cafe / coffee shop chain (F&B)",
+    "qualification_path": "n/a",
+    "reason": "Real, well-established (since 1970) Jeddah cafe/coffee-roaster chain with multiple branches, confirmed via web search and directly via curl once an initial anti-bot challenge was bypassed on retry. The site is a marketing/menu site (dine-in ambience copy, \"Explore Menu\" CTAs, branch list) with a login/register stub but no online ordering, cart or checkout, and no evidence of an owned delivery app.",
+    "evidence": "First curl attempt returned a Cloudflare/JS \"Checking your browser... Just a moment\" challenge; WebSearch corroborated the business is real (Tripadvisor \"Must for coffee lovers,\" Foursquare \"Darat Al-Qahwa - Coffee Shop in Jeddah,\" since 1970). Retry curl succeeded (HTTP 200): content is \"EXPLORE MENU\" x3, \"Cozy Atmosphere,\" \"Live Music,\" branch location \"Mosadia Plaza 3, Madinah Road... Jeddah,\" \"Create your account/Sign In\" shortcode stubs - no shop/cart/order-online anywhere on the page."
+  },
+  {
+    "name": "Darb station",
+    "domain": "darbstations.com.sa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "fuel station network operator (investment/leasing)",
+    "qualification_path": "n/a",
+    "reason": "Corporate site of \"Darb Fuel Company Limited,\" covering investment, station leasing/franchising, an interactive station map, media center and jobs - a fuel-station network operator/landlord business facing station operators, not a consumer retail storefront in any approved category.",
+    "evidence": "curl https://darbstations.com.sa -> HTTP 200 (redirects to /ar). Nav: من نحن (About), الخريطة التفاعلية (Interactive Map), الإستثمار (Investment), التأجير (Leasing), المركز الإعلامي (Media Center), الوظائف (Jobs). No product catalog, no cart, no consumer storefront content anywhere on the site."
+  },
+  {
+    "name": "Dawaa Pharmacy -صيدلية دواء",
+    "domain": "dawaapharma.com",
+    "verdict": "OUT",
+    "gate_failed": "digital_channel",
+    "category_final": "pharmacy / health retail",
+    "qualification_path": "n/a",
+    "reason": "dawaapharma.com is confirmed to be a parked placeholder domain, not the pharmacy's real operating site: root page JS-redirects to /lander, whose sitemap contains only that one URL, built on a GoDaddy/Web.com domain-parking template with an empty rendered page. Web search confirms Dawaa Pharmacy is a real, licensed Doha pharmacy chain, but its only online ordering is via third-party marketplaces (Talabat, Snoonu), not an owned website or app.",
+    "evidence": "curl https://dawaapharma.com -> 114-byte page that JS-redirects to /lander; /lander body renders empty (bare root div). sitemap.xml contains a single entry, https://dawaapharma.com/lander. Lander HTML includes window.LANDER_SYSTEM=\"PW\", window._trfd.push({ap:\"parking\"}), and script src img1.wsimg.com/parking-lander/... (GoDaddy/Web.com domain-parking signature). WebSearch: \"Dawaa Pharmacy is a limited liability company established in 2014... to establish and manage chain pharmacy and drugs distribution\" in Doha; ordering available via Talabat and Snoonu delivery platforms, not an owned site."
+  },
+  {
+    "name": "Delta Fitness | دلتا فتنس",
+    "domain": "delta-fitness.com",
+    "verdict": "OUT",
+    "gate_failed": "narrow_repeat_purchase",
+    "category_final": "sporting goods: gym/fitness equipment (narrow)",
+    "qualification_path": "n/a",
+    "reason": "Live, functioning e-commerce site (login/basket) of the Alireza family's Delta Group (Jeddah) selling gym/fitness equipment: cardio machines, strength machines, functional-training gear, recovery devices, wearables and gym flooring. Despite many subcategories, this is a single narrow durable-goods vertical that customers buy rarely and do not repeat-purchase, matching the confirmed narrow-vertical fail pattern rather than the broad or consumable categories that pass.",
+    "evidence": "curl https://www.delta-fitness.com/en-sa -> HTTP 200, 612KB. Nav includes \"Basket,\" \"Log in,\" and a product-type filter listing Treadmill, Elliptical, Rowers, Smith Machines, Power Racks, Dumbbells, Kettlebells, Medicine Ball, Massager, Body Composition Analyzer, Flooring, etc. - entirely gym/fitness equipment, no consumables/apparel/nutrition lines. WebSearch confirms Delta Fitness is the sole KSA/Bahrain distributor-retailer for Life Fitness/Hammer Strength under Delta Marketing Co (Alireza family, est. 1984/1992)."
+  },
+  {
+    "name": "DELTA (DMC)",
+    "domain": "deltamarketingco.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "B2B distribution of international sports/fitness brands",
+    "qualification_path": "n/a",
+    "reason": "Confirmed via web search to be Delta Marketing Company, the Alireza family's exclusive distributor in Saudi Arabia/Bahrain for international sporting and fitness brands (Adidas, Reebok, Life Fitness, Hammer Strength, McDavid, Prince) since 1984 - a wholesale/brand-distribution B2B business, the explicit hard-fail category. The domain itself is also non-functional (a maintenance placeholder), separately failing the digital-channel gate, but the underlying distributorship business model is the more fundamental disqualifier.",
+    "evidence": "curl https://deltamarketingco.com -> HTTP 200, but content is only \"Website Update - Delta Marketing Co - We are currently updating our website and will return shortly.\" WebSearch: \"Delta Marketing Company (DMC) was established in 1984... part of the Alireza family of companies... Health & Fitness Department has exclusive distributorship for... Life Fitness, and Hammer Strength... pioneer in sports retail and fitness distribution... representing world-class brands such as Adidas, Reebok, Life Fitness, Hammer Strength, McDavid, and Prince.\""
+  },
+  {
+    "name": "Deraah Trading Company",
+    "domain": "deraah.com.sa",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "beauty / perfume / cosmetics / accessories retail",
+    "qualification_path": "substantiality",
+    "reason": "Original domain is dead/unreachable, but web search located the live operating storefront at a different domain (deraahstore.com), confirming Deraah as a major Riyadh-HQ'd Saudi retail chain (est. 1975, 750+ stores) selling perfumes, oud/incense, gifts, hair care and accessories. The live site has a full working cart, wishlist, account, order tracking and discount codes, and ships across Saudi Arabia, UAE, Qatar and Oman.",
+    "evidence": "curl https://deraah.com.sa -> connection failure (HTTP 000, dead domain). WebSearch found the live replacement: curl https://www.deraahstore.com/en_sa -> HTTP 200, 78KB, \"Deraah Store - متجر درعه,\" live Cart/Wishlist/Sign in/Track Order, categories Perfumes (Niche/Men/Unisex/Women), Oud and Incense, Gifts, Hair Care, Men/Women Accessories, Home Care, Body Care; ships to Saudi Arabia/UAE/Qatar/Oman; \"Get 7% discount on your first order... Free shipping on orders above 190.\" WebSearch confirms HQ Riyadh 11551, Saudi Arabia, 750+ stores, founded 1975."
+  },
+  {
+    "name": "Dkhoon Emirates",
+    "domain": "dkhoonemirates.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "beauty / perfume / oud / incense retail",
+    "qualification_path": "substantiality",
+    "reason": "Despite \"Emirates\" in the brand/domain name, the registered commercial entity is Saudi (VAT/CR number in Saudi ZATCA format), matching the row's Saudi Arabia country; \"UAE\" only appears as one of several destination options in the shipping/country selector. Live e-commerce platform with a real cart, loyalty points and free-shipping threshold in SAR, selling a large perfume/oud/incense catalog across a dozen collections, shipping across the Gulf.",
+    "evidence": "curl https://dkhoonemirates.com -> HTTP 200, 465KB. Footer: \"السجل التجاري : الرقم الضريبي : 310179603200003\" (Commercial Registration/VAT No., Saudi-format, leading \"3\"). Live cart (\"أضف للسلة\") on 30+ named perfume/oud products (عطر الرياض, خليفة, دخون روز, سجنتشر سيلفر, برايفت مسك VIP, etc.) priced in SAR; \"احصل على توصيل مجاني للطلبات فوق 249 ريال في السعودية\" (free shipping over 249 SAR in Saudi Arabia); points-based loyalty program; built on the Zid platform (media.zid.store assets). Country/shipping selector separately lists Saudi Arabia, Kuwait, Bahrain, UAE, Oman, Qatar."
+  }
+]

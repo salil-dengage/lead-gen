@@ -1,0 +1,19 @@
+source	country	name	domain	prior_verdict	prior_category
+original	Saudi Arabia	Nobles	nobles.com.sa	OUT	non_retail
+original	Saudi Arabia	NOLOR Fragrances | عطور نولور	nolorfragrances.com	IN	health_beauty_pharmacy
+original	Kuwait	Nor Noyau® | Artisan Chocolatier	nornoyau.com	IN	grocery
+original	Saudi Arabia	Natural Touch ناتشورال تاتش	ntshop.sa	IN	health_beauty_pharmacy
+original	Saudi Arabia	oceanpharmacy	oceanpharmacy.sa	IN	health_beauty_pharmacy
+original	Kuwait	Oncost Trading Company	oncost.com	IN	grocery
+original	Saudi Arabia	Mazaya Food	onlinemazaya.com	IN	grocery
+original	Saudi Arabia	Gas Station Development Company (Orange)	orangeretail.com	OUT	fuel_station
+original	Kuwait	Off Road Performance - ORP	orp.com.kw	OUT	non_retail
+original	Qatar	Otantik Home	otantik-home.com	IN	sporting_toys_books
+original	Saudi Arabia	Abdullah Al-Othaim Markets	othaimmarkets.com	IN	grocery
+original	Kuwait	Otoraat - عطورات	otoraat.com	IN	health_beauty_pharmacy
+original	Saudi Arabia	Oud Elite	oudelite.com	IN	health_beauty_pharmacy
+original	Saudi Arabia	Hyper Panda	panda-offers.com	IN	grocery
+original	Saudi Arabia	Panda Retail Company - Savola Group	panda.com.sa	IN	grocery
+original	Qatar	Pari Gallery Qatar	parigallery.com	IN	fashion
+original	Qatar	Paris United Group	parisunitedgroup.com	IN	grocery
+original	Kuwait	Pastry & Coffee	pastry.coffee	IN	grocery

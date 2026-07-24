@@ -1,0 +1,866 @@
+[
+  {
+    "name": "fanoos",
+    "domain": "alfanoos.sa",
+    "verdict": "CONFIRM",
+    "note": "Gate 2: live business (alfanoos.com.sa, Al Fanoos Tools & Industrial Equipment, Riyadh est. 1971) supplies power tools, construction machinery and garage/industrial equipment; industrial-tools/construction-equipment is a hard-excluded category with no dedicated consumer-retail arm."
+  },
+  {
+    "name": "Al Majed for Oud الماجد للعود",
+    "domain": "",
+    "verdict": "CONFIRM",
+    "note": "Gate 6: same company as almajed4oud.com (Al Majed Oud, est. 1956, ~300 outlets, ~1000 perfume brands, live e-commerce), a qualifying account. This domain-less entry is a correct duplicate-consolidation, not a standalone Yes."
+  },
+  {
+    "name": "Aljedaie Office Furniture | الجديعي للأثاث المكتبي",
+    "domain": "aljedaieoffice.com",
+    "verdict": "CONFIRM",
+    "note": "Gate 2/Gate 4: B2B commercial/office furniture and fit-out ('furnishing commercial and administrative buildings'; Workstations/Executive/Meeting/Reception ranges; 'Submit a project' quote flow, no consumer cart), not consumer home-furniture retail."
+  },
+  {
+    "name": "moharykat",
+    "domain": "moharykat.sa",
+    "verdict": "CONFIRM",
+    "note": "Gate 2: live e-commerce store for automotive spare parts, car accessories, brake systems, lubricants, batteries and wipers; automotive parts is an explicit hard-fail regardless of how real the store is."
+  },
+  {
+    "name": "Nasser Bin Khaled Automobiles (NBK Auto)",
+    "domain": "mercedes-benz.com.qa",
+    "verdict": "CONFIRM",
+    "note": "Gate 2: Qatar's exclusive Mercedes-Benz distributor (cars, AMG, Maybach, trucks); automotive dealer/distributor is a hard-fail category."
+  },
+  {
+    "name": "POWR",
+    "domain": "powr.sa",
+    "verdict": "CONFIRM",
+    "note": "Gate 2: POWR is a Saudi esports organization; its 'store' is single-brand team fan merchandise (apparel/perfume), not a retail/eCommerce business in an approved category."
+  },
+  {
+    "name": "Red Cactus Trading",
+    "domain": "redcactus.com.sa",
+    "verdict": "FLIP_YES",
+    "note": "Gate 2 corrected hybrid clause: beyond the B2B cosmetics-wholesale portal, Red Cactus owns and runs Asteri Beauty, a substantial dedicated consumer beauty retailer (4 physical KSA stores + live e-commerce at asteribeauty.com, HTTP 200, Apple Pay/free delivery). Qualifies on the retail arm's merits (Lazurde pattern), Saudi-HQ'd."
+  },
+  {
+    "name": "Dar Al Arkan",
+    "domain": "daralarkan.com",
+    "verdict": "CONFIRM",
+    "note": "Gate 2: largest Saudi real-estate developer (Tadawul-listed; land development, residential/commercial construction, property management); real estate is a hard-fail category."
+  },
+  {
+    "name": "حكاية طفل | Baby Story",
+    "domain": "baby-story.com",
+    "verdict": "FLIP_YES",
+    "note": "Gate 2 keyword false positive: live Saudi toy/baby retailer (baby-story.com HTTP 200, SAR pricing, online shopping/fast delivery) with multiple Jeddah/Makkah physical stores; toys/baby goods is an approved category. The 'building_materials' tag was a pure keyword mismatch."
+  },
+  {
+    "name": "eSpare | Spare Parts Company Ltd.",
+    "domain": "espare.com",
+    "verdict": "CONFIRM",
+    "note": "Gate 2: automotive spare parts / car accessories / car-care retailer (web + app); automotive parts is an explicit hard-fail regardless of live/app presence."
+  },
+  {
+    "name": "Myriad Beauty",
+    "domain": "myriadbeauty.com",
+    "verdict": "CONFIRM",
+    "note": "Gate 4: live check shows Shopify 'This store is unavailable' (closed/frozen) at root and all paths; the Gate-4 search found the 2018 Qatar beauty brand but no currently-operating storefront or alternate live domain. Not a live transactional channel."
+  },
+  {
+    "name": "Al-Bahar Group",
+    "domain": "albahargroup.com",
+    "verdict": "CONFIRM",
+    "note": "Gate 6/Gate 2: mixed 85-year conglomerate (machinery, power/Caterpillar, shipping, travel) whose consumer arm is Unilever DISTRIBUTION to other retailers (B2B), with no dedicated consumer retail storefront or e-commerce of its own; mixed-conglomerate parent excluded."
+  },
+  {
+    "name": "Zinco | زينكو",
+    "domain": "zincoint.com",
+    "verdict": "CONFIRM",
+    "note": "Gate 2/Gate 3: sells luxury lighting fixtures plus sanitary ware (chandeliers, faucets, washbasins, bathtubs); sanitary ware/construction hardware is hard-excluded and lighting fixtures are a confirmed narrow-category fail. The building_materials tag was correct here."
+  },
+  {
+    "name": "Al Mana Galleria",
+    "domain": "almanagalleria.com.qa",
+    "verdict": "CONFIRM",
+    "note": "Gate 2/Gate 4: not marine (wrong keyword) but a B2B interior fit-out / value-engineering / project-management firm curating furniture brands for commercial projects (Harvey Nichols, Batteel), with no consumer cart or e-commerce."
+  },
+  {
+    "name": "صحصح | Sahseh",
+    "domain": "sahseh.co",
+    "verdict": "FLIP_YES",
+    "note": "Gate 5b carve-out: Saudi-HQ'd voucher/cashback app ('first Saudi app of its kind'; developer 'Sahseh for Marketing Services Co. S.P.C'; Apple /sa/ storefront) with 1M+ Google Play installs. Voucher apps with 50k+ downloads qualify outright (Rasseed precedent), overriding the aggregator-category exclusion; the 'com.uae.coupons' package is just a legacy ID."
+  },
+  {
+    "name": "NAQI نقي",
+    "domain": "naqi.sa",
+    "verdict": "FLIP_HELD",
+    "note": "Gate 5b ambiguity: Naqi is a bottled-water manufacturer + wholesaler with a narrow single beverage line (Saudi Radwa fail pattern), but its OWN consumer ordering/delivery app (com.water.naqi) has 50K+ Google Play installs, meeting the literal Gate 5b override threshold. Whether that carve-out (framed for digital-service platforms like Abar/ToYou) extends to a manufacturer's captive single-brand app sitting at the 50K floor is genuinely unresolved."
+  },
+  {
+    "name": "Smartable",
+    "domain": "http://www.smartable.me/",
+    "verdict": "CONFIRM",
+    "note": "Gate 2/Gate 4: education-technology / career-counseling platform for students (not an approved retail category), and the domain is dead (NXDOMAIN via Cloudflare public DNS)."
+  },
+  {
+    "name": "Ali Alghanim and Sons Automotive Company",
+    "domain": "alialghanimsons.com.kw",
+    "verdict": "CONFIRM",
+    "note": "Gate 2: multi-brand Kuwait car dealership (BMW, MINI, Rolls-Royce, Range Rover, McLaren, Geely, BMW Motorrad) with vehicle inventory and KD pricing; automotive dealer is a hard-fail category."
+  },
+  {
+    "name": "Q8 Corporate",
+    "domain": "q8.com",
+    "verdict": "CONFIRM",
+    "note": "Gate 2: Q8 / Kuwait Petroleum international fuel brand; fuel stations are a hard-fail category."
+  },
+  {
+    "name": "Wafi Energy Saudi Arabia | Official Licensee of Shell",
+    "domain": "wafienergy.com",
+    "verdict": "CONFIRM",
+    "note": "Gate 2: not building materials (wrong keyword) but the sole Saudi licensee/operator of Shell fuel stations (retail fuel management, lubricant marketing, fuel trading); fuel stations are a hard-fail category."
+  },
+  {
+    "name": "Meshaal Al Shatti and Partner General Trading",
+    "domain": "mssandp.com",
+    "verdict": "CONFIRM",
+    "note": "Gate 6: diversified Kuwaiti holding of 8 unrelated brands mixing retail (fashion, F&B, fabrics) with hard-excluded lines (interior fit-out, agriculture, distribution); the parent holding page carries no storefront/cart, so the parent is excluded (any retail brand would need its own row)."
+  },
+  {
+    "name": "Mannai Trading Automotive Group",
+    "domain": "mannaiautos.com",
+    "verdict": "CONFIRM",
+    "note": "Gate 2: automotive trading group (Qatar); automotive is a hard-fail category (domain also separately hijacked to gambling spam)."
+  },
+  {
+    "name": "BGB Holding",
+    "domain": "bgbholding.co",
+    "verdict": "CONFIRM",
+    "note": "Gate 7: domain does not resolve in DNS and no Kuwait company named 'BGB Holding' is findable in searches; genuinely unconfirmable, default to OUT."
+  },
+  {
+    "name": "DNA Lifestyle KSA",
+    "domain": "dnalifestyle.sa",
+    "verdict": "CONFIRM",
+    "note": "Gate 4: a real Riyadh electronics/gaming retailer, but the domain is NXDOMAIN (confirmed via Cloudflare public DNS), the Noon 'DNA' hits are unrelated third-party keyword noise, and no live transactional storefront or 50k+ app exists; no live digital channel."
+  },
+  {
+    "name": "AlYemni Group - مجموعة اليمني",
+    "domain": "alyemnigroup.com",
+    "verdict": "CONFIRM",
+    "note": "Gate 2/Gate 6: automotive-founded Saudi conglomerate (Isuzu/Subaru dealer, self-described #1 Isuzu dealer globally) spanning construction, real estate and F&B; corporate domain with no dedicated consumer-retail storefront. Mixed conglomerate with hard-excluded divisions dominant; any F&B line (Caribou) would need its own row."
+  },
+  {
+    "name": "Salem Saleh Babgi Co. Ltd.",
+    "domain": "babgi.com.sa",
+    "verdict": "CONFIRM",
+    "note": "Gate 6: holding company mixing Toyota/Lexus dealership, construction, malls, glass factory and hospitality with an F&B/markets line; corporate site with auto subdomains, no standalone qualifying retail storefront. Parent correctly excluded."
+  },
+  {
+    "name": "ALHAMRANI UNITED CO.",
+    "domain": "nissan.com.sa",
+    "verdict": "CONFIRM",
+    "note": "Gate 2 automotive: Alhamrani United was Nissan/Infiniti sole distributor (lost the franchise in 2015, so nissan.com.sa is dead); no other retail arm found. Automotive is a hard-fail regardless of the dead site."
+  },
+  {
+    "name": "Wasma Mansour",
+    "domain": "wasmamansour.com.sa",
+    "verdict": "CONFIRM",
+    "note": "Gate 5 scale: live Saudi Shopify fragrance/candle store, but products.json returns exactly 12 SKUs, well below the ~50 floor, and no 50k+ app path exists. Reason accurate."
+  },
+  {
+    "name": "United International Trading Company W.L.L",
+    "domain": "uitcqatar.com",
+    "verdict": "FLIP_YES",
+    "note": "Stated reason (not a retail pharmacy chain) is wrong. Corrected Gate 2 hybrid: UITC runs its own retail pharmacy chain SunLife Pharmacy (20+ Qatar branches) with a full transactional store at sunlife.qa (cart/checkout, 24/7 delivery, medicines/health/beauty) alongside its wholesale arm, mirroring the Union Trading/Lazurde pass. Qatar-HQ'd, approved pharmacy retail; all gates pass."
+  },
+  {
+    "name": "International Company For Furniture الشركة العالمية للأثاث",
+    "domain": "icf.sa",
+    "verdict": "CONFIRM",
+    "note": "Gate 2: primarily a furniture manufacturer since 1967 (12,000 sqm factory, 170 staff) with a B2B office/hotel contract business; its Salla store icf.sa is thin (2 products in the category checked) and project/B2B-oriented, with no Lazurde-style dedicated consumer-retail store network. Thin storefront on a B2B/industrial business = correct fail."
+  },
+  {
+    "name": "Pharma Pharmaceutical Industry",
+    "domain": "http://www.pharma.com.sa/",
+    "verdict": "CONFIRM",
+    "note": "Gate 2 manufacturing: Pharma Pharmaceutical Industries (PPI) is a drug manufacturer with its own factory; corporate site (pharmac + manufactur signals, no cart) and no consumer-retail arm. Reason accurate."
+  },
+  {
+    "name": "Food Industries Company",
+    "domain": "ficofood.com",
+    "verdict": "CONFIRM",
+    "note": "Gate 2 manufacturing: Food Industries Co. (Kuwait) is a snack-food manufacturer (Pepsico-licensed chips, own factory, 200+ staff), described as a manufacturer rather than a retail store; distributes via other retailers, no dedicated consumer-retail operation. Reason accurate."
+  },
+  {
+    "name": "keden",
+    "domain": "keden.com.sa",
+    "verdict": "CONFIRM",
+    "note": "Gate 4: Keden International is a holding-company site with no cart of its own; its brands are a Korean franchise (The Face Shop) plus F&B-service, bespoke-tailoring service and B2B uniform manufacturing, with no standalone Saudi-HQ'd qualifying retail storefront. Reason accurate."
+  },
+  {
+    "name": "Chayah Group",
+    "domain": "chayahgroup.com",
+    "verdict": "CONFIRM",
+    "note": "Gate 4: corporate domain is a live Coming Soon placeholder; Chayah is a Kuwait/Bahrain electronics & F&B holding company with no identifiable live transactional storefront to verify. Default OUT per Gate 7."
+  },
+  {
+    "name": "katespade",
+    "domain": "katespade.sa",
+    "verdict": "CONFIRM",
+    "note": "Gate 6: Kate Spade (Tapestry Inc., US) is explicitly named in the global-brand-storefront exclusion; the live katespade.sa Shopify store is franchise-operated and folds into the local operator, not a standalone Saudi entity."
+  },
+  {
+    "name": "camicissima",
+    "domain": "camicissima.sa",
+    "verdict": "CONFIRM",
+    "note": "Gate 1/Gate 6: Camicissima is an Italian brand (HQ Milan) with ~300 international franchise stores; the live camicissima.sa Shopify store is a foreign-brand franchise storefront, not a Saudi-HQ'd operating entity."
+  },
+  {
+    "name": "ROUTE TO MARKET",
+    "domain": "",
+    "verdict": "CONFIRM",
+    "note": "Gate 2/Gate 7: no domain on file; the name denotes a B2B sales/market-entry agency-services concept and no identifiable qualifying consumer retailer is findable. B2B services hard-fail plus unverifiable = OUT."
+  },
+  {
+    "name": "Maktab",
+    "domain": "maktab.com",
+    "verdict": "FLIP_YES",
+    "note": "Stated reason (dead/no live site) is wrong. maktab.com resolves and is archive-confirmed live (Wayback 200 snapshot, Jun 2025); it is Saudi's leading office-supplies/stationery e-commerce retailer (Jeddah, 121 staff, online orders + delivery), an approved category with Saudi HQ. The current 503 is anti-bot WAF blocking, not a dead site; the required Gate-4 follow-up search found the live business, so all gates pass."
+  },
+  {
+    "name": "Printemps Doha",
+    "domain": "printemps.com",
+    "verdict": "CONFIRM",
+    "note": "Gate 1/Gate 6: Printemps is a French department-store brand (HQ Paris); Printemps Doha is a franchised foreign-brand store in Doha Oasis (Al Mana was only the construction contractor) listed on the French printemps.com domain, not a standalone Qatar-HQ'd e-commerce entity."
+  },
+  {
+    "name": "Haier_Saudi",
+    "domain": "haier.com",
+    "verdict": "CONFIRM",
+    "note": "Gate 2/Gate 1: haier.com/sa is Chinese appliance manufacturer Haier's brand/support portal that routes buyers to third-party dealers rather than selling directly; manufacturer plus foreign HQ. Reason accurate."
+  },
+  {
+    "name": "Suzuki Barayan",
+    "domain": "suzukibarayan.com.sa",
+    "verdict": "CONFIRM",
+    "note": "Gate 2 automotive: site is titled Suzuki Motorcycles in Saudi Arabia and is a vehicle dealership (441 dealer mentions); vehicle dealerships are a hard-fail, its WooCommerce parts/accessories store notwithstanding."
+  },
+  {
+    "name": "Attar United",
+    "domain": "attarunited.com",
+    "verdict": "CONFIRM",
+    "note": "Stated reason (building_materials) is a misclassification: it is actually a Jeddah luxury watch/jewelry authorized retailer (Chopard/Hublot/Graff). Outcome still holds on Gate 4: the live site is a brochure/boutique-locator with no cart/checkout and no consumer app (authorized dealers cannot sell these brands online), so no transactional digital channel."
+  },
+  {
+    "name": "Meed Trading Company",
+    "domain": "meed.sa",
+    "verdict": "FLIP_HELD",
+    "note": "Stated reason (dead/no live site) is misleading: Meed is a real 229-store Saudi convenience/grocery chain (Al Mawarid Group), an approved category. But its own domains (meed.sa, meedstores.com) are dead/parked, meed-sa.shop reads as a WordPress services page, and it sells mainly via third-party apps (ToYou/Nana/Jahez); its own branded app's transactional nature and Gate-5b 50k+ scale are unconfirmable. Genuine unresolved ambiguity on its own digital channel."
+  },
+  {
+    "name": "Saudi Marts",
+    "domain": "saudimarts.com",
+    "verdict": "CONFIRM",
+    "note": "Gate 4: saudimarts.com redirects to a parked/for-sale HugeDomains listing and no business under any other domain is findable. Reason accurate."
+  },
+  {
+    "name": "TSC",
+    "domain": "",
+    "verdict": "CONFIRM",
+    "note": "Gate 2/Gate 7: no domain on file; identifiable Saudi TSC entities are B2B (Tinting Systems chemicals, Technical Structures Co., building-materials firms), none a qualifying consumer retailer. Unverifiable plus building-materials = OUT."
+  },
+  {
+    "name": "SITACO Company",
+    "domain": "sitaco.com.sa",
+    "verdict": "CONFIRM",
+    "note": "Gate 2: Saudi Industrial Tools Co. distributes industrial/construction tools (hand/power tools, welding machines, hydraulics); tiny brochure site, B2B/industrial hardware hard-fail. Reason accurate."
+  },
+  {
+    "name": "bymaha",
+    "domain": "bymaha.shop",
+    "verdict": "FLIP_YES",
+    "note": "Stated reason (dead/http 000) is wrong: bymaha.shop is a live Zid store (By Maha, modest/high fashion) transacting in SAR with dominant Riyadh/Saudi Arabia signals, and its product sitemap shows 69 SKUs, above the ~50 floor. Fashion category, Saudi HQ, live checkout; all gates pass."
+  },
+  {
+    "name": "Private Office of Princes  Khalida Zaki mohamed Thunaian al saud",
+    "domain": "princes.com",
+    "verdict": "CONFIRM",
+    "note": "Stated reason (automotive keyword) is a bad guess, but outcome holds: this is a royal private/family office, not a retail business, and princes.com resolves to an unrelated UK company (Prince's Pet Goodies). Not a qualifying retail/e-commerce entity per Gate 2."
+  },
+  {
+    "name": "Rolaco Trading & Contracting Holding",
+    "domain": "rolaco.com.sa",
+    "verdict": "CONFIRM",
+    "note": "Gate 6 mixed conglomerate (automotive/heavy-equipment, B2B hotel-supply, commercial AV, agriculture/animal-feed); rolaco.com.sa is a B2B 'request a call back' corporate site with no dedicated consumer retail storefront or e-commerce arm."
+  },
+  {
+    "name": "tamracapital",
+    "domain": "tamracapital.sa",
+    "verdict": "CONFIRM",
+    "note": "Gate 2 hard-fail (financial/capital services); live site is a capital/investment firm (capital/investment language throughout), not consumer retail."
+  },
+  {
+    "name": "carly",
+    "domain": "halacarly.com",
+    "verdict": "FLIP_YES",
+    "note": "Gate 5b app-download rescue: Carly (One Sky, Riyadh-HQ'd so Gate 1 passes) runs an ~80,000-download consumer car-marketplace app (AppBrain, active Jan 2026), above the 50k threshold that overrides the automotive category exclusion; the prior reason stopped at Gate 2 without applying Gate 5b."
+  },
+  {
+    "name": "esabonline",
+    "domain": "esabonline.sa",
+    "verdict": "CONFIRM",
+    "note": "Gate 1 (copyright/operator is global ESAB Corporation, not a Saudi-HQ'd entity) and Gate 2 (industrial welding/cutting equipment); confirmed a login-gated B2B ordering portal at /esab-as/en/login with no consumer storefront."
+  },
+  {
+    "name": "NTC \"Najd Telecom Company\"",
+    "domain": "najdtelecom.com",
+    "verdict": "FLIP_YES",
+    "note": "Excluded on a pure name-pattern guess, but najdtelecom.com is a live SAR mobile-phone e-commerce store (add-to-cart/checkout, Tabby/Tamara BNPL) and NTC runs 24 physical retail stores across Saudi Arabia; approved broad-electronics category, Saudi-HQ'd (Riyadh), passes Gates 1-5."
+  },
+  {
+    "name": "olayangroup",
+    "domain": "olayangroup.com",
+    "verdict": "CONFIRM",
+    "note": "Reason ('DEAD http 000') was thin since the site resolves, but the exclusion holds: Olayan is a diversified distribution/manufacturing/investment holding (GTC is a B2B FMCG distributor) and olayangroup.com is a corporate holding page with no consumer storefront (Gate 2 distribution/B2B + Gate 6 mixed conglomerate)."
+  },
+  {
+    "name": "FL Development",
+    "domain": "fl.sa",
+    "verdict": "CONFIRM",
+    "note": "Gate 2 hard-fail: interior design / project-execution / fit-out firm (finishing works and furniture supply for individual and corporate clients); the site is also a 'coming soon' placeholder (Gate 4)."
+  },
+  {
+    "name": "RIS Group",
+    "domain": "ris.co",
+    "verdict": "FLIP_YES",
+    "note": "Corrected-Gate-2 miss (Lazurde pattern): ris.co is a live SAR furniture/home e-commerce store (add-to-cart/checkout confirmed) and RIS Living runs dedicated showrooms in Jeddah and Riyadh; furniture/home is an approved category, and the separate B2B/fit-out projects line no longer disqualifies the substantial dedicated retail arm."
+  },
+  {
+    "name": "KAFD",
+    "domain": "kafd.sa",
+    "verdict": "CONFIRM",
+    "note": "Gate 2 hard-fail: King Abdullah Financial District is a PIF mixed-use real-estate developer/landlord/facility manager (NAICS 531120/531312 match), not a retailer with its own consumer storefront."
+  },
+  {
+    "name": "Riyadh Development Company | شركة الرياض للتعمير",
+    "domain": "riyadh.dev",
+    "verdict": "CONFIRM",
+    "note": "Gate 2 hard-fail: real-estate development/investment company; live site is real-estate + investor-relations content (investment/real-estate/financial dominant), no consumer retail storefront."
+  },
+  {
+    "name": "Yallatoys.com",
+    "domain": "",
+    "verdict": "CONFIRM",
+    "note": "Gate 6 duplicate: same company as Yalla Toys, correctly consolidated to a single account; this no-domain record is a duplicate, not a category/quality exclusion of the underlying business."
+  },
+  {
+    "name": "GAC Saudi Arabia",
+    "domain": "gacmotorsaudi.com",
+    "verdict": "CONFIRM",
+    "note": "Gate 2 hard-fail automotive: GAC Motor dealership operated by Aljomaih Automotive (car showrooms/sales/offers); an OEM dealer, not a Gate 5b digital-service marketplace app."
+  },
+  {
+    "name": "Mimar",
+    "domain": "mimar.com.sa",
+    "verdict": "CONFIRM",
+    "note": "Gate 2 hard-fail: 'Mimar For Construction Tools & Trading' supplies power tools/consumables/fixation to contractors and developers; even its 'Retail' line sells construction hardware/tools, itself an excluded category."
+  },
+  {
+    "name": "Marketing Home Group",
+    "domain": "mhg-int.com",
+    "verdict": "CONFIRM",
+    "note": "Gate 2 hard-fail building materials/construction: brands are Ceramic Home (tiles/ceramics), Hatch Sanitary, Lighting Stores, Build Station (cement/gypsum/HVAC) across 46 showrooms; all its retail lines sit in excluded categories, so the e-commerce cart does not rescue the category."
+  },
+  {
+    "name": "ARTECASA",
+    "domain": "artecasa.bz",
+    "verdict": "CONFIRM",
+    "note": "Gate 2 hard-fail construction materials/contracting: site title and content are sanitary ware, tiles, interior design and fixing/installation/contracting for projects; project case-studies, no consumer cart."
+  },
+  {
+    "name": "Teyseer Motors W.L.L.",
+    "domain": "teyseergroup.com",
+    "verdict": "CONFIRM",
+    "note": "Gate 2 automotive (exclusive Suzuki/Peugeot distributor) within a Gate 6 mixed Qatari conglomerate (construction, manufacturing, industrial services); no dedicated consumer retail arm."
+  },
+  {
+    "name": "Flora Group W.L.L",
+    "domain": "floragroup.net",
+    "verdict": "CONFIRM",
+    "note": "Gate 2/Gate 6: diversified B2B trading conglomerate (technology, security, food/vegetable trading, construction, office furniture, medical equipment; 600+ corporate clients), no dedicated consumer retail storefront."
+  },
+  {
+    "name": "شركة التسهيلات للتسويق (سهل)",
+    "domain": "",
+    "verdict": "CONFIRM",
+    "note": "Gate 2 hard-fail: fuel-station company, an explicitly excluded category; no domain on file (Gate 7 default-out)."
+  },
+  {
+    "name": "Petromin Stellantis Saudi",
+    "domain": "petromin-stellantis.com",
+    "verdict": "CONFIRM",
+    "note": "Gate 2 hard-fail automotive: official Stellantis distributor/dealer (Jeep, Fiat, Chrysler, Dodge, RAM, Alfa Romeo, Abarth) with sales/aftersales/spare-parts facilities in Jeddah and Dammam."
+  },
+  {
+    "name": "Saudia Group Of Companies",
+    "domain": "",
+    "verdict": "CONFIRM",
+    "note": "Gate 6 duplicate: same company as the baseline's 'Saudia Group' (saudiagroup.com) already resolved IN there; this no-domain CRM record is a duplicate."
+  },
+  {
+    "name": "miraymano",
+    "domain": "miraymano.com",
+    "verdict": "FLIP_YES",
+    "note": "The marketplace concern resolves on inspection: miraymano.com is a single-merchant Shopify store with unified SAR checkout, its own delivery plus 1-hour in-store pickup, an own-branded collection, and 53+ curated multi-brand fashion/perfume SKUs, i.e. a first-party curated boutique (approved fashion/department-store model), Riyadh/Saudi; passes Gates 1-5."
+  },
+  {
+    "name": "Dababees",
+    "domain": "dababees.com",
+    "verdict": "CONFIRM",
+    "note": "Reason ('placeholder_or_dead') was inaccurate, but the exclusion holds: dababees.com is a fashion/makeup/hairstyling and props/costume-rental SERVICES business for film and advertising (Gate 2 B2B services), not consumer product retail."
+  },
+  {
+    "name": "MS Retail",
+    "domain": "",
+    "verdict": "CONFIRM",
+    "note": "Gate 4 fail: Baroue is a genuine Kuwait kids department store, but no live e-commerce or app exists; baroue.com is confirmed to be an unrelated Polish designer's placeholder page (Polish text, 'until the online store launches') and no Google Play/App Store listing was found."
+  },
+  {
+    "name": "FAWAZ GROUP",
+    "domain": "fawaz.com",
+    "verdict": "CONFIRM",
+    "note": "Gate 2 hard-fail: fawaz.com is FAWAZ Refrigeration & Air-Conditioning / HVAC-R engineering products (construction/engineering B2B trading, including an HVAC 'aestore' for parts), not consumer retail; the NAICS (HVAC contracting/engineering) matches the semantic read."
+  },
+  {
+    "name": "Enhance CG (formerly Saudi Ethraa)",
+    "domain": "enhancecg.com",
+    "verdict": "CONFIRM",
+    "note": "Gate 2 (category): verified as a Jeddah B2B financial advisory firm (business valuation, M&A buy/sell-side, IPO readiness, corporate governance), licensed by the Saudi Authority of Accredited Valuers. No consumer retail arm; B2B professional services is a hard-fail."
+  },
+  {
+    "name": "SAITCO",
+    "domain": "saitco.com.sa",
+    "verdict": "CONFIRM",
+    "note": "Gate 2 (category): independent check shows SAITCO is the Saudi Inspection and Testing Company, a B2B product testing/inspection lab (G-Mark certification), not a retailer. The NAICS 54138 (testing labs) happened to be accurate and there is no storefront."
+  },
+  {
+    "name": "Jawlah | جولة",
+    "domain": "jawlah.co",
+    "verdict": "CONFIRM",
+    "note": "Gate 2 (category): verified as the first Arabic VC/entrepreneurship news and content platform (Riyadh, est. 2019). It is media/content, not retail or e-commerce."
+  },
+  {
+    "name": "Mohamed Yousuf Naghi Motors – Official JLR Retailer in KSA",
+    "domain": "landrover-saudi.com",
+    "verdict": "CONFIRM",
+    "note": "Gate 2 (automotive): the account is the official Jaguar Land Rover dealer in KSA, a hard-fail automotive dealership. The stated 'healthcare' keyword reason was wrong, but the OUT verdict is correct on the automotive category."
+  },
+  {
+    "name": "webetr",
+    "domain": "webetr.com",
+    "verdict": "CONFIRM",
+    "note": "Gate 2 (b2b_services): webetr.com is a Saudi B2B software/web-development agency (its products are Spark Medical, Maham, Mulkhas), not a consumer retailer."
+  },
+  {
+    "name": "4Sale International Co.",
+    "domain": "q84sale.com",
+    "verdict": "FLIP_YES",
+    "note": "Gate 5b (app-rescue): q84sale/4Sale is Kuwait's largest online marketplace, HQ'd in Kuwait, with 2.5M+ confirmed app downloads, which qualifies outright and overrides category. The original 'non-retail NAICS only' call ignored the app-rescue path."
+  },
+  {
+    "name": "MAF HYPERMARKETS QATAR CARREFOUR",
+    "domain": "carrefourqatar.com",
+    "verdict": "CONFIRM",
+    "note": "Gate 1 (geography): Carrefour Qatar is operated by MAF Hypermarkets WLL, a subsidiary of Majid Al Futtaim, whose global HQ is Dubai, UAE. A storefront run by a UAE-HQ'd group fails Gate 1, matching the rulebook's own example."
+  },
+  {
+    "name": "propertyfinder",
+    "domain": "propertyfinder.sa",
+    "verdict": "CONFIRM",
+    "note": "Gate 2 (real estate): propertyfinder.sa is the Saudi portal of Property Finder, a real-estate listings platform (Dubai-HQ'd). Real estate portals are a hard-fail category and the geography also fails."
+  },
+  {
+    "name": "artofheritage",
+    "domain": "artofheritage.com.sa",
+    "verdict": "CONFIRM",
+    "note": "Gate 5 (scale)/Gate 7: the Salla store is live with approved-category heritage crafts and real checkout, but the 50+ SKU catalog is genuinely unconfirmable (JS-rendered, sitemap 404, product pages 403), and the entity is a cultural non-profit rather than a scaled retailer, so the default-OUT protocol applies."
+  },
+  {
+    "name": "INTERTEC GROUP W.L.L.",
+    "domain": "intertecqatar.com",
+    "verdict": "FLIP_YES",
+    "note": "Gate 2 (corrected hybrid clause): Intertec is Qatar-HQ'd and, alongside its Xiaomi/Huawei/Honor distribution arm, runs 9 dedicated consumer-electronics retail showrooms (Mi Stores, Huawei Experience Stores, Honor center in major Qatar malls) plus online shops. This is the Lazurde/Al Andalus pattern; the cross-verification applied the old, since-corrected blunt B2B reading."
+  },
+  {
+    "name": "cupiosnacks",
+    "domain": "cupiosnacks.com",
+    "verdict": "CONFIRM",
+    "note": "Gate 5 (scale): the 'building_materials' keyword was wrong (it is a genuine Jeddah snacks/nuts e-commerce, an approved F&B category), but the catalog is only ~20 SKUs (below the ~50 floor) with no app-rescue, so it fails on scale. OUT stands via a corrected gate."
+  },
+  {
+    "name": "Siwar Foods (SF)",
+    "domain": "siwar.com",
+    "verdict": "CONFIRM",
+    "note": "Gate 4 (digital channel): siwar.com currently shows a 'coming soon' placeholder with no live transactional store, and Siwar is an FMCG frozen-food brand sold mainly through third-party retail shelves and vending (Radwa-like pattern). No live D2C storefront is confirmable."
+  },
+  {
+    "name": "electric-house",
+    "domain": "electric-house.com",
+    "verdict": "CONFIRM",
+    "note": "Gate 2/Gate 3: Electric House is a construction-electrical trade supplier (circuit breakers, cables, switches/fittings) to 'trade and industry'; even its retail-store network sells the same construction-electrical goods, a hard-fail category (electrical fittings for construction) and a narrow low-repeat line."
+  },
+  {
+    "name": "tuhoon",
+    "domain": "tuhoon.com",
+    "verdict": "CONFIRM",
+    "note": "Gate 2 (category): Tuhoon is a Saudi mental-wellness/meditation content app plus a corporate EAP platform (customers include Zain, Bupa, Riyad Bank), not product retail. Healthcare/wellness and EAP SaaS are hard-fail categories, and the app-rescue path is for commerce apps, not a wellness-content service."
+  },
+  {
+    "name": "OKHTEIN",
+    "domain": "okhtein.com",
+    "verdict": "CONFIRM",
+    "note": "Gate 1 (geography): Okhtein is an Egyptian luxury handbag brand founded and HQ'd in Cairo (flagship since 2020), outside the KSA/Kuwait/Qatar scope. The stated NAICS-only reason was wrong, but the OUT verdict is correct on geography."
+  },
+  {
+    "name": "Froyo Cafe",
+    "domain": "froyo.com.kw",
+    "verdict": "FLIP_YES",
+    "note": "Gate 2 (F&B, approved) with Gates 4/5 met: the 'no multi-location scale' reason is factually false. Froyo is a Kuwait-HQ'd frozen-yogurt/dessert QSR chain of 7 branches with 400+ staff and its own online-ordering platform (order.froyo.com.kw) plus delivery, a qualifying omnichannel F&B retailer."
+  },
+  {
+    "name": "liujo",
+    "domain": "liujo.sa",
+    "verdict": "CONFIRM",
+    "note": "Gate 1/Gate 6: Liu Jo is an Italian fashion brand (foreign HQ). In KSA it is franchise-operated and folded into the covered local operator, not a standalone Saudi-HQ'd entity, so it is not a separate qualifying account."
+  },
+  {
+    "name": "ABDULLAH BIN TALEB FOR SWIMMING POOLS",
+    "domain": "bintaleb.com",
+    "verdict": "CONFIRM",
+    "note": "Gate 2/Gate 3: A. Bin Taleb (since 1983) is a swimming-pool construction, equipment, and maintenance business (civil engineering/contracting). Even with a pool-equipment shop, this is a construction/contracting hard-fail and a narrow low-repeat category."
+  },
+  {
+    "name": "BYD KSA",
+    "domain": "byd.sa",
+    "verdict": "CONFIRM",
+    "note": "Gate 1 plus Gate 2: byd.sa is operated by Al-Futtaim (Dubai-HQ'd), failing geography, and BYD is an automotive dealership/distributor, an independent hard-fail category."
+  },
+  {
+    "name": "gulfindustrialgroup",
+    "domain": "gulfindustrialgroup.com",
+    "verdict": "CONFIRM",
+    "note": "Gate 2 (manufacturing): Gulf Industrial Group is a diversified B2B industrial manufacturer (packaging, specialty/construction chemicals, B2B food flavors) with no consumer retail arm. Manufacturing/industrial is a hard-fail."
+  },
+  {
+    "name": "Bleems",
+    "domain": "bleems.com",
+    "verdict": "CONFIRM",
+    "note": "Gate 2 (marketplace) with Gate 5b: confirmed as a flowers/gifts marketplace/aggregator (dedicated vendor-hub app, Bleemer driver app, 90+ third-party vendors). The 50k+ app-download rescue is genuinely unconfirmable through every available tool, so the Held/default-OUT disposition stands."
+  },
+  {
+    "name": "AlBabtain Auto",
+    "domain": "albabtainauto.com",
+    "verdict": "CONFIRM",
+    "note": "Gate 2 (automotive): albabtainauto.com is an automotive tires/batteries/service business, a hard-fail category."
+  },
+  {
+    "name": "Alraja Furniture  مفروشات الرجاء",
+    "domain": "alraja.com.sa",
+    "verdict": "CONFIRM",
+    "note": "Gate 4 (digital channel): the OpenCart site gates every product behind 'Request a Quote' (طلب عرض سعر) with no prices and no add-to-cart, serving government/institutional clients. It is a B2B quote-only system, not a real transactional store."
+  },
+  {
+    "name": "Autocapital",
+    "domain": "autocapitalkw.com",
+    "verdict": "CONFIRM",
+    "note": "Gate 2 (automotive): autocapitalkw.com is a Kuwait car dealership/rental/leasing business (buy, sell, lease cars), a hard-fail automotive category."
+  },
+  {
+    "name": "sitaffood",
+    "domain": "sitaffood.com",
+    "verdict": "CONFIRM",
+    "note": "Gate 2: Sitaf Food (est. 1976) is a premium HORECA/foodservice importer-distributor supplying luxury hotels, restaurants, catering and food manufacturers, with no dedicated consumer retail arm of its own. Correctly excluded as B2B distribution."
+  },
+  {
+    "name": "Special Food Company",
+    "domain": "thespecialfood.com",
+    "verdict": "CONFIRM",
+    "note": "Gate 4/7: live fetch returns only a 114-byte empty placeholder, and a follow-up search found no alternate live storefront or clear consumer-retail identity. Unconfirmable, correctly defaults OUT."
+  },
+  {
+    "name": "EBEL ابل",
+    "domain": "ebel.sa",
+    "verdict": "CONFIRM",
+    "note": "Gate 4/7: ebel.sa does not resolve (HTTP 000/DNS fail) and searches surface no alternate live site or real-world identity (name only collides with the Swiss watch brand and the Arabic transliteration of 'Apple'). Genuinely unconfirmable, correctly OUT."
+  },
+  {
+    "name": "Al Jabr Holding | الجبر القابضة",
+    "domain": "",
+    "verdict": "CONFIRM",
+    "note": "Gate 6: Al Jabr is an automotive-led mixed conglomerate (Kia/Prince Motors, car rental, financing, real estate, contracting, oil & gas, manufacturing, appliance distribution) with no dedicated consumer-retail storefront; the mixed parent is correctly excluded."
+  },
+  {
+    "name": "Cenomi Group",
+    "domain": "cenomi.com",
+    "verdict": "CONFIRM",
+    "note": "Gate 6: cenomi.com is the mixed group parent (Cenomi Centers = malls/real estate, hard-excluded, plus Cenomi Retail) and a corporate holding page with no storefront; the retail arm is captured separately as Cenomi Retail. Correctly excluded as parent/duplicate."
+  },
+  {
+    "name": "aljazirah ford",
+    "domain": "aljazirahford.com",
+    "verdict": "CONFIRM",
+    "note": "Gate 2: official Ford/Lincoln dealer in Saudi Arabia (Al Jazirah Vehicles Agencies, 31 showrooms, vehicle sales + parts + after-sales). Automotive is an explicit hard fail."
+  },
+  {
+    "name": "شركة عبداللطيف احمد العرفج وشريكه",
+    "domain": "arfajco.com",
+    "verdict": "CONFIRM",
+    "note": "Gate 2/4: domain is dead (HTTP 000) and the company is a diversified B2B conglomerate (wholesale food distribution, import agencies, food manufacturing, construction). Its 25-year-old grocery origin is not evidenced as a current consumer-retail operation; correctly OUT."
+  },
+  {
+    "name": "الرشيد Alrasheed",
+    "domain": "alrasheedsweet.com",
+    "verdict": "CONFIRM",
+    "note": "Gate 4/5b: domain dead (HTTP 000); the underlying Riyadh supermarket (Aswaq Al Rasheed) is real but has no owned live transactional site (relies on third-party flyer aggregators) and no confirmed 50k+ app installs. Correctly OUT."
+  },
+  {
+    "name": "Nehmeh",
+    "domain": "nehmeh.com",
+    "verdict": "CONFIRM",
+    "note": "Gate 2: Nehmeh sells power tools, woodworking machinery, and garage/bodyshop/construction equipment; even with a webstore, the category is construction/industrial/automotive hardware (hard-excluded), not an approved retail category. Correctly OUT."
+  },
+  {
+    "name": "sulalat",
+    "domain": "sulalat.com",
+    "verdict": "FLIP_YES",
+    "note": "Corrected Gate 2: beyond its wholesale page, sulalat.com is a full live Shopify consumer store (44+ products on the homepage, add-to-cart, SAR pricing, checkout) selling beans/equipment/chocolate/tea to 'coffee lovers', plus a physical Riyadh cafe. A substantial dedicated consumer retail arm (Riyadh HQ, F&B, high-repeat) that qualifies on its own merits, like the Go Fresh precedent; original failed it by applying the pre-correction hybrid-B2B rule bluntly."
+  },
+  {
+    "name": "Lighting Stores | مخازن الإضاءة",
+    "domain": "lightingstores.com.sa",
+    "verdict": "CONFIRM",
+    "note": "Gate 3: live site is overwhelmingly lighting/LED fixtures (820 'lighting', 263 'LED' vs no broader home-goods signal). Matches the established lighting-only narrow-category / low-repeat exclusion."
+  },
+  {
+    "name": "Saudi Pharmaceutical Industries",
+    "domain": "http://www.saudi-pharma.net/spi2/",
+    "verdict": "CONFIRM",
+    "note": "Gate 2: SPI is a pharmaceutical manufacturer (branded generics, SFDA-GMP plant, Human/Animal Health/Infection Control), not a retail pharmacy chain. Manufacturing is hard-excluded and the pharmacy-retail exception does not apply."
+  },
+  {
+    "name": "ULTRA LIGHT | الترا لايت",
+    "domain": "ultralightstores.com",
+    "verdict": "CONFIRM",
+    "note": "Gate 3: live site is a lighting/LED-fixtures retailer (3877 'light', chandeliers, lamps, LED). Matches the established lighting-only narrow-category exclusion."
+  },
+  {
+    "name": "LG Electronics",
+    "domain": "",
+    "verdict": "CONFIRM",
+    "note": "Gate 1: LG Electronics is a Korea-HQ'd global electronics manufacturer, not a Gulf-HQ'd retail operating entity. Correctly excluded on geography."
+  },
+  {
+    "name": "Gap",
+    "domain": "gap.sa",
+    "verdict": "CONFIRM",
+    "note": "Gate 6/1: Gap is a US-HQ'd global brand storefront operated in KSA via a local franchisee (Cenomi), explicitly named in the rulebook as a folded-in franchise, not a separate account. Correctly excluded."
+  },
+  {
+    "name": "Etoile Company for Perfumes and Cosmetics",
+    "domain": "etoilegroups.com",
+    "verdict": "CONFIRM",
+    "note": "Gate 2/4: etoilegroups.com is a Kuwaiti perfume/cosmetics distributor (sole distributor across the GCC) selling via third-party platforms like Boutiqaat, with a corporate/informational site and no own transactional storefront or dedicated retail arm. Matches the Alireza fail pattern despite an approved category."
+  },
+  {
+    "name": "ALSIDDIQI HOLDING",
+    "domain": "alsiddiqiholding.com",
+    "verdict": "CONFIRM",
+    "note": "Gate 6: Alsiddiqi is a mixed Qatari conglomerate (Retail, Hospitality, Brands, Entertainment, Real Estate, Industrial divisions); the corporate holding domain has no single storefront, so the mixed parent is correctly excluded. Any specific retail brand would need its own row."
+  },
+  {
+    "name": "Muntajat | منتجات",
+    "domain": "muntajat.sa",
+    "verdict": "CONFIRM",
+    "note": "Gate 2: Muntajat self-describes as Saudi Arabia's leading B2B pet-products supplier/distributor, serving retailers, vets and online shops via B2B cash-and-carry showrooms and a B2B platform, with no Muntajat-branded consumer retail arm. Correctly excluded (Saudi Radwa pattern), despite pet supplies being an approved category."
+  },
+  {
+    "name": "Mekdam Telecom",
+    "domain": "",
+    "verdict": "CONFIRM",
+    "note": "Gate 2: Mekdam is a Qatari ICT/telecom/EPC and managed-services conglomerate (part of Mekdam Holding), a B2B technical-services business with no consumer retail. Correctly excluded."
+  },
+  {
+    "name": "osanoptics",
+    "domain": "osanoptics.com",
+    "verdict": "FLIP_YES",
+    "note": "Gate 2 misclassification: the 'automotive' keyword tag is flatly wrong. Osan is a Saudi eyewear/optician brand (sunglasses/prescription frames) with physical stores in 6 Saudi cities and a live osanoptics.com store showing SAR pricing and add-to-cart. Opticians are an explicitly approved category, no other gate fails; should qualify."
+  },
+  {
+    "name": "smartlaw",
+    "domain": "smartlaw.sa",
+    "verdict": "CONFIRM",
+    "note": "Gate 2: smartlaw.sa is a Saudi law/legal-consultancy firm (site title: 'Smart Solutions Company for Law and Legal Consultations', heavy law/محاماة/قانون content). Legal services is an explicitly excluded category."
+  },
+  {
+    "name": "EurotecSaudi",
+    "domain": "eurotec.sa.com",
+    "verdict": "CONFIRM",
+    "note": "Gate 2: Eurotec is a wood/kitchen-furnishings and cabinetry business (sole agent for BLUM/Saviola) selling via projects, wholesale, and to factories/real estate. Kitchen/cabinetry via a project/installation model plus construction-materials wholesale is hard-excluded; no dedicated standalone consumer retail arm."
+  },
+  {
+    "name": "Green Wing Co. W.L.L",
+    "domain": "anotah.com",
+    "verdict": "FLIP_YES",
+    "note": "Gate 4 re-gate: a live curl now shows anotah.com serving a real transactional womenswear store (anotah.com/en/women-dress/: 600+ product refs, KWD pricing, cart/checkout, no gambling-spam) plus a shopping app. Anotah is a genuine Kuwait-HQ'd fashion chain (est. 1998, 64+ stores); the earlier compromised-domain state no longer holds, so it qualifies."
+  },
+  {
+    "name": "ASTRA MARKETS",
+    "domain": "astramarkets.com",
+    "verdict": "FLIP_YES",
+    "note": "Gate 4 resolved: Astra Markets (real Tabuk, Saudi grocery chain) launched its Astra Klick e-commerce platform in 2025, and astraklick.com is a live transactional grocery store (900+ product refs, SAR pricing, /cart, home delivery). The digital channel the Held status lacked is now confirmable; grocery is approved and in-country, so it qualifies."
+  },
+  {
+    "name": "الخياطة العربية",
+    "domain": "",
+    "verdict": "CONFIRM",
+    "note": "Gate 2: 'Arab Tailoring' resolves to bespoke tailoring/sewing SERVICE shops (custom abayas/dresses), which is an excluded service like salon/interior-design; with no domain there is no evidence of a substantial retail e-commerce arm, so Gate 7 defaults OUT."
+  },
+  {
+    "name": "SleepTimeKsa",
+    "domain": "sleeptimeksa.com",
+    "verdict": "CONFIRM",
+    "note": "The batch domain is dead, but the Gate 4 follow-up finds the live brand site (sleeptimesa.com), a Saudi mattress maker/retailer with ~25 mattress SKUs only; mattresses-only is an explicit Gate 3 narrow-category/low-repeat fail, so OUT still holds."
+  },
+  {
+    "name": "Wallan Trading Company",
+    "domain": "wallan.com",
+    "verdict": "CONFIRM",
+    "note": "Gate 2 automotive: confirmed leading Saudi car distributor (Renault, Hyundai, Genesis, Geely, Lotus, Zeekr) plus aviation/real estate, with no consumer-retail arm in an approved category."
+  },
+  {
+    "name": "alrifaisaudi",
+    "domain": "alrifaisaudi.com",
+    "verdict": "FLIP_YES",
+    "note": "Gate 1 resolves to PASS: Al Rifai Saudi is run by Gulf Trading Holding Company (Riyadh-HQ'd, 120+ outlets since 1998, in-country roasting), a local operator running a franchise brand (Cenomi/Jarir precedent); nuts/coffee is high-repeat F&B and the original pass already confirmed a live cart/checkout, so the geography Hold was over-conservative."
+  },
+  {
+    "name": "United Yousef M Naghi Co. Ltd",
+    "domain": "google.com",
+    "verdict": "CONFIRM",
+    "note": "Gate 6 mixed conglomerate: combines retail-qualifying electronics/EDDY home-appliances lines with hard-excluded tyres (automotive), hospitality (restaurants) and IT services; the mixed parent is excluded and the retail line (EDDY) is captured as its own separate row."
+  },
+  {
+    "name": "saadeddin",
+    "domain": "saadeddin.com.sa",
+    "verdict": "FLIP_YES",
+    "note": "The 'single-bakery scale' reason is factually wrong: Saadeddin Pastry is one of Saudi's largest confectionery chains (145-150+ branches since 1976) with a consumer ordering app (App Store + Google Play) and its own Taker.io online store plus HungerStation; passes Gates 1-5 as high-repeat Saudi F&B."
+  },
+  {
+    "name": "مخابز وحلويات نعمه",
+    "domain": "neamah.com",
+    "verdict": "FLIP_YES",
+    "note": "The 'placeholder page' exclusion skipped the Gate 4 follow-up; Neamah Bakery & Sweets is a real 8+ branch Jeddah/Mecca chain with its own branded online ordering (neamah.my.taker.io) plus HungerStation, an approved high-repeat F&B category with genuine Saudi multi-branch scale."
+  },
+  {
+    "name": "شركة البترول الوطنية الكويتية Kuwait National Petroleum Company",
+    "domain": "knpc.com",
+    "verdict": "CONFIRM",
+    "note": "Gate 2: state-owned oil-refining/energy company, not consumer retail; even downstream fuel is a hard exclusion."
+  },
+  {
+    "name": "Jazeera Pharmaceuticals Industries",
+    "domain": "http://www.jpi.com.sa/",
+    "verdict": "CONFIRM",
+    "note": "Gate 2: confirmed pharmaceutical manufacturer (Riyadh, est. 1999, US FDA-certified, cephalosporins/penicillins, contract manufacturing), i.e. manufacturing/healthcare, not a retail pharmacy chain."
+  },
+  {
+    "name": "منتجات فورايفر الامريكية في العراق والعالم",
+    "domain": "",
+    "verdict": "CONFIRM",
+    "note": "Gate 1 geography: the name declares Iraq focus ('in Iraq and the world') and it is a Forever Living MLM distributor, not a KSA/Kuwait/Qatar retail storefront; no domain to verify (Gate 7 OUT)."
+  },
+  {
+    "name": "al-araba",
+    "domain": "al-araba.com",
+    "verdict": "CONFIRM",
+    "note": "Gate 2 automotive: AL ARABA Group is a Saudi vehicle-customizing/armoring business (maker of the 'Al Araba 1' car); the keyword cart/checkout hit was a false positive from a car-customization site."
+  },
+  {
+    "name": "FAHES SA",
+    "domain": "fahes.com.sa",
+    "verdict": "CONFIRM",
+    "note": "Gate 2 B2B services: Saudi conformity-assessment and product inspection/testing firm (SABER/FASAH certification), not retail, consistent with its testing-lab/consulting NAICS codes."
+  },
+  {
+    "name": "ptc",
+    "domain": "ptc.sa",
+    "verdict": "CONFIRM",
+    "note": "Gate 7: 'PTC' resolves only to non-retail Saudi entities (public transport, contracting, oil/energy trading); no live consumer-retail site is findable, so it defaults OUT."
+  },
+  {
+    "name": "Otantik Home",
+    "domain": "otantik-home.com",
+    "verdict": "CONFIRM",
+    "note": "Gate 1 geography (correcting the weak wholesale-keyword reason): Turkish-origin home-decor/giftware brand ('Turkish translation of Authentic-Home,' expansion 'starting from Turkey' across 12 countries with identical multi-country storefronts); the Qatar site is a storefront node of a foreign-HQ'd brand, so it stays OUT."
+  },
+  {
+    "name": "Binzagr Company",
+    "domain": "binzagr.com.sa",
+    "verdict": "CONFIRM",
+    "note": "Gate 2 wholesale/distribution: one of Saudi's largest FMCG distributors/logistics operators (800 trucks, ~15,000 trade customers/day) connecting brands to retailers, with no dedicated consumer-retail arm of its own."
+  },
+  {
+    "name": "tomatostores",
+    "domain": "tomatostores.sa",
+    "verdict": "CONFIRM",
+    "note": "Gate 1 geography: Tomato is a 100% Egyptian fashion brand (Alexandria HQ, est. 1994); the .sa is dead and the only live storefront is Egyptian-operated, so the operating entity is foreign-HQ'd."
+  },
+  {
+    "name": "Al Ghazali  |  الغزالي",
+    "domain": "alghazali.com.sa",
+    "verdict": "CONFIRM",
+    "note": "Gate 3 narrow-category: independently confirmed watches-only store (11 watch brands, no jewellery) with real SAR e-commerce and branches; a single narrow line with inherently low repeat-purchase, a defensible fail since jewelry passes on breadth (rings/earrings/necklaces) that a watches-only store lacks."
+  },
+  {
+    "name": "zgames",
+    "domain": "zgames.sa",
+    "verdict": "CONFIRM",
+    "note": "Gate 1 geography: ZGames/ZamZam Distribution is a UAE-headquartered group (first office UAE 1998) running one shared platform across the GCC; fails geography despite otherwise passing Gates 2-5."
+  },
+  {
+    "name": "مجموعة عادل كير الطبية",
+    "domain": "adelcare.sa",
+    "verdict": "CONFIRM",
+    "note": "Gate 2 healthcare services: the site offers only home-visit care (nursing, physiotherapy, home diagnostics) with an appointment CTA and no product catalog or pharmacy storefront; only retail pharmacy chains pass, not home-care services."
+  },
+  {
+    "name": "Saleh Al-Othaim Investment Co | شركة صالح عبدالله العثيم للاستثمار",
+    "domain": "sao.sa.com",
+    "verdict": "CONFIRM",
+    "note": "Gate 6/Gate 4: diversified investment holding (real estate, financial, IT, plus luxury restaurants/cafes), distinct from Al-Othaim Markets, with a corporate site and no transactional retail storefront."
+  },
+  {
+    "name": "Juffali Technical Equipment Company",
+    "domain": "jteco-online.com.sa",
+    "verdict": "CONFIRM",
+    "note": "Gate 2/Gate 4: JTECO is an industrial/technical-equipment distributor (Bosch/Karcher power tools, forklifts, workshop and industrial-cleaning equipment) inside the Juffali industrial group; hardware/industrial category and its online store is dead with no live consumer e-commerce found."
+  },
+  {
+    "name": "Ibin Ajayan Trading Group",
+    "domain": "ibinajayan.com",
+    "verdict": "CONFIRM",
+    "note": "Gate 2: diversified Qatari B2B trading conglomerate (IVECO/Ashok Leyland/Golden Dragon vehicles, forklifts, cranes, tyres, industrial oil, plus transport/catering/security); automotive and wholesale trading are both hard fails with no consumer retail."
+  },
+  {
+    "name": "Almunajem Foods Company",
+    "domain": "almunajemfoods.com",
+    "verdict": "CONFIRM",
+    "note": "Gate 2: major Saudi food importer/distributor selling to ~18,000 supermarkets and ~1,000 wholesale/food-service clients via 14 cold-storage branches; a B2B distributor with no dedicated consumer-retail store of its own."
+  },
+  {
+    "name": "modpatisserie",
+    "domain": "modpatisserie.com",
+    "verdict": "CONFIRM",
+    "note": "Gate 2/Gate 4: despite the 'patisserie' name, its own site describes a primarily B2B bakery-supply/logistics operation (centralized kitchen, temperature-controlled fleet, 'B2B supply') with no consumer cart/checkout, so the logistics/B2B exclusion holds."
+  }
+]

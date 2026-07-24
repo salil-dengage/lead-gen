@@ -1,0 +1,182 @@
+[
+  {
+    "name": "BATOOK HOLDING COMPANY",
+    "domain": "batook.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "fmcg_manufacturing_wholesale_trading",
+    "qualification_path": "n/a",
+    "reason": "Batook is a chewing-gum manufacturer and wholesale/retail trading group, not a direct-to-consumer retailer. The site is a corporate brand-portfolio page with zero cart, checkout, or pricing anywhere -- manufacturing and wholesale/trading distribution are both explicit Gate 2 hard-fail categories.",
+    "evidence": "batook.com: 'Batook Companies... has become a branch of several independent companies... [one] is responsible for manufacturing food products, including chewing gum... [another] is responsible for the traditional trade transactions in the wholesale and retail domains... [another] manages and operates modern trade transactions of the stores.' Page showcases gum brands (Klast, Nova, Big Kiss, Batook 5 sticks, Viva, Miska, Chewtex, Mastic, Ponty, World Car Blitz) with no product purchase capability of any kind."
+  },
+  {
+    "name": "Bayt Aladwia Pharmacy",
+    "domain": "baytaladwia.com",
+    "verdict": "OUT",
+    "gate_failed": "digital_channel",
+    "category_final": "health_beauty_pharmacy",
+    "qualification_path": "n/a",
+    "reason": "Domain is completely dead: no DNS record resolves at all (not just a server-down or blocked response). Per protocol, ran two targeted web searches for the company and for its online-ordering/app presence; both confirmed the pharmacy chain is a real, substantial business but found no live website, alternate domain, or app to rescue the gate.",
+    "evidence": "curl to https://baytaladwia.com, http://baytaladwia.com, and https://www.baytaladwia.com all returned HTTP_CODE 000; `getent hosts baytaladwia.com` returned no resolution. WebSearch confirmed 'Bayt Aladwia Pharmacy is located in Riyadh, Saudi Arabia... 201-500 employees... revenue 101 million to 500 million,' but a second search for its app/online ordering surfaced only unrelated pharmacy apps (AlDawaa, Nahdi, Dawi, Chefaa) with nothing for Bayt Aladwia itself."
+  },
+  {
+    "name": "Bayt Alebaa - بيت الإباء",
+    "domain": "baytalebaa.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "building_materials_construction",
+    "qualification_path": "n/a",
+    "reason": "Direct fetch was blocked by a Cloudflare challenge (inconclusive on its own), but WebSearch corroboration confirms this is a building-materials retail/wholesale/manufacturing corporation (ceramic tiles, sanitary ware, decor) -- an explicit Gate 2 hard-fail category. Confirms the prior held-review OUT verdict.",
+    "evidence": "curl returned a Cloudflare 'Just a moment...' bot-challenge page. WebSearch: 'Bayt Alebaa is a Saudi Arabian retail and wholesale corporation... trading and manufacturing building materials, such as ceramic tiles, porcelain fixtures, decor, and sanitary materials... largest retailer in terms of renovations in Saudi Arabia, with over 5000 employees... 16 stores... authorized distributor for Grohe, Geberit, Hansa, Laufen, Niagara, VitrA, Ideal Standard, and Marazzi... established several advanced factories such as marble, granite, and decorations factories.'"
+  },
+  {
+    "name": "Bakhashab Brothers Co Ltd",
+    "domain": "bbhc.com.sa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive",
+    "qualification_path": "n/a",
+    "reason": "Confirmed automotive distributor/dealer (ISUZU authorized dealer plus passenger/commercial vehicle distribution) -- an explicit Gate 2 hard-fail category regardless of the domain's current reachability. Confirms prior verdict.",
+    "evidence": "curl connection failed (HTTP_CODE 000) on this attempt. WebSearch confirmed: 'Bakhashab Brothers Co Ltd is based in Jeddah... established in 1936... specializes in distribution of passenger cars, commercial vehicles and spare parts... serves as the authorized dealer of ISUZU commercial and recreation vehicles in the eastern and western provinces of Saudi Arabia,' with website www.bbhc.com.sa confirmed as indexed and belonging to this company."
+  },
+  {
+    "name": "BD Holding",
+    "domain": "bdholding.co",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "diversified_holding_furniture_interior_b2b",
+    "qualification_path": "n/a",
+    "reason": "bdholding.co is a corporate 'Our Entities' portfolio page for a mixed furniture/interior holding group. A majority of its named entities are explicit Gate 2 hard-fail categories (interior-design-project firm, office-furnishings/fit-out, joinery/paneling manufacturing); the domain itself carries no product catalog, pricing, or working cart for any brand -- only leftover WooCommerce/theme CSS selectors. Confirms prior verdict.",
+    "evidence": "Page lists 'B Design Store' and 'Daze' (furniture retail), 'InterCasa' ('excellence in joinery, paneling, and furniture production' -- manufacturing), 'Leicht' (German kitchen import), 'B Closet' (custom closets), 'B Interior' ('interior design services... planning and executing residential, commercial, and hospitality projects' -- explicit interior-design-project-firm exclusion), 'B Office' ('office furnishings and workspace designs' -- B2B). A targeted grep for cart/checkout/price on the live page returned only 5 matches, all Astra-theme CSS selectors (e.g. '.astra-cart-drawer-close'), confirming zero functioning storefront."
+  },
+  {
+    "name": "Bed Quarter Company",
+    "domain": "bedquarter.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "home_furniture",
+    "qualification_path": "substantiality",
+    "reason": "Confirmed live, real Saudi-market e-commerce store (Zid platform) selling mattresses, bed frames, pillows/cushions and bedding accessories with a 151-SKU catalog, real Saudi contact details and active social channels. Passes geography (Saudi), category (home/furniture -- bedroom/sleep), narrow-category (multi-line bedroom assortment, not a single narrow SKU type), digital channel (live cart/checkout) and scale.",
+    "evidence": "bedquarter.com structured data: '\"numberOfItems\": 151' in the /products collection (Tempur-brand and other mattresses, bed frames \"سرير فورم\", pillows \"وسادة تمبور\", cushions); telephone +966920001428; sameAs links to Facebook/Instagram/X/TikTok/Snapchat under 'bedquarterksa'/'BedQuarter' handles; hreflang ar-sa/en confirms Saudi market focus."
+  },
+  {
+    "name": "Behbehani Motors Company",
+    "domain": "behbehanimotors.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive_car_rental",
+    "qualification_path": "n/a",
+    "reason": "Confirmed automotive dealership (Porsche/Volkswagen/Skoda) plus bodyshop and car-rental division -- both automotive dealer and car rental are explicit Gate 2 hard-fail categories. Confirms prior verdict.",
+    "evidence": "behbehanimotors.com nav: 'Our Businesses Porsche Volkswagen Skoda Bodyshop Car Rental Division Affiliated business'; hero copy 'World's Most Iconic Cars'; Kuwait contact +965 1870 870."
+  },
+  {
+    "name": "Beidoun Trading Co.",
+    "domain": "beidoun.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "beauty_cosmetics_perfume_luxury_accessories",
+    "qualification_path": "substantiality",
+    "reason": "Confirmed genuine Kuwait-HQ'd multi-brand beauty/perfume/accessories retailer with a large, real transactional online store carrying roughly 1,528 products across dozens of luxury fragrance/cosmetics/accessories brands, with full cart, wishlist, compare and order-tracking functionality. Passes all gates comfortably.",
+    "evidence": "beidoun.com confirms Kuwait HQ ('Industrial Ardiya, Block No. 1, Building No. 271... Safat 13035 Kuwait') and describes itself as 'Premier beauty retailer' across L'Oréal Luxe, Perfumes & Cosmetics, Niche Fragrances, Accessories & Jewelries, Watches. Its online store (linked as 'Beidoun Online Store', live at bei.shop) shows a brand filter 'All 1528' products (Dior, Gucci, Giorgio Armani, Cartier, Montblanc, Burberry, Hermes, Chopard, etc.) with live Shopping Cart, Wishlist, Compare and Track Order features."
+  },
+  {
+    "name": "Belleza",
+    "domain": "belleza.qa",
+    "verdict": "OUT",
+    "gate_failed": "digital_channel",
+    "category_final": "health_beauty_pharmacy",
+    "qualification_path": "n/a",
+    "reason": "Domain does not resolve in DNS at all. Two targeted web searches for this specific Qatar beauty business found no matching company, live site, or alternate domain anywhere -- only unrelated beauty retailers surfaced both times.",
+    "evidence": "curl to https://belleza.qa returned HTTP_CODE 000; `getent hosts belleza.qa` returned no resolution. WebSearch for \"Belleza belleza.qa Qatar beauty store\" and \"Belleza Doha Qatar perfume/cosmetics\" both returned only unrelated businesses (Alma Belleza on noon.com, Beauty Booth, NAZIH, assorted Qatar Beauty Shop Facebook pages) with no reference to a 'Belleza' storefront at belleza.qa."
+  },
+  {
+    "name": "BGB Holding",
+    "domain": "bgbholding.co",
+    "verdict": "OUT",
+    "gate_failed": "digital_channel",
+    "category_final": "diversified_trading",
+    "qualification_path": "n/a",
+    "reason": "Domain does not resolve in DNS. Two targeted web searches found no Kuwait-based company named 'BGB Holding' at all, so neither a live digital channel nor the business's category could be independently confirmed beyond the prior 'diversified_trading' label (itself an excluded B2B category if accurate). Confirms prior held-review OUT verdict.",
+    "evidence": "curl to https://bgbholding.co returned HTTP_CODE 000; `getent hosts bgbholding.co` returned no resolution. WebSearch for \"BGB Holding Kuwait bgbholding.co\" and \"BGB Holding Kuwait retail/trading\" surfaced only unrelated BGB-named entities (BGB Holding SPA in Milano, BGB Group in New York, a Nasdaq ticker) with no match for a Kuwaiti company of this name."
+  },
+  {
+    "name": "BinDawood Holding",
+    "domain": "bindawoodholding.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "grocery",
+    "qualification_path": "substantiality",
+    "reason": "Confirmed major Tadawul-listed (BDH) Saudi grocery retail conglomerate operating the BinDawood (26 hypermarkets/supermarkets) and Danube supermarket chains, with 50+ years of heritage and an established e-commerce platform. Passes geography (Saudi), category (grocery/hypermarket), narrow-category (broad, very high purchase frequency) and digital channel/scale comfortably.",
+    "evidence": "bindawoodholding.com: 'BinDawood Holding (Listed at Tadawul on 21st October 2020 under the symbol of BDH)... The undisputed winner in KSA Grocery — Rich Saudi heritage spanning 50+ years, 35 of which are in grocery retail.' 'BinDawood is one of Saudi Arabia's most popular grocery retail brands. With 26 easy-to-access hypermarkets and supermarkets across Saudi Arabia.' Facts section references a 'Leading e-commerce platform' alongside store-count and product-count figures."
+  },
+  {
+    "name": "ABDULLAH BIN TALEB FOR SWIMMING POOLS",
+    "domain": "bintaleb.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "building_materials_construction",
+    "qualification_path": "n/a",
+    "reason": "Confirmed pool-construction/equipment business (chemicals, filters, plus engineering/construction of swimming pools) -- falls squarely under the explicit building-materials/construction/contracting hard-fail bucket. Confirms prior verdict.",
+    "evidence": "bintaleb.com: 'A.BIN TALEB SWIMMING POOLS CO... Our Products... Chemicals... Pool filters... Bin Taleb Engineering Services Company is specialized in designing, building, supplying and equipping swimming pools with European technologies, including periodic or general maintenance services.'"
+  },
+  {
+    "name": "Bin Yousef",
+    "domain": "binyousef.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "diversified_holding_logistics_realestate_consulting",
+    "qualification_path": "n/a",
+    "reason": "binyousef.com is the corporate site of a diversified Qatari holding group (est. 1978) whose majority of businesses are explicit Gate 2 hard-fail categories (freight/cargo logistics, real estate, facilities management, management consulting, investments, an architectural-lighting JV, marine services). It does own a fashion-retail brand and grocery/F&B brands, but those are separate operating companies not hosted at this domain, which itself has no product catalog, pricing, or cart of its own.",
+    "evidence": "binyousef.com 'Our Companies': Bin Yousef Cargo (freight forwarding/logistics), Bin Yousef Fashion (retail, since the 1970s), Bin Yousef Real Estate (villa/apartment rentals), Matana FMS (facilities management), Alford Hughes (real-estate investment services), Tabi Boba Group (bubble-tea cafés), Bin Yousef Luxury Cargo, Airborne Charter Services, Curia Business Group (management consulting), Bin Yousef Investments, iGuzzini (architectural lighting JV), Grand Mall/Grand Hypermarkets (grocery retail JV), Delight International Movers, Crane Worldwide Logistics, Moloobhoys Marine Services. The page is purely a 'Read More' company-portfolio listing -- no products, pricing, or cart anywhere on the domain."
+  },
+  {
+    "name": "ABYAT",
+    "domain": "blink.com.kw",
+    "verdict": "OUT",
+    "gate_failed": "geography",
+    "category_final": "home_furnishing_building_materials (true ABYAT business; unrelated to what is live at this domain)",
+    "qualification_path": "n/a",
+    "reason": "Domain/name mismatch confirmed: blink.com.kw does not belong to ABYAT at all. It resolves to 'Blink,' an unrelated Kuwait-founded e-commerce electronics/general-merchandise retailer. Independently, the named company ABYAT is itself HQ'd in Riyadh, Saudi Arabia (Al Muhaidib Group), so even setting the domain error aside, ABYAT fails Gate 1 for a Kuwait-country row -- Kuwait is a showroom/franchise market for a Saudi-HQ'd group, not its global HQ. Flagging this record for source-data correction: if 'Blink' itself were the intended lead (real, Kuwait-HQ'd, broad electronics/general-merchandise e-commerce, clearly 50+ SKUs across gaming/mobile/computing categories, serving 9 countries), it would qualify IN on its own merits -- but that is not the named account, ABYAT.",
+    "evidence": "blink.com.kw live site: 'Blink – Kuwait's Largest Online Shopping Store,' Shopify theme name 'blink-mena-shopify-theme...release-kuwait,' categories Gaming PC/Mobiles & Tablets/Gaming Console/Computers & Laptops. WebSearch: 'Blink.com.kw is an international electronic commerce company with headquarters in Kuwait... founded 2003... Founder/CEO Dr. Waleed AlBastaki... started as a computer store, diversified into electronics, software, video games, stationery, apparel, food, toys... serves Kuwait, Saudi Arabia, UAE, Qatar, Oman, Bahrain, Egypt, Lebanon, Jordan.' Separate WebSearch confirms real ABYAT: 'headquartered at Northern Ring Rd, Al Ghadir, Riyadh 13311, Saudi Arabia' under Al Muhaidib Group, with its own real site at abyat.com -- an entirely distinct company and domain from blink.com.kw."
+  },
+  {
+    "name": "Blooming Wear",
+    "domain": "bloomingwear.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "fashion",
+    "qualification_path": "substantiality",
+    "reason": "Confirmed live, large-scale Saudi fashion e-commerce site (lingerie, sleepwear, everyday wear, bridal, maternity, kids, accessories, swimwear, menswear) with real SAR pricing and a large catalog. Passes all gates.",
+    "evidence": "bloomingwear.com homepage category nav (لانجري/ملابس النوم/الملابس اليومية/العروسة/الأمومة/شراشف الصلاة/الأطفال/إكسسوارات/ملابس السباحة/الرجال) with dozens of priced bestseller items (SAR 259, 229, 199, 179, 159, 129, etc.); the word 'product' appears 263 times on the rendered page, consistent with a large multi-category catalog well above the 50-SKU floor."
+  },
+  {
+    "name": "Blue Salon",
+    "domain": "bluesalon.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "fashion_luxury",
+    "qualification_path": "substantiality",
+    "reason": "Confirmed genuine, large-scale Qatar luxury fashion/accessories e-commerce retailer with real QAR pricing across designer apparel, jewelry, footwear, bags and fragrance, a full cart/wishlist system and its own app. Passes all gates comfortably.",
+    "evidence": "bluesalon.com: 'Blue Salon – Qatar's Leading Luxury Online Store for Fashion,' Doha address (Suhaim Bin Hamad Street), priced designer items (Zuhair Murad gowns QAR 26,850 / 27,200, Talbot Runhof, Momoni, Marwa Ghassan) plus jewelry (Swarovski, Les Nereides, Buckley London, Esprit) and fragrance (Creed), extensive category navigation (Women/Men/Bags/Footwear/Watches & Accessories/Lingerie), 'Download our app,' and a live cart/wishlist system."
+  },
+  {
+    "name": "Blue Sky Company",
+    "domain": "blueskycoffe.com",
+    "verdict": "OUT",
+    "gate_failed": "digital_channel",
+    "category_final": "fb_cafe_restaurant",
+    "qualification_path": "n/a",
+    "reason": "The live site is a small café whose ordering system shows non-functional placeholder content rather than a genuinely operating transactional channel -- the menu section returns 'Product Not Found,' the blog posts are literal Lorem Ipsum filler text, and the copyright is stale (2021). This fails the 'genuinely live, currently operating' bar for Gate 4 even though a generic, unpopulated add-to-cart template exists on the page.",
+    "evidence": "blueskycoffe.com: 'Our Menu Discover Our Menu Special Energy Drinks (0) Product Not Found... Our Special Offered Items Price VIEW ALL MENU LIST' (no actual items rendered); 'Latest News... Employee of the year is simply dummy text of the printing and typesetting industry. Lorem Ipsum...' and 'Corona teps is simply dummy text...'; footer 'Copyright © 2021.' Only one generic (unpopulated) Add to Cart modal exists on the entire page."
+  },
+  {
+    "name": "Mohamed Yousuf Naghi Motors - BMW Group Importer KSA",
+    "domain": "bmw-saudiarabia.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive",
+    "qualification_path": "n/a",
+    "reason": "Confirmed automotive dealer/importer -- BMW Group's official importer for Saudi Arabia, with a used-vehicle listings module on the live site. Automotive dealers/importers are an explicit Gate 2 hard-fail category. Confirms prior verdict.",
+    "evidence": "First attempt failed to connect (HTTP_CODE 000) despite the domain resolving in DNS; a retry successfully loaded the site, which includes a 'used-list.listing' vehicle-listing module consistent with a car dealer/importer site. Company name itself is the confirmed official BMW importer for Saudi Arabia (Mohamed Yousuf Naghi Motors)."
+  }
+]

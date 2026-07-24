@@ -1,0 +1,19 @@
+source	country	name	domain	prior_verdict	prior_category
+gap_sweep		andalusia-dentalcenters	andalusia-dentalcenters.com	OUT	healthcare_or_pharma_mfr
+gap_sweep		maestropizza	maestropizza.sa	OUT	ecommerce_unverified
+gap_sweep		aldo	aldo.com.sa	OUT	franchise
+gap_sweep		cb2	cb2.sa	OUT	franchise
+gap_sweep		ezorder	ezorder.com.sa	OUT	ecommerce_unverified
+gap_sweep		tejaradirect	tejaradirect.com	OUT	nonretail_services
+gap_sweep		almaraipro	https://www.almarai.com/ar	OUT	industrial_or_mfr
+gap_sweep		esabonline	esabonline.sa	OUT	ecommerce_unverified
+gap_sweep		gehealthcare	gehealthcare.sa	OUT	healthcare_or_pharma_mfr
+gap_sweep		investsaudi	investsaudi.sa	OUT	nonretail_services
+gap_sweep		hilti	hilti.sa	OUT	industrial_or_mfr
+gap_sweep		thebowerycompany	thebowerycompany.sa	OUT	ecommerce_unverified
+gap_sweep		aldahan	aldahan.sa	OUT	ecommerce_unverified
+gap_sweep		jadco-sa	jadco-sa.com	OUT	ecommerce_unverified
+gap_sweep		visitsaudi	visitsaudi.com	OUT	nonretail_services
+gap_sweep		peaberry	peaberry.sa	OUT	ecommerce_unverified
+gap_sweep		almutawir	almutawir.sa	OUT	ecommerce_unverified
+gap_sweep		zgames	zgames.sa	OUT	ecommerce_unverified

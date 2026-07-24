@@ -1,0 +1,4486 @@
+{
+  "domain_matches": [
+    {
+      "cand_name": "Seventh Dimension Company",
+      "cand_domain": "7d.com.kw",
+      "cand_country": "Kuwait",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Seventh Dimension Company",
+      "zoho_id": "3978798000165724001",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "8oz Coffee",
+      "cand_domain": "8ozcafe.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "8oz Coffee",
+      "zoho_id": "3978798000165724002",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Ali Abdulwahab Al Mutawa Commercial Co.",
+      "cand_domain": "aaw.com",
+      "cand_country": "Kuwait",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Ali Abdulwahab Al Mutawa Commercial Co.",
+      "zoho_id": "3978798000165720001",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "abdulsamadalqurashi",
+      "cand_domain": "abdulsamadalqurashi.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "abdulsamadalqurashi",
+      "zoho_id": "3978798000138949075",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Abo Moati l ابو معطي",
+      "cand_domain": "abomoati.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Abo Moati l ابو معطي",
+      "zoho_id": "3978798000165720002",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "شاهي ابو وليد - Abu Waleed Tea",
+      "cand_domain": "abuwaleedtea.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "شاهي ابو وليد - Abu Waleed Tea",
+      "zoho_id": "3978798000165787001",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Al Hasawi Industrial Group",
+      "cand_domain": "acekuwait.com",
+      "cand_country": "Kuwait",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Al Hasawi Industrial Group",
+      "zoho_id": "3978798000165720003",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "مجموعة عادل كير الطبية",
+      "cand_domain": "adelcare.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "مجموعة عادل كير الطبية",
+      "zoho_id": "3978798000165720004",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Al-Dawaa Medical Services Co.",
+      "cand_domain": "al-dawaa.com.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Al-Dawaa Medical Services Co.",
+      "zoho_id": "3978798000165720009",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "ALHADDAD | الحداد",
+      "cand_domain": "al-haddad.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "ALHADDAD | الحداد",
+      "zoho_id": "3978798000165720010",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Al jazera Markets",
+      "cand_domain": "al-jazera.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Al jazera Markets",
+      "zoho_id": "3978798000138949009",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "ALSAFA UNITED",
+      "cand_domain": "al-safaunited.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "ALSAFA UNITED",
+      "zoho_id": "3978798000165720012",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Al Sawani Group",
+      "cand_domain": "al-sawani.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Al Sawani Group",
+      "zoho_id": "3978798000165720013",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "ِAlsorayai",
+      "cand_domain": "al-sorayai.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "ِAlsorayai",
+      "zoho_id": "3978798000165720014",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "alamal advanced medical",
+      "cand_domain": "alamalph.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "alamal advanced medical",
+      "zoho_id": "3978798000165720015",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "AlaneesQatar",
+      "cand_domain": "alaneesqatar.qa",
+      "cand_country": "Qatar",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "AlaneesQatar",
+      "zoho_id": "3978798000165720016",
+      "zoho_country": "Qatar",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Alarabiya Company الشركة العربية",
+      "cand_domain": "alarabiya.com.kw",
+      "cand_country": "Kuwait",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Alarabiya Company الشركة العربية",
+      "zoho_id": "3978798000165720017",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Alaryaf Sweets |  الارياف للحلويات",
+      "cand_domain": "alaryaf.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Alaryaf Sweets | الارياف للحلويات",
+      "zoho_id": "3978798000165720018",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "ALASEEL",
+      "cand_domain": "alaseel.com.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "ALASEEL",
+      "zoho_id": "3978798000165720019",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Alaysh International Group",
+      "cand_domain": "alayshgroup.com",
+      "cand_country": "Kuwait",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Alaysh International Group",
+      "zoho_id": "3978798000165720020",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Al Aziziya Pharmacy",
+      "cand_domain": "alaziziyapharmacy.com",
+      "cand_country": "Qatar",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Al Aziziya Pharmacy",
+      "zoho_id": "3978798000165720021",
+      "zoho_country": "Qatar",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Al Barakat Group Co Ltd.",
+      "cand_domain": "albarakatgroup.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Al Barakat Group Co Ltd.",
+      "zoho_id": "3978798000165720022",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "ALBASEM الباسم",
+      "cand_domain": "albasem.com.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "ALBASEM الباسم",
+      "zoho_id": "3978798000165720023",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "alephksa",
+      "cand_domain": "alephksa.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "alephksa",
+      "zoho_id": "3978798000138833136",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Al Ghazali  |  الغزالي",
+      "cand_domain": "alghazali.com.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Al Ghazali | الغزالي",
+      "zoho_id": "3978798000165720025",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Alhussaini Trading Co.",
+      "cand_domain": "alhussainitrading.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Alhussaini Trading Co.",
+      "zoho_id": "3978798000165720026",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Ali Bin Ali Group",
+      "cand_domain": "alibinali.com",
+      "cand_country": "Qatar",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Ali Bin Ali Group",
+      "zoho_id": "3978798000008670029",
+      "zoho_country": "Qatar",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "شركة الجازع الطبية | Al-Jazea Medical Company",
+      "cand_domain": "aljazeaonline.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "شركة الجازع الطبية | Al-Jazea Medical Company",
+      "zoho_id": "3978798000165720027",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Al Jazeera Perfumes",
+      "cand_domain": "aljazeeraperfumes.com",
+      "cand_country": "Qatar",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Al Jazeera Perfumes",
+      "zoho_id": "3978798000165720028",
+      "zoho_country": "Qatar",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "ALMAHA OPTICAL",
+      "cand_domain": "almahaopt.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "ALMAHA OPTICAL",
+      "zoho_id": "3978798000165720030",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Al Mana",
+      "cand_domain": "almana.com",
+      "cand_country": "Qatar",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Al Mana",
+      "zoho_id": "3978798000165787002",
+      "zoho_country": "Qatar",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "المذاق العربي",
+      "cand_domain": "almthaqalarabi.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "المذاق العربي",
+      "zoho_id": "3978798000165720032",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Al Mujtama Pharmacy",
+      "cand_domain": "almujtama.com.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Al Mujtama Pharmacy",
+      "zoho_id": "3978798000165720033",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "AlNafea Foods",
+      "cand_domain": "alnafeafoods.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "AlNafea Foods",
+      "zoho_id": "3978798000165720034",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Al Nahhas Pharmacie",
+      "cand_domain": "alnahhas.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Al Nahhas Pharmacie",
+      "zoho_id": "3978798000165720035",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Alomar Furniture Company شركة مفروشات العمر",
+      "cand_domain": "alomar.com.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Alomar Furniture Company شركة مفروشات العمر",
+      "zoho_id": "3978798000165720036",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Al Ostoura International Company",
+      "cand_domain": "alostoura.com",
+      "cand_country": "Kuwait",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Al Ostoura International Company",
+      "zoho_id": "3978798000165720037",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "مفارش العييري",
+      "cand_domain": "aloyayri.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "مفارش العييري",
+      "zoho_id": "3978798000165720038",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "الرشيد Alrasheed",
+      "cand_domain": "alrasheedsweet.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "الرشيد Alrasheed",
+      "zoho_id": "3978798000165720039",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Al Rawabi Group of Companies W.L.L",
+      "cand_domain": "alrawabigroup.com",
+      "cand_country": "Qatar",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Al Rawabi Group of Companies W.L.L",
+      "zoho_id": "3978798000165720040",
+      "zoho_country": "Qatar",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "ALSAIF Trading Agencies Co.",
+      "cand_domain": "alsaifco.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "ALSAIF Trading Agencies Co.",
+      "zoho_id": "3978798000165720041",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "alsaifgallery",
+      "cand_domain": "alsaifgallery.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "alsaifgallery",
+      "zoho_id": "3978798000138824126",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Alsalman Optics",
+      "cand_domain": "alsalmanoptics.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Alsalman Optics",
+      "zoho_id": "3978798000165720042",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Alshafi Medical Company",
+      "cand_domain": "alshafi.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Alshafi Medical Company",
+      "zoho_id": "3978798000165720043",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Al Sulaiman Jewellers",
+      "cand_domain": "alsulaimanjewellers.com",
+      "cand_country": "Qatar",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Al Sulaiman Jewellers",
+      "zoho_id": "3978798000165787003",
+      "zoho_country": "Qatar",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Alymama اليمامة",
+      "cand_domain": "alymama.net",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Alymama اليمامة",
+      "zoho_id": "3978798000165720046",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Hassan Misfer Al-Zahrani & Partners Group",
+      "cand_domain": "alzahrani.com.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Hassan Misfer Al-Zahrani & Partners Group",
+      "zoho_id": "3978798000165720047",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Amal Al-Kuwait",
+      "cand_domain": "amalalkuwait.com",
+      "cand_country": "Kuwait",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Amal Al-Kuwait",
+      "zoho_id": "3978798000165720048",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Anoosh Company",
+      "cand_domain": "anoosh.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Anoosh Company",
+      "zoho_id": "3978798000165720049",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Apotheca Beauty",
+      "cand_domain": "apothecabeauty.com",
+      "cand_country": "Kuwait",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Apotheca Beauty",
+      "zoho_id": "3978798000165720051",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "مكتبه جرير",
+      "cand_domain": "arabplaces.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "مكتبه جرير",
+      "zoho_id": "3978798000165720053",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Areej AL Khaleej  |  اريج الخليج",
+      "cand_domain": "areejelkhaleej.net",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Areej AL Khaleej | اريج الخليج",
+      "zoho_id": "3978798000165720054",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "شركة عبداللطيف احمد العرفج وشريكه",
+      "cand_domain": "arfajco.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "شركة عبداللطيف احمد العرفج وشريكه",
+      "zoho_id": "3978798000165720055",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Armada Retail Concept",
+      "cand_domain": "armadagroupco.com",
+      "cand_country": "Kuwait",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Armada Retail Concept",
+      "zoho_id": "3978798000165720056",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Armah Sports Company",
+      "cand_domain": "armahsports.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Armah Sports Company",
+      "zoho_id": "3978798000165720057",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Arriyadh Roaster محمصة الرياض",
+      "cand_domain": "arriyadhroaster.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Arriyadh Roaster محمصة الرياض",
+      "zoho_id": "3978798000165720058",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "ARTECASA",
+      "cand_domain": "artecasa.bz",
+      "cand_country": "Kuwait",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "ARTECASA",
+      "zoho_id": "3978798000165720059",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Atyab Al Marshoud",
+      "cand_domain": "atyabalmarshoud.com",
+      "cand_country": "Kuwait",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Atyab Al Marshoud",
+      "zoho_id": "3978798000165720060",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "بلاك نايت Black Knight",
+      "cand_domain": "b-k.coffee",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "بلاك نايت Black Knight",
+      "zoho_id": "3978798000165720061",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Baazeem Trading Company",
+      "cand_domain": "baazeem.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Baazeem Trading Company",
+      "zoho_id": "3978798000165720062",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "baba khabbaz  بابا خباز",
+      "cand_domain": "babakhabaz.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "baba khabbaz بابا خباز",
+      "zoho_id": "3978798000165720063",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "باك كمفورت - Backcomfort",
+      "cand_domain": "backcomfort.com.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "باك كمفورت - Backcomfort",
+      "zoho_id": "3978798000165720064",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Baix Bakery",
+      "cand_domain": "baixbakery.com",
+      "cand_country": "Kuwait",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Baix Bakery",
+      "zoho_id": "3978798000165720065",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "BaladiMart",
+      "cand_domain": "baladiexpress.com",
+      "cand_country": "Qatar",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "BaladiMart",
+      "zoho_id": "3978798000165720066",
+      "zoho_country": "Qatar",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Al Baladi Holding",
+      "cand_domain": "baladiholding.com",
+      "cand_country": "Qatar",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Al Baladi Holding",
+      "zoho_id": "3978798000165720067",
+      "zoho_country": "Qatar",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Balsharaf Group",
+      "cand_domain": "balsharaf.com.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Balsharaf Group",
+      "zoho_id": "3978798000165720068",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Baqala",
+      "cand_domain": "baqala.me",
+      "cand_country": "Kuwait",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Baqala",
+      "zoho_id": "3978798000165720069",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Barns",
+      "cand_domain": "barns.com.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Barns",
+      "zoho_id": "3978798000165720070",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Bartone Cafe & Restaurant",
+      "cand_domain": "bartone-me.com",
+      "cand_country": "Kuwait",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Bartone Cafe & Restaurant",
+      "zoho_id": "3978798000165720071",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "BATOOK HOLDING COMPANY",
+      "cand_domain": "batook.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "BATOOK HOLDING COMPANY",
+      "zoho_id": "3978798000165720072",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Bayt Aladwia Pharmacy",
+      "cand_domain": "baytaladwia.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Bayt Aladwia Pharmacy",
+      "zoho_id": "3978798000165720073",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Beidoun Trading Co.",
+      "cand_domain": "beidoun.com",
+      "cand_country": "Kuwait",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Beidoun Trading Co.",
+      "zoho_id": "3978798000165720074",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Belleza",
+      "cand_domain": "belleza.qa",
+      "cand_country": "Qatar",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Belleza",
+      "zoho_id": "3978798000165720075",
+      "zoho_country": "Qatar",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Bin Yousef",
+      "cand_domain": "binyousef.com",
+      "cand_country": "Qatar",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Bin Yousef",
+      "zoho_id": "3978798000165720076",
+      "zoho_country": "Qatar",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "ABYAT",
+      "cand_domain": "blink.com.kw",
+      "cand_country": "Kuwait",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "ABYAT",
+      "zoho_id": "3978798000014961175",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Blue Sky Company",
+      "cand_domain": "blueskycoffe.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Blue Sky Company",
+      "zoho_id": "3978798000165720077",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Bostani",
+      "cand_domain": "bostani.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Bostani",
+      "zoho_id": "3978798000165720078",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Boutiqat",
+      "cand_domain": "boutiqat.com",
+      "cand_country": "Kuwait",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Boutiqat",
+      "zoho_id": "3978798000165720079",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "BTC Fashion",
+      "cand_domain": "btcfashion.me",
+      "cand_country": "Qatar",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "BTC Fashion",
+      "zoho_id": "3978798000165720080",
+      "zoho_country": "Qatar",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "خطوة جمل | Camel Step",
+      "cand_domain": "camelstep.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "خطوة جمل | Camel Step",
+      "zoho_id": "3978798000165720081",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Care n Cure Group",
+      "cand_domain": "carencurepharmacy.com",
+      "cand_country": "Qatar",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Care n Cure Group",
+      "zoho_id": "3978798000165720082",
+      "zoho_country": "Qatar",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Casa Piu",
+      "cand_domain": "casapiu.com.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Casa Piu",
+      "zoho_id": "3978798000165720083",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "CHIPS",
+      "cand_domain": "chipsstore.com",
+      "cand_country": "Kuwait",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "CHIPS",
+      "zoho_id": "3978798000165787004",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Cozmo Group",
+      "cand_domain": "cozmogroup.com",
+      "cand_country": "Kuwait",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Cozmo Group",
+      "zoho_id": "3978798000165720084",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "CRYSTALS",
+      "cand_domain": "crystals.qa",
+      "cand_country": "Qatar",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "CRYSTALS",
+      "zoho_id": "3978798000165720085",
+      "zoho_country": "Qatar",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Al Daajan Holding",
+      "cand_domain": "daajan.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Al Daajan Holding",
+      "zoho_id": "3978798000165720086",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Dabdoob",
+      "cand_domain": "dabdoob.com",
+      "cand_country": "Kuwait",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Dabdoob",
+      "zoho_id": "3978798000165720087",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Dana Group Qatar",
+      "cand_domain": "danahypermarket.com",
+      "cand_country": "Qatar",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Dana Group Qatar",
+      "zoho_id": "3978798000165720088",
+      "zoho_country": "Qatar",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "شركة دار الشاي العربي للتجارة DAR ALSHAI ALARABI TRADING .CO",
+      "cand_domain": "daralshaistore.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "شركة دار الشاي العربي للتجارة DAR ALSHAI ALARABI TRADING .CO",
+      "zoho_id": "3978798000165720089",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Darat al-Qahwa",
+      "cand_domain": "daratalqahwa.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Darat al-Qahwa",
+      "zoho_id": "3978798000165720090",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Dawaa Pharmacy -صيدلية دواء",
+      "cand_domain": "dawaapharma.com",
+      "cand_country": "Qatar",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Dawaa Pharmacy -صيدلية دواء",
+      "zoho_id": "3978798000165720091",
+      "zoho_country": "Qatar",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Delta Fitness | دلتا فتنس",
+      "cand_domain": "delta-fitness.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Delta Fitness | دلتا فتنس",
+      "zoho_id": "3978798000165720092",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Deraah Trading Company",
+      "cand_domain": "deraah.com.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Deraah Trading Company",
+      "zoho_id": "3978798000165720093",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "doctorhouseshop",
+      "cand_domain": "doctorhouseshop.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "doctorhouseshop",
+      "zoho_id": "3978798000138833189",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Doos دووس",
+      "cand_domain": "doos.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Doos دووس",
+      "zoho_id": "3978798000165720094",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Dose Cafe | دوز كافيه",
+      "cand_domain": "dosecafeksa.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Dose Cafe | دوز كافيه",
+      "zoho_id": "3978798000165720095",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "dr.CAFE® COFFEE SAUDI ARABIA",
+      "cand_domain": "drcafe.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "dr.CAFE® COFFEE SAUDI ARABIA",
+      "zoho_id": "3978798000165720096",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Dream Fitness حلم الرشاقة",
+      "cand_domain": "dreamfitness.shop",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Dream Fitness حلم الرشاقة",
+      "zoho_id": "3978798000165720097",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "drslounge",
+      "cand_domain": "drslounge.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "drslounge",
+      "zoho_id": "3978798000138833074",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "EARTH ROASTERY",
+      "cand_domain": "earthroastery.com",
+      "cand_country": "Kuwait",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "EARTH ROASTERY",
+      "zoho_id": "3978798000165720098",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "TechnoBlue",
+      "cand_domain": "electronyat.qa",
+      "cand_country": "Qatar",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "TechnoBlue",
+      "zoho_id": "3978798000165720099",
+      "zoho_country": "Qatar",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Eureka Trading Co. W.L.L.",
+      "cand_domain": "eureka.com.kw",
+      "cand_country": "Kuwait",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Eureka Trading Co. W.L.L.",
+      "zoho_id": "3978798000165720100",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Ever Fashion Luxury Group",
+      "cand_domain": "everfashionluxurygroup.com",
+      "cand_country": "Qatar",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Ever Fashion Luxury Group",
+      "zoho_id": "3978798000165702001",
+      "zoho_country": "Qatar",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "extra",
+      "cand_domain": "extra.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "extra",
+      "zoho_id": "3978798000014369032",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Extreme Sports",
+      "cand_domain": "extreme.com.kw",
+      "cand_country": "Kuwait",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Extreme Sports",
+      "zoho_id": "3978798000165702003",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "عطور فيصل الدايل | Faisal Aldayel Perfumes",
+      "cand_domain": "faisalaldayel.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "عطور فيصل الدايل | Faisal Aldayel Perfumes",
+      "zoho_id": "3978798000165702004",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Family Food Centre",
+      "cand_domain": "family.qa",
+      "cand_country": "Qatar",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Family Food Centre",
+      "zoho_id": "3978798000165702005",
+      "zoho_country": "Qatar",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Future Communications Company",
+      "cand_domain": "fcc-kuwait.com",
+      "cand_country": "Kuwait",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Future Communications Company",
+      "zoho_id": "3978798000165702006",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Fitaihi",
+      "cand_domain": "fitaihi.com.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Fitaihi",
+      "zoho_id": "3978798000165702007",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Hassan's Optician Co.",
+      "cand_domain": "hassans.com",
+      "cand_country": "Kuwait",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Hassan's Optician Co.",
+      "zoho_id": "3978798000165702028",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "AL MAKTAB AL QATARI AL HOLLANDI WLL",
+      "cand_domain": "hollandi.com",
+      "cand_country": "Qatar",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "AL MAKTAB AL QATARI AL HOLLANDI WLL",
+      "zoho_id": "3978798000165702029",
+      "zoho_country": "Qatar",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Home & Garden",
+      "cand_domain": "homeandgarden.cc",
+      "cand_country": "Kuwait",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Home & Garden",
+      "zoho_id": "3978798000165702030",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "إبراق | IBRAQ",
+      "cand_domain": "ibraqperfumes.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "إبراق | IBRAQ",
+      "zoho_id": "3978798000165702031",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "iHome-آي هوم",
+      "cand_domain": "ihomestore.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "iHome-آي هوم",
+      "zoho_id": "3978798000165702032",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Mobile 2000",
+      "cand_domain": "mobile2000.com",
+      "cand_country": "Kuwait",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Mobile 2000",
+      "zoho_id": "3978798000165702062",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Morad Yousuf Behbehani",
+      "cand_domain": "moradbehbehani.com",
+      "cand_country": "Kuwait",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Morad Yousuf Behbehani",
+      "zoho_id": "3978798000165702063",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "mubkhar",
+      "cand_domain": "mubkhar.com",
+      "cand_country": "Kuwait",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "mubkhar",
+      "zoho_id": "3978798000165702065",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Munch Bakery منش بيكري",
+      "cand_domain": "munchbakery.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Munch Bakery منش بيكري",
+      "zoho_id": "3978798000165702066",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Muntazah Holding",
+      "cand_domain": "muntazaholding.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Muntazah Holding",
+      "zoho_id": "3978798000165702067",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Nabco Furniture Center",
+      "cand_domain": "nabcostore.com",
+      "cand_country": "Qatar",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Nabco Furniture Center",
+      "zoho_id": "3978798000165702068",
+      "zoho_country": "Qatar",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "NAD United General Trading.",
+      "cand_domain": "nadkw.com",
+      "cand_country": "Kuwait",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "NAD United General Trading.",
+      "zoho_id": "3978798000165702069",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Nagwa Boutique & Café",
+      "cand_domain": "nagwaboutique.com",
+      "cand_country": "Kuwait",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Nagwa Boutique & Café",
+      "zoho_id": "3978798000165702070",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "نسق",
+      "cand_domain": "nasaq.info",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "نسق",
+      "zoho_id": "3978798000165702071",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "rubaiyat",
+      "cand_domain": "rubaiyat.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "rubaiyat",
+      "zoho_id": "3978798000027018296",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Saadeddinpastry",
+      "cand_domain": "saadeddin.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Saadeddinpastry",
+      "zoho_id": "3978798000165730005",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Saadeddin Sweets Qatar حلويات سعدالدين",
+      "cand_domain": "saadeddin.qa",
+      "cand_country": "Qatar",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Saadeddin Sweets Qatar حلويات سعدالدين",
+      "zoho_id": "3978798000165730006",
+      "zoho_country": "Qatar",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "saco",
+      "cand_domain": "saco.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "saco",
+      "zoho_id": "3978798000138833113",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Safari Group",
+      "cand_domain": "safarigroup.net",
+      "cand_country": "Qatar",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Safari Group",
+      "zoho_id": "3978798000165730008",
+      "zoho_country": "Qatar",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Safari Hypermarket",
+      "cand_domain": "safarihypermarket.com",
+      "cand_country": "Qatar",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Safari Hypermarket",
+      "zoho_id": "3978798000165730009",
+      "zoho_country": "Qatar",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Safat Home by Alghanim Industries",
+      "cand_domain": "safathome.com",
+      "cand_country": "Kuwait",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Safat Home by Alghanim Industries",
+      "zoho_id": "3978798000165730010",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Safi",
+      "cand_domain": "saficosmetics.com",
+      "cand_country": "Kuwait",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Safi",
+      "zoho_id": "3978798000165730011",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Salam Studio and Stores",
+      "cand_domain": "salams.com",
+      "cand_country": "Qatar",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Salam Studio and Stores",
+      "zoho_id": "3978798000165730012",
+      "zoho_country": "Qatar",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Saudia Group",
+      "cand_domain": "saudiagroup.com",
+      "cand_country": "Qatar",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Saudia Group",
+      "zoho_id": "3978798000165730014",
+      "zoho_country": "Qatar",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Wooden Coffee",
+      "cand_domain": "wooden.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Wooden Coffee",
+      "zoho_id": "3978798000165730052",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "YIACO Medical Company",
+      "cand_domain": "yiaco.com",
+      "cand_country": "Kuwait",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "YIACO Medical Company",
+      "zoho_id": "3978798000165730053",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Zahrat Al-Rawdah Pharmacies Co.",
+      "cand_domain": "zahra.com.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Zahrat Al-Rawdah Pharmacies Co.",
+      "zoho_id": "3978798000165730054",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "شركة اثاث للتجزئة",
+      "cand_domain": "zamanifurniture.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "شركة اثاث للتجزئة",
+      "zoho_id": "3978798000165787010",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Yalla Toys",
+      "cand_domain": "https://yallatoys.com/",
+      "cand_country": "Qatar",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Yalla Toys",
+      "zoho_id": "3978798000007460273",
+      "zoho_country": "Qatar",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Al Bassam Home Appliances",
+      "cand_domain": "http://www.fordeal.com",
+      "cand_country": "",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Al Bassam Home Appliances",
+      "zoho_id": "3978798000103654041",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "City Hypermarket",
+      "cand_domain": "http://www.cityhyper.com",
+      "cand_country": "Kuwait",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "City Hypermarket",
+      "zoho_id": "3978798000121998055",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Cenomi",
+      "cand_domain": "cenomiretail.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "cenomiretail",
+      "zoho_id": "3978798000138824087",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Ghaya Pharmacies Limited",
+      "cand_domain": "ghaya-pharmacy.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Ghaya Pharmacies Limited",
+      "zoho_id": "3978798000165702016",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "GET MENA",
+      "cand_domain": "get.med.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "GET MENA",
+      "zoho_id": "3978798000165702014",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Gozl Trading Company",
+      "cand_domain": "gozl.com.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Gozl Trading Company",
+      "zoho_id": "3978798000165702020",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Forsan Foods and Consumer Products Company Ltd.",
+      "cand_domain": "forsan.com.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Forsan Foods and Consumer Products Company Ltd.",
+      "zoho_id": "3978798000165702010",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Hail House بيت هايل",
+      "cand_domain": "hail-house.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Hail House بيت هايل",
+      "zoho_id": "3978798000165702025",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Rolly",
+      "cand_domain": "itsrolly.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Rolly",
+      "zoho_id": "3978798000165702036",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Hassan Abul Co.",
+      "cand_domain": "hassanabul.com",
+      "cand_country": "Kuwait",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Hassan Abul Co.",
+      "zoho_id": "3978798000165702027",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "عطور لوريس",
+      "cand_domain": "lorisksa.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "عطور لوريس",
+      "zoho_id": "3978798000165702048",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "LSH ( Homaizi Group)",
+      "cand_domain": "lshinternational.com",
+      "cand_country": "Kuwait",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "LSH ( Homaizi Group)",
+      "zoho_id": "3978798000165702050",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Maktab",
+      "cand_domain": "maktab.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Maktab",
+      "zoho_id": "3978798000165702055",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Maraya",
+      "cand_domain": "maraya.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Maraya",
+      "zoho_id": "3978798000165702057",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "NESK Group of Trading Projects",
+      "cand_domain": "nesk.com.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "NESK Group of Trading Projects",
+      "zoho_id": "3978798000165702075",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "NOLOR Fragrances | عطور نولور",
+      "cand_domain": "nolorfragrances.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "NOLOR Fragrances | عطور نولور",
+      "zoho_id": "3978798000165702076",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Hyper Panda",
+      "cand_domain": "panda-offers.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Hyper Panda",
+      "zoho_id": "3978798000165702081",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "KH Perfumes | عطور كي إتش",
+      "cand_domain": "perfumekh.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "KH Perfumes | عطور كي إتش",
+      "zoho_id": "3978798000165702086",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Paris United Group",
+      "cand_domain": "parisunitedgroup.com",
+      "cand_country": "Qatar",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Paris United Group",
+      "zoho_id": "3978798000165702083",
+      "zoho_country": "Qatar",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "cool.sa",
+      "cand_domain": "takeef.store",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "cool.sa",
+      "zoho_id": "3978798000165730028",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Special Food Company",
+      "cand_domain": "thespecialfood.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Special Food Company",
+      "zoho_id": "3978798000165730038",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Saudi Perfume & Cosmetics Company Limited",
+      "cand_domain": "spci-sa.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Saudi Perfume & Cosmetics Company Limited",
+      "zoho_id": "3978798000165730022",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Hanan Dashti Company",
+      "cand_domain": "hanandashtishop.com",
+      "cand_country": "Kuwait",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Hanan Dashti Company",
+      "zoho_id": "3978798000165702026",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "صيدليات انوفا - Innova Pharmacy",
+      "cand_domain": "innovapharmacy.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "صيدليات انوفا - Innova Pharmacy",
+      "zoho_id": "3978798000165702035",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "maktaba",
+      "cand_domain": "maktabakw.com",
+      "cand_country": "Kuwait",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "maktaba",
+      "zoho_id": "3978798000165702056",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Natural Touch ناتشورال تاتش",
+      "cand_domain": "ntshop.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Natural Touch ناتشورال تاتش",
+      "zoho_id": "3978798000165702078",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "سدر الخليج للعطور( Sedr Alkhaleej Perfumes )",
+      "cand_domain": "sedralkhaleej.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "سدر الخليج للعطور( Sedr Alkhaleej Perfumes )",
+      "zoho_id": "3978798000165730015",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Sports Corner",
+      "cand_domain": "sportscorner.qa",
+      "cand_country": "Qatar",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Sports Corner",
+      "zoho_id": "3978798000165730024",
+      "zoho_country": "Qatar",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Store 974",
+      "cand_domain": "store974.com",
+      "cand_country": "Qatar",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Store 974",
+      "zoho_id": "3978798000165730025",
+      "zoho_country": "Qatar",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "تركي للذبائح",
+      "cand_domain": "turkieshop.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "تركي للذبائح",
+      "zoho_id": "3978798000165730041",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Game Store Company",
+      "cand_domain": "gamestore.com.kw",
+      "cand_country": "Kuwait",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Game Store Company",
+      "zoho_id": "3978798000165702012",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "شركة اطياب غناتي التجارية",
+      "cand_domain": "ghanaty.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "شركة اطياب غناتي التجارية",
+      "zoho_id": "3978798000165702015",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Groupxen",
+      "cand_domain": "groupxen.com",
+      "cand_country": "Kuwait",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Groupxen",
+      "zoho_id": "3978798000165702021",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Gulf Beauty International",
+      "cand_domain": "gulfbeautytrading.com",
+      "cand_country": "Qatar",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Gulf Beauty International",
+      "zoho_id": "3978798000165702023",
+      "zoho_country": "Qatar",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Gulf Fashion General Trading Company",
+      "cand_domain": "gulf-fashion.com",
+      "cand_country": "Kuwait",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Gulf Fashion General Trading Company",
+      "zoho_id": "3978798000165702022",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Mohamed Naser Al-Hajery & Sons Ltd.",
+      "cand_domain": "hajery.com",
+      "cand_country": "Kuwait",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Mohamed Naser Al-Hajery & Sons Ltd.",
+      "zoho_id": "3978798000014961337",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Jamjoom Fashion",
+      "cand_domain": "jamjoomfashion.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Jamjoom Fashion",
+      "zoho_id": "3978798000165702037",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Kana Group",
+      "cand_domain": "kanagroup.com",
+      "cand_country": "Kuwait",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Kana Group",
+      "zoho_id": "3978798000165702042",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "kayanee",
+      "cand_domain": "kayanee.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "kayanee",
+      "zoho_id": "3978798000084747327",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "International Medical Company (Kulud Pharmacy)",
+      "cand_domain": "imcqatar.com",
+      "cand_country": "Qatar",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "International Medical Company (Kulud Pharmacy)",
+      "zoho_id": "3978798000165702034",
+      "zoho_country": "Qatar",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "KIDDY ZONE",
+      "cand_domain": "kiddyzone.com",
+      "cand_country": "Qatar",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "KIDDY ZONE",
+      "zoho_id": "3978798000165702045",
+      "zoho_country": "Qatar",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Laverne Group",
+      "cand_domain": "laverne.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Laverne Group | مجموعة لافيرن",
+      "zoho_id": "3978798000165702046",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "lazurde",
+      "cand_domain": "lazurde.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "lazurde",
+      "zoho_id": "3978798000030304454",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Adyaf Gulf Co. Ltd.",
+      "cand_domain": "madeleine.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Adyaf Gulf Co. Ltd.",
+      "zoho_id": "3978798000165702052",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "La Plus Belle",
+      "cand_domain": "lpbkuwait.com",
+      "cand_country": "Kuwait",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "La Plus Belle",
+      "zoho_id": "3978798000165702049",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Match | ماتش",
+      "cand_domain": "matchperfumes.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Match | ماتش",
+      "zoho_id": "3978798000165702059",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "nice",
+      "cand_domain": "nice.com.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "nice",
+      "zoho_id": "3978798000138824120",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "NICE ONE",
+      "cand_domain": "niceonesa.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "nice one",
+      "zoho_id": "3978798000024620158",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "oceanpharmacy",
+      "cand_domain": "oceanpharmacy.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "oceanpharmacy",
+      "zoho_id": "3978798000138833146",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Petzone",
+      "cand_domain": "petzone.com",
+      "cand_country": "Kuwait",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Petzone",
+      "zoho_id": "3978798000165702087",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Pharmacare Group Retail Pharmacy Chain",
+      "cand_domain": "pharmacareonline.qa",
+      "cand_country": "Qatar",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Pharmacare Group Retail Pharmacy Chain",
+      "zoho_id": "3978798000165702088",
+      "zoho_country": "Qatar",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Pharmazone Kuwait",
+      "cand_domain": "pharmazone.com",
+      "cand_country": "Kuwait",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Pharmazone Kuwait",
+      "zoho_id": "3978798000165702091",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Pharmalife Co.",
+      "cand_domain": "pharmalife-kw.com",
+      "cand_country": "Kuwait",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Pharmalife Co.",
+      "zoho_id": "3978798000165702090",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Rasees Perfumes",
+      "cand_domain": "rasees.net",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Rasees Perfumes",
+      "zoho_id": "3978798000165702098",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Pari Gallery Qatar",
+      "cand_domain": "parigallery.com",
+      "cand_country": "Qatar",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Pari Gallery Qatar",
+      "zoho_id": "3978798000165702082",
+      "zoho_country": "Qatar",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "صيدلية الرازي",
+      "cand_domain": "razi.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "صيدلية الرازي",
+      "zoho_id": "3978798000165730001",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "reefperfumes",
+      "cand_domain": "reefperfumes.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "reefperfumes",
+      "zoho_id": "3978798000138826061",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Al Rawabi Group of Companies",
+      "cand_domain": "rawabihypermarket.com",
+      "cand_country": "Qatar",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Al Rawabi Group of Companies",
+      "zoho_id": "3978798000165702100",
+      "zoho_country": "Qatar",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Shafy",
+      "cand_domain": "shafy.com.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Shafy",
+      "zoho_id": "3978798000165730016",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Saleh Al Hamad Al Mana Co.",
+      "cand_domain": "shalmana.com",
+      "cand_country": "Qatar",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Saleh Al Hamad Al Mana Co.",
+      "zoho_id": "3978798000165730017",
+      "zoho_country": "Qatar",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Techno Blue WLL",
+      "cand_domain": "techno-blue.com",
+      "cand_country": "Qatar",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Techno Blue WLL",
+      "zoho_id": "3978798000165730031",
+      "zoho_country": "Qatar",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "SPORT GHORNATAH",
+      "cand_domain": "sportghornatah.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "SPORT GHORNATAH",
+      "zoho_id": "3978798000165730023",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "بيوتي سيكرتس",
+      "cand_domain": "thebeautysecrets.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "بيوتي سيكرتس",
+      "zoho_id": "3978798000165730033",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "The Beauty Station | Nail Station KW",
+      "cand_domain": "thebeautystation.com",
+      "cand_country": "Kuwait",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "The Beauty Station | Nail Station KW",
+      "zoho_id": "3978798000165730034",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Starco Holding",
+      "cand_domain": "starcoholding.com",
+      "cand_country": "Kuwait",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Starco Holding",
+      "zoho_id": "3978798000165787009",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "United International Trading Company W.L.L",
+      "cand_domain": "uitcqatar.com",
+      "cand_country": "Qatar",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "United International Trading Company W.L.L",
+      "zoho_id": "3978798000165730042",
+      "zoho_country": "Qatar",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Transind Holding",
+      "cand_domain": "transindgroup.com",
+      "cand_country": "Qatar",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Transind Holding",
+      "zoho_id": "3978798000165730040",
+      "zoho_country": "Qatar",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Trafalgar Luxury Group",
+      "cand_domain": "trafalgarluxurygroup.com",
+      "cand_country": "Kuwait",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Trafalgar Luxury Group",
+      "zoho_id": "3978798000165730039",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "UniPharma",
+      "cand_domain": "unipharma.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "UniPharma",
+      "zoho_id": "3978798000165730043",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Union Trading Co.",
+      "cand_domain": "utc.com.kw",
+      "cand_country": "Kuwait",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Union Trading Co.",
+      "zoho_id": "3978798000165730045",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Wathnan Holding",
+      "cand_domain": "wathnanholding.com",
+      "cand_country": "Qatar",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Wathnan Holding",
+      "zoho_id": "3978798000165730049",
+      "zoho_country": "Qatar",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Wellcare Pharmacy Qatar",
+      "cand_domain": "wellcaregroup.com",
+      "cand_country": "Qatar",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Wellcare Pharmacy Qatar",
+      "zoho_id": "3978798000165730051",
+      "zoho_country": "Qatar",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Wahran Trading Company-Kuwait",
+      "cand_domain": "wahrantrading.com",
+      "cand_country": "Kuwait",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Wahran Trading Company-Kuwait",
+      "zoho_id": "3978798000165730048",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Srya | سَرِيّا",
+      "cand_domain": "ganache-sa.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Srya | سَرِيّا",
+      "zoho_id": "3978798000165702013",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Gulf Group",
+      "cand_domain": "gulfgroupholding.com",
+      "cand_country": "Kuwait",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Gulf Group",
+      "zoho_id": "3978798000165702024",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "KAPICO",
+      "cand_domain": "kapicogroup.com",
+      "cand_country": "Kuwait",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "KAPICO",
+      "zoho_id": "3978798000165702043",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Khereiji Showrooms Company Limited",
+      "cand_domain": "ksc.com.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Khereiji Showrooms Company Limited",
+      "zoho_id": "3978798000165787006",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "مخابز وحلويات نعمه",
+      "cand_domain": "neamah.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "مخابز وحلويات نعمه",
+      "zoho_id": "3978798000165702074",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Otoraat - عطورات",
+      "cand_domain": "otoraat.com",
+      "cand_country": "Kuwait",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Otoraat - عطورات",
+      "zoho_id": "3978798000165702080",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "شركة شموع الماضي",
+      "cand_domain": "pcandles.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "شركة شموع الماضي",
+      "zoho_id": "3978798000165702085",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Lighting Stores | مخازن الإضاءة",
+      "cand_domain": "lightingstores.com.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Lighting Stores | مخازن الإضاءة",
+      "zoho_id": "3978798000165787007",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "PREMIUM LIMITED GROUP",
+      "cand_domain": "plgtrade.com",
+      "cand_country": "Qatar",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "PREMIUM LIMITED GROUP",
+      "zoho_id": "3978798000165702092",
+      "zoho_country": "Qatar",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Qaf Coffee Roasters",
+      "cand_domain": "qafcoffee.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Qaf Coffee Roasters - مجموعة قاف لتقديم المشروبات",
+      "zoho_id": "3978798000165702094",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Richy Group",
+      "cand_domain": "richy.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Richy Group",
+      "zoho_id": "3978798000165730002",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Tamimi Group",
+      "cand_domain": "tamimigroup.com.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Tamimi Group",
+      "zoho_id": "3978798000165730030",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "The Sultan Center",
+      "cand_domain": "sultan-center.com",
+      "cand_country": "Kuwait",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "The Sultan Center",
+      "zoho_id": "3978798000165730026",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Food Unit Company",
+      "cand_domain": "foodunitco.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Food Unit Company",
+      "zoho_id": "3978798000165702009",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "GISSAH",
+      "cand_domain": "gissah.com",
+      "cand_country": "Kuwait",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "GISSAH",
+      "zoho_id": "3978798000165702017",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Go Fresh",
+      "cand_domain": "gofresh.com.kw",
+      "cand_country": "Kuwait",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Go Fresh",
+      "zoho_id": "3978798000165702018",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Al Khairat Company",
+      "cand_domain": "khairat.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Al Khairat Company",
+      "zoho_id": "3978798000165702044",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Kiffa Roaster",
+      "cand_domain": "kiffa.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Kiffa Roaster",
+      "zoho_id": "3978798000165787005",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "lomar",
+      "cand_domain": "lomar.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "lomar",
+      "zoho_id": "3978798000084747837",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Masdar - مصدر",
+      "cand_domain": "masdaronline.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Masdar - مصدر",
+      "zoho_id": "3978798000165702058",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Natureland",
+      "cand_domain": "natureland.net",
+      "cand_country": "Kuwait",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Natureland",
+      "zoho_id": "3978798000165702072",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Otantik Home",
+      "cand_domain": "otantik-home.com",
+      "cand_country": "Qatar",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Otantik Home",
+      "zoho_id": "3978798000165702079",
+      "zoho_country": "Qatar",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Q Mart | كيو",
+      "cand_domain": "qmartstores.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Q Mart | كيو",
+      "zoho_id": "3978798000165702095",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Bafarat Industrial Group",
+      "cand_domain": "ranafood.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Bafarat Industrial Group",
+      "zoho_id": "3978798000165702096",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Shine Gold and Diamonds",
+      "cand_domain": "shinegd.com",
+      "cand_country": "Qatar",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Shine Gold and Diamonds",
+      "zoho_id": "3978798000165730018",
+      "zoho_country": "Qatar",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Raha",
+      "cand_domain": "shopraha.com",
+      "cand_country": "Kuwait",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Raha",
+      "zoho_id": "3978798000165730019",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Siwar Foods (SF)",
+      "cand_domain": "siwar.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Siwar Foods (SF)",
+      "zoho_id": "3978798000165730021",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "sulalat",
+      "cand_domain": "sulalat.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "sulalat",
+      "zoho_id": "3978798000138833185",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "OLE Coffee",
+      "cand_domain": "theolecoffee.com",
+      "cand_country": "Kuwait",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "OLE Coffee",
+      "zoho_id": "3978798000165730037",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "THE BED SHOP",
+      "cand_domain": "thebedshop.co",
+      "cand_country": "Kuwait",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "THE BED SHOP",
+      "zoho_id": "3978798000165730035",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "وكف | wacafe",
+      "cand_domain": "wacafe.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "وكف | wacafe",
+      "zoho_id": "3978798000165730046",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "United Group",
+      "cand_domain": "unitedgroup.com.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "United Group",
+      "zoho_id": "3978798000165730044",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "werecle",
+      "cand_domain": "werecle.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "werecle",
+      "zoho_id": "3978798000138833137",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Wahag Medical Company",
+      "cand_domain": "wahagco.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Wahag Medical Company",
+      "zoho_id": "3978798000165730047",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Mohammed Siraj Attar & Bros",
+      "cand_domain": "sirajattarbros.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Mohammed Siraj Attar & Bros",
+      "zoho_id": "3978798000165730020",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Froyo Cafe",
+      "cand_domain": "froyo.com.kw",
+      "cand_country": "Kuwait",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Froyo Cafe",
+      "zoho_id": "3978798000165702011",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Food Gate",
+      "cand_domain": "foodgate.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Food Gate",
+      "zoho_id": "3978798000165702008",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Goodies Selections Saudi Arabia",
+      "cand_domain": "goodies.com.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Goodies Selections Saudi Arabia",
+      "zoho_id": "3978798000165702019",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "مكتبة الجزيرة",
+      "cand_domain": "jazeara.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "مكتبة الجزيرة",
+      "zoho_id": "3978798000165702039",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Kabbani Trading Center",
+      "cand_domain": "jareersweets.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Kabbani Trading Center",
+      "zoho_id": "3978798000165702038",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Kenz Woman",
+      "cand_domain": "kenzwoman.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "kenzwoman",
+      "zoho_id": "3978798000138833077",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "ليوان | Liwan",
+      "cand_domain": "liwan.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "ليوان | Liwan",
+      "zoho_id": "3978798000165702047",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "مخازن العناية | Makhazen Alenayah",
+      "cand_domain": "makhazenalenaya.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "مخازن العناية | Makhazen Alenayah",
+      "zoho_id": "3978798000165702054",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Magaza",
+      "cand_domain": "magaza.me",
+      "cand_country": "Qatar",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Magaza",
+      "zoho_id": "3978798000165702053",
+      "zoho_country": "Qatar",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Nor Noyau® | Artisan Chocolatier",
+      "cand_domain": "nornoyau.com",
+      "cand_country": "Kuwait",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Nor Noyau® | Artisan Chocolatier",
+      "zoho_id": "3978798000165702077",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Pastry & Coffee",
+      "cand_domain": "pastry.coffee",
+      "cand_country": "Kuwait",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Pastry & Coffee",
+      "zoho_id": "3978798000165702084",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "RIVA",
+      "cand_domain": "rivafashion.com",
+      "cand_country": "Kuwait",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "RIVA",
+      "zoho_id": "3978798000165730003",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "roastinghouse",
+      "cand_domain": "roastinghouse.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "roastinghouse",
+      "zoho_id": "3978798000138833159",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "رنين | Raneen",
+      "cand_domain": "raneen.com.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "رنين | Raneen",
+      "zoho_id": "3978798000165702097",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "domain"
+    },
+    {
+      "cand_name": "Trolley Convenience Store",
+      "cand_domain": "trolley.com.kw",
+      "cand_country": "Kuwait",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Trolley Convenience Store",
+      "zoho_id": "3978798000014961486",
+      "zoho_country": "Kuwait",
+      "match_type": "domain"
+    }
+  ],
+  "name_matches_confirmed": [
+    {
+      "cand_name": "Ahmad A. Abed Holding",
+      "cand_domain": "aaabed.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Ahmad A. Abed",
+      "zoho_id": "3978798000165720005",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "abed",
+        "ahmad"
+      ]
+    },
+    {
+      "cand_name": "Abraj Hyper",
+      "cand_domain": "abrajhypermarket.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Abraj Hyper",
+      "zoho_id": "3978798000084746807",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "abraj"
+      ]
+    },
+    {
+      "cand_name": "Adam Medical Company",
+      "cand_domain": "adamonline.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Adam Medical Company",
+      "zoho_id": "3978798000018427570",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "adam"
+      ]
+    },
+    {
+      "cand_name": "aDawliah Electronics",
+      "cand_domain": "adawliahstore.com",
+      "cand_country": "Kuwait",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "aDawliah Electronics",
+      "zoho_id": "3978798000015870013",
+      "zoho_country": "Kuwait",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "adawliah"
+      ]
+    },
+    {
+      "cand_name": "Alesayi Electronics | العيسائي للإلكترونيات",
+      "cand_domain": "aecksa.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Alesayi Electronics | العيسائي للإلكترونيات",
+      "zoho_id": "3978798000084747263",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": []
+    },
+    {
+      "cand_name": "Al jazera Markets",
+      "cand_domain": "al-jazera.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "A Market",
+      "zoho_id": "3978798000084747287",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 0.64,
+      "shared_tokens": []
+    },
+    {
+      "cand_name": "Al Sadhan Group",
+      "cand_domain": "al-sadhan.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Al Sadhan Stores",
+      "zoho_id": "3978798000084746822",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "sadhan"
+      ]
+    },
+    {
+      "cand_name": "Al Sadhan Group",
+      "cand_domain": "al-sadhan.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Al Sadhan Trading Co",
+      "zoho_id": "3978798000165720008",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "sadhan"
+      ]
+    },
+    {
+      "cand_name": "Abdullah Ali Al Amer & Brothers Trading Co",
+      "cand_domain": "alamer-market.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Abdullah Ali Al Amer & Brothers Trading Co",
+      "zoho_id": "3978798000084746846",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "amer"
+      ]
+    },
+    {
+      "cand_name": "ALdakheel Oud الدخيل للعود",
+      "cand_domain": "aldakheeloud.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "ALdakheel Oud الدخيل للعود",
+      "zoho_id": "3978798000084746847",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "aldakheel"
+      ]
+    },
+    {
+      "cand_name": "Aldawaeya",
+      "cand_domain": "aldawaeya.com",
+      "cand_country": "Kuwait",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Aldawaeya",
+      "zoho_id": "3978798000043259320",
+      "zoho_country": "Kuwait",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "aldawaeya"
+      ]
+    },
+    {
+      "cand_name": "Aleef",
+      "cand_domain": "aleef.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "aleef",
+      "zoho_id": "3978798000138949051",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "aleef"
+      ]
+    },
+    {
+      "cand_name": "Abdul Latif Jameel Enterprises",
+      "cand_domain": "alj-enterprises.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Abdul Latif Jameel",
+      "zoho_id": "3978798000104179230",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "latif"
+      ]
+    },
+    {
+      "cand_name": "Abdul Latif Jameel Electronics",
+      "cand_domain": "alje.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Abdul Latif Jameel",
+      "zoho_id": "3978798000104179230",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 0.75,
+      "shared_tokens": [
+        "latif"
+      ]
+    },
+    {
+      "cand_name": "ALMAHA OPTICAL",
+      "cand_domain": "almahaopt.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Al-Maha Optical المها للبصريات",
+      "zoho_id": "3978798000165720011",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 0.966,
+      "shared_tokens": []
+    },
+    {
+      "cand_name": "ALMAKTABA",
+      "cand_domain": "almaktaba.com.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "ALMAKTABA",
+      "zoho_id": "3978798000084748270",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "almaktaba"
+      ]
+    },
+    {
+      "cand_name": "Almanea Co.",
+      "cand_domain": "almanea.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Almanea Co.",
+      "zoho_id": "3978798000084746790",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "almanea"
+      ]
+    },
+    {
+      "cand_name": "Al Musbah Group",
+      "cand_domain": "almusbah.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Al Musbah Group",
+      "zoho_id": "3978798000084746687",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "musbah"
+      ]
+    },
+    {
+      "cand_name": "Almutlaq Company",
+      "cand_domain": "almutlaqco.com.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Almutlaq Group",
+      "zoho_id": "3978798000084745780",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "almutlaq"
+      ]
+    },
+    {
+      "cand_name": "ALRAYA الراية",
+      "cand_domain": "alraya.com.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "ALRAYA الراية",
+      "zoho_id": "3978798000084744817",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "alraya"
+      ]
+    },
+    {
+      "cand_name": "H. M. Al Rugaib & Sons Trading Co. - شركة حمد محمد الرقيب و أولاده التجارية",
+      "cand_domain": "alrugaibfurniture.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "H. M. Al Rugaib & Sons Trading Co. Ltd.",
+      "zoho_id": "3978798000017888307",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "rugaib"
+      ]
+    },
+    {
+      "cand_name": "Alshaya Watches  الشايع للساعات",
+      "cand_domain": "alshayawatches.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Alshaya Watches",
+      "zoho_id": "3978798000084747256",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "watches"
+      ]
+    },
+    {
+      "cand_name": "Alyasra Group",
+      "cand_domain": "alyasra.com",
+      "cand_country": "Kuwait",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Alyasra Group",
+      "zoho_id": "3978798000165720044",
+      "zoho_country": "Kuwait",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "alyasra"
+      ]
+    },
+    {
+      "cand_name": "A Market ماركت",
+      "cand_domain": "amarkets.com.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "A Market",
+      "zoho_id": "3978798000084747287",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": []
+    },
+    {
+      "cand_name": "Amazon KSA Markets",
+      "cand_domain": "amazonsaudi.com.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "A Market",
+      "zoho_id": "3978798000084747287",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 0.615,
+      "shared_tokens": []
+    },
+    {
+      "cand_name": "Aster Pharmacy - صيدلية استر",
+      "cand_domain": "asterpharmacy.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Aster Pharmacy | Saudi Arabia",
+      "zoho_id": "3978798000084746768",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "aster"
+      ]
+    },
+    {
+      "cand_name": "Balsam Medical Care",
+      "cand_domain": "balsemcare.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Balsam Medical Care Company",
+      "zoho_id": "3978798000084744827",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "balsam"
+      ]
+    },
+    {
+      "cand_name": "Barakah",
+      "cand_domain": "barakah.app",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Barakah",
+      "zoho_id": "3978798000084745392",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "barakah"
+      ]
+    },
+    {
+      "cand_name": "Bed Quarter Company",
+      "cand_domain": "bedquarter.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Bed Quarter Company",
+      "zoho_id": "3978798000084746878",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "quarter"
+      ]
+    },
+    {
+      "cand_name": "BinDawood Holding",
+      "cand_domain": "bindawoodholding.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "BinDawood Holding",
+      "zoho_id": "3978798000084746769",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "bindawood"
+      ]
+    },
+    {
+      "cand_name": "Blooming Wear",
+      "cand_domain": "bloomingwear.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Blooming Wear",
+      "zoho_id": "3978798000084747833",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "blooming",
+        "wear"
+      ]
+    },
+    {
+      "cand_name": "Cenomi Group",
+      "cand_domain": "cenomi.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Cenomi Group",
+      "zoho_id": "3978798000084746767",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "cenomi"
+      ]
+    },
+    {
+      "cand_name": "Coffee Complex - كوفي كومبلكس",
+      "cand_domain": "coffeecomplex.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Coffee Complex - كوفي كومبلكس",
+      "zoho_id": "3978798000084747422",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "complex"
+      ]
+    },
+    {
+      "cand_name": "Danube",
+      "cand_domain": "danube.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Danube",
+      "zoho_id": "3978798000014947049",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "danube"
+      ]
+    },
+    {
+      "cand_name": "DELTA (DMC)",
+      "cand_domain": "deltamarketingco.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "DELTA (DMC)",
+      "zoho_id": "3978798000084746812",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "dmc"
+      ]
+    },
+    {
+      "cand_name": "DKHOUN دخون",
+      "cand_domain": "dkhoun.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "DKHOUN دخون",
+      "zoho_id": "3978798000084747209",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "dkhoun"
+      ]
+    },
+    {
+      "cand_name": "Dukan Retailing Company",
+      "cand_domain": "dukan.me",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Dukan Retailing Company",
+      "zoho_id": "3978798000084744820",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "dukan",
+        "retailing"
+      ]
+    },
+    {
+      "cand_name": "EDDY - Home & Electronics",
+      "cand_domain": "eddy.com.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "EDDY - Home & Electronics",
+      "zoho_id": "3978798000084746799",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "eddy"
+      ]
+    },
+    {
+      "cand_name": "Elfaleh Sports House",
+      "cand_domain": "elfaleh.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Elfaleh Sports House",
+      "zoho_id": "3978798000084746838",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "elfaleh"
+      ]
+    },
+    {
+      "cand_name": "Fakeeh Vision",
+      "cand_domain": "fakeehvision.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Fakeeh Vision",
+      "zoho_id": "3978798000084747200",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "fakeeh",
+        "vision"
+      ]
+    },
+    {
+      "cand_name": "Farm",
+      "cand_domain": "farm.com.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Farm",
+      "zoho_id": "3978798000084746784",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "farm"
+      ]
+    },
+    {
+      "cand_name": "Floward",
+      "cand_domain": "floward.co",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Floward",
+      "zoho_id": "3978798000020722262",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "floward"
+      ]
+    },
+    {
+      "cand_name": "Ibrand - اي براند",
+      "cand_domain": "ibrand.com.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "iBRAND",
+      "zoho_id": "3978798000084746808",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "ibrand"
+      ]
+    },
+    {
+      "cand_name": "Modern Electronics - MEC (AL-Faisaliah Group)",
+      "cand_domain": "mestores.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Modern Electronics - MEC (AL-Faisaliah Group)",
+      "zoho_id": "3978798000084746868",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "faisaliah",
+        "mec"
+      ]
+    },
+    {
+      "cand_name": "Alwazn Almithaly الوزن المثالي",
+      "cand_domain": "mithaly.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Alwazn Almithaly الوزن المثالي",
+      "zoho_id": "3978798000084746805",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "almithaly",
+        "alwazn"
+      ]
+    },
+    {
+      "cand_name": "My Little Home | بيتي الصغير",
+      "cand_domain": "mylittlehome.com.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "My Little Home |",
+      "zoho_id": "3978798000084747265",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "little"
+      ]
+    },
+    {
+      "cand_name": "WHITES",
+      "cand_domain": "whites.net",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "WHITES",
+      "zoho_id": "3978798000016004114",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "whites"
+      ]
+    },
+    {
+      "cand_name": "xcite by alghanim electronics",
+      "cand_domain": "xcite.com",
+      "cand_country": "Kuwait",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "xcite by alghanim electronics",
+      "zoho_id": "3978798000033427127",
+      "zoho_country": "Kuwait",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "xcite"
+      ]
+    },
+    {
+      "cand_name": "Zagzoog for home Appliances",
+      "cand_domain": "zagzoog.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Zagzoog for home Appliances",
+      "zoho_id": "3978798000084746815",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "zagzoog"
+      ]
+    },
+    {
+      "cand_name": "ALMEERA CONSUMER GOODS COMPANY QSC",
+      "cand_domain": "almeera.com.qa",
+      "cand_country": "Qatar",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "ALMEERA CONSUMER GOODS COMPANY QSC",
+      "zoho_id": "3978798000165720031",
+      "zoho_country": "Qatar",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "almeera",
+        "goods"
+      ]
+    },
+    {
+      "cand_name": "Cenomi",
+      "cand_domain": "cenomiretail.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Cenomi Group",
+      "zoho_id": "3978798000084746767",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "cenomi"
+      ]
+    },
+    {
+      "cand_name": "Express Food Company",
+      "cand_domain": "albaik.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Express Food Company",
+      "zoho_id": "3978798000165702002",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "express"
+      ]
+    },
+    {
+      "cand_name": "Gazzaz قزاز",
+      "cand_domain": "gazzaz.com.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Gazzaz قزاز",
+      "zoho_id": "3978798000084747935",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "gazzaz"
+      ]
+    },
+    {
+      "cand_name": "IMC Kulud Pharmacy",
+      "cand_domain": "kuludonline.com",
+      "cand_country": "Qatar",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "IMC Kulud Pharmacy",
+      "zoho_id": "3978798000165702033",
+      "zoho_country": "Qatar",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "imc"
+      ]
+    },
+    {
+      "cand_name": "Jeddah Duty Free  السوق الحرة جدة",
+      "cand_domain": "dutyfree-jeddah.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Jeddah Duty Free السوق الحرة جدة",
+      "zoho_id": "3978798000165702041",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "duty",
+        "free",
+        "jeddah"
+      ]
+    },
+    {
+      "cand_name": "KartNGo",
+      "cand_domain": "kartngo.co",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "KartNGo",
+      "zoho_id": "3978798000084747334",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "kartngo"
+      ]
+    },
+    {
+      "cand_name": "Makkah Hypermarket Saudi Arabia",
+      "cand_domain": "makkahhyper.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Makkah Hypermarket Saudi Arabia",
+      "zoho_id": "3978798000084746833",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "makkah"
+      ]
+    },
+    {
+      "cand_name": "Meed Trading Company",
+      "cand_domain": "meed.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Meed Trading Company",
+      "zoho_id": "3978798000084746791",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "meed"
+      ]
+    },
+    {
+      "cand_name": "Line Furniture",
+      "cand_domain": "linefurniture.net",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Line Furniture",
+      "zoho_id": "3978798000084747339",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": []
+    },
+    {
+      "cand_name": "Oncost Trading Company",
+      "cand_domain": "oncost.com",
+      "cand_country": "Kuwait",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Oncost Trading Company",
+      "zoho_id": "3978798000017886784",
+      "zoho_country": "Kuwait",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "oncost"
+      ]
+    },
+    {
+      "cand_name": "Mazaya Food",
+      "cand_domain": "onlinemazaya.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Mazaya Food",
+      "zoho_id": "3978798000084744823",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "mazaya"
+      ]
+    },
+    {
+      "cand_name": "Lemon Pharmacy",
+      "cand_domain": "lemon.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Lemon Pharmacy",
+      "zoho_id": "3978798000078266008",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "lemon"
+      ]
+    },
+    {
+      "cand_name": "Gift Mart International",
+      "cand_domain": "giftmart.net",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Gift Mart International",
+      "zoho_id": "3978798000084746418",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "gift"
+      ]
+    },
+    {
+      "cand_name": "Manuel Market",
+      "cand_domain": "manuelmarket.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Manuel Market",
+      "zoho_id": "3978798000084744818",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "manuel"
+      ]
+    },
+    {
+      "cand_name": "Matajer Al Saudia",
+      "cand_domain": "matajeralsaudia.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Matajer Al Saudia",
+      "zoho_id": "3978798000084746900",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "matajer"
+      ]
+    },
+    {
+      "cand_name": "Magrabi Hospitals & Centers",
+      "cand_domain": "magrabihealth.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Magrabi Hospitals & Centers",
+      "zoho_id": "3978798000007460296",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "centers",
+        "hospitals",
+        "magrabi"
+      ]
+    },
+    {
+      "cand_name": "Oud Elite",
+      "cand_domain": "oudelite.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Oud Elite",
+      "zoho_id": "3978798000084746786",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": []
+    },
+    {
+      "cand_name": "Pharmalife Co.",
+      "cand_domain": "pharmalife-kw.com",
+      "cand_country": "Kuwait",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "pharmalife",
+      "zoho_id": "3978798000165702089",
+      "zoho_country": "Kuwait",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "pharmalife"
+      ]
+    },
+    {
+      "cand_name": "shakersa",
+      "cand_domain": "shaker.com.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "shakersa",
+      "zoho_id": "3978798000138832983",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "shakersa"
+      ]
+    },
+    {
+      "cand_name": "United Pharmaceuticals Company",
+      "cand_domain": "unitedpharmacy.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "United Pharmaceuticals Company",
+      "zoho_id": "3978798000084746793",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": []
+    },
+    {
+      "cand_name": "Tivoli Group",
+      "cand_domain": "tivoligroup.com",
+      "cand_country": "Qatar",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Tivoli Group",
+      "zoho_id": "3978798000014606303",
+      "zoho_country": "Qatar",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "tivoli"
+      ]
+    },
+    {
+      "cand_name": "Hakeem Oyoun",
+      "cand_domain": "hakeem.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Hakeem Oyoun | حكيم عيون",
+      "zoho_id": "3978798000084747950",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "hakeem",
+        "oyoun"
+      ]
+    },
+    {
+      "cand_name": "Kafak International Company",
+      "cand_domain": "kafak.net",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Kafak International Company",
+      "zoho_id": "3978798000084746832",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "kafak"
+      ]
+    },
+    {
+      "cand_name": "Panda Retail Company - Savola Group",
+      "cand_domain": "panda.com.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Panda Retail Company - Savola Group",
+      "zoho_id": "3978798000008419077",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "savola"
+      ]
+    },
+    {
+      "cand_name": "Pharmaciaty",
+      "cand_domain": "pharmaciaty.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Pharmaciaty",
+      "zoho_id": "3978798000084747331",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "pharmaciaty"
+      ]
+    },
+    {
+      "cand_name": "Point Plus",
+      "cand_domain": "pointplusksa.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Point Plus",
+      "zoho_id": "3978798000084743214",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "point"
+      ]
+    },
+    {
+      "cand_name": "Ahmad A. Abed",
+      "cand_domain": "",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Ahmad A. Abed",
+      "zoho_id": "3978798000165720005",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "abed",
+        "ahmad"
+      ]
+    },
+    {
+      "cand_name": "Al Anees Group",
+      "cand_domain": "",
+      "cand_country": "Qatar",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Al Anees Group",
+      "zoho_id": "3978798000165720006",
+      "zoho_country": "Qatar",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "anees"
+      ]
+    },
+    {
+      "cand_name": "Al Majed for Oud الماجد للعود",
+      "cand_domain": "",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Al Majed for oud",
+      "zoho_id": "3978798000012340248",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "majed"
+      ]
+    },
+    {
+      "cand_name": "Al Meera Consumer Goods Company",
+      "cand_domain": "",
+      "cand_country": "Qatar",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Al Meera Group",
+      "zoho_id": "3978798000070733009",
+      "zoho_country": "Qatar",
+      "match_type": "fuzzy_name",
+      "ratio": 0.516,
+      "shared_tokens": [
+        "meera"
+      ]
+    },
+    {
+      "cand_name": "Al Meera Consumer Goods Company",
+      "cand_domain": "",
+      "cand_country": "Qatar",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "ALMEERA CONSUMER GOODS COMPANY QSC",
+      "zoho_id": "3978798000165720031",
+      "zoho_country": "Qatar",
+      "match_type": "fuzzy_name",
+      "ratio": 0.978,
+      "shared_tokens": [
+        "goods"
+      ]
+    },
+    {
+      "cand_name": "Al Raya For Foodstuff Company Ltd.",
+      "cand_domain": "",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Al Raya For Foodstuff Company Ltd.",
+      "zoho_id": "3978798000165720007",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "foodstuff",
+        "raya"
+      ]
+    },
+    {
+      "cand_name": "Al-Maha Optical المها للبصريات",
+      "cand_domain": "",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Al-Maha Optical المها للبصريات",
+      "zoho_id": "3978798000165720011",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "maha"
+      ]
+    },
+    {
+      "cand_name": "aldawaa",
+      "cand_domain": "aldawaa.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "aldawaa",
+      "zoho_id": "3978798000165720024",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "aldawaa"
+      ]
+    },
+    {
+      "cand_name": "Almadina Holding Company",
+      "cand_domain": "almadina.com.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Almadina Holding Company",
+      "zoho_id": "3978798000165720029",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "almadina"
+      ]
+    },
+    {
+      "cand_name": "RojoCoral Boutique | Children's Fashion & Accessories",
+      "cand_domain": "",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "RojoCoral Boutique | Children's Fashion & Accessories",
+      "zoho_id": "3978798000165730004",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "rojocoral"
+      ]
+    },
+    {
+      "cand_name": "Safari Co Ltd. Riyadh",
+      "cand_domain": "",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Safari Co Ltd. Riyadh",
+      "zoho_id": "3978798000165730007",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "riyadh"
+      ]
+    },
+    {
+      "cand_name": "Saudia Group Of Companies",
+      "cand_domain": "",
+      "cand_country": "Qatar",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Saudia Group Of Companies",
+      "zoho_id": "3978798000165730013",
+      "zoho_country": "Qatar",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": []
+    },
+    {
+      "cand_name": "Season | سيزون",
+      "cand_domain": "",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Season | سيزون",
+      "zoho_id": "3978798000084747936",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "season"
+      ]
+    },
+    {
+      "cand_name": "SWAJ | سواج",
+      "cand_domain": "",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "SWAJ | سواج",
+      "zoho_id": "3978798000165730027",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "swaj"
+      ]
+    },
+    {
+      "cand_name": "TheHub Hypermarket",
+      "cand_domain": "",
+      "cand_country": "Kuwait",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "TheHub Hypermarket",
+      "zoho_id": "3978798000165730036",
+      "zoho_country": "Kuwait",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "thehub"
+      ]
+    },
+    {
+      "cand_name": "الغانم للأجهزة الكهربائية AL-GHANIM STORE",
+      "cand_domain": "",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "الغانم للأجهزة الكهربائية AL-GHANIM STORE",
+      "zoho_id": "3978798000084734231",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "ghanim"
+      ]
+    },
+    {
+      "cand_name": "Modern Electronics Company",
+      "cand_domain": "",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Modern Electronics - MEC (AL-Faisaliah Group)",
+      "zoho_id": "3978798000084746868",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 0.679,
+      "shared_tokens": []
+    },
+    {
+      "cand_name": "Knoz El Hekma - شركة كنوز الحكمة",
+      "cand_domain": "knozelhekma.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Knoz El Hekma - شركة كنوز الحكمة",
+      "zoho_id": "3978798000084746814",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "hekma",
+        "knoz"
+      ]
+    },
+    {
+      "cand_name": "Two",
+      "cand_domain": "reefi.me",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Two",
+      "zoho_id": "3978798000084746885",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "two"
+      ]
+    },
+    {
+      "cand_name": "Tamkeen Stores",
+      "cand_domain": "tamkeenstores.com.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Tamkeen Stores",
+      "zoho_id": "3978798000084746801",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "tamkeen"
+      ]
+    },
+    {
+      "cand_name": "Jarir Bookstore",
+      "cand_domain": "jarir.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Jarir Bookstore",
+      "zoho_id": "3978798000009702238",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "jarir"
+      ]
+    },
+    {
+      "cand_name": "Abdullah Al-Othaim Markets",
+      "cand_domain": "othaimmarkets.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Abdullah Al-Othaim Markets",
+      "zoho_id": "3978798000016535652",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": []
+    },
+    {
+      "cand_name": "Saudi Jawahir",
+      "cand_domain": "jawahir.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Saudi Jawahir",
+      "zoho_id": "3978798000084746817",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "jawahir"
+      ]
+    },
+    {
+      "cand_name": "Naseem",
+      "cand_domain": "naseemsa.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Naseem",
+      "zoho_id": "3978798000084747274",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "naseem"
+      ]
+    },
+    {
+      "cand_name": "Wawan Protein",
+      "cand_domain": "gowawan.com",
+      "cand_country": "Kuwait",
+      "cand_verdict": "IN",
+      "cand_source": "baseline",
+      "zoho_name": "Wawan Protein",
+      "zoho_id": "3978798000165730050",
+      "zoho_country": "Kuwait",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "protein",
+        "wawan"
+      ]
+    },
+    {
+      "cand_name": "TOYLAND KSA",
+      "cand_domain": "toyland.com.sa",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "OUT",
+      "cand_source": "gap1",
+      "zoho_name": "TOYLAND KSA",
+      "zoho_id": "3978798000084747314",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "toyland"
+      ]
+    },
+    {
+      "cand_name": "ASTRA MARKETS",
+      "cand_domain": "astramarkets.com",
+      "cand_country": "Saudi Arabia",
+      "cand_verdict": "IN",
+      "cand_source": "gap1",
+      "zoho_name": "A Market",
+      "zoho_id": "3978798000084747287",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name",
+      "ratio": 0.762,
+      "shared_tokens": []
+    }
+  ],
+  "name_matches_needs_country_confirm": [
+    {
+      "cand_name": "Jazirat Samaa Fashion",
+      "cand_domain": "",
+      "cand_country": "",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Jazirat Samaa Fashion",
+      "zoho_id": "3978798000165702040",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name_nocountry",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "jazirat",
+        "samaa"
+      ]
+    },
+    {
+      "cand_name": "Lubnaas Boutique",
+      "cand_domain": "lubnaas.com",
+      "cand_country": "",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "Lubnaas Boutique",
+      "zoho_id": "3978798000165702051",
+      "zoho_country": "Qatar",
+      "match_type": "fuzzy_name_nocountry",
+      "ratio": 1.0,
+      "shared_tokens": [
+        "lubnaas"
+      ]
+    },
+    {
+      "cand_name": "MS Retail",
+      "cand_domain": "",
+      "cand_country": "",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "MS Retail",
+      "zoho_id": "3978798000165702064",
+      "zoho_country": "Kuwait",
+      "match_type": "fuzzy_name_nocountry",
+      "ratio": 1.0,
+      "shared_tokens": []
+    },
+    {
+      "cand_name": "NBK FASHION",
+      "cand_domain": "",
+      "cand_country": "",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "NBK FASHION",
+      "zoho_id": "3978798000165702073",
+      "zoho_country": "Qatar",
+      "match_type": "fuzzy_name_nocountry",
+      "ratio": 1.0,
+      "shared_tokens": []
+    },
+    {
+      "cand_name": "Adsela Marketing Solutions",
+      "cand_domain": "adselams.com/en",
+      "cand_country": "",
+      "cand_verdict": "OUT",
+      "cand_source": "baseline",
+      "zoho_name": "A Market",
+      "zoho_id": "3978798000084747287",
+      "zoho_country": "Saudi Arabia",
+      "match_type": "fuzzy_name_nocountry",
+      "ratio": 0.471,
+      "shared_tokens": []
+    }
+  ]
+}

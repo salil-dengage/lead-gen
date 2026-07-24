@@ -1,0 +1,19 @@
+source	country	name	domain	prior_verdict	prior_category
+original	Saudi Arabia	Rolaco Trading & Contracting Holding	rolaco.com.sa	OUT	building_materials_b2b
+original	Saudi Arabia	Saudi Bugshan Company	rpgelster.de	OUT	non_retail
+original	Saudi Arabia	rubaiyat	rubaiyat.com	IN	fashion
+original	Saudi Arabia	Saadeddinpastry	saadeddin.com	IN	grocery
+original	Qatar	Saadeddin Sweets Qatar حلويات سعدالدين	saadeddin.qa	IN	grocery
+original	Saudi Arabia	شركة سبك الجسور التجارية COMMERCIA SABK ALJUSORE COMPANY	sabkaljusore.com	OUT	building_materials_b2b
+original	Saudi Arabia	saco	saco.sa	IN	home_furniture_appliance
+held_review	Saudi Arabia	SADANA TRADING CO	sadana.com.sa	OUT	diversified_trading
+original	Qatar	Safari Group	safarigroup.net	IN	grocery
+original	Qatar	Safari Hypermarket	safarihypermarket.com	IN	general_merch_dept
+original	Kuwait	Safat Home by Alghanim Industries	safathome.com	IN	home_furniture_appliance
+original	Kuwait	Safi	saficosmetics.com	IN	health_beauty_pharmacy
+original	Qatar	Salam Studio and Stores	salams.com	IN	general_merch_dept
+original	Saudi Arabia	salehcars	salehcars.com	OUT	non_retail
+original	Saudi Arabia	SAMACO Automotive	samaco.com.sa	OUT	non_retail
+held_review	Saudi Arabia	Saleh Al-Othaim Investment Co | شركة صالح عبدالله العثيم للاستثمار	sao.sa.com	OUT	diversified_trading
+original	Qatar	Saudia Group	saudiagroup.com	IN	grocery
+held_review	Saudi Arabia	Savola Group	savola.com	OUT	grocery

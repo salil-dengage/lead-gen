@@ -1,0 +1,19 @@
+source	country	name	domain	prior_verdict	prior_category
+gap_sweep		zbomksa	zbomksa.com	OUT	ecommerce_unverified
+gap_sweep		dovacare	dovacare.com	OUT	ecommerce_unverified
+gap_sweep		tamakun	tamakun.sa	OUT	ecommerce_unverified
+gap_sweep		cvaley	cvaley.com	OUT	ecommerce_unverified
+gap_sweep		sitaffood	sitaffood.com	OUT	ecommerce_unverified
+gap_sweep		lifepillarsmc	lifepillarsmc.com	OUT	ecommerce_unverified
+gap_sweep		sovereign	svnksa.com	OUT	ecommerce_unverified
+gap_sweep		lantanaashop	lantanaashop.com	OUT	ecommerce_unverified
+gap_sweep		sarinamultiple	sarinamultiple.com	OUT	ecommerce_unverified
+gap_sweep		modpatisserie	modpatisserie.com	OUT	ecommerce_unverified
+gap_sweep		cenomiretail	cenomiretail.com	IN	fashion
+gap_sweep		alrifaisaudi	alrifaisaudi.com	OUT	ecommerce_unverified
+gap_sweep		tasooma	tasooma.com	OUT	ecommerce_unverified
+gap_sweep		johrh	johrh.com	OUT	ecommerce_unverified
+gap_sweep		cityflowerretail	cityflowerretail.com	OUT	ecommerce_unverified
+gap_sweep		innovativemeditech	innovativemeditech.com	OUT	ecommerce_unverified
+gap_sweep		2d2c2m	2d2c2m.com	OUT	ecommerce_unverified
+gap_sweep		mlwsocks	mlwsocks.com	OUT	ecommerce_unverified

@@ -1,0 +1,19 @@
+source	country	name	domain	prior_verdict	prior_category
+original	Kuwait	Hassan's Optician Co.	hassans.com	IN	specialty_retail
+held_review	Saudi Arabia	HATCON	hatcon.com	OUT	home_improvement
+original	Saudi Arabia	GWM Saudi Arabia	haval.com.sa	OUT	non_retail
+original	Saudi Arabia	Al Hayat Building Materials Company - IKK Group	hbmc.sa	OUT	building_materials_b2b
+original	Saudi Arabia	H&H Shaker	hh-shaker.com.sa	OUT	non_retail
+original	Saudi Arabia	Haji Husein Alireza & Co. Ltd.	hha.com.sa	OUT	non_retail
+held_review	Qatar	Hilti Qatar	hilti.com.qa	OUT	home_improvement
+original	Qatar	AL MAKTAB AL QATARI AL HOLLANDI WLL	hollandi.com	IN	sporting_toys_books
+original	Kuwait	Home & Garden	homeandgarden.cc	IN	home_furniture_appliance
+original	Saudi Arabia	Abdullah Hashim Co. Ltd	honda-mideast.com	OUT	non_retail
+held_review	Qatar	Hyatt Plaza Shopping Mall	hyattplaza.com	OUT	retail_general
+original	Saudi Arabia	Almajdouie Hyundai	hyundai.sa	OUT	non_retail
+original	Saudi Arabia	Hyundai - Mohamed Yousuf Naghi Motors Co.	hyundaiksa.com	OUT	non_retail
+original	Saudi Arabia	Hyundai Saudi Arabia	hyundaiwallan.com	OUT	non_retail
+original	Qatar	Ibin Ajayan Trading Group	ibinajayan.com	OUT	non_retail
+original	Saudi Arabia	Ibrand - اي براند	ibrand.com.sa	IN	health_beauty_pharmacy
+original	Saudi Arabia	إبراق | IBRAQ	ibraqperfumes.com	IN	health_beauty_pharmacy
+original	Saudi Arabia	iHome-آي هوم	ihomestore.com	IN	ecommerce

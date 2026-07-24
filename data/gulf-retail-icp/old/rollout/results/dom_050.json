@@ -1,0 +1,182 @@
+[
+  {
+    "name": "shareefcorner",
+    "domain": "shareefcorner.sa",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "electronics/mobile accessories/home appliances (general merchandise)",
+    "qualification_path": "substantiality",
+    "reason": "Genuine Saudi-registered electronics and home-appliance retailer with a live, full-featured transactional store; passes all 7 gates.",
+    "evidence": "Direct fetch 200 OK (53KB). Footer: 'جميع الحقوق محفوظة لشركة ركن الشريف © 2026. س.ت. 1010199494' (CR 1010199494, Riyadh-prefix) plus a Saudi VAT number ('الرقم الضريبي 310197645400003'). Real Magento-style cart/checkout ('أضف للسلة' Add to Cart, 'أضف للمقارنة' Add to compare), cash-on-delivery and card payment. Dozens of live-priced SKUs across mobile accessories, chargers, cases, headphones, tablets, laptops, TVs, kitchen appliances (Xiaomi robot vacuums, samsung/electric kitchen gear), personal-care devices, networking gear, gaming and cameras -- well over 50 SKUs."
+  },
+  {
+    "name": "thealmondbeauty",
+    "domain": "thealmondbeauty.com",
+    "verdict": "OUT",
+    "gate_failed": "scale",
+    "category_final": "beauty/skincare (DTC)",
+    "qualification_path": "n/a",
+    "reason": "Real, live, Saudi-headquartered skincare DTC brand with genuine checkout, but the entire catalog is only 23 SKUs, well under the ~50 SKU substantiality floor, and there is no signal of a companion mobile app to justify an app-download-rescue check for this small brand.",
+    "evidence": "Direct fetch 200 OK. Footer: 'STORES Ahmed Alsalah and Hussain Alsalah Co. Address: No:8839, Al Fayha Dist, 22241, Jeddah, Saudi Arabia. Vat: 312422252200003. CR: 4030566281' (Jeddah-prefix CR, confirms Gate 1 pass). /collections/all page explicitly states 'You're viewing 1-16 of 23 products.' Real SAR pricing, Shopify cart, 60-day money-back guarantee, but catalog is too thin for Gate 5."
+  },
+  {
+    "name": "moltonbrown",
+    "domain": "moltonbrown.sa",
+    "verdict": "OUT",
+    "gate_failed": "geography",
+    "category_final": "beauty/fragrance (luxury)",
+    "qualification_path": "n/a",
+    "reason": "Live, real luxury fragrance e-commerce site with genuine cart/checkout, but the Saudi storefront is operated by Chalhoub Group, headquartered in Dubai, UAE, not Saudi Arabia -- fails geography regardless of real local operations.",
+    "evidence": "Direct fetch 200 OK (90KB). Site offers a 'Change Country: UAE / KSA' toggle on one shared platform. WebSearch confirms: GulfTalent job listing 'Store Supervisor - Molton Brown | Jobs in Jeddah, Saudi Arabia by Chalhoub Group'; ME Retail News: 'Chalhoub Group opens three Molton Brown stores in UAE and Qatar.' Chalhoub Group is a Dubai-headquartered luxury retail conglomerate (leading luxury partner in the Middle East since 1955, based in Dubai)."
+  },
+  {
+    "name": "watsons",
+    "domain": "watsons.sa",
+    "verdict": "OUT",
+    "gate_failed": "geography",
+    "category_final": "beauty/personal care & pharmacy retail",
+    "qualification_path": "n/a",
+    "reason": "Real, live health & beauty retail chain, but the Saudi operation is run under a franchise agreement by Al-Futtaim Golden Trading Company, headquartered in Dubai, UAE -- fails geography.",
+    "evidence": "Direct fetch 200 OK (118KB). WebSearch: 'A.S. Watson Group inks Franchise Agreement with Al-Futtaim to bring Watsons to Middle East Consumers' (2020); 'The Watsons brand is operated in the Kingdom of Saudi Arabia by Al-Futtaim Golden Trading Company, which is the franchisee of the Watsons brand.' Al-Futtaim Group is headquartered in Dubai, UAE. watsons.sa terms/privacy pages are live under this operator."
+  },
+  {
+    "name": "babyjalebi-sa",
+    "domain": "babyjalebi-sa.com",
+    "verdict": "OUT",
+    "gate_failed": "geography",
+    "category_final": "baby products/kidswear (HQ mismatch)",
+    "qualification_path": "n/a",
+    "reason": "Domain returns a Shopify 'This store is unavailable' (locked) error. Per protocol, WebSearched for a moved domain and found sibling site babyjalebiglobal.com (live, real transactional store), but the brand's true global HQ is Gurgaon, India, not Saudi Arabia or the Gulf -- fails geography regardless of the dead .sa storefront.",
+    "evidence": "curl on babyjalebi-sa.com returns HTTP 423, body 'This store is unavailable' (Shopify locked-store error, status-code-500 class). babyjalebiglobal.com /pages/contact-us: 'Address: Baby Jalebi, 15/2 milestone Old Palam Gurgaon Road, 122002, India. WhatsApp: +91 7303700664. Email: wecare@babyjalebi.com.' That sibling site is AED-denominated and pan-GCC, not Saudi-specific."
+  },
+  {
+    "name": "decathlon",
+    "domain": "decathlon.com.sa",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "sporting goods/apparel/footwear (general merchandise)",
+    "qualification_path": "substantiality",
+    "reason": "Franchise rights held by Cenomi Retail (formerly Fawaz Alhokair Group), headquartered in Riyadh, Saudi Arabia -- passes geography. Live, huge multi-category transactional store; passes all remaining gates.",
+    "evidence": "Direct fetch 200 OK (84KB). WebSearch: 'Fawaz Alhokair Company acquired the franchise rights to open Decathlon sporting goods stores in the Kingdom of Saudi Arabia'; Cenomi Retail HQ confirmed at 'Building no. 8838... King Saud University district... Riyadh.' Site shows real cart/checkout ('Add to Cart' x3, 'Checkout' x23, 'price' x560+ occurrences, SAR pricing) across dozens of sports categories (team sports, running, cycling, camping, swimming, fitness, hiking) with thousands of SKUs."
+  },
+  {
+    "name": "caffeinelab",
+    "domain": "caffeinelab.me",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "specialty coffee / F&B retail",
+    "qualification_path": "substantiality",
+    "reason": "Genuine Saudi-registered specialty coffee retailer (cafes plus e-commerce) in Jeddah; real cart/checkout, broad consumable + equipment catalog past the SKU floor.",
+    "evidence": "Direct fetch 200 OK (92KB). Footer: '© 2026 Caffeine Lab. Food Experts Co. Ltd. Commercial Registration No. 4030169455' (Jeddah-prefix CR) plus Tax No. Real SAR pricing and cart ('Quick View' appears 54 times) across coffee beans, espresso/brewing equipment, cups, grinders, barista tools; physical 'Locations' (Jeddah cafes) plus 'Free shipping to Saudi cities for orders over 350 Saudi Riyals.'"
+  },
+  {
+    "name": "tedbaker",
+    "domain": "tedbaker.sa",
+    "verdict": "OUT",
+    "gate_failed": "geography",
+    "category_final": "fashion/apparel",
+    "qualification_path": "n/a",
+    "reason": "Live fashion e-commerce site, but its own Terms of Service identify the operator as Al-Futtaim Global Trading Co. (Al-Futtaim Group), headquartered in Dubai, UAE -- fails geography.",
+    "evidence": "Direct fetch 200 OK (214KB). tedbaker.sa/policies/terms-of-service: 'Al-Futtaim Global Trading Co, trading as Ted Baker, or any subsidiaries and affiliates thereto of the Al-Futtaim Group (collectively 'Al-Futtaim'...) maintains this website,' with courts of Jeddah given jurisdiction but Al-Futtaim (Dubai, UAE) named as the operating entity."
+  },
+  {
+    "name": "tumi",
+    "domain": "tumi.sa",
+    "verdict": "OUT",
+    "gate_failed": "geography",
+    "category_final": "luxury bags/luggage",
+    "qualification_path": "n/a",
+    "reason": "Live luxury luggage e-commerce site, but customer service is run out of the UAE (UAE phone number, hours quoted in UAE time) with a linked 'Tumi UAE Terms & Conditions' page -- the region is operated from a UAE HQ, not Saudi Arabia.",
+    "evidence": "Direct fetch 200 OK (42KB). tumi.sa legal-terms page: customer service '00971(0)48167175... يوميًا من 10 صباحًا إلى 10 مساءً (بتوقيت الإمارات)' [daily 10am-10pm UAE time] and WhatsApp '971565266140'; footer links to 'Tumi UAE Terms & Conditions'. Site toggles between UAE/KSA/Kuwait storefronts on one shared regional platform ('اختر موقعك المفضل')."
+  },
+  {
+    "name": "cascadesco",
+    "domain": "cascadesco.com",
+    "verdict": "OUT",
+    "gate_failed": "geography",
+    "category_final": "home decor/luxury gifts",
+    "qualification_path": "n/a",
+    "reason": "Site brands itself 'CascadesKsa' and prices in SAR for the Saudi market, but the Cascades/GiftsGate brand is rooted and headquartered in Kuwait, with separate country-specific storefronts (cascadeskw.com for Kuwait, cascadesuae.com for UAE, this one for KSA/Bahrain) -- fails geography.",
+    "evidence": "Direct fetch 200 OK (101KB). Page itself surfaces a help-widget with Kuwait contact info ('info@cascadeskw.com', '+96522209990') alongside a footer Saudi contact number. WebSearch: 'Cascades Kuwait is a Kuwait-based brand... Cascades operates multiple physical showrooms within Kuwait... rooted in Kuwait, Cascades has expanded its reach to neighboring countries, including Qatar, Saudi Arabia, the United Arab Emirates, Bahrain, and Oman'; a separate cascadesuae.com confirms the same pattern of country-specific storefronts run from the Kuwait HQ."
+  },
+  {
+    "name": "hotpack",
+    "domain": "hotpack.com.sa",
+    "verdict": "OUT",
+    "gate_failed": "geography",
+    "category_final": "food packaging manufacturing/wholesale (B2B) -- would also fail category",
+    "qualification_path": "n/a",
+    "reason": "Hotpack's own homepage title identifies it as the '#1 Manufacturer of Food Packaging Products in Saudi Arabia' selling at 'wholesale prices' -- but Hotpack Global is headquartered in Dubai, UAE, so it fails on geography before category is even reached (it would independently also fail category as a B2B packaging manufacturer/wholesaler).",
+    "evidence": "Direct fetch 200 OK (257KB). WebSearch: 'Hotpack Global is a food packaging company founded in 1995 with headquarters at Dubai Investment Park 1, Dubai, UAE... manufacturing units in UK, UAE, Qatar and India.' hotpack.com.sa homepage title: 'Hotpack | #1 Manufacturer of Food Packaging Products in Saudi Arabia' and meta description: 'Buy Disposable Food packaging Materials @ wholesale prices... from the Best Food Packaging Company in Saudi Arabia.'"
+  },
+  {
+    "name": "beauti",
+    "domain": "beauti.sa",
+    "verdict": "OUT",
+    "gate_failed": "digital_channel",
+    "category_final": "beauty/fragrance (luxury)",
+    "qualification_path": "n/a",
+    "reason": "Real Saudi luxury beauty retailer (Al Rubaiyat/RCITH, Jeddah) with a fully built storefront spanning 454 brand collections (Bvlgari, Cartier, Burberry, Chopard, Dolce & Gabbana, etc.), but the live catalog is completely empty -- every collection page and the site search return zero products, so there is no genuinely operating transactional store today.",
+    "evidence": "Direct fetch 200 OK. 'The Story of BEAUTI' page: 'Established in November of 2018 by Abdullah Binzagr and his family... Nurtured under the umbrella brand of Al Rubaiyat Company for Industry & Trade Holding Limited (RCITH)... over 30 years... leading luxury fashion retailer in the KSA' (Gate 1 passes). But /collections/all, /collections/azzaro, /collections/bvlgari and site search for 'perfume' all return 'There are no products in this collection' / 'No products match this filter.' The Shopify sitemap index has no products sitemap entry at all, confirming zero published products site-wide."
+  },
+  {
+    "name": "twinkle",
+    "domain": "twinkle.sa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "party supplies/event decor & balloons",
+    "qualification_path": "n/a",
+    "reason": "Genuine Saudi company (Twinkle Limited Co., Riyadh CR) with a real live transactional store (redirects to mytwinkle.com), but the business is party supplies, balloon arrangements, themed decor and cakes for events -- this does not fit any of the four approved retail categories (fashion, beauty/health, grocery/F&B, electronics/home/furniture/general merchandise).",
+    "evidence": "Direct fetch 200 OK, redirected to mytwinkle.com (58KB). Footer: 'Twinkle Limited Co. CR1010813185' (Riyadh-prefix CR, Gate 1 passes), 'We only deliver to Riyadh'. Site sells occasion/theme-based balloons, party decor, cake stands, entrance boards, confetti cannons, tableware and cakes for birthdays/graduations/weddings -- a party-supplies/events business, not fashion, beauty, grocery/F&B, or electronics/home/general merchandise."
+  },
+  {
+    "name": "Shub Coffee",
+    "domain": "shub.coffee",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "specialty coffee equipment & consumables / F&B retail",
+    "qualification_path": "substantiality",
+    "reason": "Saudi-based (Riyadh-linked, +966 contact) specialty-coffee and brewing-equipment retailer with an extensive live catalog, 3,229 customer reviews, and real cart/checkout -- passes all 7 gates comfortably.",
+    "evidence": "Direct fetch 200 OK (161KB). Contact: '+966 54 725 0611'; banner 'شحن مجاني لجميع الطلبات 100ريال وفوق داخل السعودية 🇸🇦' (free shipping within Saudi Arabia); 'Riyadh' referenced in page. '3229 reviews' displayed on-page (91% 5-star); at least 50 distinct priced SKUs visible in a single fetch across espresso machines, grinders, filters, barista tools and kitchen prep equipment (xBloom, Fressko, Timemore, Mahlkonig, Brezi, etc.)."
+  },
+  {
+    "name": "petit-bateau",
+    "domain": "petit-bateau.sa",
+    "verdict": "OUT",
+    "gate_failed": "geography",
+    "category_final": "kidswear/baby fashion",
+    "qualification_path": "n/a",
+    "reason": "Live French kidswear e-commerce site with real cart/checkout, but the Saudi storefront is operated by AKI (Al Khayyat Investments), headquartered in Dubai, UAE -- fails geography.",
+    "evidence": "Direct fetch 200 OK (51KB, required an https retry after an initial timeout). Footer links to 'AKI x Petit Bateau' page; contact email 'petit-bateau.sa@akigroup.com'. WebSearch confirms 'Al Khayyat Investments (AKI) is headquartered in Dubai, specifically at Dubai Investment Park 1, Jebel Ali, Dubai, United Arab Emirates' -- a multibillion-dollar Emirati family holding."
+  },
+  {
+    "name": "dovanabeauty",
+    "domain": "dovanabeauty.com",
+    "verdict": "OUT",
+    "gate_failed": "geography",
+    "category_final": "haircare/skincare (HQ mismatch)",
+    "qualification_path": "n/a",
+    "reason": "dovanabeauty.com does not resolve at all (DNS failure). Per protocol, WebSearched for the brand's official site and found dovanacare.com, which prices in Jordanian Dinar (JOD) with a Jordan phone number -- the brand's true home base is Jordan, not Saudi Arabia, so it fails geography even after the domain-migration check. The found site is also currently compromised with gambling-spam SEO injections, further undermining any claim to a legitimate, actively-maintained storefront.",
+    "evidence": "curl: 'Could not resolve host: dovanabeauty.com' (confirmed on both http and https). dovanacare.com (found via WebSearch as 'Dovana... since 1994... haircare and skincare') shows pricing as 'JOD10.000 / JOD8.000' etc. and 'Phone: +962778929556' (Jordan country code). Page text is heavily interlaced with unrelated Indonesian gambling spam ('slot gacor', 'Tuak88', 'bandar togel'), indicating the live site is currently compromised/hacked."
+  },
+  {
+    "name": "iffstore",
+    "domain": "iffstore.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "industrial/manufacturing equipment (laser cutters, CNC, commercial printers)",
+    "qualification_path": "n/a",
+    "reason": "Real, live, apparently Saudi-based (+966 contact, explicitly 'shipping from Saudi Arabia') e-commerce operation with a large catalog and real checkout, but the core business is laser cutting/engraving machines, CNC routers, commercial food-date/barcode printers and industrial embroidery machines marketed explicitly for starting/running a business -- this is manufacturing/industrial equipment, a hard-fail category regardless of how real and substantial the operation is.",
+    "evidence": "Direct fetch 200 OK (73KB). Contact '+966 - 920007344', banner 'التوصيل من السعودية' (delivery from Saudi Arabia) -- Gate 1 would pass. Homepage tagline: 'أحدث واكبر مجموعة من التقنيات و التجهيزات المبتكرة... لتطوير شركتك أو العمل من بيتك' (largest collection of innovative equipment... to grow your company or work from home). Catalog dominated by laser engraving/cutting machines, fiber laser metal engravers, CNC cutters, embroidery/sewing machines, food-expiry-date stamping printers, barcode/label printers, and raw materials for these machines -- production/commercial equipment, not consumer fashion/beauty/grocery/electronics-home goods. WebSearch corroborates: 'IFF Store is a major machines and tools supplier... specializes in laser cutting and engraving equipment' for uses including 'furniture, industry... shoemaking.'"
+  },
+  {
+    "name": "rootsfurniture",
+    "domain": "rootsfurniture.sa",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "furniture/home decor (general merchandise)",
+    "qualification_path": "substantiality",
+    "reason": "Backed by Al Rugaib, headquartered in Al Khobar/Dhahran, Saudi Arabia -- passes geography. Live, broad multi-category furniture and home-decor store with real cart/checkout and clearly 50+ SKUs.",
+    "evidence": "Direct fetch 200 OK (59KB). Footer: 'Rooted in Design, Backed by Al Rugaib. For decades, Al Rugaib has helped shape beautiful homes across the region.' WebSearch confirms 'H. M. Al Rugaib & Sons Trading Co. is headquartered in the eastern province of Saudi Arabia in the city of Al Khobar' (Dhahran, Eastern Province). Site tagline 'Over 2000 Ways to Elevate Your Home'; real SAR pricing and 'Add to cart' across living room, dining, bedroom, outdoor, lighting, tables, rugs and decor categories."
+  }
+]

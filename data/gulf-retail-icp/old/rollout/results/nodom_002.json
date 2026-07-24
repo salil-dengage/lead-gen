@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Jeddah Duty Free  السوق الحرة جدة",
+    "domain": "dutyfree-jeddah.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "beauty_fragrance_specialty_dutyfree",
+    "qualification_path": "substantiality",
+    "reason": "Operating entity JAH Arabia International Duty Free LLC is a joint venture (Gebr. Heinemann/Astra Group/Jordan Duty Free) that is Saudi-registered and exists solely to run the Jeddah airport duty-free concession, so its global HQ is Saudi Arabia (Gate 1 pass). It sells beauty/fragrance, F&B, jewelry, tobacco and accessories across 35 outlets/335 brands (Gate 2/3 pass, broad multi-category). Its dedicated site dutyfree-jeddah.com is a genuine live transactional store with Click & Collect cart/checkout and login/register accounts (Gate 4 pass), showing a large real-priced catalog well over 50 SKUs (Gate 5 pass via substantiality).",
+    "evidence": "curl to https://www.dutyfree-jeddah.com/en/global/ (HTTP 200) shows: 'Pre-Order up to 8 Hours in Advance & Get 5% Off Your Order - Click & Collect', 'Login / New customer? Register now', and dozens of real priced SKUs across Beauty, Fragrances, Tobacco, F&B, Jewellery, Toys, Electronics, Local Brands (e.g. Tom Ford Ombre Leather EDP 100ml 849.00, Prada sunglasses 1,199.00, Premium Saudi Ajwa dates 49.00). D&B business directory lists JAH Arabia International Duty Free's registered address in Saudi Arabia (Riyadh). Gebr. Heinemann press release (17.09.2025) confirms the JV opened duty-free shops at King Abdulaziz International Airport, Jeddah, under a 7-year license."
+  },
+  {
+    "name": "Juffali Automotive Company",
+    "domain": "juffali.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive_dealer",
+    "qualification_path": "n/a",
+    "reason": "Juffali Automotive Company (JACO), part of the Saudi conglomerate E.A. Juffali & Brothers, is the official Mercedes-Benz general distributor in Saudi Arabia since 1959, with a genuine Saudi HQ (Gate 1 passes). It fails Gate 2: automotive dealer/distributor is an explicit hard-fail category regardless of scale or digital presence.",
+    "evidence": "juffali.com/automotive and mercedes-benz-mena.com/ksa/en/about-us confirm JACO is 'the authorized general distributor of Mercedes-Benz in Saudi Arabia since 1959' with showrooms in Jeddah, Riyadh, Dammam and Asir."
+  },
+  {
+    "name": "Kia Aljabr I كيا الجبر",
+    "domain": "aljabr.com.sa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive_dealer",
+    "qualification_path": "n/a",
+    "reason": "Aljabr Trading/Aljabr Holding, headquartered in Dammam, Saudi Arabia, holds the exclusive Kia distributorship for part of the Kingdom since 2008 (Gate 1 passes: genuine Saudi HQ, 28 showrooms, 38 service centers). Fails Gate 2 as an automotive dealer/distributor, a hard-fail category.",
+    "evidence": "aljabr.com.sa and kia.com/aljabr confirm Aljabr as official Kia distributor since 2008, HQ at King Saud Street, Dammam 31421, Saudi Arabia."
+  },
+  {
+    "name": "Kia NMC - الشركة الأهلية للتسويق",
+    "domain": "kia.com/nmc",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive_dealer",
+    "qualification_path": "n/a",
+    "reason": "National Marketing Company (NMC) is the official Kia distributor for the remaining Saudi regions (Riyadh, Jeddah, Makkah, Madinah, Tabuk, Yanbu, Taif, Abha/Khamis Mushait, Najran, Jizan), operating as a domestic Saudi distributor alongside Aljabr. Automotive dealer/distributor is a hard-fail category (Gate 2) regardless of Saudi operating presence.",
+    "evidence": "kia.com/nmc and kia.com/saudiarabia confirm NMC as one of the two official Kia distributors in Saudi Arabia; social presence (X/Facebook/Instagram @nmckia) is purely automotive sales/service/parts and promotions."
+  },
+  {
+    "name": "Kuwait Automotive Imports Company(Al Shaya & Al Sagar)",
+    "domain": "kaico.com.kw",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive_dealer",
+    "qualification_path": "n/a",
+    "reason": "KAICO, formed by the Kuwaiti Al Shaya and Al Sagar families and operating since 1936 from Al Rai, Kuwait City, is a genuinely Kuwait-HQ'd exclusive distributor for Mazda, Peugeot, Geely and IVECO (Gate 1 passes). Fails Gate 2: automotive dealer/distributor, a hard-fail category.",
+    "evidence": "kaico.com.kw confirms 'Kuwait Automotive Imports Co W.L.L (KAICO) was formed by Al Shaya & Al Sagar Families... since 1936', HQ Al Rai, Kuwait; exclusive distributor for Mazda, Peugeot, Geely, IVECO."
+  },
+  {
+    "name": "Landmark Arabia",
+    "domain": "landmarkgroup.com",
+    "verdict": "OUT",
+    "gate_failed": "geography",
+    "category_final": "foreign_operator_department_store_fashion",
+    "qualification_path": "n/a",
+    "reason": "Landmark Arabia is the Saudi operating division of Landmark Group, a conglomerate genuinely headquartered in Dubai, UAE. Per Gate 1, a store run by a UAE-HQ'd group fails geography even with substantial real local operations (650+ stores, 9M+ sq ft, 10,300+ staff including 6,800+ Saudis in KSA since 1994).",
+    "evidence": "Search results describe 'Landmark Arabia is a division of Landmark Group, Middle East's leading retail and hospitality conglomerate' launched in Saudi Arabia in 1994; Landmark Group's own corporate HQ is Dubai, UAE."
+  },
+  {
+    "name": "LubeExSA",
+    "domain": "",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive_lubricants_tires",
+    "qualification_path": "n/a",
+    "reason": "LubeExSA is a mobile lubricant/tire-changing service in Saudi Arabia that refers customers to TireEx.com for tire orders; no dedicated official website was found. Regardless of digital presence, automotive parts/tires/lubricant services are an explicit Gate 2 hard-fail category (and would also fail Gate 3 as a narrow single-line automotive service).",
+    "evidence": "Instagram @lubeexsa bio identifies the business as a mobile tire-changing service directing customers to www.TireEx.com for tire orders; no independent official website was located in search."
+  },
+  {
+    "name": "Lubnaas Boutique",
+    "domain": "lubnaas.com",
+    "verdict": "OUT",
+    "gate_failed": "digital_channel",
+    "category_final": "fashion",
+    "qualification_path": "n/a",
+    "reason": "Lubnaas is a single-designer ladies'/kids' fashion boutique genuinely based in Doha, Qatar (Gates 1-3 plausible pass: Qatar HQ, fashion, multi-item). However its domain lubnaas.com does not resolve to a working site: the HTTPS endpoint serves a mismatched *.netlify.app wildcard certificate, meaning the custom domain was never properly connected to a live Netlify deployment, so the site is unreachable/broken for real visitors. No cart or checkout was found anywhere; the business appears to operate via phone/in-store only. A follow-up search for an alternate domain found none, only directory listings and a Facebook page, so Gate 4 fails.",
+    "evidence": "curl -v to https://lubnaas.com fails TLS verification: 'SSL: no alternative certificate subject name matches target host name lubnaas.com', server certificate is issued to '*.netlify.app' (Netlify, Inc). DNS resolves the domain to 75.2.60.5 (a Netlify IP range); http://lubnaas.com 301-redirects to the broken https URL. No working alternate domain surfaced in search (only tradedoha.com directory listing and a Facebook page)."
+  },
+  {
+    "name": "Mercedes-Benz KSA",
+    "domain": "mercedes-benz-mena.com/ksa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive_dealer",
+    "qualification_path": "n/a",
+    "reason": "This storefront is operated by Juffali Automotive Company, a genuinely Saudi-HQ'd distributor (see Juffali Automotive Company row). Gate 1 passes but Gate 2 hard-fails as an automotive dealer.",
+    "evidence": "mercedes-benz-mena.com/ksa/en/about-us confirms Juffali Automotive Company (JACO) as the general distributor since 1959; the site is a car configurator/showroom-locator, not a qualifying retail category."
+  },
+  {
+    "name": "Mercedes-Benz Kuwait - Al Mulla Automobiles Co.",
+    "domain": "mercedes-benz-mena.com/kuwait",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive_dealer",
+    "qualification_path": "n/a",
+    "reason": "Al Mulla Automobiles Co., part of the Kuwaiti Al Mulla Group, is a genuinely Kuwait-HQ'd general distributor for Mercedes-Benz since 2019 (Gate 1 passes). Fails Gate 2: automotive dealer, a hard-fail category.",
+    "evidence": "mercedes-benz-mena.com/kuwait/en/about-us and almullagroup.com/automotive/mercedes-benz confirm Al Mulla Automobiles as General Distributor for Mercedes-Benz in Kuwait, part of the Kuwaiti Al Mulla Group."
+  },
+  {
+    "name": "Mercedes-Benz Qatar",
+    "domain": "mercedes-benz-mena.com/qatar",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive_dealer",
+    "qualification_path": "n/a",
+    "reason": "Operated by Nasser Bin Khaled Automobiles, a genuinely Doha/Qatar-HQ'd distributor established 1957 (Gate 1 passes). Fails Gate 2: automotive dealer, a hard-fail category.",
+    "evidence": "mercedes-benz-mena.com/qatar/en confirms Nasser Bin Khaled Automobiles as the exclusive Mercedes-Benz/AMG/Maybach distributor in Qatar since 1957, based in Doha, ~229 employees."
+  },
+  {
+    "name": "Mobil Oil",
+    "domain": "apsco.com.sa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "fuel_lubricants_b2b_distribution",
+    "qualification_path": "n/a",
+    "reason": "Mobil-branded lubricants and fuels in Saudi Arabia are distributed by APSCO (Arabian Petroleum Supply Company), a Saudi entity, so a local operating entity does exist there (Gate 1 satisfiable). However the business is wholesale/B2B distribution of petroleum products, lubricants, aviation fuel and marine bunkers, an explicit Gate 2 hard-fail category (non-retail / automotive-fluids-adjacent), not a qualifying consumer retail line.",
+    "evidence": "apsco.com.sa and mobil.com/en/lubricants/distributors/the-arabian-petroleum-supply-co-apsco-sau-10012 confirm APSCO as 'a supplier of Mobil lubricants, petroleum products, aviation fuels and marine bunkers throughout the Kingdom of Saudi Arabia' since 1960; operations are B2B distribution and Mobil-branded service centers, not consumer retail storefronts."
+  },
+  {
+    "name": "MODERN METAL INDUSTRIES COMPANY",
+    "domain": "mmico-group.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "building_materials_manufacturing",
+    "qualification_path": "n/a",
+    "reason": "MMICO, headquartered in Jeddah, Saudi Arabia since 1997, manufactures cable trays, plastering accessories, steel lintels, expanded metal products, cladding fixation and gypsum profiles for the construction industry (Gate 1 passes: genuine Saudi HQ). Fails Gate 2: building-materials manufacturing/construction B2B is an explicit hard-fail category.",
+    "evidence": "mmico-group.com confirms manufacture of 'Cable Trays System, Plastering Accessories, Steel Lintels and Block Reinforcement, Expanded Metal Products, Cladding Fixation and Gypsum Profiles', HQ at Al Huda Building, King Abdullah Street, Jeddah."
+  },
+  {
+    "name": "MS Retail",
+    "domain": "",
+    "verdict": "OUT",
+    "gate_failed": "digital_channel",
+    "category_final": "fashion_toys_general_merchandise_kids",
+    "qualification_path": "n/a",
+    "reason": "MS Retail K.S.C. operates Baroue, a genuinely Kuwait-HQ'd (Kuwaiti shareholding company) one-stop kids department store (clothing, toys, maternity, baby/nursery products, plus indoor play area) across multiple Kuwait malls (Avenues, Discovery Mall, Olympia, Marina Mall, Liwan) -- Gates 1-3 plausibly pass as broad kids fashion/general-merchandise. However no live e-commerce site or app could be confirmed: the obvious domain baroue.com actually belongs to an unrelated Polish personal brand's coming-soon page, not this business, and searches surfaced only social media and mall/directory listings with no cart, checkout, or dedicated app (no Google Play/App Store listing found either), so Gate 4 fails.",
+    "evidence": "curl to https://baroue.com returns an unrelated Polish-language 'coming soon' single-page site ('Autorska marka oparta na relacji miedzy cialem, ruchem i forma... Do czasu uruchomienia sklepu internetowego...') for a different brand entirely (lang=pl), not Baroue Kuwait. WebSearch found no baroue.com.kw or other working domain, and no app store listing for a Baroue app; physical stores confirmed only via Facebook (Baroue.Kuwait) and Kuwait mall/directory sites."
+  },
+  {
+    "name": "Nabina Group مجموعة نابينا",
+    "domain": "nabinagroup.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "building_materials_construction_realestate_b2b",
+    "qualification_path": "n/a",
+    "reason": "Nabina Group/Nabina Holding, a Doha, Qatar family business since 1951 (Gate 1 would pass), is dominated by building materials (tiles, marble, sanitaryware, kitchens, glass/aluminum, construction tools), architecture/interior design and civil-work contracting, B2B HORECA hotel/restaurant supply, and real-estate consultancy/brokerage -- all explicit Gate 2 hard-fail categories. A small incidental F&B cafe brand ('Loafie') exists but does not change the group's core B2B construction/contracting/real-estate identity, so Gate 2 fails.",
+    "evidence": "nabinaholding.com/our-businesses lists business lines including 'BUILDING MATERIALS: Tile & Marbles, Sanitaryware & Bathroom, Kitchen & Sinks, Glass & Aluminum, Construction Materials & Tools', 'ARCHITECTURE & INTERIOR DESIGN' (civil work execution, fit-out, landscape design), 'HORECA SOLUTION' (B2B hotel/restaurant amenities and tableware supply), and 'REAL ESTATE' (property consultancy, sales & purchase); F&B is limited to one new cafe brand, Loafie."
+  },
+  {
+    "name": "Naft Services Company",
+    "domain": "naft.com.sa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "fuel_gas_stations_non_retail",
+    "qualification_path": "n/a",
+    "reason": "Naft Services, headquartered in Jeddah, Saudi Arabia since 1987 (Gate 1 passes), operates 235+ gas stations and distributes petroleum products, with smart-card/RFID fuel management aimed at fleet customers via the SASCO app. Fails Gate 2: fuel/petroleum distribution and gas-station operation is not one of the approved retail categories, and no consumer convenience-store retail line was evidenced.",
+    "evidence": "Search results (Mihnati, Eye of Riyadh, Bloomberg) confirm 'NAFT Services Company Limited is a leading Saudi company in the field of gas stations and the distribution of petroleum products', HQ Jeddah, 235+ stations, RFID/smart-card fuel management via the SASCO app. Direct fetch of naft.com.sa returned HTTP 403 (inconclusive alone), but the business's real, Saudi-HQ'd, fuel-distribution nature is independently corroborated by multiple sources."
+  },
+  {
+    "name": "NBK FASHION",
+    "domain": "",
+    "verdict": "OUT",
+    "gate_failed": "digital_channel",
+    "category_final": "fashion",
+    "qualification_path": "n/a",
+    "reason": "NBK Fashion, the retail-luxury-and-fashion arm of the genuinely Qatar-HQ'd Nasser Bin Khaled conglomerate (Doha, founded 1950), is the official Qatar distributor of Quiksilver, Roxy and DC Shoes (Gates 1-3 plausibly pass: Qatar HQ, fashion, multi-item apparel). However its own domain nbkfashion.net fails to resolve at all (DNS failure), and the brands it distributes are sold online in Qatar only via unrelated third-party marketplaces (Namshi, Noon, Sun & Sand Sports, Next, Vogacloset) that are not NBK Fashion's own channel. No live transactional online store or app of NBK Fashion's own could be confirmed; its presence is limited to physical mall stores (e.g. Doha Festival City) and social media, so Gate 4 fails.",
+    "evidence": "DNS lookup for both nbkfashion.net and www.nbkfashion.net returns 'Name or service not known' (NXDOMAIN) -- the domain does not resolve. The Nasser Bin Khaled parent corporate site (nbks.com) lists Automotive, Construction, Real Estate and Travel subsidiaries in its navigation but no Fashion division or store, confirming no integrated e-commerce presence for NBK Fashion under the group's web platform either. Quiksilver/Roxy/DC in Qatar are sold online only via unrelated marketplaces (Namshi, Noon, SSS, Next, Vogacloset), not an NBK-operated channel."
+  },
+  {
+    "name": "Nesto Hypermarket Kuwait",
+    "domain": "nestogroup.com",
+    "verdict": "OUT",
+    "gate_failed": "geography",
+    "category_final": "foreign_operator_grocery_hypermarket",
+    "qualification_path": "n/a",
+    "reason": "Nesto Hypermarket Kuwait is operated by Nesto Group, part of Western International Group, which is genuinely headquartered in the UAE (Techno Park, Jebel Ali, Dubai), not Kuwait. Per Gate 1, a hypermarket run by a UAE-HQ'd group fails geography even with 20+ real, currently operating outlets in Kuwait.",
+    "evidence": "Search confirms 'Western International Group is a privately held conglomerate founded in 1983 by K. P. Basheer and headquartered in Techno Park, Jebel Ali, Dubai, United Arab Emirates. Its best-known retail business is Nesto Group'; Nesto Hypermarket Kuwait is described as operating 20+ outlets as the Kuwait branch of this UAE-HQ'd group."
+  }
+]

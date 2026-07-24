@@ -1,0 +1,19 @@
+source	country	name	domain	prior_verdict	prior_category
+original	Saudi Arabia	شركة شموع الماضي	pcandles.com	IN	grocery
+original	Saudi Arabia	KH Perfumes | عطور كي إتش	perfumekh.com	IN	health_beauty_pharmacy
+original	Saudi Arabia	Petrogen بتروجين	petrogen.co	OUT	fuel_station
+original	Saudi Arabia	Petromin Nissan	petromin-nissan.com	OUT	non_retail
+original	Saudi Arabia	Petromin Stellantis Saudi	petromin-stellantis.com	OUT	non_retail
+original	Saudi Arabia	Petromin Corporation	petromin.com	OUT	non_retail
+original	Kuwait	Petzone	petzone.com	IN	specialty_retail
+original	Qatar	Pharmacare Group Retail Pharmacy Chain	pharmacareonline.qa	IN	health_beauty_pharmacy
+original	Saudi Arabia	Pharmaciaty	pharmaciaty.com	IN	health_beauty_pharmacy
+original	Kuwait	Pharmalife Co.	pharmalife-kw.com	IN	health_beauty_pharmacy
+original	Kuwait	Pharmazone Kuwait	pharmazone.com	IN	health_beauty_pharmacy
+original	Qatar	Plaza Hollandi	plazahollandi.com	OUT	florist
+original	Qatar	PREMIUM LIMITED GROUP	plgtrade.com	IN	fashion
+original	Saudi Arabia	Point Plus	pointplusksa.com	IN	sporting_toys_books
+original	Saudi Arabia	POWR	powr.sa	IN	fashion
+original	Saudi Arabia	Primary Care Medical Co.	primarycare.sa	IN	health_beauty_pharmacy
+original	Saudi Arabia	UNIVERSAL COLD STORE TRADING COMPANY LIMITED	primemarkets.com.sa	OUT	grocery
+held_review	Qatar	Printemps Doha	printemps.com	OUT	general_merch_dept

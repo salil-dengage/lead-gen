@@ -1,0 +1,19 @@
+source	country	name	domain	prior_verdict	prior_category
+held_review	Kuwait	Nasco Group	nasco-trading.com	OUT	diversified_trading
+original	Saudi Arabia	Naseem	naseemsa.com	IN	ecommerce
+original	Kuwait	Naser Al Sayer Group	naseralsayergroup.com	OUT	non_retail
+held_review	Saudi Arabia	نسمو | Nasmo	nasmoltd.com	OUT	home_improvement
+original	Kuwait	Natureland	natureland.net	IN	grocery
+original	Qatar	Nasser Bin Khaled and Sons Holdings	nbks.com	OUT	non_retail
+held_review	Saudi Arabia	National Building and Marketing Company	nbm.com.sa	OUT	diversified_trading
+original	Qatar	National Car Company	ncc-qatar.com	OUT	non_retail
+original	Saudi Arabia	مخابز وحلويات نعمه	neamah.com	IN	grocery
+original	Qatar	Nehmeh	nehmeh.com	OUT	non_retail
+original	Saudi Arabia	NESK Group of Trading Projects	nesk.com.sa	IN	fashion
+original	Saudi Arabia	Nesto Hypermarket Saudi Arabia نستو هايبر ماركت السعودية	nestooffers.com	OUT	grocery
+original	Kuwait	Northern Gulf Trading Company	ngt.com.kw	OUT	non_retail
+original	Saudi Arabia	nice	nice.com.sa	IN	ecommerce
+original	Saudi Arabia	NICE ONE | نايس ون	niceonesa.com	IN	health_beauty_pharmacy
+original	Saudi Arabia	Manahil International Company	nissan-manahil.com	OUT	non_retail
+original	Saudi Arabia	ALHAMRANI UNITED CO.	nissan.com.sa	OUT	non_retail
+original	Kuwait	Nissan Kuwait	nissankuwait.com	OUT	non_retail

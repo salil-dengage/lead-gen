@@ -1,0 +1,19 @@
+source	country	name	domain	prior_verdict	prior_category
+gap_sweep		kaifalshiuokh	kaifalshiuokh.com	OUT	ecommerce_unverified
+gap_sweep		sanar	sanar.sa	OUT	ecommerce_unverified
+gap_sweep		rasseed	rasseed.com	OUT	ecommerce_unverified
+gap_sweep		aya	aya.app	OUT	ecommerce_unverified
+gap_sweep		allbirds	allbirds.sa	OUT	franchise
+gap_sweep		dkny	dkny.sa	OUT	franchise
+gap_sweep		jazeerapaints	jazeerapaints.com	OUT	ecommerce_unverified
+gap_sweep		tamracapital	tamracapital.sa	OUT	nonretail_services
+gap_sweep		fashion	fashion.sa	OUT	ecommerce_unverified
+gap_sweep		sulindastore	sulindastore.com	OUT	ecommerce_unverified
+gap_sweep		saadeddin	saadeddin.com.sa	OUT	ecommerce_unverified
+gap_sweep		karazlinen	karazlinen.com	OUT	ecommerce_unverified
+gap_sweep		darent	darent.com	OUT	ecommerce_unverified
+gap_sweep		sorrah	sorrah.sa	OUT	ecommerce_unverified
+gap_sweep		partybox	partybox.sa	OUT	ecommerce_unverified
+gap_sweep		fnp	fnp.sa	OUT	ecommerce_unverified
+gap_sweep		lodore	lodore.com	OUT	ecommerce_unverified
+gap_sweep		abar	abar.app	OUT	ecommerce_unverified

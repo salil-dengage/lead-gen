@@ -1,0 +1,182 @@
+[
+  {
+    "name": "ATK Services & Marketing",
+    "domain": "http://www.atktech.com/",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "healthcare_it_software",
+    "qualification_path": "n/a",
+    "reason": "Live site confirms this is a B2B healthcare information-technology vendor selling hospital/clinic/dental management software, not a retail business in any approved category.",
+    "evidence": "atktech.com (200 OK) shows products HIMMA (hospital/clinical information system), HOMAM (HR/payroll software), ASNAN (dental practice management software), iSEHATI (patient-records mobile app), and SHABAKA (clinical practice network) -- all B2B enterprise software sold to hospitals/clinics. HQ Jeddah, Saudi Arabia, with additional offices in Egypt and India. No retail storefront or cart of any kind on the site."
+  },
+  {
+    "name": "Hp Store Ksa",
+    "domain": "https://www.hpstoreksa.com/",
+    "verdict": "OUT",
+    "gate_failed": "digital_channel",
+    "category_final": "electronics",
+    "qualification_path": "n/a",
+    "reason": "The domain currently fails to resolve at all (no DNS), and a WebSearch cross-check found no live alternate site for this specific reseller, only stale cached listings of the same dead domain plus unrelated HP corporate and marketplace pages.",
+    "evidence": "curl to both http and https, root and www, returned no connection (exit code 000, no DNS); python socket.gethostbyname('hpstoreksa.com') and ('www.hpstoreksa.com') both failed with 'no address associated with hostname' / 'Name or service not known'. WebSearch('HP Store hpstoreksa.com Saudi Arabia official website') surfaced only cached page titles referencing the same dead hpstoreksa.com domain, plus HP's own hp.com/sa-en corporate store and a noon.com/saudi-en/hp/ marketplace listing -- neither of which is this reseller's own live site."
+  },
+  {
+    "name": "Jamjoom Pharma",
+    "domain": "http://www.jamjoompharma.com/",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "pharma_manufacturer",
+    "qualification_path": "n/a",
+    "reason": "Confirmed pharmaceutical manufacturer with a portfolio of 147+ brands and an Investor Relations division; this is a manufacturer, not a retail pharmacy chain.",
+    "evidence": "jamjoompharma.com (200 OK): 'A portfolio of over 147 brands across 9 therapeutic categories,' with Pharmaceutical Products and Consumer Health Products divisions, plus dedicated Investor Relations and Health Regulators sections. HQ Jeddah, Saudi Arabia (JEBD3158, 3158 Sari Br Rd). No retail/cart infrastructure present."
+  },
+  {
+    "name": "Jazeera Pharmaceuticals Industries",
+    "domain": "http://www.jpi.com.sa/",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "pharma_manufacturer",
+    "qualification_path": "n/a",
+    "reason": "Confirmed via WebSearch (the domain itself is currently unreachable) to be a pharmaceutical manufacturer founded in 1999, producing cephalosporin/penicillin-based medicines and offering contract manufacturing -- not a retail pharmacy.",
+    "evidence": "jpi.com.sa returned no DNS resolution on direct check (both http/https, root/www). WebSearch corroborates: 'Jazeera Pharmaceuticals Industries Limited engages in the research, development, manufacture, and marketing of pharmaceutical products,' founded 1999, HQ Riyadh, 201-500 employees, US FDA-certified, 'specializes in the research, development, manufacture, and marketing of various pharmaceutical formulations, including cephalosporins and penicillin-based medicines,' plus contract manufacturing services."
+  },
+  {
+    "name": "Pharma Pharmaceutical Industry",
+    "domain": "http://www.pharma.com.sa/",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "pharma_manufacturer",
+    "qualification_path": "n/a",
+    "reason": "Confirmed pharmaceutical manufacturer (Pharma Pharmaceutical Industries, PPI) operating its own factory; not a retail business.",
+    "evidence": "pharma.com.sa (200 OK): 'Commitment to full manufacturing of innovative medicine is our Bold Promise... Our high-tech factory is located in second industrial city, Riyadh, Saudi Arabia, with 2 buildings covering 6000 m2... more than 120 highly qualified and expert employees.' No consumer retail or cart present anywhere on the site."
+  },
+  {
+    "name": "Tafaseel Store",
+    "domain": "http://tafaseel.store/",
+    "verdict": "OUT",
+    "gate_failed": "digital_channel",
+    "category_final": "general_lifestyle_retail",
+    "qualification_path": "n/a",
+    "reason": "The given domain has no DNS at all. The company's more likely real domain (tafaseelstore.com) resolves but serves a suspended-hosting placeholder, and no other live site could be found.",
+    "evidence": "tafaseel.store: no DNS resolution (confirmed via curl and python socket, both http/https). WebSearch identifies the real business as Riyadh-based 'Tafaseel Store... a shopping platform passionate about design that offers creative products from around the world,' pointing to tafaseelstore.com -- but a direct fetch of tafaseelstore.com (HTTP 200) returns only 'Account Suspended -- This Account has been suspended. Contact your hosting provider for more information.' No live storefront found on any domain despite the escalation search."
+  },
+  {
+    "name": "Smartable",
+    "domain": "http://www.smartable.me/",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "edtech_service",
+    "qualification_path": "n/a",
+    "reason": "Confirmed to be an education-technology / career-counseling platform for Saudi students, not a retail business in any approved category; the domain is also currently dead.",
+    "evidence": "smartable.me: no DNS resolution on direct check. WebSearch confirms Smartable is a Jeddah-founded, Flat6Labs-backed startup that 'resolves the stigmas surrounding educational counseling and guidance... by gamifying the High School and College education and guidance approach' using psychometric/aptitude testing and an ISCO-08 jobs dictionary -- an EdTech/career-guidance service with no physical or e-commerce products, and reported as no longer operating."
+  },
+  {
+    "name": "Saudi Pharmaceutical Industries",
+    "domain": "http://www.saudi-pharma.net/spi2/",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "pharma_manufacturer",
+    "qualification_path": "n/a",
+    "reason": "The specific /spi2/ sub-path is dead (404), but the root domain is live and confirms Saudi Pharmaceutical Industries (SPI) is a pharma manufacturer, not a retail pharmacy.",
+    "evidence": "saudi-pharma.net/spi2/ returned HTTP 404. saudi-pharma.net root (200 OK): 'Saudi Pharmaceutical Industries (SPI) is a Saudi manufacturer of high-quality branded generics... since 1994... 25,000 m2 Manufacturing Area, 3 Manufacturing Facilities, 250+ Brands,' with Human Health, Animal Health, and Infection Control divisions; GMP/SFDA certified. HQ 2nd Industrial City, Riyadh."
+  },
+  {
+    "name": "Staybridge Suites Jeddah Alandalus Mall",
+    "domain": "https://ihg.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "hospitality_hotel",
+    "qualification_path": "n/a",
+    "reason": "This is an IHG-branded extended-stay hotel property. Hospitality/hotels are explicitly excluded under Gate 2 regardless of how the local property is operated.",
+    "evidence": "Domain given (ihg.com) is InterContinental Hotels Group's global corporate site (403 to direct fetch, but identity unambiguous); Staybridge Suites is IHG's established extended-stay hotel brand, and the account name explicitly names a specific hotel property (Jeddah Alandalus Mall) -- a hospitality/hotel operation, not retail."
+  },
+  {
+    "name": "Ways Marketing Solutions",
+    "domain": "http://www.moh.gov.sa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "b2b_marketing_agency",
+    "qualification_path": "n/a",
+    "reason": "Confirmed via WebSearch to be a marketing/PR/communications agency, an explicit Gate 2 hard-fail (B2B services/agency) category; the given domain is also a complete mismatch (Saudi Ministry of Health government portal, no relation to the company).",
+    "evidence": "moh.gov.sa (200 OK) is the official Saudi Ministry of Health portal ('البوابة الإلكترونية لوزارة الصحة'); a case-insensitive search for 'ways' anywhere in the page returned zero matches, confirming the domain has nothing to do with this company. WebSearch confirms the real 'Ways Marketing Solutions' is a Riyadh company founded 2016 with 120+ staff providing 'diversified marketing services such as market research, social media management, PR and Influencers, digital marketing, creative concepts' to clients across industries -- a marketing/communications agency, hard-excluded regardless of the domain issue."
+  },
+  {
+    "name": "Saudi Goody Products Marketing Co. Ltd.",
+    "domain": "http://www.goody.com.sa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "food_beverage_cpg_manufacturer",
+    "qualification_path": "n/a",
+    "reason": "GoodyCo is a food & beverage manufacturer/brand owner (canned goods, condiments, snacks, coffee) sold through distributors and HORECA channels, with no direct-to-consumer storefront of its own.",
+    "evidence": "goody.com.sa (200 OK, GoodyCo corporate site): 'High-Quality Food & Beverage Products,' a house of brands (Goody, Cofique, Treva) spanning canned tuna, peanut butter, mayonnaise, pasta, snacking, and coffee, since 1969. Site navigation is limited to 'Suppliers' / 'Distributors' (B2B); zero occurrences of cart, shop, checkout, or buy anywhere on the page."
+  },
+  {
+    "name": "Al Bassam Home Appliances",
+    "domain": "http://www.fordeal.com",
+    "verdict": "OUT",
+    "gate_failed": "unverifiable",
+    "category_final": "unverifiable_domain_mismatch",
+    "qualification_path": "n/a",
+    "reason": "The domain given for this row belongs to a completely unrelated marketplace company, not Al Bassam. The real company's own previously-documented domain is now dead/hijacked, so the actual account cannot be verified against any live, correctly-matched site.",
+    "evidence": "fordeal.com is live (200 OK) but is explicitly self-branded '(c) 2026 Fordeal' -- a large, unrelated general cross-border e-commerce marketplace with no connection to Al Bassam, confirming a domain mismatch in the source data. WebSearch identifies the real business as Sulaiman Al Bassam Trading Co. / Al Bassam Home Appliances (Riyadh, 40+ years, 300+ international brands, part of Al Bassam Group's retail/consumer division, described as having 'an online shopping website'), with documented domain www.albassamest.com -- but a direct fetch of albassamest.com (200 OK) now serves an unrelated Arabic '1xBet APK' gambling-app download page (expired domain, hijacked by a third party), not Al Bassam's storefront. The parent Al Bassam Group corporate site (albassam.com, 200 OK) is an investor/portfolio page with no cart. A WebSearch-found App Store listing (id6451301143) returned HTTP 404 on direct check. Cannot verify gates 2-5 for the real company against any currently live, correctly-attributed domain despite reasonable search effort -- flagged for manual re-verification with a corrected domain rather than asserted OUT on the merits."
+  },
+  {
+    "name": "SAJA Pharmaceuticals",
+    "domain": "http://www.tamergroup.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "pharma_manufacturer",
+    "qualification_path": "n/a",
+    "reason": "Confirmed via WebSearch to be a pharmaceutical manufacturing joint venture, not a retail business.",
+    "evidence": "tamergroup.com is blocked by an Incapsula WAF on direct fetch ('Request unsuccessful. Incapsula incident ID...'). WebSearch confirms SAJA Pharmaceuticals is a joint venture between Tamer Group (Tamer Industries) and Japanese pharma companies Daiichi Sankyo and Astellas Pharma, manufacturing complex medications at a Jeddah facility, with ~$135M 2025 revenue. Tamer Group itself is a century-old Saudi healthcare distribution/manufacturing conglomerate. Both manufacturing and wholesale distribution are explicit Gate 2 hard-fail categories."
+  },
+  {
+    "name": "City Hypermarket",
+    "domain": "http://www.cityhyper.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "grocery_hypermarket",
+    "qualification_path": "substantiality",
+    "reason": "Confirmed leading Gulf hypermarket chain with a genuine online grocery cart and dedicated consumer apps; passes category (grocery, high repeat-purchase), digital channel, and scale.",
+    "evidence": "cityhyper.com returned a Cloudflare interstitial (403, inconclusive) on direct fetch, but WebSearch corroborates a substantial, real business: 'City Hypermarket, established in 1999... one of the leading hypermarket groups in the Middle East,' HQ Kuwait, flagship store 20,000-25,000+ sqm, expanded to Qatar (first Qatar branch opened Dec 2023). Genuine transactional online store at cchyper.com ('online grocery shopping... free delivery on all orders above 30 KWD... browse category, add to cart, select a delivery time') plus a dedicated 'City Hypermarket' app on Google Play and Apple App Store (package com.shopon.citycenter). Kuwait HQ falls within this project's Gulf retail ICP target countries (Saudi Arabia/Kuwait/Qatar); the source row's country field was blank."
+  },
+  {
+    "name": "alajlan",
+    "domain": "alajlan.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "fashion_retail_home_textiles",
+    "qualification_path": "substantiality",
+    "reason": "Six-decade Saudi retail conglomerate (Al Ajlan Group) with 200+ physical stores; its /fashion-retail/ page links out to genuinely live, transacting e-commerce sites for its retail brands. Passes category, broad multi-item assortment, digital channel, and scale.",
+    "evidence": "alajlan.com (200 OK): 'Al Ajlan Group... six decades... Our core strengths lie in the domains of Fashion Retail and Hospitality... over 200 stores strategically situated within the Kingdom, as well as in the UAE and Egypt.' HQ Riyadh (245 Makkah Road). The /fashion-retail/ sub-page contains explicit 'Shop Now' buttons whose hrefs point to genuinely live storefronts, confirmed by direct fetch: atroom.com.sa (bedding/bath/home decor -- real, varied SAR pricing with active discounts and repeated 'أضف إلى السلة' / add-to-cart markup across a wide product range) and dualsport.com.sa (official Adidas/Reebok/New Balance/Puma sportswear retailer -- live cart with 'Cart items... Continue Order... VAT included 15%' and dozens of distinct, individually priced SKUs with size/variant options). This is a genuine multi-brand, multi-category transactional operation, not merely a corporate brochure."
+  },
+  {
+    "name": "jumla",
+    "domain": "jumla.sa",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "general_merchandise_retail",
+    "qualification_path": "substantiality",
+    "reason": "jumla.sa is the corporate/history page of a real, substantial Saudi multi-brand retail group; its flagship consolidated brand Krabet is independently confirmed to be a genuine, broad-assortment retailer with a large physical branch network and dedicated consumer apps.",
+    "evidence": "jumla.sa (200 OK): 'Jumla Technology Trading Company,' founded 2009 in Riyadh, claims 80,000+ customers across its e-commerce platforms, physical showrooms in Riyadh (x2) and Khobar, and links out to store brands krabet.com/krabet.sa, prepak.me, and holol123.com. Direct fetch of krabet.com/krabet.sa returned a genuine Cloudflare bot-protection challenge (403, inconclusive per protocol) rather than a dead site. WebSearch independently corroborates Krabet as real and substantial: 'Krabet has 16 branches around Saudi Arabia and ships to all major cities,' selling a broad assortment (specialty coffee gear, hobbies/crafts, kids toys, home essentials, camping gear, car accessories, drinkware, decor -- not a narrow single product line), with dedicated apps on Google Play (com.krabet.app) and Apple App Store (id1620693269) and multiple secure payment methods."
+  },
+  {
+    "name": "alfaddagroup",
+    "domain": "alfaddagroup.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "building_materials_ceramics_sanitaryware",
+    "qualification_path": "n/a",
+    "reason": "Sells ceramic tiles, bathroom sets, and sanitary ware for contracting/construction -- an explicit Gate 2 hard-fail category.",
+    "evidence": "alfaddagroup.com (200 OK): 'Al Fadda Group For Trading and Contracting... We sell high quality, elegant ceramic tiles, bathroom sets, accessories, lighting, home accessories and other imported products from Europe.' Site structure is Catalogue / E-Services / Contact Us only, with no cart or checkout evident. HQ Riyadh (8739 King Fahd Road, Olaya). 'Trading and Contracting' in the company name itself further confirms a B2B/contracting orientation."
+  },
+  {
+    "name": "froz",
+    "domain": "froz.sa",
+    "verdict": "OUT",
+    "gate_failed": "digital_channel",
+    "category_final": "food_beverage_icecream_qsr",
+    "qualification_path": "n/a",
+    "reason": "Real, live self-service ice cream/frozen yogurt franchise brand (category and repeat-purchase frequency would both pass), but the website itself is a menu/brochure display only -- no cart or checkout anywhere -- and online ordering, where it exists, runs only through third-party delivery aggregators rather than an owned digital channel.",
+    "evidence": "froz.sa (200 OK on retry, after an initial bot-check redirect): 'FROZ is a Saudi brand specialized in the supply of various products of ice cream and frozen yogurt... Available in the Saudi market from 2013,' self-service model, actively recruiting franchisees ('Apply For Franchise'), HQ Riyadh. Product-category pages (e.g. ?prdouct_cat=ice-cream) display real per-item prices ('100 Gram = 10.SR') but the full page markup contains zero occurrences of add-to-cart, checkout, or cart -- an informational menu only. No evidence found of an owned FROZ transactional site or app; any delivery is via third-party marketplace apps."
+  }
+]

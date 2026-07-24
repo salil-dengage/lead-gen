@@ -1,0 +1,19 @@
+source	country	name	domain	prior_verdict	prior_category
+original	Saudi Arabia	Jeddah Duty Free  السوق الحرة جدة		IN	specialty_retail
+original	Saudi Arabia	Juffali Automotive Company		OUT	non_retail
+original	Saudi Arabia	Kia Aljabr I كيا الجبر		OUT	non_retail
+original	Saudi Arabia	Kia NMC - الشركة الأهلية للتسويق		OUT	non_retail
+original	Kuwait	Kuwait Automotive Imports Company(Al Shaya & Al Sagar)		OUT	non_retail
+original	Saudi Arabia	Landmark Arabia		OUT	foreign_operator
+original	Saudi Arabia	LubeExSA		OUT	non_retail
+original	Qatar	Lubnaas Boutique		IN	fashion
+original	Saudi Arabia	Mercedes-Benz KSA		OUT	non_retail
+original	Kuwait	Mercedes-Benz Kuwait - Al Mulla Automobiles Co.		OUT	non_retail
+original	Qatar	Mercedes-Benz Qatar		OUT	non_retail
+original	Saudi Arabia	Mobil Oil		OUT	non_retail
+original	Saudi Arabia	MODERN METAL INDUSTRIES COMPANY		OUT	building_materials_b2b
+original	Kuwait	MS Retail		IN	sporting_toys_books
+held_review	Qatar	Nabina Group مجموعة نابينا		OUT	diversified_trading
+original	Saudi Arabia	Naft Services Company		OUT	non_retail
+original	Qatar	NBK FASHION		IN	fashion
+original	Kuwait	Nesto Hypermarket Kuwait		OUT	grocery

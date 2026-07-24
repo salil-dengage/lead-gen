@@ -1,0 +1,19 @@
+source	country	name	domain	prior_verdict	prior_category
+held_review	Saudi Arabia	United Yousef M Naghi Co. Ltd	google.com	OUT	diversified_trading
+original	Saudi Arabia	Gozl Trading Company	gozl.com.sa	IN	sporting_toys_books
+original	Qatar	Grand Mart Group	grandmartgroup.com	OUT	grocery
+held_review	Saudi Arabia	C1	groupc1.com	OUT	unknown_naics
+original	Kuwait	Groupxen	groupxen.com	IN	fashion
+original	Kuwait	Gulf Fashion General Trading Company	gulf-fashion.com	IN	fashion
+original	Saudi Arabia	GULF ADVANTAGE AUTOMOBILE LLC	gulfadvauto.com	OUT	non_retail
+original	Qatar	Gulf Beauty International	gulfbeautytrading.com	IN	health_beauty_pharmacy
+original	Kuwait	Gulf Group	gulfgroupholding.com	IN	sporting_toys_books
+original	Saudi Arabia	gulf marketing group	gulfmgroup.com	OUT	foreign_operator
+held_review	Kuwait	GULF STREAM	gulfstreamkw.com	OUT	home_improvement
+original	Saudi Arabia	Hail House بيت هايل	hail-house.sa	IN	home_furniture_appliance
+original	Kuwait	Mohamed Naser Al-Hajery & Sons Ltd.	hajery.com	IN	health_beauty_pharmacy
+original	Saudi Arabia	Hakeem Oyoun | حكيم عيون	hakeem.sa	IN	health_beauty_pharmacy
+original	Saudi Arabia	HALA AUTO	halaauto.com	OUT	non_retail
+original	Saudi Arabia	carly | كارلي	halacarly.com	OUT	non_retail
+original	Kuwait	Hanan Dashti Company	hanandashtishop.com	IN	health_beauty_pharmacy
+original	Kuwait	Hassan Abul Co.	hassanabul.com	IN	home_furniture_appliance

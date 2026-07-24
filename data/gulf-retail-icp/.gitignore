@@ -1,0 +1,10 @@
+# Transient workflow working dirs (reproducible from candidates_classified.tsv + classify.awk).
+# Final deliverables (verified_master.*, README, candidate TSVs) are committed explicitly.
+batches/
+results/
+zoho_3country_accounts.tsv
+reconciliation_in.tsv
+write_data.tsv
+create_all.json
+enrich_all.json
+zoho_write_log.tsv

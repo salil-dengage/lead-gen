@@ -1,0 +1,19 @@
+source	country	name	domain	prior_verdict	prior_category
+gap_sweep		harveynichols	harveynichols.sa	OUT	franchise
+gap_sweep		repairlabsa	repairlabsa.com	OUT	ecommerce_unverified
+gap_sweep		vw	vw.com.sa	OUT	industrial_or_mfr
+gap_sweep		schindler	schindler.sa	OUT	industrial_or_mfr
+gap_sweep		interflow	interflow.sa	OUT	ecommerce_unverified
+gap_sweep		pfizerpro	pfizerpro.sa	OUT	industrial_or_mfr
+gap_sweep		oryx	oryx.sa	OUT	ecommerce_unverified
+gap_sweep		alamoudi	alamoudi.com.sa	OUT	ecommerce_unverified
+gap_sweep		abrtrd	abrtrd.com	OUT	ecommerce_unverified
+gap_sweep		alromaihgroup	alromaihgroup.com.sa	OUT	ecommerce_unverified
+gap_sweep		krabet	krabet.sa	OUT	ecommerce_unverified
+gap_sweep		alkhorayefshop	alkhorayefshop.com	OUT	ecommerce_unverified
+gap_sweep		kpopiashop	kpopiashop.com	OUT	ecommerce_unverified
+gap_sweep		philips	philips.sa	OUT	industrial_or_mfr
+gap_sweep		basp	basp.sa	OUT	ecommerce_unverified
+gap_sweep		AstraZeneca	azedugate.com	OUT	industrial_or_mfr
+gap_sweep		invntec	invntec.sa	OUT	ecommerce_unverified
+gap_sweep		al-kadi	al-kadi.sa	OUT	ecommerce_unverified

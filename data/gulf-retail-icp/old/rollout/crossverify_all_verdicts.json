@@ -1,0 +1,2956 @@
+[
+  {
+    "name": "ABYAT",
+    "domain": "abyat.com",
+    "verdict": "CONFIRM",
+    "note": "Live-fetched Kuwait City-HQ'd home/furniture megastore with KWD pricing, hundreds of consumer SKUs and a real cart; consumer home retail in the SACO/Safat Home pattern, not a B2B building-materials distributor. Clears all gates.",
+    "_batch_file": "rollout/crossverify_results/batch_00.json"
+  },
+  {
+    "name": "aDawliah Electronics",
+    "domain": "adawliahstore.com",
+    "verdict": "DOWNGRADE_NO",
+    "note": "Gate 2 fail: the company's own materials describe it as both retailer AND distributor engaged in 'retail, distribution, installation and integration' of professional AV, CCTV, security, access-control and pro-audio systems, a hybrid B2B/B2C model whose B2B/systems-integration side alone hard-excludes it.",
+    "_batch_file": "rollout/crossverify_results/batch_00.json"
+  },
+  {
+    "name": "Al Andalus Trading Establishment Company",
+    "domain": "andalus.com.kw",
+    "verdict": "DOWNGRADE_NO",
+    "note": "Gate 2 fail: its own about-us page states it is 'the sole distributer of Samsung, Hisense, Ariston and Ferre in Kuwait'. A national sole distributor supplying the trade is exactly the hybrid B2B distribution model the gate hard-excludes even when a genuine showroom/retail arm exists.",
+    "_batch_file": "rollout/crossverify_results/batch_00.json"
+  },
+  {
+    "name": "Al Hasawi Industrial Group",
+    "domain": "acekuwait.com",
+    "verdict": "DOWNGRADE_HELD",
+    "note": "Gate 6: the tagged parent mixes retail franchises (Ace, Sears, Peak, Dadida) with refrigerator/AC/water-cooler manufacturing (Al Hasawi factories), a hard exclusion, so the parent is excluded; the Ace retail sub could be broken out separately, but its hardware/DIY line also sits on the Gate 2 construction-hardware boundary. Held pending a clean retail-sub row.",
+    "_batch_file": "rollout/crossverify_results/batch_00.json"
+  },
+  {
+    "name": "AL NASSER",
+    "domain": "alnasser.net",
+    "verdict": "CONFIRM",
+    "note": "Large live Kuwait fashion/footwear/sports retailer, real KWD pricing and working cart; KNet and the footer legal entity confirm Kuwait HQ, 50 stores. Clears all gates.",
+    "_batch_file": "rollout/crossverify_results/batch_00.json"
+  },
+  {
+    "name": "Al Ostoura International Company",
+    "domain": "alostoura.com",
+    "verdict": "CONFIRM",
+    "note": "Old domain is parked/dead but the business migrated to alostouraworld.com per the dead-domain protocol: a live luxury multi-brand fashion store (named designer brands, working cart, Kuwait delivery). Well-known Kuwaiti luxury retailer; clears all gates.",
+    "_batch_file": "rollout/crossverify_results/batch_00.json"
+  },
+  {
+    "name": "Al-Bahar Electronics",
+    "domain": "",
+    "verdict": "CONFIRM",
+    "note": "Independent search resolved the previously-unidentified live domain to cloud9albahar.com (Cloud 9 by Al-Bahar): a live omnichannel consumer-electronics store with brand catalog pages, iOS/Android apps and 3 Kuwait mall stores, run by the Kuwaiti Al-Bahar Electrical Appliances & Electronics Co. WLL. Electronics category, Kuwait HQ, digital channel now confirmed.",
+    "_batch_file": "rollout/crossverify_results/batch_00.json"
+  },
+  {
+    "name": "Aldawaeya",
+    "domain": "aldawaeya.com",
+    "verdict": "CONFIRM",
+    "note": "Legitimate rebrand-redirect to alsultanpharmacy.com; live Kuwait online pharmacy with cart, KWD pricing, branded SKUs and store locator. Pharmacy is an approved, repeat-purchase category; clears all gates.",
+    "_batch_file": "rollout/crossverify_results/batch_00.json"
+  },
+  {
+    "name": "Aleephonline",
+    "domain": "aleephonline.com",
+    "verdict": "CONFIRM",
+    "note": "Independent check (original was keyword-only): a live Kuwait online pet store on Shopify with food/supplements/supplies collections. Pet supplies is an explicitly approved category and pet food is high-repeat; clears the gates.",
+    "_batch_file": "rollout/crossverify_results/batch_00.json"
+  },
+  {
+    "name": "Alfuhod",
+    "domain": "alfuhod.com",
+    "verdict": "CONFIRM",
+    "note": "Kuwait gaming/electronics retailer (founded 2000; PlayStation/Xbox/Nintendo/accessories) with a live e-commerce store. Electronics is approved and Kuwait HQ is confirmed; clears the gates.",
+    "_batch_file": "rollout/crossverify_results/batch_00.json"
+  },
+  {
+    "name": "Ali Abdulwahab Al Mutawa Commercial Co.",
+    "domain": "aaw.com",
+    "verdict": "DOWNGRADE_NO",
+    "note": "Gate 6: self-described 'retail and distribution conglomerate', sole distributor of P&G and Roche (large B2B FMCG/pharma wholesale) plus a Real Estate division, is a mixed parent that is excluded; the aaw.com corporate domain also has no unified cart of its own (Gate 4). A specific retail sub would need its own row.",
+    "_batch_file": "rollout/crossverify_results/batch_00.json"
+  },
+  {
+    "name": "AlOthman Fashion",
+    "domain": "alothmanfashion.com",
+    "verdict": "CONFIRM",
+    "note": "Kuwait City-HQ'd luxury fashion retailer, live site with /clothing and /outlet pages and KWD pricing. Fashion is an approved multi-item/seasonal category; clears the gates.",
+    "_batch_file": "rollout/crossverify_results/batch_00.json"
+  },
+  {
+    "name": "Alyasra Group",
+    "domain": "alyasra.com",
+    "verdict": "CONFIRM",
+    "note": "Qualifies as the Alyasra Fashion division (Kuwait HQ since 1958, 220+ stores, 30+ brands) whose Ontime chain runs a live transactional web store plus its own app. Per Gate 6 the group's separate food-distribution arm doesn't affect the clean, retail-qualifying fashion subsidiary.",
+    "_batch_file": "rollout/crossverify_results/batch_00.json"
+  },
+  {
+    "name": "Amal Al-Kuwait",
+    "domain": "amalalkuwait.com",
+    "verdict": "CONFIRM",
+    "note": "Kuwait perfume/oud/home-fragrance retailer (est. 1985) with a live transactional site, KWD pricing, loyalty program and branches. Fragrance is an approved consumable/repeat category; clears the gates.",
+    "_batch_file": "rollout/crossverify_results/batch_00.json"
+  },
+  {
+    "name": "Apotheca Beauty",
+    "domain": "apothecabeauty.com",
+    "verdict": "CONFIRM",
+    "note": "Kuwait City-HQ'd luxury beauty/skincare retailer on Shopify, 20+ prestige brands, live cart and first-order discount. Approved repeat-purchase category; clears the gates.",
+    "_batch_file": "rollout/crossverify_results/batch_00.json"
+  },
+  {
+    "name": "Armada Retail Concept",
+    "domain": "armadagroupco.com",
+    "verdict": "CONFIRM",
+    "note": "Gate 5b app-download rescue: Kuwait-HQ'd (since 1973) fashion franchise group, confirmed operator of the Riva Fashion app (500K+ Google Play installs, same developer account), well past the 50k threshold. All divisions are fashion retail; clears via the app path.",
+    "_batch_file": "rollout/crossverify_results/batch_00.json"
+  },
+  {
+    "name": "Atyab Al Marshoud",
+    "domain": "atyabalmarshoud.com",
+    "verdict": "CONFIRM",
+    "note": "Kuwait perfume retailer (est. 1925) on Shopify with a live cart, KWD pricing and a broad fragrance catalog over the SKU floor. Approved consumable/repeat category; clears the gates.",
+    "_batch_file": "rollout/crossverify_results/batch_00.json"
+  },
+  {
+    "name": "Baix Bakery",
+    "domain": "baixbakery.com",
+    "verdict": "CONFIRM",
+    "note": "Kuwait bakery-cafe chain (The Baker Boys Co., 3 branches) with its own online ordering platform plus third-party delivery. F&B is an approved, high-repeat category; direct fetch was bot-blocked but the business is well corroborated. Clears the gates.",
+    "_batch_file": "rollout/crossverify_results/batch_00.json"
+  },
+  {
+    "name": "Baqala",
+    "domain": "baqala.me",
+    "verdict": "CONFIRM",
+    "note": "Kuwait online grocery/convenience brand (Bodega Grocery Co., est. 2012) with 24-hour delivery and its own app, a first-party convenience retailer rather than an aggregator. Grocery is approved and high-repeat; clears the gates.",
+    "_batch_file": "rollout/crossverify_results/batch_00.json"
+  },
+  {
+    "name": "Bartone Cafe & Restaurant",
+    "domain": "bartone-me.com",
+    "verdict": "CONFIRM",
+    "note": "Registered Kuwait F&B company with a live WooCommerce ordering site (functional add-to-cart) and a broad 14-category menu across 24-hour locations. F&B is approved; clears the gates.",
+    "_batch_file": "rollout/crossverify_results/batch_00.json"
+  },
+  {
+    "name": "Beidoun Trading Co.",
+    "domain": "beidoun.com",
+    "verdict": "CONFIRM",
+    "note": "Kuwait-HQ'd multi-brand beauty/perfume/accessories retailer with a large live store (~1,528 consumer products, full cart/wishlist/order-tracking). 'Trading Co.' is only a name suffix; the model is consumer beauty retail. Clears the gates.",
+    "_batch_file": "rollout/crossverify_results/batch_00.json"
+  },
+  {
+    "name": "BelovedOne",
+    "domain": "belovedone.com",
+    "verdict": "DOWNGRADE_HELD",
+    "note": "Gate 3/5: independent check (original was keyword-only) shows a small made-to-order personalized baby-gift/toy boutique (name-customized items) with WhatsApp-led ordering and boutique scale, an inherently narrow, low-repeat, occasion-driven line that cannot confidently clear the narrow-category/low-repeat and substantiality gates.",
+    "_batch_file": "rollout/crossverify_results/batch_00.json"
+  },
+  {
+    "name": "Best Al-Yousifi",
+    "domain": "best.com.kw",
+    "verdict": "CONFIRM",
+    "note": "Well-known Kuwait electronics retailer (22 locations, 10,000+ products, 250+ brands) with a full e-commerce platform. Electronics approved, Kuwait HQ; clears the gates.",
+    "_batch_file": "rollout/crossverify_results/batch_00.json"
+  },
+  {
+    "name": "BJ Beauty Cosmetics",
+    "domain": "bjbeauty.co",
+    "verdict": "CONFIRM",
+    "note": "Independent check (original was keyword-only): a Kuwait consumer beauty retailer since 2018 (makeup/skincare/lashes) with physical stores, a live Shopify store and Talabat/Boutiqaat brand presence. Approved repeat-purchase category; clears the gates.",
+    "_batch_file": "rollout/crossverify_results/batch_00.json"
+  },
+  {
+    "name": "Bleems",
+    "domain": "bleems.com",
+    "verdict": "DOWNGRADE_HELD",
+    "note": "Gate 2: independent check (original called it plain 'e-commerce') reveals a flowers/gifts marketplace/aggregator partnered with 90+ third-party vendor shops, with a dedicated vendor-hub app, which is excluded as a marketplace unless the Gate 5b app-rescue applies. Could not confirm the app has 50k+ installs, so held rather than confirmed per the default-OUT protocol.",
+    "_batch_file": "rollout/crossverify_results/batch_00.json"
+  },
+  {
+    "name": "Boutiqaat",
+    "domain": "boutiqaat.com",
+    "verdict": "CONFIRM",
+    "note": "Gate 5b app-download rescue: Kuwait-HQ'd social-commerce/beauty platform whose app shows 5M+ Google Play downloads, far past the 50k threshold, which overrides the marketplace-category concern. Clears via the app path.",
+    "_batch_file": "rollout/crossverify_results/batch_00.json"
+  },
+  {
+    "name": "CHIPS",
+    "domain": "chipsstore.com",
+    "verdict": "CONFIRM",
+    "note": "Kuwait-HQ'd (Shuweikh, founded 2014) 'largest online electronics store in Kuwait' with a live ordering platform (chipsorders.com). Electronics approved; independent search corroborated a real, at-scale store despite the fetch block. Clears the gates.",
+    "_batch_file": "rollout/crossverify_results/batch_00.json"
+  },
+  {
+    "name": "City Hypermarket",
+    "domain": "http://www.cityhyper.com",
+    "verdict": "CONFIRM",
+    "note": "Kuwaiti-owned hypermarket (est. 1999, HQ Shuwaikh) with online grocery delivery and iOS/Android apps; largest store 20,000 sqm. Grocery is approved/high-repeat and Kuwait HQ is confirmed; clears the gates.",
+    "_batch_file": "rollout/crossverify_results/batch_00.json"
+  },
+  {
+    "name": "CityStar Kuwait",
+    "domain": "citystarstoresonline.com",
+    "verdict": "CONFIRM",
+    "note": "Independent check resolved the prior domain ambiguity: citystarstoresonline.com is the live online-shopping site (browse/account/checkout) of City Star General Trading Co. Kuwait, a Kuwaiti grocery/general-merchandise mega-store chain with multiple branches. Clears the gates.",
+    "_batch_file": "rollout/crossverify_results/batch_00.json"
+  },
+  {
+    "name": "Dabdoob",
+    "domain": "dabdoob.com",
+    "verdict": "CONFIRM",
+    "note": "Live large-scale Kuwait kids/baby retailer (HQ Shuwaikh) with thousands of real SKUs across toys/books/games/party/newborn plus its own iOS/Android app. Approved general-merchandise category, broad catalog; clears the gates.",
+    "_batch_file": "rollout/crossverify_results/batch_00.json"
+  },
+  {
+    "name": "dbassa",
+    "domain": "dbassa.com",
+    "verdict": "CONFIRM",
+    "note": "Kuwait online stationery/school-supplies shop (Khaitan) with website collections plus its own App Store app; stationery is an explicitly approved, repeat category. Direct fetch was bot-blocked (403) but the live app and multiple current Kuwait sources corroborate a real store. Clears the gates.",
+    "_batch_file": "rollout/crossverify_results/batch_00.json"
+  },
+  {
+    "name": "Doctor Q Cosmetics",
+    "domain": "doctorqshop.com",
+    "verdict": "CONFIRM",
+    "note": "Independent check (original was keyword-only): a Kuwait City derma-cosmetics brand (by Dr. Kanal Al-Sayegh) selling skincare/makeup/tools via a live Shopify store, a cosmetics product retailer rather than a clinic. Approved beauty category, repeat purchase; clears the gates.",
+    "_batch_file": "rollout/crossverify_results/batch_00.json"
+  },
+  {
+    "name": "Drops",
+    "domain": "dropsgroup.com",
+    "verdict": "CONFIRM",
+    "note": "App-download rescue holds: Google Play shows 300K+ installs (well over Gate 5b's 50k), Kuwait's largest hypermarket app, Kuwait HQ. Corporate domain lacks a store but the app path qualifies it.",
+    "_batch_file": "rollout/crossverify_results/batch_01.json"
+  },
+  {
+    "name": "EARTH ROASTERY",
+    "domain": "earthroastery.com",
+    "verdict": "CONFIRM",
+    "note": "Live DTC specialty-coffee store (curl-verified cart, KWD, consumer-only collections: coffee/beans/capsules/drip/brewing/equipment/tumblers). No wholesale/B2B section in the storefront; the original's B2B note is ancillary, not the model. Kuwait HQ, consumable repeat category.",
+    "_batch_file": "rollout/crossverify_results/batch_01.json"
+  },
+  {
+    "name": "Eureka Trading Co. W.L.L.",
+    "domain": "eureka.com.kw",
+    "verdict": "CONFIRM",
+    "note": "Curl-verified consumer electronics retailer (TVs/phones/appliances), Kuwait, no B2B/wholesale portal despite the 'Trading Co.' legal name. Electronics approved.",
+    "_batch_file": "rollout/crossverify_results/batch_01.json"
+  },
+  {
+    "name": "Extreme Sports",
+    "domain": "extreme.com.kw",
+    "verdict": "CONFIRM",
+    "note": "Live Kuwait Shopify sports retailer with cart/checkout across multiple sub-categories (not a narrow single line), 250+ SKUs. Sporting goods reads as general-merchandise/apparel retail; passes Gates 2 and 3.",
+    "_batch_file": "rollout/crossverify_results/batch_01.json"
+  },
+  {
+    "name": "Future Communications Company",
+    "domain": "fcc-kuwait.com",
+    "verdict": "DOWNGRADE_HELD",
+    "note": "Gate 2/6: account is pinned to the mixed FCCG parent, which self-describes as 'distributors & retailers serving both consumers and businesses' with a distinct B2B IT-Solutions unit alongside the Soooq consumer arm. Real retail exists but the parent-level entity is a hybrid B2B/B2C mix; the retail subsidiary would need its own row.",
+    "_batch_file": "rollout/crossverify_results/batch_01.json"
+  },
+  {
+    "name": "Game Store Company",
+    "domain": "gamestore.com.kw",
+    "verdict": "CONFIRM",
+    "note": "Curl-verified live Kuwait gaming/electronics store ('Buy Latest Games & Accessories Online in Kuwait'), consumer retail, no B2B signals. Electronics approved.",
+    "_batch_file": "rollout/crossverify_results/batch_01.json"
+  },
+  {
+    "name": "GISSAH",
+    "domain": "gissah.com",
+    "verdict": "CONFIRM",
+    "note": "Independently verified: luxury fragrance house born in Kuwait 2019, HQ Hawalli, 180+ stores, live e-commerce. Perfume is approved and repeat-purchase; original keyword-only reason holds up.",
+    "_batch_file": "rollout/crossverify_results/batch_01.json"
+  },
+  {
+    "name": "Go Fresh",
+    "domain": "gofresh.com.kw",
+    "verdict": "DOWNGRADE_NO",
+    "note": "Gate 2: its own site states it is 'Kuwait's leading fresh-produce & FMCG supplier' 'serving retail, B2B, and e-commerce.' That explicit hybrid B2B/B2C supplier model hard-excludes it even with a genuine consumer arm.",
+    "_batch_file": "rollout/crossverify_results/batch_01.json"
+  },
+  {
+    "name": "Hanan Dashti Company",
+    "domain": "hanandashtishop.com",
+    "verdict": "CONFIRM",
+    "note": "Curl-verified live cosmetics/makeup e-commerce (KWD, cart/checkout), Kuwait. Beauty approved, repeat-purchase.",
+    "_batch_file": "rollout/crossverify_results/batch_01.json"
+  },
+  {
+    "name": "Hassan's Optician Co.",
+    "domain": "hassans.com",
+    "verdict": "CONFIRM",
+    "note": "Curl-verified live optical/eyewear e-commerce in Kuwait (since 1951). Opticians are an explicitly approved category; no exclusion triggers.",
+    "_batch_file": "rollout/crossverify_results/batch_01.json"
+  },
+  {
+    "name": "Home & Garden",
+    "domain": "homeandgarden.cc",
+    "verdict": "CONFIRM",
+    "note": "Given .cc domain is blocked but the operating store (shopping.homeandgarden.com.kw) is a live Kuwaiti webstore with active cart and 10,000+ product varieties (broad home/garden, not narrow). Adjacent landscaping/plant services do not supply other retailers, so the retail core clears all gates. No B2B portal found.",
+    "_batch_file": "rollout/crossverify_results/batch_01.json"
+  },
+  {
+    "name": "La Plus Belle",
+    "domain": "lpbkuwait.com",
+    "verdict": "DOWNGRADE_NO",
+    "note": "Gate 2: independently confirmed as 'The Largest Women's Beauty Salon & Spa in the Middle East' (founded 1999; entity 'La Plus Belle General Trad. & Cont.'). Core business is salon/spa services (hair/makeup/bridal/spa/nails), which is hard-excluded even with an attached product shop; the original reason inverted the core.",
+    "_batch_file": "rollout/crossverify_results/batch_01.json"
+  },
+  {
+    "name": "LIL BUNNIES - THE COLLECTIVE",
+    "domain": "lilbunnies.com",
+    "verdict": "CONFIRM",
+    "note": "Curl-verified live kids/newborn/maternity clothing e-commerce, Kuwait, cart/checkout, broad seasonal catalog. Fashion approved.",
+    "_batch_file": "rollout/crossverify_results/batch_01.json"
+  },
+  {
+    "name": "maktaba",
+    "domain": "maktabakw.com",
+    "verdict": "CONFIRM",
+    "note": "Curl-verified live bilingual stationery/office/art-supplies store with a large catalog (200+ add-to-cart) and Kuwait locale; no B2B/corporate-account portal despite the office-supply category. Books/stationery approved.",
+    "_batch_file": "rollout/crossverify_results/batch_01.json"
+  },
+  {
+    "name": "Midas Furniture",
+    "domain": "midasfurniture.com",
+    "verdict": "CONFIRM",
+    "note": "Curl-verified live broad home & office furniture plus home-goods e-commerce (KWD, 100+ add-to-cart), Kuwait HQ, no wholesale portal. Home/furniture approved; broad enough to clear the narrow-category gate.",
+    "_batch_file": "rollout/crossverify_results/batch_01.json"
+  },
+  {
+    "name": "Mobile 2000",
+    "domain": "mobile2000.com",
+    "verdict": "CONFIRM",
+    "note": "Curl-verified large live consumer electronics store (500+ KWD price points, 300+ add-to-cart, BNPL), Kuwait, no B2B signals. Broad electronics approved.",
+    "_batch_file": "rollout/crossverify_results/batch_01.json"
+  },
+  {
+    "name": "mubkhar",
+    "domain": "mubkhar.com",
+    "verdict": "CONFIRM",
+    "note": "Curl-verified live 'Mubkhar Kuwait, Luxury Fragrances' Shopify store (KWD, cart), Kuwaiti perfume/bakhoor brand with a broad catalog. Fragrance approved, consumable repeat.",
+    "_batch_file": "rollout/crossverify_results/batch_01.json"
+  },
+  {
+    "name": "Nagwa Boutique & Café",
+    "domain": "nagwaboutique.com",
+    "verdict": "CONFIRM",
+    "note": "Kuwaiti confectionery/F&B boutique with a live Zyda ordering platform, 6 branches, multiple product lines. The two factories produce its own retail product (vertical integration), not B2B supply. F&B approved.",
+    "_batch_file": "rollout/crossverify_results/batch_01.json"
+  },
+  {
+    "name": "Natureland",
+    "domain": "natureland.net",
+    "verdict": "CONFIRM",
+    "note": "Independently verified live D2C grocery e-commerce (KWD cart, broad catalog: produce/dairy/bakery/pantry/personal-care), organic brand born in Kuwait 1996. Its 'Whole Sale Offers' is a consumer bulk-buy section, not a B2B portal (no business registration/MOQ). Grocery approved, high-repeat.",
+    "_batch_file": "rollout/crossverify_results/batch_01.json"
+  },
+  {
+    "name": "Nissan Kuwait",
+    "domain": "nissankuwait.com",
+    "verdict": "DOWNGRADE_NO",
+    "note": "Gate 2: independently confirmed as the Abdulmohsen Al-Babtain Nissan dealership, sole authorized dealer/distributor of Nissan/Infiniti/Renault/Citroen in Kuwait. Automotive is hard-excluded; original was a keyword-only false positive.",
+    "_batch_file": "rollout/crossverify_results/batch_01.json"
+  },
+  {
+    "name": "Nor Noyau® | Artisan Chocolatier",
+    "domain": "nornoyau.com",
+    "verdict": "CONFIRM",
+    "note": "Curl-verified live 'Nor Noyau Chocolatier' site, Kuwait. Artisan chocolate is F&B, consumable repeat-purchase; no B2B signals.",
+    "_batch_file": "rollout/crossverify_results/batch_01.json"
+  },
+  {
+    "name": "Odecla Perfumes",
+    "domain": "odecla.com",
+    "verdict": "CONFIRM",
+    "note": "Independently verified: luxury perfume brand, HQ Mazaya Tower Kuwait City, live e-commerce. Perfume approved, repeat-purchase; original keyword-only reason holds up.",
+    "_batch_file": "rollout/crossverify_results/batch_01.json"
+  },
+  {
+    "name": "OLE Coffee",
+    "domain": "theolecoffee.com",
+    "verdict": "CONFIRM",
+    "note": "Independently verified (mobile UA, HTTP 200): live 'OLE Artisanal Coffee' WooCommerce store, KWD, checkout, categories coffee/beans/capsules/filter/subscription/matcha/merch. DTC coffee retail with repeat (subscription); the 'b2b' string was a Cloudflare email-obfuscation false positive, not a business line.",
+    "_batch_file": "rollout/crossverify_results/batch_01.json"
+  },
+  {
+    "name": "Otoraat - عطورات",
+    "domain": "otoraat.com",
+    "verdict": "CONFIRM",
+    "note": "Site is Cloudflare-blocked to fetch, but the prior independent web-search resolution (largest perfume boutique in Kuwait/Gulf, website + dedicated app) holds; Otoraat is a Kuwaiti perfume retailer. Perfume approved, repeat. Blocked-not-dead per Gate 4.",
+    "_batch_file": "rollout/crossverify_results/batch_01.json"
+  },
+  {
+    "name": "Pastry & Coffee",
+    "domain": "pastry.coffee",
+    "verdict": "CONFIRM",
+    "note": "Prior independent web-search resolution stands: live artisan bakery/F&B in Sabah Al Salem, Kuwait, with real product collections. F&B approved; contradicted the earlier dead-Shopify finding.",
+    "_batch_file": "rollout/crossverify_results/batch_01.json"
+  },
+  {
+    "name": "Pet Barn",
+    "domain": "petbarnkw.com",
+    "verdict": "DOWNGRADE_NO",
+    "note": "Gate 2: its own site runs an explicit 'wholesale B2B portal' open to 'all businesses in the pet industry' with minimum order quantities. That B2B supply arm hard-excludes it even alongside the consumer store; the original web-search reason only saw the retail side.",
+    "_batch_file": "rollout/crossverify_results/batch_01.json"
+  },
+  {
+    "name": "Pet Point For pet supplies",
+    "domain": "petpointkw.com",
+    "verdict": "CONFIRM",
+    "note": "Curl-verified live Kuwaiti pet retailer (checkout, Kuwait), 30,000+ products, dedicated app, same-day Kuwait delivery, and no B2B wholesale portal found. Pet supplies approved, repeat.",
+    "_batch_file": "rollout/crossverify_results/batch_01.json"
+  },
+  {
+    "name": "Petsmarket",
+    "domain": "petsmarket.com",
+    "verdict": "CONFIRM",
+    "note": "It is a pet marketplace (aggregates 80-90+ shops; Pet Barn is a shop on it), which Gate 2 excludes by default, but its Google Play app shows 50K+ installs, meeting Gate 5b's app-download rescue which overrides the category concern. Kuwait HQ (est. 2000).",
+    "_batch_file": "rollout/crossverify_results/batch_01.json"
+  },
+  {
+    "name": "Petzone",
+    "domain": "petzone.com",
+    "verdict": "DOWNGRADE_NO",
+    "note": "Gate 2: a Petzone executive interview (GlobalPETS) confirms it runs 'a wholesale B2B distribution network serving nearly 1,000 customers' and acts as a distributor importing and selling into Saudi. That explicit B2B distribution arm hard-excludes it despite its genuine consumer retail chain; the original reason missed it.",
+    "_batch_file": "rollout/crossverify_results/batch_01.json"
+  },
+  {
+    "name": "Pharmalife Co.",
+    "domain": "pharmalife-kw.com",
+    "verdict": "CONFIRM",
+    "note": "Curl-verified live pharmacy/beauty e-commerce (KWD, 100+ add-to-cart) with a broad range, Kuwait. Retail pharmacy is the explicit approved exception; no B2B portal.",
+    "_batch_file": "rollout/crossverify_results/batch_01.json"
+  },
+  {
+    "name": "Pharmazone Kuwait",
+    "domain": "pharmazone.com",
+    "verdict": "CONFIRM",
+    "note": "Curl-verified live beauty/health e-commerce (KWD, cart), Kuwait. The 'wholesale' hits are Shopify offers-app config only (wholesale pricing shows 'disable...:yes'), not a real B2B arm. Beauty/health approved.",
+    "_batch_file": "rollout/crossverify_results/batch_01.json"
+  },
+  {
+    "name": "RIVA",
+    "domain": "rivafashion.com",
+    "verdict": "CONFIRM",
+    "note": "Independently verified: family-owned fashion company founded in Kuwait 1973, HQ Kuwait, owned by Kuwait-based Armada Retail Corporation Group, live e-commerce. Despite 140 Middle East stores, HQ is in-country. Fashion approved.",
+    "_batch_file": "rollout/crossverify_results/batch_01.json"
+  },
+  {
+    "name": "Royal Pharmacy",
+    "domain": "royalph.com",
+    "verdict": "CONFIRM",
+    "note": "Retail pharmacy is the explicit approved-category exception; prior resolution confirms a Kuwait MoH-licensed online pharmacy with home delivery and app. Site 403-blocks bots but the specific prior corroboration holds.",
+    "_batch_file": "rollout/crossverify_results/batch_02.json"
+  },
+  {
+    "name": "Sabsah Hypermarket Co Kuwait",
+    "domain": "sabsahhyper.com",
+    "verdict": "CONFIRM",
+    "note": "Independently fetched: genuine live Kuwait hypermarket e-commerce (Ahmadi/Fintas) with grocery + electronics + appliances catalog, cart and checkout. Grocery is approved/high-frequency; the keyword-only reason holds up on the merits.",
+    "_batch_file": "rollout/crossverify_results/batch_02.json"
+  },
+  {
+    "name": "Safat Home by Alghanim Industries",
+    "domain": "safathome.com",
+    "verdict": "CONFIRM",
+    "note": "Genuine Kuwait-HQ Alghanim Industries; own storefront with detailed broad home-furnishings catalog, KD pricing and working cart. Home/furniture approved, scale evidenced.",
+    "_batch_file": "rollout/crossverify_results/batch_02.json"
+  },
+  {
+    "name": "Safi",
+    "domain": "saficosmetics.com",
+    "verdict": "CONFIRM",
+    "note": "560-result WooCommerce catalog with real pricing/stock flags and confirmed cart/checkout; Kuwait cosmetics (approved, high-repeat). Airtight SKU + cart evidence.",
+    "_batch_file": "rollout/crossverify_results/batch_02.json"
+  },
+  {
+    "name": "Seventh Dimension Company",
+    "domain": "7d.com.kw",
+    "verdict": "DOWNGRADE_HELD",
+    "note": "Gate 2: company self-describes as unifying 'smart device distribution, retail, e-commerce' and specializing in 'Retail, Distribution, E-commerce, and Business Solutions' plus a Free-Trade-Zone supply chain -- a real B2B/distribution dimension the original reason omitted. Genuine hybrid-B2B doubt though a real ASTORE retail arm exists.",
+    "_batch_file": "rollout/crossverify_results/batch_02.json"
+  },
+  {
+    "name": "Starco Holding",
+    "domain": "starcoholding.com",
+    "verdict": "CONFIRM",
+    "note": "Explicitly named as a Gate 1 PASS example in the rulebook (Kuwait-HQ fashion/F&B franchise conglomerate, retail-clean of hard-excluded divisions).",
+    "_batch_file": "rollout/crossverify_results/batch_02.json"
+  },
+  {
+    "name": "Tatayab",
+    "domain": "tatayab.com",
+    "verdict": "CONFIRM",
+    "note": "Independently confirmed as Kuwait/Gulf's largest perfume-fragrance-beauty store with live store + app and broad assortment (perfume, oud, beauty, hair/body care). Approved, high-repeat; my 'might be home decor' doubt is resolved to perfume.",
+    "_batch_file": "rollout/crossverify_results/batch_02.json"
+  },
+  {
+    "name": "Teeela",
+    "domain": "teeela.com",
+    "verdict": "CONFIRM",
+    "note": "Independently confirmed genuine Kuwait-based kids toys/fashion e-commerce (Lego/Disney/Funko brands), live site + app, funded ($3.75M pre-Series A). Broad toys/kids assortment, approved; thin original body content backfilled.",
+    "_batch_file": "rollout/crossverify_results/batch_02.json"
+  },
+  {
+    "name": "THE BED SHOP",
+    "domain": "thebedshop.co",
+    "verdict": "DOWNGRADE_NO",
+    "note": "Gate 3: confirmed specialist in beds, mattresses & bedding since 1995 -- a narrow, low-repeat line the rulebook explicitly lists as a confirmed fail (mattresses, long replacement cycle) regardless of e-commerce quality. Original reason was keyword-only and never applied Gate 3.",
+    "_batch_file": "rollout/crossverify_results/batch_02.json"
+  },
+  {
+    "name": "The Sultan Center",
+    "domain": "sultan-center.com",
+    "verdict": "CONFIRM",
+    "note": "Well-known major Kuwaiti hypermarket chain (TSC); grocery approved and high-frequency, genuinely Kuwait-HQ.",
+    "_batch_file": "rollout/crossverify_results/batch_02.json"
+  },
+  {
+    "name": "Trafalgar Luxury Group",
+    "domain": "trafalgarluxurygroup.com",
+    "verdict": "CONFIRM",
+    "note": "Independently confirmed Kuwait-born luxury retailer; its itsluxury.com store is live with 1400+ watches plus jewellery/accessories and same-day delivery. Broad luxury assortment (jewelry approved), real scale, digital channel confirmed.",
+    "_batch_file": "rollout/crossverify_results/batch_02.json"
+  },
+  {
+    "name": "Trolley Convenience Store",
+    "domain": "trolley.com.kw",
+    "verdict": "DOWNGRADE_HELD",
+    "note": "Gate 4: site returned 503 and I could not confirm a live transactional store or app; the original pass leans on the chain's 'leading convenience store' reputation, not a confirmed live cart/checkout. Real business but the digital channel is asserted-not-evidenced.",
+    "_batch_file": "rollout/crossverify_results/batch_02.json"
+  },
+  {
+    "name": "UFFF GROUP COMPANY",
+    "domain": "ufff.com",
+    "verdict": "CONFIRM",
+    "note": "Independently confirmed Kuwait pop-culture multi-category retailer (Funko, apparel, toys, home, stationery, games) with live e-commerce + app + physical stores. Broad B2C assortment despite holding Funko brand rights.",
+    "_batch_file": "rollout/crossverify_results/batch_02.json"
+  },
+  {
+    "name": "Union Trading Co.",
+    "domain": "utc.com.kw",
+    "verdict": "DOWNGRADE_NO",
+    "note": "Gate 2: confirmed 'leading retailer AND distributor' with a wholesale division of 3,000+ B2B customer accounts reaching 90% of consumers. Explicit hybrid B2B/B2C -- the wholesale/distribution side alone disqualifies even with a genuine 17-store retail arm.",
+    "_batch_file": "rollout/crossverify_results/batch_02.json"
+  },
+  {
+    "name": "Wahran Trading Company-Kuwait",
+    "domain": "wahrantrading.com",
+    "verdict": "DOWNGRADE_NO",
+    "note": "Gate 2: confirmed 'leading distributor of fragrances and beauty products' with exclusive distribution agreements (Tumi, Mind Games). A distributor/B2B trading company; distribution disqualifies even with owned retail chains, and no confirmed consumer e-commerce cart on the corporate site.",
+    "_batch_file": "rollout/crossverify_results/batch_02.json"
+  },
+  {
+    "name": "Wawan Protein",
+    "domain": "gowawan.com",
+    "verdict": "CONFIRM",
+    "note": "Independently confirmed Kuwait-origin (2011) sports-nutrition/supplements retailer; gowawan.com is the live store (rulebook-blessed domain move) and 50+ branches. Consumable health retail, high-repeat, approved.",
+    "_batch_file": "rollout/crossverify_results/batch_02.json"
+  },
+  {
+    "name": "xcite by alghanim electronics",
+    "domain": "xcite.com",
+    "verdict": "CONFIRM",
+    "note": "Well-known Kuwait-HQ Alghanim electronics/appliance retailer; broad multi-category catalog with full transactional infrastructure and app. Well beyond the scale floor.",
+    "_batch_file": "rollout/crossverify_results/batch_02.json"
+  },
+  {
+    "name": "Yahaal",
+    "domain": "yahaal.com",
+    "verdict": "DOWNGRADE_NO",
+    "note": "Gate 5: web.yahaal.com is an app-download landing page with no catalog/cart (mobile-only), and the app shows only ~10K downloads -- below the 50k Gate 5b floor and directly matching the Al Sadhan precedent. No 5a substantiality path exists.",
+    "_batch_file": "rollout/crossverify_results/batch_02.json"
+  },
+  {
+    "name": "Al Jazeera Perfumes",
+    "domain": "aljazeeraperfumes.com",
+    "verdict": "CONFIRM",
+    "note": "Doha, Qatar HQ (est. 1998) confirmed via prior search; custom-built multi-region live e-commerce with physical Qatar retail. Perfume approved (consumable/repeat); detailed prior verification holds.",
+    "_batch_file": "rollout/crossverify_results/batch_02.json"
+  },
+  {
+    "name": "Al Meera Consumer Goods Company",
+    "domain": "",
+    "verdict": "CONFIRM",
+    "note": "Qatar's largest homegrown supermarket/hypermarket chain, Qatar Exchange-listed; grocery approved, Qatar-HQ, massive scale. Duplicate of the almeera.com.qa row (#26) -- should be consolidated per Gate 6, but the company itself qualifies.",
+    "_batch_file": "rollout/crossverify_results/batch_02.json"
+  },
+  {
+    "name": "Al Rawabi Group of Companies",
+    "domain": "rawabihypermarket.com",
+    "verdict": "CONFIRM",
+    "note": "This row's domain is the Rawabi Hypermarket storefront -- independently confirmed live transactional grocery e-commerce (thousands of SKUs, cart, QAR pricing, 8 Qatar stores, delivery slots). Gate 6 allows the retail-qualifying subsidiary to pass on its own merits even though the parent group is mixed.",
+    "_batch_file": "rollout/crossverify_results/batch_02.json"
+  },
+  {
+    "name": "Al Rawabi Group of Companies W.L.L",
+    "domain": "alrawabigroup.com",
+    "verdict": "DOWNGRADE_NO",
+    "note": "Gate 6 + Gate 4: this is the parent corporate/holding site of a conglomerate that mixes retail with wholesale (Rawabi Food International, Emdadco, Wholesale Plus), food manufacturing, distribution and hospitality. Mixed-conglomerate parent is excluded (only the hypermarket subsidiary, row #21, qualifies), and a holding page is not itself a storefront.",
+    "_batch_file": "rollout/crossverify_results/batch_02.json"
+  },
+  {
+    "name": "Al Shaheen Est",
+    "domain": "alshaheenest.com",
+    "verdict": "CONFIRM",
+    "note": "Independently confirmed Doha-founded (1988) broad general-merchandise retailer (household, electronics, toys, furniture, cosmetics) with physical showrooms + live online shop. The prior OUT/'diversified_trading' call was wrong; it is genuine consumer retail.",
+    "_batch_file": "rollout/crossverify_results/batch_02.json"
+  },
+  {
+    "name": "Al Sulaiman Jewellers",
+    "domain": "alsulaimanjewellers.com",
+    "verdict": "CONFIRM",
+    "note": "Independently confirmed Doha, Qatar HQ (since 1993); gold/diamond jewelry (approved, broad) across 15 Qatar showrooms with a live store. Geography confirmed as Qatar, not the separate Saudi Al Sulaiman.",
+    "_batch_file": "rollout/crossverify_results/batch_02.json"
+  },
+  {
+    "name": "AlaneesQatar",
+    "domain": "alaneesqatar.qa",
+    "verdict": "CONFIRM",
+    "note": "Independently confirmed Qatar-founded (1992) and Doha-HQ'd, not a UAE branch; broad consumer-electronics retailer with 16+ Qatar stores and live e-commerce + app. Geography and category hold.",
+    "_batch_file": "rollout/crossverify_results/batch_02.json"
+  },
+  {
+    "name": "ALMEERA CONSUMER GOODS COMPANY QSC",
+    "domain": "almeera.com.qa",
+    "verdict": "CONFIRM",
+    "note": "Al Meera Q.P.S.C., Doha-HQ, Qatar Exchange-listed grocery giant with app, scheduled delivery and 50-65+ branches; grocery approved, massive scale. Same company as row #20.",
+    "_batch_file": "rollout/crossverify_results/batch_02.json"
+  },
+  {
+    "name": "Ansar Gallery",
+    "domain": "ansargallery.com",
+    "verdict": "CONFIRM",
+    "note": "Independently confirmed Ansar Group HQ in Doha, Qatar (est. 1980/1987); UAE was later expansion, not origin. Full-scale live hypermarket/general-merchandise e-commerce with broad approved assortment.",
+    "_batch_file": "rollout/crossverify_results/batch_02.json"
+  },
+  {
+    "name": "BaladiMart",
+    "domain": "baladiexpress.com",
+    "verdict": "CONFIRM",
+    "note": "Al Baladi Holding (Doha, Qatar) first-party grocery/hypermarket operator; prior verification cited 150k products, native iOS/Android apps and independent news corroboration per the Gate 4 blocked-site protocol. Site 503s to direct fetch, but the corroboration is methodologically sound and grocery is approved.",
+    "_batch_file": "rollout/crossverify_results/batch_02.json"
+  },
+  {
+    "name": "Beauty Booth Qatar",
+    "domain": "beautyboothqa.com",
+    "verdict": "CONFIRM",
+    "note": "Independently confirmed Doha, Qatar HQ; genuine beauty/cosmetics e-commerce (skincare, haircare, makeup, fragrance, baby care). Geography and category hold; the keyword-only reason is correct on the merits.",
+    "_batch_file": "rollout/crossverify_results/batch_02.json"
+  },
+  {
+    "name": "Blue Salon",
+    "domain": "bluesalon.com",
+    "verdict": "CONFIRM",
+    "note": "Well-known Qatari luxury department store (a Doha institution, not a hair salon); broad fashion/accessories/jewelry/fragrance catalog with QAR pricing, cart and app. Qatar-HQ, approved.",
+    "_batch_file": "rollout/crossverify_results/batch_02.json"
+  },
+  {
+    "name": "BTC Fashion",
+    "domain": "btcfashion.me",
+    "verdict": "CONFIRM",
+    "note": "Doha-HQ fashion retail arm of Qatar's Business Trading Company (est. 1997); bFab is BTC's OWN e-commerce platform (not a third-party marketplace) selling its franchise brands (Matalan, Superdry, Miniso). Approved fashion, own live channel. Uses WebEngage -- already-solved soft signal, deprioritize not exclude.",
+    "_batch_file": "rollout/crossverify_results/batch_02.json"
+  },
+  {
+    "name": "Care n Cure Group",
+    "domain": "carencurepharmacy.com",
+    "verdict": "CONFIRM",
+    "note": "Doha, Qatar founded/HQ'd (est. 2000); retail pharmacy (approved exception) with 65 outlets and live e-commerce cart/checkout. Airtight per specific prior evidence.",
+    "_batch_file": "rollout/crossverify_results/batch_02.json"
+  },
+  {
+    "name": "CRYSTALS",
+    "domain": "crystals.qa",
+    "verdict": "CONFIRM",
+    "note": "Verified live Shopify store with QAR checkout, +974, and a broad multi-category lifestyle assortment (crystals/minerals, jewelry, wellness, decor, apparel); the lone 'b2b' string is a theme flag, not a wholesale arm. All 7 gates hold.",
+    "_batch_file": "rollout/crossverify_results/batch_03.json"
+  },
+  {
+    "name": "Family Food Centre",
+    "domain": "family.qa",
+    "verdict": "CONFIRM",
+    "note": "Confirmed live Qatar grocery e-commerce (family.qa/en) with Add to Cart, QAR pricing and Doha operations; grocery is a high-frequency approved category. Gates hold.",
+    "_batch_file": "rollout/crossverify_results/batch_03.json"
+  },
+  {
+    "name": "Gharafa Stationery",
+    "domain": "gharafas.com",
+    "verdict": "CONFIRM",
+    "note": "Independent check confirms a real Doha stationery/school/office e-commerce store (hundreds of SKUs: 250+ notebooks, 120+ art/crafts, kids toys, bags), also on Snoonu/Rafeeq; books/stationery is approved general merchandise. Overturns the keyword-only basis but qualifies.",
+    "_batch_file": "rollout/crossverify_results/batch_03.json"
+  },
+  {
+    "name": "Gulf Furnishings",
+    "domain": "",
+    "verdict": "DOWNGRADE_HELD",
+    "note": "Gate 3/Gate 2: independent search shows Gulf Furniture is a 1976 'trading house' specializing in parquet/wooden flooring and wall-to-wall carpeting (flooring/carpet is an explicit Gate 3 fail) with an interior-furnishing framing; original row carried no domain and a live broad-furniture consumer cart could not be confirmed.",
+    "_batch_file": "rollout/crossverify_results/batch_03.json"
+  },
+  {
+    "name": "IMC Kulud Pharmacy",
+    "domain": "kuludonline.com",
+    "verdict": "CONFIRM",
+    "note": "kuludonline.com is the live retail online pharmacy (Kulud, largest pharmacy chain in Qatar) with 1-hour Doha delivery, QAR cart and a broad catalog; pharmacy retail is the approved exception. This is the retail storefront, distinct from the imcqatar.com corporate parent. Gates hold.",
+    "_batch_file": "rollout/crossverify_results/batch_03.json"
+  },
+  {
+    "name": "International Medical Company (Kulud Pharmacy)",
+    "domain": "imcqatar.com",
+    "verdict": "DOWNGRADE_NO",
+    "note": "Gate 6 duplicate of the Kulud retail account plus Gate 4/Gate 2: imcqatar.com is IMC's corporate parent, a pharmaceutical 'retailer AND distributor' with a distribution/Sales-Marketing division; the transactional storefront lives on the separate kuludonline.com. Consolidate to the Kulud row.",
+    "_batch_file": "rollout/crossverify_results/batch_03.json"
+  },
+  {
+    "name": "INTERTEC GROUP W.L.L.",
+    "domain": "intertecqatar.com",
+    "verdict": "DOWNGRADE_NO",
+    "note": "Gate 2: Intertec Group is a technology distributor, the exclusive Qatar distributor for Huawei/Xiaomi/Honor/Vivo with 50%+ smartphone-market share and B2B/IoT distribution divisions; the B2B/distribution model hard-excludes it even though a consumer retail arm exists.",
+    "_batch_file": "rollout/crossverify_results/batch_03.json"
+  },
+  {
+    "name": "KIDDY ZONE",
+    "domain": "kiddyzone.com",
+    "verdict": "CONFIRM",
+    "note": "Live toy e-commerce with QAR cart, +974 and a broad range (Barbie, Disney, trampolines, blind boxes); toys are approved general merchandise and Qatar operation is confirmed. Gates hold.",
+    "_batch_file": "rollout/crossverify_results/batch_03.json"
+  },
+  {
+    "name": "Nabco Furniture Center",
+    "domain": "nabcostore.com",
+    "verdict": "CONFIRM",
+    "note": "Confirmed live Shopify furniture store, Doha/Qatar, QAR checkout, broad multi-room catalog (~1,139 products). Airtight; gates hold.",
+    "_batch_file": "rollout/crossverify_results/batch_03.json"
+  },
+  {
+    "name": "Pari Gallery Qatar",
+    "domain": "parigallery.com",
+    "verdict": "CONFIRM",
+    "note": "Live QAR store; footer entity is 'Paris Gallery Qatar' with a +974 number, operated by the Qatari conglomerate AbuIssa Holding (Doha HQ), distinct from the UAE Paris Gallery, so Gate 1 passes on the local-operator path. Broad luxury beauty/fashion/watches; gates hold.",
+    "_batch_file": "rollout/crossverify_results/batch_03.json"
+  },
+  {
+    "name": "Pharmacare Group Retail Pharmacy Chain",
+    "domain": "pharmacareonline.qa",
+    "verdict": "CONFIRM",
+    "note": "Live Doha pharmacy e-commerce with Add to Cart, QAR, +974 and a broad OTC/medical catalog; pharmacy retail approved. Gates hold.",
+    "_batch_file": "rollout/crossverify_results/batch_03.json"
+  },
+  {
+    "name": "Pida Beauty",
+    "domain": "pidabeauty.com",
+    "verdict": "CONFIRM",
+    "note": "Independent check confirms a Doha-HQ'd K-beauty e-commerce brand (founded 2018, Qatar Post delivery, Judge.me reviews); beauty/cosmetics is approved and repeat-purchase. Overturns the keyword-only basis; small but qualifies.",
+    "_batch_file": "rollout/crossverify_results/batch_03.json"
+  },
+  {
+    "name": "PREMIUM LIMITED GROUP",
+    "domain": "plgtrade.com",
+    "verdict": "DOWNGRADE_HELD",
+    "note": "Gate 4: PLG is a real Doha fashion/lifestyle brand manager (RetailPro POS, ~$30M, 10-50 staff) but no live transactional online store or app could be confirmed (plgtrade.com reads as a corporate site); the 'Entertainment' division and small scale also weaken parent-level franchise inclusion.",
+    "_batch_file": "rollout/crossverify_results/batch_03.json"
+  },
+  {
+    "name": "Rankoussi Group",
+    "domain": "rankoussi.com",
+    "verdict": "CONFIRM",
+    "note": "Live Odoo shop (rankoussi.com/shop/cart) spanning furniture, fabrics, home textiles, towels and decor across many rooms, Doha/Qatar; broad home retail with furniture and fabric/textile both approved. Gates hold.",
+    "_batch_file": "rollout/crossverify_results/batch_03.json"
+  },
+  {
+    "name": "Saadeddin Sweets Qatar حلويات سعدالدين",
+    "domain": "saadeddin.qa",
+    "verdict": "DOWNGRADE_HELD",
+    "note": "Gate 1: Saadeddin is Saudi-HQ'd (Riyadh, 1976, largest confectioner in KSA); the .qa site is a dead 'Coming Soon' placeholder and the app-download rescue relies on the Saudi parent's 'SAADEDDIN' brand app, so a genuinely Qatar-HQ'd operating entity and a Qatar-specific qualifying app cannot be confirmed.",
+    "_batch_file": "rollout/crossverify_results/batch_03.json"
+  },
+  {
+    "name": "Safari Group",
+    "domain": "safarigroup.net",
+    "verdict": "DOWNGRADE_NO",
+    "note": "Gate 6: Safari Group is a mixed conglomerate (Safari hypermarkets alongside Hi-Power Engineering, Hi-Power Transport & Rent-A-Car, Power Waste Contracting and Europe Travels), so the parent is excluded; the retail arm is separately captured as Safari Hypermarket.",
+    "_batch_file": "rollout/crossverify_results/batch_03.json"
+  },
+  {
+    "name": "Safari Hypermarket",
+    "domain": "safarihypermarket.com",
+    "verdict": "CONFIRM",
+    "note": "Own site confirmed 'Under Construction / Getting a Makeover' (Gate 4 standalone fail) but rescued under Gate 5b by the mySAFARI Qatar app (500K+ downloads, a Safari Group app tied to the Doha hypermarket); grocery/hypermarket, Qatar HQ. Qualifies as the clean retail entity.",
+    "_batch_file": "rollout/crossverify_results/batch_03.json"
+  },
+  {
+    "name": "Salam Studio and Stores",
+    "domain": "salams.com",
+    "verdict": "DOWNGRADE_HELD",
+    "note": "Gate 4: salams.com is still in scheduled maintenance at re-check (7+ weeks after the archive snapshot the original pass relied on), so a currently-live cart/checkout cannot be confirmed. The business (Qatar Exchange-listed Doha luxury department store) is real and large, but the live digital channel is unconfirmed right now.",
+    "_batch_file": "rollout/crossverify_results/batch_03.json"
+  },
+  {
+    "name": "Sama Pharmacy Qatar",
+    "domain": "samapharmacy.com",
+    "verdict": "CONFIRM",
+    "note": "Live Doha online pharmacy with QAR Add-to-Cart and a genuinely populated catalog (200+ creams, 70+ vitamins, Panadol and more); pharmacy retail approved. Overturns the keyword-only basis; gates hold.",
+    "_batch_file": "rollout/crossverify_results/batch_03.json"
+  },
+  {
+    "name": "Saudia Group",
+    "domain": "saudiagroup.com",
+    "verdict": "CONFIRM",
+    "note": "Live grocery e-commerce headquartered in Muaither, Doha (despite the 'Saudia' name), with QAR checkout, +974, delivery slots and broad fresh-food categories. Gates hold.",
+    "_batch_file": "rollout/crossverify_results/batch_03.json"
+  },
+  {
+    "name": "Shine Gold and Diamonds",
+    "domain": "shinegd.com",
+    "verdict": "CONFIRM",
+    "note": "Independent check confirms a Qatar jewelry chain since 2000 with 13 outlets and a live store (store.shinegd.com) spanning gold/diamond rings, necklaces, earrings and bracelets; jewelry is explicitly broad. Overturns the keyword-only basis; gates hold.",
+    "_batch_file": "rollout/crossverify_results/batch_03.json"
+  },
+  {
+    "name": "Snoonu",
+    "domain": "snoonu.com",
+    "verdict": "CONFIRM",
+    "note": "Qatar's flagship homegrown delivery super-app (Doha, 4,000+ merchants), which fits the Gate 5b marketplace/delivery carve-out; its Google Play install base is well past the 50k threshold (1M+), consistent with the ToYou/Abar precedent. Gates hold.",
+    "_batch_file": "rollout/crossverify_results/batch_03.json"
+  },
+  {
+    "name": "Sports Corner",
+    "domain": "sportscorner.qa",
+    "verdict": "CONFIRM",
+    "note": "Large B2C Magento sports/fitness retailer, Doha/Qatar, QAR cart, broad consumer catalog (Asics, Joma, Li-Ning, football, padel); a footer 'Wholesale' inquiry link exists but the business is unambiguously consumer-retail-led. Gates hold, wholesale link noted for awareness.",
+    "_batch_file": "rollout/crossverify_results/batch_03.json"
+  },
+  {
+    "name": "Store 974",
+    "domain": "store974.com",
+    "verdict": "CONFIRM",
+    "note": "Large B2C Shopify gaming/electronics store (The Gate Mall, Doha), QAR cart, with b2bEnabled:false and only an ancillary 'B2B Inquiries' contact link; broad electronics is approved. Gates hold.",
+    "_batch_file": "rollout/crossverify_results/batch_03.json"
+  },
+  {
+    "name": "TechnoBlue",
+    "domain": "electronyat.qa",
+    "verdict": "CONFIRM",
+    "note": "Live Qatar electronics/appliances e-commerce (electronyat.qa), Doha, QAR Add-to-Cart, broad multi-category catalog (phones, TVs, home/kitchen appliances). Gates hold.",
+    "_batch_file": "rollout/crossverify_results/batch_03.json"
+  },
+  {
+    "name": "That's Living Group",
+    "domain": "thatsliving.com",
+    "verdict": "CONFIRM",
+    "note": "Geography resolved: independent check confirms That's Living Group's corporate HQ is in Doha, Qatar (Al Markhiya St, +974), with a broad luxury furniture/home-decor e-commerce catalog. The original row cited no HQ, but Gate 1 now holds.",
+    "_batch_file": "rollout/crossverify_results/batch_03.json"
+  },
+  {
+    "name": "Toys 4 Joy",
+    "domain": "toys4joy.com",
+    "verdict": "CONFIRM",
+    "note": "Site returns a Cloudflare 403 challenge (blocked, not dead, so not an automatic Gate 4 fail), and independent evidence confirms a live Doha toy e-commerce platform (loyalty/wishlist/e-gift cards, listed on Talabat/Snoonu/Qatar Post). Toys approved; gates hold.",
+    "_batch_file": "rollout/crossverify_results/batch_03.json"
+  },
+  {
+    "name": "United Retail Trading WLL",
+    "domain": "unitedretailholding.com",
+    "verdict": "CONFIRM",
+    "note": "Explicitly whitelisted in the rulebook (Gate 6) as a clean multi-brand retail conglomerate; Qatar, 35+ years, 10+ brands (fashion, perfumes/cosmetics, sports, home, confectionery), no hard-excluded divisions. Qualifies at parent level.",
+    "_batch_file": "rollout/crossverify_results/batch_03.json"
+  },
+  {
+    "name": "Video Home & Electronic Centre",
+    "domain": "jumboqatar.com",
+    "verdict": "DOWNGRADE_NO",
+    "note": "Gate 2/Gate 6: jumboqatar.com is the 'Jumbo Souq Corporate' parent whose own site lists divisions spanning Retail, E-commerce, Distribution, B2B, B2B2C and MEP (engineering) services with enterprise/corporate B2B pricing; the consumer storefront is a separate domain (jumbosouq.com), so the tagged parent is a hybrid B2B/distribution entity.",
+    "_batch_file": "rollout/crossverify_results/batch_03.json"
+  },
+  {
+    "name": "Wellcare Pharmacy Qatar",
+    "domain": "wellcaregroup.com",
+    "verdict": "DOWNGRADE_HELD",
+    "note": "Gate 2: wellcaregroup.com is the group parent that explicitly spans 'retail, wholesale and wellness', including Wellcare Trading & Agencies, an import/distribution arm that is the exclusive Qatar distributor of 50+ brands; the B2B/wholesale side clouds a clean pass, though the retail-pharmacy arm itself would qualify as its own row.",
+    "_batch_file": "rollout/crossverify_results/batch_03.json"
+  },
+  {
+    "name": "Yalla Toys",
+    "domain": "https://yallatoys.com/",
+    "verdict": "CONFIRM",
+    "note": "Live Doha toy e-commerce (yallatoys.com), +974, QAR Add-to-Cart, very large catalog (~40,000 products); toys approved, Qatar HQ confirmed. Gates hold.",
+    "_batch_file": "rollout/crossverify_results/batch_03.json"
+  },
+  {
+    "name": "1886fashion",
+    "domain": "1886fashion.com",
+    "verdict": "CONFIRM",
+    "note": "Live fashion store redirecting to 1886riyadh.com (Riyadh, Saudi Arabia) with SAR/QAR checkout and a broad menswear/RTW catalog (shirts, knitwear, denim, outerwear, footwear, bags); fashion approved, Saudi HQ matches the tag. Gates hold.",
+    "_batch_file": "rollout/crossverify_results/batch_03.json"
+  },
+  {
+    "name": "3attar",
+    "domain": "3attar.com",
+    "verdict": "DOWNGRADE_NO",
+    "note": "Gate 1 (Geography): 3attar is an Egyptian foodtech startup headquartered in Cairo/Maadi that raised its seed round in Egypt, not a Saudi-HQ'd entity. This is exactly the ICP's documented Egyptian-marketplace-mistagged-Saudi pattern; the Saudi delivery footprint does not establish in-country HQ.",
+    "_batch_file": "rollout/crossverify_results/batch_04.json"
+  },
+  {
+    "name": "72Hair (sold via Beauty Steps Trading Co.)",
+    "domain": "72hairsa.com",
+    "verdict": "CONFIRM",
+    "note": "72hairsa.com redirects to beautysteps.sa, operated by Saudi-HQ'd Beauty Steps Trading Co., a live multi-brand dermocosmetics store with a real cart and large catalog. Beauty/cosmetics is approved; geography, channel, and scale hold.",
+    "_batch_file": "rollout/crossverify_results/batch_04.json"
+  },
+  {
+    "name": "A Market ماركت",
+    "domain": "amarkets.com.sa",
+    "verdict": "CONFIRM",
+    "note": "Riyadh-HQ'd grocery e-commerce in the Al Othaim Markets lineage with live SAR checkout across a broad grocery catalog, loyalty program, and app. High-frequency approved category, clear in-country HQ.",
+    "_batch_file": "rollout/crossverify_results/batch_04.json"
+  },
+  {
+    "name": "aani-dani",
+    "domain": "aani-dani.com",
+    "verdict": "CONFIRM",
+    "note": "Approved confectionery/F&B (chocolate/cake), stated Riyadh HQ, founded 1998, no red flags. Live site returned 503 to automated fetch (bot-block, not dead, confirmed by the identical 503 on a known-live chain), so per the ICP blocked-is-not-fail rule it passes; SKU-level scale was not independently re-verifiable this pass due to search-budget exhaustion.",
+    "_batch_file": "rollout/crossverify_results/batch_04.json"
+  },
+  {
+    "name": "abar",
+    "domain": "abar.app",
+    "verdict": "CONFIRM",
+    "note": "Bottled-water delivery app explicitly named as a confirmed Gate 5b app-download-rescue case in the locked ICP alongside Rasseed and ToYou, so the app path is pre-authorized regardless of the reason's hedge on an exact download figure.",
+    "_batch_file": "rollout/crossverify_results/batch_04.json"
+  },
+  {
+    "name": "Abdul Latif Jameel Electronics",
+    "domain": "alje.com",
+    "verdict": "CONFIRM",
+    "note": "Live Saudi electronics/appliances store with a working cart, SAR pricing, Saudi CR (4030031963) and VAT numbers, and showrooms in 5 cities. Evaluating the electronics-retail subsidiary on its own domain is correct under Gate 6 despite the automotive parent.",
+    "_batch_file": "rollout/crossverify_results/batch_04.json"
+  },
+  {
+    "name": "Abdullah Al-Othaim Markets",
+    "domain": "othaimmarkets.com",
+    "verdict": "CONFIRM",
+    "note": "Major Tadawul-listed Saudi grocery/hypermarket chain headquartered in Riyadh. Approved high-frequency category with clear in-country HQ; a well-known real operator.",
+    "_batch_file": "rollout/crossverify_results/batch_04.json"
+  },
+  {
+    "name": "Abdullah Ali Al Amer & Brothers Trading Co",
+    "domain": "alamer-market.com",
+    "verdict": "CONFIRM",
+    "note": "Live grocery-supermarket e-commerce on a dedicated shop subdomain, backed by ERP and a mobile app, HQ Al-Hofuf, Saudi Arabia. Approved category and confirmed transactional channel.",
+    "_batch_file": "rollout/crossverify_results/batch_04.json"
+  },
+  {
+    "name": "abdulsamadalqurashi",
+    "domain": "abdulsamadalqurashi.com",
+    "verdict": "CONFIRM",
+    "note": "Root domain soft-404s but the live sa. subdomain is a large functioning Saudi oud/perfume store, re-gated per protocol. Famous Jeddah perfume house; perfume is an approved consumable, repeat-purchase category.",
+    "_batch_file": "rollout/crossverify_results/batch_04.json"
+  },
+  {
+    "name": "Abo Moati l ابو معطي",
+    "domain": "abomoati.com",
+    "verdict": "CONFIRM",
+    "note": "Independent check confirms a live consumer store at abomoati.com.sa (stationery, school supplies, toys, gifts) plus Nomu/Tadawul listing since 2017 and Riyadh HQ. The original reason's unconfirmed digital channel is now resolved as live; a wholesale arm exists but the consumer retail identity dominates.",
+    "_batch_file": "rollout/crossverify_results/batch_04.json"
+  },
+  {
+    "name": "actan",
+    "domain": "actan.com",
+    "verdict": "CONFIRM",
+    "note": "Riyadh-HQ'd women's fashion retailer with 26 KSA stores, 380k+ customers, and a live online store spanning dresses, jalabiyas, and matching sets. Broad seasonal assortment, so it passes Gate 3 rather than being narrow occasion-wear.",
+    "_batch_file": "rollout/crossverify_results/batch_04.json"
+  },
+  {
+    "name": "Adam Medical Company",
+    "domain": "adamonline.com",
+    "verdict": "CONFIRM",
+    "note": "Saudi online pharmacy with a large live catalog, real cart, and SAR pricing. Pharmacy retail is the explicit approved exception within health retail.",
+    "_batch_file": "rollout/crossverify_results/batch_04.json"
+  },
+  {
+    "name": "Ahmed Abdulwahed Company",
+    "domain": "abdulwahed.com",
+    "verdict": "CONFIRM",
+    "note": "Independent check resolves the distributor label: this is a genuine 54-showroom Saudi consumer-electronics retail chain (Jeddah HQ, founded 1960) with a tracked B2C e-commerce store and app, sales almost entirely in Saudi Arabia. Approved category, real channel, real scale.",
+    "_batch_file": "rollout/crossverify_results/batch_04.json"
+  },
+  {
+    "name": "ak",
+    "domain": "ak.com.sa",
+    "verdict": "CONFIRM",
+    "note": "M.A. Al Abdul Karim & Co., a major Riyadh-HQ'd integrated fashion retailer (~$208M revenue, 1,010 staff, franchise brands Terranova/Calliope/RINA/Balabala) operating ak.com.sa as an online shopping platform. Approved category, substantial scale; the leftover-template artifact does not undercut a confirmed large retailer.",
+    "_batch_file": "rollout/crossverify_results/batch_04.json"
+  },
+  {
+    "name": "AL Asasyah Electronics Co Ltd",
+    "domain": "al-asasyah.com",
+    "verdict": "CONFIRM",
+    "note": "Corporate site leads to a live transactional storefront at al-asasyahonline.com with roughly 25 appliance/electronics subcategories, working cart, checkout, account, and wishlist. Broad multi-category retailer comfortably above the SKU floor.",
+    "_batch_file": "rollout/crossverify_results/batch_04.json"
+  },
+  {
+    "name": "Al Barakat Group Co Ltd.",
+    "domain": "albarakatgroup.com",
+    "verdict": "CONFIRM",
+    "note": "Single-vertical eye/hearing-care retail group (not a mixed conglomerate); Barakat Optical is a live luxury eyewear store with 65+ showrooms and 80+ brands. Opticians are an explicitly approved category.",
+    "_batch_file": "rollout/crossverify_results/batch_04.json"
+  },
+  {
+    "name": "AL HAZMI STORES",
+    "domain": "matajeralhazmi.sa",
+    "verdict": "DOWNGRADE_HELD",
+    "note": "Gate 4 (Digital channel): I loaded matajeralhazmi.sa and confirmed it is a corporate/store-locator site with About/Gallery/Careers and a sign-in but no products, prices, cart, or checkout, which refutes the substantiality basis for the prior Yes. A real Jizan grocery chain, but no live transactional store and no qualifying consumer app could be confirmed either way.",
+    "_batch_file": "rollout/crossverify_results/batch_04.json"
+  },
+  {
+    "name": "Al Majed for Oud الماجد للعود",
+    "domain": "",
+    "verdict": "DOWNGRADE_NO",
+    "note": "Gate 6 (Duplicate-consolidation): this is the same company as entry #19 Al Majed Oud (almajed4oud.com), founded 1956 in Riyadh. It carries no domain of its own and must consolidate into that single account rather than stand as a separate Yes row.",
+    "_batch_file": "rollout/crossverify_results/batch_04.json"
+  },
+  {
+    "name": "Al Majed Oud.co",
+    "domain": "almajed4oud.com",
+    "verdict": "CONFIRM",
+    "note": "Al Majed for Oud, a Riyadh-HQ'd Saudi joint-stock oud/perfume retailer (est. 1956, Tadawul-listed, ~1,000 products, ~300 outlets) with a live regional online store. Approved consumable category; this is the surviving account of the #18/#19 duplicate pair.",
+    "_batch_file": "rollout/crossverify_results/batch_04.json"
+  },
+  {
+    "name": "Al Mujtama Pharmacy",
+    "domain": "almujtama.com.sa",
+    "verdict": "CONFIRM",
+    "note": "Tadawul-listed Saudi multi-branch pharmacy chain running a Vue SPA storefront with SAMA-regulated Moyasar checkout and real product/cart code plus hundreds of branch references. Pharmacy is an explicitly approved recurring-purchase category.",
+    "_batch_file": "rollout/crossverify_results/batch_04.json"
+  },
+  {
+    "name": "Al Othaim Life",
+    "domain": "alothaimlife.com",
+    "verdict": "CONFIRM",
+    "note": "Major Saudi fashion group (Al Othaim), 27 brands across 370+ stores with omnichannel e-commerce on multiple online platforms. Independent check confirms the operation is fully launched, so the 'Unveiling Soon' page the original curl hit was a single sub-page, not the whole company; qualifies as a consolidated fashion-retail parent.",
+    "_batch_file": "rollout/crossverify_results/batch_04.json"
+  },
+  {
+    "name": "Al Wafa Hypermarket KSA",
+    "domain": "alwafahyper.com",
+    "verdict": "CONFIRM",
+    "note": "Multi-city Saudi hypermarket (Jeddah, Riyadh, Makkah, Dammam, Madina and more) with a live online platform, loyalty app, and broad grocery/general-merchandise range. The prior keyword-only reason holds up on independent check; approved high-frequency category.",
+    "_batch_file": "rollout/crossverify_results/batch_04.json"
+  },
+  {
+    "name": "al-araba",
+    "domain": "al-araba.com",
+    "verdict": "DOWNGRADE_NO",
+    "note": "Gate 2 (Category): al-araba.com is AL ARABA Group, a Saudi vehicle-customizing and armoring business (maker of the 'Al Araba 1' car) with blog content on custom car interiors and luxury cars. Automotive is hard-excluded; the keyword-only cart/checkout pass was a false positive from a car-customization site.",
+    "_batch_file": "rollout/crossverify_results/batch_04.json"
+  },
+  {
+    "name": "AL-ASFOUR FURNITURE Co. Ltd.",
+    "domain": "alasfour.sa",
+    "verdict": "DOWNGRADE_NO",
+    "note": "Gate 2 (Category): Al Asfour is a furniture manufacturer producing/reconditioning ~1,000 units/day and supplying Aramco, SABIC Housing, and KAUST Housing via an institutional project-furnishing model. Manufacturing plus B2B project supply is hard-excluded even with a consumer showroom/installment arm.",
+    "_batch_file": "rollout/crossverify_results/batch_04.json"
+  },
+  {
+    "name": "Al-Dawaa Medical Services Co.",
+    "domain": "al-dawaa.com.sa",
+    "verdict": "CONFIRM",
+    "note": "Saudi Arabia's largest pharmacy chain (500+ branches) with a live consumer store and iOS/Android apps. The given domain is the corporate/IR site for the same legal entity; the storefront runs at the sibling domain. Pharmacy approved.",
+    "_batch_file": "rollout/crossverify_results/batch_04.json"
+  },
+  {
+    "name": "Al-Maha Optical المها للبصريات",
+    "domain": "",
+    "verdict": "CONFIRM",
+    "note": "Independent check found the operator's site almahaopt.com.sa for a 115-store Riyadh-HQ'd optician chain (est. 1998, 160+ brands, 5,000+ SKUs of glasses/sunglasses/contact lenses). Opticians are approved and scale is clearly met; the site returned 503 to automated fetch (bot-block, not dead), but the business is strongly corroborated, so per the ICP blocked-is-not-fail rule the channel gate passes.",
+    "_batch_file": "rollout/crossverify_results/batch_04.json"
+  },
+  {
+    "name": "alabbasi",
+    "domain": "alabbasi.sa",
+    "verdict": "CONFIRM",
+    "note": "Saudi luxury fabric/textile retailer for garment-making, a vertical Gate 3 explicitly approves as high-frequency consumer retail; live store with a free-shipping threshold on a .sa domain. No B2B or manufacturing red flag in the consumer-facing operation.",
+    "_batch_file": "rollout/crossverify_results/batch_04.json"
+  },
+  {
+    "name": "alajlan",
+    "domain": "alajlan.com",
+    "verdict": "DOWNGRADE_NO",
+    "note": "Gates 4 and 6: I loaded alajlan.com and it is the corporate portal of a diversified holding company (fashion plus real estate and contracting, hospitality, and corporate B2B) with no cart or checkout of its own, only links to brand social pages. It fails Gate 4 as a holding page with no own storefront and Gate 6 as a mixed conglomerate; the individual retail brands would each need a separate row.",
+    "_batch_file": "rollout/crossverify_results/batch_04.json"
+  },
+  {
+    "name": "alamal advanced medical",
+    "domain": "alamalph.com",
+    "verdict": "CONFIRM",
+    "note": "Distinct retail pharmacy chain (Al-Amal Pharmacies) with a live Shop Online app, Tabby BNPL and Google sign-in, and branches across 5 southwestern Saudi cities, separate from the parent's dental/medical clinics. Pharmacy retail is approved.",
+    "_batch_file": "rollout/crossverify_results/batch_04.json"
+  },
+  {
+    "name": "alamoudi",
+    "domain": "alamoudi.com.sa",
+    "verdict": "CONFIRM",
+    "note": "Saudi (Jizan) home-appliances/consumer-electronics retail chain since 1986 with an extensive live catalog, cart/account/wishlist infrastructure, and physical branches. Approved category, geography confirmed, scale above the SKU floor.",
+    "_batch_file": "rollout/crossverify_results/batch_04.json"
+  },
+  {
+    "name": "Alaryaf Sweets |  الارياف للحلويات",
+    "domain": "alaryaf.com",
+    "verdict": "DOWNGRADE_HELD",
+    "note": "Gate 5 (Scale): the primary website is parked/dead and the branded ordering app's installs could not be confirmed at 50k+, the same dead-site-plus-sub-50k-app pattern the ICP ruled OUT for Al Sadhan. It is a real 45-year Qassim bakery/sweets chain but also runs 100+ B2B agents/distributors, so scale via a live digital channel is unconfirmable either way.",
+    "_batch_file": "rollout/crossverify_results/batch_04.json"
+  },
+  {
+    "name": "ALASEEL",
+    "domain": "alaseel.com.sa",
+    "verdict": "CONFIRM",
+    "note": "Riyadh-HQ'd Arabic-apparel retailer (est. 1987) with stores in 9+ Saudi cities, a live store at alaseel.com.sa, and Amazon.sa/Noon presence across thobes, underwear, pajamas, and robes. Vertical integration does not disqualify a genuine multi-line apparel retailer, and thobes are daily-wear rather than narrow low-repeat.",
+    "_batch_file": "rollout/crossverify_results/batch_04.json"
+  },
+  {
+    "name": "ALBASEM الباسم",
+    "domain": "albasem.com.sa",
+    "verdict": "CONFIRM",
+    "note": "Independently confirmed as a real 20+-year Riyadh discount general-merchandise retailer (70,000+ items, Riyadh and Al-Hafuf branches, online ordering per multiple 2026 sources). The site was unreachable from this environment (a DNS/proxy artifact, not a dead site), so the live cart is corroborated rather than re-fetched; all gates hold.",
+    "_batch_file": "rollout/crossverify_results/batch_05.json"
+  },
+  {
+    "name": "ALdakheel Oud الدخيل للعود",
+    "domain": "aldakheeloud.com",
+    "verdict": "CONFIRM",
+    "note": "VAT-registered Saudi perfume/oud e-commerce; perfume/oud is an explicitly approved consumable, high-repeat beauty category. No red flags.",
+    "_batch_file": "rollout/crossverify_results/batch_05.json"
+  },
+  {
+    "name": "aldawaa",
+    "domain": "aldawaa.com",
+    "verdict": "CONFIRM",
+    "note": "Major Tadawul-listed Saudi retail pharmacy chain with hundreds of branches; pharmacy is the explicit approved exception. Airtight.",
+    "_batch_file": "rollout/crossverify_results/batch_05.json"
+  },
+  {
+    "name": "aldo",
+    "domain": "aldo.com.sa",
+    "verdict": "DOWNGRADE_NO",
+    "note": "Gate 6: ALDO is a global fashion/footwear brand franchise-operated in KSA (Cenomi historically, franchise rights sold to Abdullah Al-Othaim Fashion in May 2024), exactly the enumerated global-brand-storefront pattern that folds into the covered operator rather than standing as its own account. The reason's Cenomi attribution is also stale.",
+    "_batch_file": "rollout/crossverify_results/batch_05.json"
+  },
+  {
+    "name": "alephksa",
+    "domain": "alephksa.com",
+    "verdict": "CONFIRM",
+    "note": "Live Apple Premium Partner storefront with SAR pricing, BNPL, working cart, and published Saudi CR/VAT; broad multi-line electronics. Airtight.",
+    "_batch_file": "rollout/crossverify_results/batch_05.json"
+  },
+  {
+    "name": "Alesayi Electronics | العيسائي للإلكترونيات",
+    "domain": "aecksa.com",
+    "verdict": "CONFIRM",
+    "note": "Live Salla consumer storefront (TVs/ACs/appliances, Tamara/Tabby BNPL, free-shipping threshold); an electronics-retail subsidiary evaluable on its own merits per Gate 6, Jeddah/Saudi. Scale is not independently quantified but there is no B2B or manufacturing signal, so gates hold.",
+    "_batch_file": "rollout/crossverify_results/batch_05.json"
+  },
+  {
+    "name": "Algarawi Group",
+    "domain": "algarawigroup.com",
+    "verdict": "DOWNGRADE_NO",
+    "note": "Gate 2 and Gate 6: independently confirmed as a trading house and exclusive brand agent (a distribution model) whose group mixes fashion with real estate (including its own Algarawi Gallery mall) and gastronomy. A conglomerate mixing retail with real estate has its parent excluded, and the exclusive-agent/distribution identity is itself hard-excluded.",
+    "_batch_file": "rollout/crossverify_results/batch_05.json"
+  },
+  {
+    "name": "ALHADDAD | الحداد",
+    "domain": "al-haddad.com",
+    "verdict": "CONFIRM",
+    "note": "Real Saudi mobile/electronics retailer (Jeddah 1990, 60 showrooms); on-file al-haddad.com returns 403 (inconclusive per protocol) but live transactional commerce is confirmed at alhaddadshop.com plus native apps. Gates hold.",
+    "_batch_file": "rollout/crossverify_results/batch_05.json"
+  },
+  {
+    "name": "Alhajri Furniture",
+    "domain": "hajrist.com",
+    "verdict": "DOWNGRADE_HELD",
+    "note": "Gate 4: hajrist.com is a brochure site with no cart, and its linked 'Online Store' (alhajri-furniture.com) now redirects to a GoDaddy parked 'for sale' page, so no live transactional channel could be confirmed. Real Dammam furniture retailer, but the digital-channel gate cannot be met on available evidence.",
+    "_batch_file": "rollout/crossverify_results/batch_05.json"
+  },
+  {
+    "name": "Alhussaini Trading Co.",
+    "domain": "alhussainitrading.com",
+    "verdict": "CONFIRM",
+    "note": "Detailed live Jeddah B2C luxury storefront (watches, jewelry, leather goods, accessories, writing instruments; hundreds of SKUs, working cart, mada/Apple Pay, 50+ years); broad approved luxury category, Saudi. Gates hold.",
+    "_batch_file": "rollout/crossverify_results/batch_05.json"
+  },
+  {
+    "name": "Aljazierah Home Appliances",
+    "domain": "aljazierahstore.com",
+    "verdict": "DOWNGRADE_NO",
+    "note": "Gate 2: independently confirmed as an appliance manufacturer since 1968 with a distribution network and commercial appliances; manufacturing and B2B distribution are hard-excluded regardless of the DTC Salla storefront. The prior pass wrongly flipped a correct OUT to IN on the retail store alone.",
+    "_batch_file": "rollout/crossverify_results/batch_05.json"
+  },
+  {
+    "name": "ALKAFFARY GROUP",
+    "domain": "kaffary.com",
+    "verdict": "DOWNGRADE_HELD",
+    "note": "Gate 3 and Gate 6: the keyword-only original reason never examined the business, which is a carpets/rugs/flooring house (a named low-repeat-purchase fail) diversified into furniture/decor plus an Alkaffary Projects contracting arm. Cannot confidently confirm it clears the narrow/low-repeat gate or the mixed-conglomerate gate.",
+    "_batch_file": "rollout/crossverify_results/batch_05.json"
+  },
+  {
+    "name": "Almadina Holding Company",
+    "domain": "almadina.com.sa",
+    "verdict": "CONFIRM",
+    "note": "Explicitly endorsed by the rulebook as a majority-retail health conglomerate (pharmacies/optical/hearing-care) passing at parent level; Riyadh-HQ'd, with only a minor creative agency non-retail. Gates hold.",
+    "_batch_file": "rollout/crossverify_results/batch_05.json"
+  },
+  {
+    "name": "ALMAHA OPTICAL",
+    "domain": "almahaopt.com",
+    "verdict": "CONFIRM",
+    "note": "Live Saudi optical/eyewear and contact-lens retailer with add-to-cart, SAR pricing, loyalty, and dozens of branded SKUs; opticians/health-retail is approved with genuine repeat dynamics. Airtight.",
+    "_batch_file": "rollout/crossverify_results/batch_05.json"
+  },
+  {
+    "name": "Almanea Co.",
+    "domain": "almanea.sa",
+    "verdict": "CONFIRM",
+    "note": "Broad Saudi multi-category electronics/appliance chain with live cart (AddToCart events), SAR pricing, and city store-locator; the explicitly-approved broad-electronics pattern. Gates hold.",
+    "_batch_file": "rollout/crossverify_results/batch_05.json"
+  },
+  {
+    "name": "ALMOTHALATH",
+    "domain": "almothalath.sa",
+    "verdict": "DOWNGRADE_NO",
+    "note": "Gate 2: independently confirmed as 'Triangle Trading Company,' a B2B institutional supplier that equips nurseries, kindergartens and schools with furniture and educational equipment, not consumer retail; the keyword-only original reason missed this.",
+    "_batch_file": "rollout/crossverify_results/batch_05.json"
+  },
+  {
+    "name": "Almutlaq Company",
+    "domain": "almutlaqco.com.sa",
+    "verdict": "CONFIRM",
+    "note": "Established Saudi furniture retailer (1954, 7 showrooms, 62,000 sqm); apex domain did not resolve but a live cart with SAR line-items is corroborated at its own owned brand CityW; broad approved furniture. Gates hold.",
+    "_batch_file": "rollout/crossverify_results/batch_05.json"
+  },
+  {
+    "name": "Alomar Furniture Company شركة مفروشات العمر",
+    "domain": "alomar.com.sa",
+    "verdict": "CONFIRM",
+    "note": "Live Saudi furniture e-commerce (Next.js storefront, SAR pricing, multi-category: living/bedroom/dining/accessories); approved home/furniture, Saudi-facing. Gates hold.",
+    "_batch_file": "rollout/crossverify_results/batch_05.json"
+  },
+  {
+    "name": "ALRAYA الراية",
+    "domain": "alraya.com.sa",
+    "verdict": "CONFIRM",
+    "note": "Established Jeddah supermarket chain (since 1991, western KSA); live SPA titled 'Alraya Supermarkets' with embedded shopping-cart/loyalty/delivery infrastructure; grocery is the highest-frequency approved category, Saudi HQ. Gates hold.",
+    "_batch_file": "rollout/crossverify_results/batch_05.json"
+  },
+  {
+    "name": "alrifaisaudi",
+    "domain": "alrifaisaudi.com",
+    "verdict": "DOWNGRADE_HELD",
+    "note": "Gate 1: Al Rifai is a Lebanese brand (Beirut HQ) whose Middle East operations were franchised to Kuwait-based Kout Food Group; cannot confirm the Saudi storefront is run by a genuinely Saudi-HQ'd operating entity versus a branch/franchise of the foreign or Kuwaiti operation. The thin original reason never addressed geography.",
+    "_batch_file": "rollout/crossverify_results/batch_05.json"
+  },
+  {
+    "name": "ALSAFA UNITED",
+    "domain": "al-safaunited.com",
+    "verdict": "CONFIRM",
+    "note": "Separable retail arm (The Beauty Secrets, Natural Touch, Hunayn, Hunkemoller; 200+ Saudi beauty/fashion stores) of a mixed group, evaluable on its own merits per Gate 6; own domain is Cloudflare-blocked (inconclusive per protocol) but live brand-level e-commerce is confirmed. Gates hold, with a domain-level caveat.",
+    "_batch_file": "rollout/crossverify_results/batch_05.json"
+  },
+  {
+    "name": "alsaifgallery",
+    "domain": "alsaifgallery.com",
+    "verdict": "CONFIRM",
+    "note": "Live Riyadh housewares/appliances e-commerce with a large multi-category catalog and real cart/pricing; Saudi HQ. Gates hold.",
+    "_batch_file": "rollout/crossverify_results/batch_05.json"
+  },
+  {
+    "name": "Alsalman Optics",
+    "domain": "alsalmanoptics.com",
+    "verdict": "CONFIRM",
+    "note": "Live Saudi optics retailer (1971, Riyadh, 38 branches, 200+ eyewear brands) with real cart/checkout; approved health-retail. Gates hold.",
+    "_batch_file": "rollout/crossverify_results/batch_05.json"
+  },
+  {
+    "name": "Alshafi Medical Company",
+    "domain": "alshafi.sa",
+    "verdict": "CONFIRM",
+    "note": "Independently confirmed as a genuine Saudi retail pharmacy chain (Riyadh 2006, multi-branch, SFDA-registered) with a live online pharmacy shop (beauty/skincare/mother-child/meds); the approved pharmacy exception, not a clinic. Gates hold.",
+    "_batch_file": "rollout/crossverify_results/batch_05.json"
+  },
+  {
+    "name": "alshamasy",
+    "domain": "alshamasy.com",
+    "verdict": "CONFIRM",
+    "note": "Confirmed Riyadh bags/luggage/leather-goods retailer with 50+ years and multiple stores; bags/luggage/travel accessories is an explicitly approved broad sub-category, Saudi HQ. Gates hold.",
+    "_batch_file": "rollout/crossverify_results/batch_05.json"
+  },
+  {
+    "name": "Alshaya Watches  الشايع للساعات",
+    "domain": "alshayawatches.com",
+    "verdict": "CONFIRM",
+    "note": "Confirmed Saudi-HQ'd watch retail chain (Riyadh, founded 1977 by Najah Alshaya, 30+ stores, 250+ staff, own e-commerce), distinct from the Kuwaiti M.H. Alshaya Group; multi-brand watches/accessories, not a named narrow-category fail. Gates hold.",
+    "_batch_file": "rollout/crossverify_results/batch_05.json"
+  },
+  {
+    "name": "ALSHIAKA",
+    "domain": "alshiaka.com",
+    "verdict": "CONFIRM",
+    "note": "Independently confirmed as a genuine Saudi menswear retailer (Taif, since 1971, 50+ showrooms, own online store, SEDCO-owned); approved fashion/apparel, multi-item. The keyword-only reason happened to land on a real qualifier.",
+    "_batch_file": "rollout/crossverify_results/batch_05.json"
+  },
+  {
+    "name": "Alwazn Almithaly الوزن المثالي",
+    "domain": "mithaly.sa",
+    "verdict": "CONFIRM",
+    "note": "Live Saudi supplement/sports-nutrition e-commerce (Shop/Cart/Checkout confirmed, KSA/.sa); consumable health-retail with genuine repeat purchase. Gates hold.",
+    "_batch_file": "rollout/crossverify_results/batch_05.json"
+  },
+  {
+    "name": "Anoosh Company",
+    "domain": "anoosh.sa",
+    "verdict": "CONFIRM",
+    "note": "Saudi chocolate/sweets/bakery chain (Riyadh 2003, 55 branches) with its own ordering app and a real cart/checkout flow; high-frequency F&B approved. Gates hold.",
+    "_batch_file": "rollout/crossverify_results/batch_05.json"
+  },
+  {
+    "name": "arabianhouses",
+    "domain": "arabianhouses.com.sa",
+    "verdict": "CONFIRM",
+    "note": "Directly verified live Saudi electronics/appliances store (add-to-cart, SAR pricing, 15+ categories, hundreds of SKUs); .com.sa with no foreign-parent signal, approved broad category. Gates hold.",
+    "_batch_file": "rollout/crossverify_results/batch_05.json"
+  },
+  {
+    "name": "Arriyadh Roaster محمصة الرياض",
+    "domain": "arriyadhroaster.com",
+    "verdict": "DOWNGRADE_NO",
+    "note": "Gate 2: the original reason itself states a wholesale arm serving 1,100+ wholesale clients plus 900 tons/year roasting, and the brand is resold through third-party retail platforms (wtr.sa, icup.sa); a hybrid B2C/B2B model that supplies other businesses is hard-excluded even with a genuine DTC arm.",
+    "_batch_file": "rollout/crossverify_results/batch_05.json"
+  },
+  {
+    "name": "Ashley Homestore | KSA",
+    "domain": "ashley.sa",
+    "verdict": "DOWNGRADE_HELD",
+    "note": "Gate 6: a US global-brand (Ashley) storefront operated by Saudi franchisee Al Rugaib (Hamad M. Alrugaib & Sons, Al Khobar 1958). The underlying operation qualifies and Gate 1 is fine, but as a foreign-brand storefront it should consolidate under its Saudi operator Al Rugaib (a distinct furniture company that also runs its own-brand stores) rather than stand alone as 'Ashley KSA'; standalone-versus-consolidate status is unresolved.",
+    "_batch_file": "rollout/crossverify_results/batch_05.json"
+  },
+  {
+    "name": "Asteri Beauty",
+    "domain": "asteribeauty.com",
+    "verdict": "CONFIRM",
+    "note": "Verified live Saudi (KSA) vegan makeup brand: SAR pricing, store locator, working cart with Mada/Apple Pay/Tabby/Tamara, multi-category (face/eyes/lips/accessories/sets + skincare). Clears all gates.",
+    "_batch_file": "rollout/crossverify_results/batch_06.json"
+  },
+  {
+    "name": "ASTRA MARKETS",
+    "domain": "astramarkets.com",
+    "verdict": "DOWNGRADE_HELD",
+    "note": "Gate 4: direct fetch confirms an informational-only site (branches, offers, ASTRA STARS loyalty) with no cart/checkout and delivery via phone number only; no qualifying app found. Real Tabuk grocery chain but a live transactional digital channel can't be confirmed.",
+    "_batch_file": "rollout/crossverify_results/batch_06.json"
+  },
+  {
+    "name": "Awad Badi Nahas Trading Co. Ltd.",
+    "domain": "awadnahas.com",
+    "verdict": "CONFIRM",
+    "note": "Verification-grade original reason: live WooCommerce store, 251-SKU broad home-appliance assortment, confirmed Jeddah HQ, real cart. Clears all gates.",
+    "_batch_file": "rollout/crossverify_results/batch_06.json"
+  },
+  {
+    "name": "aya",
+    "domain": "aya.app",
+    "verdict": "CONFIRM",
+    "note": "Qualifies via Gate 5b app-rescue (not the claimed substantiality): independently confirmed 196K+ Google Play downloads for Saudi's #1 abaya app (Maroof/Ministry of Commerce registered), so even as a multi-brand marketplace it qualifies outright.",
+    "_batch_file": "rollout/crossverify_results/batch_06.json"
+  },
+  {
+    "name": "baba khabbaz  بابا خباز",
+    "domain": "babakhabaz.com",
+    "verdict": "CONFIRM",
+    "note": "Multi-branch Saudi bakery-restaurant with schema.org Restaurant markup and live online ordering; bread/pastry is consumable, high-frequency F&B. Clears all gates.",
+    "_batch_file": "rollout/crossverify_results/batch_06.json"
+  },
+  {
+    "name": "Bahamdoon Trading Company",
+    "domain": "bahamdoon.com",
+    "verdict": "DOWNGRADE_HELD",
+    "note": "Gate 2: direct site read shows the business is actually an office-furniture / computer-supplies / stationery / office-tools 'Trading Company' (not the 'Huawei electronics retailer' the original reason claimed); the office-supply orientation plus 'Trading Co.' pattern raise an unresolved hybrid B2B concern that can't be cleared to a clean B2C model.",
+    "_batch_file": "rollout/crossverify_results/batch_06.json"
+  },
+  {
+    "name": "Barakah",
+    "domain": "barakah.app",
+    "verdict": "CONFIRM",
+    "note": "Gate 5b app-rescue: independently confirmed 1M+ Google Play downloads for this Saudi surplus-food marketplace app, Saudi HQ confirmed. Qualifies outright via the app path.",
+    "_batch_file": "rollout/crossverify_results/batch_06.json"
+  },
+  {
+    "name": "Barns",
+    "domain": "barns.com.sa",
+    "verdict": "CONFIRM",
+    "note": "Home-grown Saudi specialty-coffee brand with confirmed live e-commerce (product pages, add-to-cart, checkout); consumable repeat-purchase F&B. Clears all gates.",
+    "_batch_file": "rollout/crossverify_results/batch_06.json"
+  },
+  {
+    "name": "Bayt Al Aleefa",
+    "domain": "baytalaleefa.com",
+    "verdict": "CONFIRM",
+    "note": "Verified Riyadh pet-supplies retailer (pethouseksa.com) with a live Shopify cart and consumable pet food/treats (Royal Canin etc.); pet supplies is an approved category and the retail brand itself is clean B2C even though its parent group also runs pet logistics (evaluated on the brand's own merits).",
+    "_batch_file": "rollout/crossverify_results/batch_06.json"
+  },
+  {
+    "name": "Bed Quarter Company",
+    "domain": "bedquarter.com",
+    "verdict": "DOWNGRADE_NO",
+    "note": "Gate 2 and Gate 3: verified that Bed Quarter explicitly 'serves hotels, resorts and medical centers' (hybrid B2B/contract supply, which alone disqualifies) and its core is mattresses/beds/furniture/massage-chairs/recliners (durable, low-repeat), plus it runs its own manufacturing facility; the 151-SKU substantiality pass missed all three.",
+    "_batch_file": "rollout/crossverify_results/batch_06.json"
+  },
+  {
+    "name": "BinDawood Holding",
+    "domain": "bindawoodholding.com",
+    "verdict": "CONFIRM",
+    "note": "Valid Gate 6 consolidated parent: Tadawul-listed Saudi grocery conglomerate whose banners (BinDawood + Danube) are each retail-qualifying, with real e-commerce across the group. Kept as the single consolidated account.",
+    "_batch_file": "rollout/crossverify_results/batch_06.json"
+  },
+  {
+    "name": "Blooming Wear",
+    "domain": "bloomingwear.com",
+    "verdict": "CONFIRM",
+    "note": "Large multi-category Saudi fashion e-commerce (lingerie/sleepwear/bridal/maternity/kids/menswear/swimwear/accessories) with SAR pricing and a large catalog; multi-item seasonal fashion. Clears all gates.",
+    "_batch_file": "rollout/crossverify_results/batch_06.json"
+  },
+  {
+    "name": "Bomb Cosmetics Saudi Arabia (Kayan Al-Tajmeel Trading Est.)",
+    "domain": "bombsa.com",
+    "verdict": "CONFIRM",
+    "note": "Saudi operating entity (Kayan Al-Tajmeel Trading Est.) running a live Shopify bath-and-body cosmetics store with a Riyadh showroom and a broad consumable multi-category catalog; beauty/personal-care approved and repeat-purchase. Clears all gates.",
+    "_batch_file": "rollout/crossverify_results/batch_06.json"
+  },
+  {
+    "name": "Bostani",
+    "domain": "bostani.com",
+    "verdict": "CONFIRM",
+    "note": "Verified Riyadh-HQ'd luxury chocolatier with a confirmed live store (bostanichocolate.com / bostani.com catalog) plus delivery apps and 27 showrooms; chocolate gifting is consumable repeat F&B, and a vertically-integrated chocolatier is retail (own factory for its own product), not excluded manufacturing.",
+    "_batch_file": "rollout/crossverify_results/batch_06.json"
+  },
+  {
+    "name": "caffeinelab",
+    "domain": "caffeinelab.me",
+    "verdict": "CONFIRM",
+    "note": "Jeddah specialty-coffee retailer with real cart/checkout and a broad consumable + equipment catalog past the SKU floor; F&B repeat-purchase, Saudi. Clears all gates.",
+    "_batch_file": "rollout/crossverify_results/batch_06.json"
+  },
+  {
+    "name": "Cavalier Perfumes",
+    "domain": "cavalierperfumes.com",
+    "verdict": "CONFIRM",
+    "note": "Verified Saudi perfume house running its own DTC store (cavalierperfumes.com/en); perfume is an explicitly approved consumable/repeat beauty category. Clears all gates.",
+    "_batch_file": "rollout/crossverify_results/batch_06.json"
+  },
+  {
+    "name": "Cenomi",
+    "domain": "cenomiretail.com",
+    "verdict": "CONFIRM",
+    "note": "Correct consolidated retail account: Cenomi Retail (Tadawul 4240), Riyadh HQ, broad multi-category franchise fashion at large scale with a real online channel (8.6% of Q1'26 revenue). This is the retail entity to keep versus the excluded mixed group parent.",
+    "_batch_file": "rollout/crossverify_results/batch_06.json"
+  },
+  {
+    "name": "Cenomi Group",
+    "domain": "cenomi.com",
+    "verdict": "DOWNGRADE_NO",
+    "note": "Gate 6 and Gate 2: cenomi.com is the mixed group parent (Cenomi Centers = malls/real estate, hard-excluded, plus Cenomi Retail), so the parent is excluded; it also duplicates the correct retail account Cenomi Retail (cenomiretail.com) already in this batch and is a corporate holding page with no storefront of its own.",
+    "_batch_file": "rollout/crossverify_results/batch_06.json"
+  },
+  {
+    "name": "Circle K Alsulaiman",
+    "domain": "circlek.com.sa",
+    "verdict": "DOWNGRADE_HELD",
+    "note": "Gate 4: site fetch confirms a corporate/brochure site (store locator, promos, hiring) with no online ordering, cart, or app; the original pass leaned on Circle K's global app plus third-party HungerStation (inference), not a confirmed first-party live channel, and the KSA model is fuel-station-forward. Correct Saudi operator (Alsulaiman) but no qualifying digital channel can be confirmed.",
+    "_batch_file": "rollout/crossverify_results/batch_06.json"
+  },
+  {
+    "name": "cityflowerretail",
+    "domain": "cityflowerretail.com",
+    "verdict": "DOWNGRADE_HELD",
+    "note": "Gate 4: City Flower is a real, approved-category general-merchandise dept-store/hypermarket chain (Fleeriya Group, Riyadh), but a live transactional online store could not be confirmed on repeated fetches (no readable content / SPA / 503) and no cart or app was corroborated. The prior 'RESOLVED' only cleared the category (not a florist), not the digital channel.",
+    "_batch_file": "rollout/crossverify_results/batch_06.json"
+  },
+  {
+    "name": "cvaley",
+    "domain": "cvaley.com",
+    "verdict": "CONFIRM",
+    "note": "Verified large Saudi beauty/skincare/fragrance retailer: Saudi VAT (ZATCA format), SAR pricing, ~15 categories, live cart (checkout/cart), mobile apps and BNPL. Strong across all gates.",
+    "_batch_file": "rollout/crossverify_results/batch_06.json"
+  },
+  {
+    "name": "daffah",
+    "domain": "daffah.sa",
+    "verdict": "CONFIRM",
+    "note": "Verified Riyadh-HQ'd Saudi menswear brand (Al-Daffah, since 1983) selling thobes/apparel with a live products store and physical locations; fashion/apparel approved, multi-item, repeat. Clears all gates.",
+    "_batch_file": "rollout/crossverify_results/batch_06.json"
+  },
+  {
+    "name": "Dank",
+    "domain": "dank.sa",
+    "verdict": "CONFIRM",
+    "note": "Verified Saudi QSR sandwich chain (est. 2017; branches in Jeddah, Riyadh, Abha) with a live ordering portal (order.dank.sa) plus iOS/Android apps; QSR explicitly approved, F&B repeat. Clears all gates.",
+    "_batch_file": "rollout/crossverify_results/batch_06.json"
+  },
+  {
+    "name": "Danube",
+    "domain": "danube.sa",
+    "verdict": "DOWNGRADE_HELD",
+    "note": "Gate 6 duplicate-consolidation: Danube is a banner of BinDawood Holding, which is separately present in this same batch as the consolidated parent account; per Gate 6 the conglomerate gets one consolidated account, not one per brand. Flag for merge (Danube is otherwise a fully qualifying Saudi hypermarket).",
+    "_batch_file": "rollout/crossverify_results/batch_06.json"
+  },
+  {
+    "name": "Dar Sonbol Co. Ltd.",
+    "domain": "darsonbol.com",
+    "verdict": "CONFIRM",
+    "note": "Verified Saudi women's & children's clothing store (SONBOL) with SAR pricing, multi-category apparel (dresses/blouses/pants/skirts/sets/kids/tween) and secure payment methods/checkout; multi-item fashion. Clears all gates.",
+    "_batch_file": "rollout/crossverify_results/batch_06.json"
+  },
+  {
+    "name": "darent",
+    "domain": "darent.com",
+    "verdict": "DOWNGRADE_NO",
+    "note": "Gate 2: darent is a holiday-homes / short-stay lodging booking marketplace (Jeddah, 2021, Airbnb-style), i.e. travel/hospitality plus real-estate plus marketplace, all hard-excluded and not product retail. The keyword tag ('cart/checkout') was a false positive from the booking flow.",
+    "_batch_file": "rollout/crossverify_results/batch_06.json"
+  },
+  {
+    "name": "decathlon",
+    "domain": "decathlon.com.sa",
+    "verdict": "DOWNGRADE_NO",
+    "note": "Gate 6: Decathlon KSA is a global-brand franchise storefront operated by the Saudi franchisee (Fawaz Alhokair / Cenomi Retail, already covered in this batch), so it folds into the covered local operator rather than being a separate account; if instead run by Decathlon France's central e-commerce it fails Gate 1 on French HQ. Either way not a standalone Saudi account.",
+    "_batch_file": "rollout/crossverify_results/batch_06.json"
+  },
+  {
+    "name": "Dee Line",
+    "domain": "thedeeline.com",
+    "verdict": "DOWNGRADE_HELD",
+    "note": "Independent verification could not be completed (site 403'd and web-search budget exhausted) and the original reason is thin (beauty/makeup/perfume, no confirmed HQ, SKU count or live cart), so Saudi HQ, scale and a live channel all remain unconfirmed. Plausible approved-category beauty business but held rather than rubber-stamped.",
+    "_batch_file": "rollout/crossverify_results/batch_06.json"
+  },
+  {
+    "name": "Deraah Trading Company",
+    "domain": "deraah.com.sa",
+    "verdict": "CONFIRM",
+    "note": "Major Riyadh-HQ'd Saudi retail chain (est. 1975, 750+ stores) whose live storefront relocated to deraahstore.com with a full working cart/wishlist/order-tracking; perfume/oud is consumable repeat. Clears all gates.",
+    "_batch_file": "rollout/crossverify_results/batch_06.json"
+  },
+  {
+    "name": "deshdashtii",
+    "domain": "deshdashtii.com",
+    "verdict": "CONFIRM",
+    "note": "Verified Saudi-based traditional-menswear e-commerce with 26 branches across the Kingdom and a broad range (Saudi/Kuwaiti/Qatari thobes for men/youth/kids plus headwear, shoes, wallets, fragrances, coats); multi-item fashion. Clears all gates.",
+    "_batch_file": "rollout/crossverify_results/batch_06.json"
+  },
+  {
+    "name": "Dkhoon Emirates",
+    "domain": "dkhoonemirates.com",
+    "verdict": "DOWNGRADE_HELD",
+    "note": "Gate 1 geography unresolved after independent checks: brand identity is strongly Emirati ('Dkhoon Emirates' / 'Al Emiratia', 'Dubai' flagship, listed as an Emirates fragrance house), while aggregator 'Riyadh HQ' listings may reflect a Saudi office/market and the Saudi VAT is consistent with a foreign brand's local storefront; the site 403'd so the registered entity couldn't be verified from primary materials. Saudi global HQ cannot be confidently confirmed.",
+    "_batch_file": "rollout/crossverify_results/batch_06.json"
+  },
+  {
+    "name": "DKHOUN دخون",
+    "domain": "dkhoun.com",
+    "verdict": "CONFIRM",
+    "note": "Genuine Saudi joint-stock company (distinct from Dkhoon Emirates) running a live perfume/oud/bakhoor store with a real cart and broad multi-category catalog; perfume/oud is consumable repeat. Clears all gates.",
+    "_batch_file": "rollout/crossverify_results/batch_06.json"
+  },
+  {
+    "name": "doctorhouseshop",
+    "domain": "doctorhouseshop.com",
+    "verdict": "CONFIRM",
+    "note": "Live Saudi (Riyadh) multi-brand medical-apparel store (scrubs, lab coats, uniforms across 8 brands) with a cart and physical branches. Medical workwear is repeat-purchase apparel, an approved category, and no gate fails.",
+    "_batch_file": "rollout/crossverify_results/batch_07.json"
+  },
+  {
+    "name": "DOME FURNITURE",
+    "domain": "domefurniture.com",
+    "verdict": "CONFIRM",
+    "note": "Independently verified as United Furniture Co Ltd, Riyadh-HQ'd since 1993, with a live consumer furniture cart and multi-brand catalog. The original keyword-only tag is now substantiated on geography and channel.",
+    "_batch_file": "rollout/crossverify_results/batch_07.json"
+  },
+  {
+    "name": "Doos دووس",
+    "domain": "doos.sa",
+    "verdict": "CONFIRM",
+    "note": "Live Saudi (.sa) quick-commerce grocery with its own large 30+ category catalog and SAR per-SKU pricing. Grocery is the highest-frequency approved category, and this is its own catalog, not a third-party marketplace.",
+    "_batch_file": "rollout/crossverify_results/batch_07.json"
+  },
+  {
+    "name": "Dose Cafe | دوز كافيه",
+    "domain": "dosecafeksa.com",
+    "verdict": "DOWNGRADE_NO",
+    "note": "Gate 1 fail. Multiple sources independently confirm HQ is Kuwait (founded Kuwait City 2016, GCC-wide chain), so under the Saudi row this is a foreign-Gulf-HQ operator with only Saudi branches, matching the ABYAT Kuwait-HQ exclusion precedent. (It does have its own Dose KSA app, but Gate 1 fails first.)",
+    "_batch_file": "rollout/crossverify_results/batch_07.json"
+  },
+  {
+    "name": "dovacare",
+    "domain": "dovacare.com",
+    "verdict": "CONFIRM",
+    "note": "Confirmed Saudi consumer beauty/skincare/haircare online retailer (premium beauty store with in-house pharmacy, ships across KSA). The 'official agent' framing resolves to authorized retailer, not B2B distribution. Approved repeat-purchase category.",
+    "_batch_file": "rollout/crossverify_results/batch_07.json"
+  },
+  {
+    "name": "dr.CAFE® COFFEE SAUDI ARABIA",
+    "domain": "drcafe.com",
+    "verdict": "CONFIRM",
+    "note": "Saudi coffee chain (Riyadh-founded, 265+ stores) with its own 200+ product e-commerce store, cart, and a consumer ordering app (com.cs.drcafe confirmed). Approved high-repeat QSR category at scale.",
+    "_batch_file": "rollout/crossverify_results/batch_07.json"
+  },
+  {
+    "name": "drslounge",
+    "domain": "drslounge.com",
+    "verdict": "CONFIRM",
+    "note": "Live Saudi (Riyadh) multi-brand medical-apparel store with SAR pricing, a working cart, and a physical network. Same approved apparel-vertical reasoning as doctorhouseshop, no gate fails.",
+    "_batch_file": "rollout/crossverify_results/batch_07.json"
+  },
+  {
+    "name": "Dukan Retailing Company",
+    "domain": "dukan.me",
+    "verdict": "CONFIRM",
+    "note": "Verified Jeddah-HQ'd Saudi electronics/appliances retailer with a live online store (phones, TVs, AC, appliances) and 200+ listings. Broad electronics is an approved category; the fuzzy-name concern is resolved.",
+    "_batch_file": "rollout/crossverify_results/batch_07.json"
+  },
+  {
+    "name": "EDDY - Home & Electronics",
+    "domain": "eddy.com.sa",
+    "verdict": "CONFIRM",
+    "note": "Recognized large Saudi (Jeddah) home/appliance/electronics retail chain with its own live online store per corroboration. Broad approved category and in-country HQ. Direct fetch stayed blocked, so channel rests on corroboration rather than a live read today, but nothing contradicts it.",
+    "_batch_file": "rollout/crossverify_results/batch_07.json"
+  },
+  {
+    "name": "Elfaleh Sports House",
+    "domain": "elfaleh.sa",
+    "verdict": "CONFIRM",
+    "note": "Long-established Saudi (.sa) sporting-goods retailer with a broad live catalog of activewear, athletic footwear and gear plus a SAR cart. Predominantly apparel and footwear, an approved category.",
+    "_batch_file": "rollout/crossverify_results/batch_07.json"
+  },
+  {
+    "name": "Esfen Furniture | إسفين للأثاث",
+    "domain": "esfen.com",
+    "verdict": "DOWNGRADE_HELD",
+    "note": "Gate 2 doubt. The esfen.com storefront reads as clean B2C (109 SKUs, cart, no B2B language), but the Esfen brand is independently described as a HoReCa/project furniture supplier for restaurants, hotels and cafes with a setup service, plus 'furniture design and manufacture' framing. The hybrid-B2B and manufacturing side cannot be cleanly separated from the operating entity, and the hybrid rule disqualifies the B2B side even alongside a real B2C arm.",
+    "_batch_file": "rollout/crossverify_results/batch_07.json"
+  },
+  {
+    "name": "eternal-jewel",
+    "domain": "eternal-jewel.com",
+    "verdict": "CONFIRM",
+    "note": "Verified Saudi Shopify jewelry store (site title 'Lab Grown Diamond Jewelry Online in Saudi Arabia', SAR currency, Jeddah) with a live cart and a broad ~238-SKU ring/earring/necklace/bracelet catalog. Jewelry approved; geography doubt resolved.",
+    "_batch_file": "rollout/crossverify_results/batch_07.json"
+  },
+  {
+    "name": "Express Food Company",
+    "domain": "albaik.com",
+    "verdict": "CONFIRM",
+    "note": "ALBAIK licensee, Jeddah-HQ'd, 100+ Saudi restaurants since 1974, with its own consumer ordering app. Iconic approved high-repeat QSR at substantial scale, all gates clear.",
+    "_batch_file": "rollout/crossverify_results/batch_07.json"
+  },
+  {
+    "name": "extra",
+    "domain": "extra.com",
+    "verdict": "CONFIRM",
+    "note": "eXtra / United Electronics Co., a Tadawul-listed Saudi electronics retailer with a large live transactional store. Well-established approved-category retailer, no gate fails.",
+    "_batch_file": "rollout/crossverify_results/batch_07.json"
+  },
+  {
+    "name": "Fakeeh Vision",
+    "domain": "fakeehvision.com",
+    "verdict": "DOWNGRADE_HELD",
+    "note": "Gate 2 doubt. Genuine Saudi (Jeddah) consumer optical e-commerce, and opticians are explicitly approved, but the company independently self-describes as 'the largest wholesaler and retailer chain in KSA'. That hybrid wholesale/B2B language (supplying other retailers) matches the hard-exclusion that disqualifies the B2B side even with a real B2C arm; materiality of the wholesale arm could not be confirmed either way.",
+    "_batch_file": "rollout/crossverify_results/batch_07.json"
+  },
+  {
+    "name": "Farm",
+    "domain": "farm.com.sa",
+    "verdict": "CONFIRM",
+    "note": "Dammam-HQ'd Saudi supermarket chain since 1978 (107 stores) with a live consumer app (FarmGo). Grocery is approved and the operation is clearly substantial.",
+    "_batch_file": "rollout/crossverify_results/batch_07.json"
+  },
+  {
+    "name": "fashion",
+    "domain": "fashion.sa",
+    "verdict": "CONFIRM",
+    "note": "Verified substantial multi-brand Saudi fashion store (Salla-hosted, heavy SAR pricing, live cart, many men's and women's collections and brands). Approved category; the original keyword snippet is now substantiated on scale and channel.",
+    "_batch_file": "rollout/crossverify_results/batch_07.json"
+  },
+  {
+    "name": "FirstCry Middle East",
+    "domain": "firstcry.sa",
+    "verdict": "DOWNGRADE_NO",
+    "note": "Gate 1 fail. firstcry.sa is operated by the Indian parent BrainBees Solutions (HQ Pune, India); the Riyadh presence is an office/warehouse plus franchise stores, not the operating entity's global HQ. This is a foreign-parent-run local ccTLD storefront, matching the fnp.sa/Ferns N Petals Delhi-HQ exclusion precedent.",
+    "_batch_file": "rollout/crossverify_results/batch_07.json"
+  },
+  {
+    "name": "Fitaihi",
+    "domain": "fitaihi.com.sa",
+    "verdict": "CONFIRM",
+    "note": "Tadawul-listed Saudi (Jeddah) jewelry house since 1907. The .com.sa row is the investor-relations portal, but the operating retail site fitaihi.com has a live WooCommerce cart and an extensive catalog. Approved jewelry category, in-country HQ.",
+    "_batch_file": "rollout/crossverify_results/batch_07.json"
+  },
+  {
+    "name": "Floward",
+    "domain": "floward.co",
+    "verdict": "CONFIRM",
+    "note": "Independently verified Riyadh, Saudi Arabia HQ (Wikipedia and ZoomInfo) with 1M+ app users. The app-download scale (Gate 5b) qualifies it outright and the HQ is in-country. Unlike Dose Cafe, authoritative sources place its HQ in Saudi, not Kuwait.",
+    "_batch_file": "rollout/crossverify_results/batch_07.json"
+  },
+  {
+    "name": "foulard",
+    "domain": "foulard.store",
+    "verdict": "CONFIRM",
+    "note": "Saudi scarves/fashion-accessories store (KSA 400 SR shipping tier, multiple collections). Scarves are an approved, multi-item, high-frequency fashion accessory in-region. Scale evidence is on the lighter side (no hard SKU count), but no gate clearly fails.",
+    "_batch_file": "rollout/crossverify_results/batch_07.json"
+  },
+  {
+    "name": "freshvery",
+    "domain": "freshvery.com",
+    "verdict": "CONFIRM",
+    "note": "Riyadh grocery/produce e-commerce with a cart and broad categories (produce, dairy, bakery, pantry, beverages, butchery, seafood). Grocery is the highest-frequency approved category.",
+    "_batch_file": "rollout/crossverify_results/batch_07.json"
+  },
+  {
+    "name": "Gazzaz قزاز",
+    "domain": "gazzaz.com.sa",
+    "verdict": "CONFIRM",
+    "note": "Makkah-HQ'd Saudi perfume/beauty/luxury retailer since 1942 with a live transactional store and a large catalog. Consumable beauty and perfume is a repeat-purchase approved category.",
+    "_batch_file": "rollout/crossverify_results/batch_07.json"
+  },
+  {
+    "name": "goldentech",
+    "domain": "goldentech.com.sa",
+    "verdict": "CONFIRM",
+    "note": "Riyadh-HQ'd Saudi computer/electronics retailer (est. 2009) with showroom, click-and-collect and an online store across a broad consumer catalog. The 'Trading Co' and servers signal is mild and not an evidenced wholesale model. Direct fetch stayed 403-blocked, so this rests on the prior corroboration.",
+    "_batch_file": "rollout/crossverify_results/batch_07.json"
+  },
+  {
+    "name": "Goodies Selections Saudi Arabia",
+    "domain": "goodies.com.sa",
+    "verdict": "CONFIRM",
+    "note": "Saudi (Jeddah/Riyadh) consumer F&B and gourmet-food brand (restaurant, bakery, gourmet shop, delivery and takeaway) with an online ordering system. The catering line is a restaurant adjunct, not wholesale supply to other retailers. Approved F&B/grocery.",
+    "_batch_file": "rollout/crossverify_results/batch_07.json"
+  },
+  {
+    "name": "grasse",
+    "domain": "grasse.sa",
+    "verdict": "CONFIRM",
+    "note": "Saudi (.sa) perfume e-commerce with real promotions, gift sets and multiple size variants. Consumable perfume is a repeat-purchase approved category.",
+    "_batch_file": "rollout/crossverify_results/batch_07.json"
+  },
+  {
+    "name": "greenup",
+    "domain": "greenup.com.sa",
+    "verdict": "CONFIRM",
+    "note": "Salla-hosted Saudi store spanning baby-care, bath/body, skincare and supplements, with named customer reviews and a real shipping policy. Multi-category personal-care and health retail, approved and repeat-purchase.",
+    "_batch_file": "rollout/crossverify_results/batch_07.json"
+  },
+  {
+    "name": "H. M. Al Rugaib & Sons Trading Co. - شركة حمد محمد الرقيب و أولاده التجارية",
+    "domain": "alrugaibfurniture.com",
+    "verdict": "CONFIRM",
+    "note": "Large live Saudi furniture/home-decor store with third-party brands, a working cart and SAR sale pricing across a multi-room catalog. Approved broad home/furniture category.",
+    "_batch_file": "rollout/crossverify_results/batch_07.json"
+  },
+  {
+    "name": "Hakeem Oyoun",
+    "domain": "hakeem.sa",
+    "verdict": "CONFIRM",
+    "note": "Verified Saudi consumer optical retail chain (glasses, sunglasses, contact lenses) with branches in Riyadh, Jeddah and Dammam and international brands, no wholesale language. Opticians are approved and contact lenses drive repeat purchase.",
+    "_batch_file": "rollout/crossverify_results/batch_07.json"
+  },
+  {
+    "name": "harveynichols",
+    "domain": "harveynichols.sa",
+    "verdict": "CONFIRM",
+    "note": "Verified operated by Alfa International Company Ltd, a Riyadh-HQ'd Saudi franchisee (Gate 1 franchise-operator carve-out), running a live Magento department-store site with SAR checkout and hundreds of SKUs. Approved fashion/luxury/beauty.",
+    "_batch_file": "rollout/crossverify_results/batch_07.json"
+  },
+  {
+    "name": "Homes Furniture",
+    "domain": "homesfurniture.sa",
+    "verdict": "CONFIRM",
+    "note": "Verified Saudi furniture retailer (Dammam and Khobar branches, .sa, SAR pricing, live product pages and best-sellers, consumer-only). Broad furniture is an approved category; the original keyword-only tag is now substantiated.",
+    "_batch_file": "rollout/crossverify_results/batch_07.json"
+  },
+  {
+    "name": "houseofcenmar",
+    "domain": "houseofcenmar.com",
+    "verdict": "CONFIRM",
+    "note": "Verified genuine Saudi fashion brand (Saudi-heritage streetwear by Hamed Aldabbour, Riyadh Boulevard City branch) with a live Shopify store and a real apparel catalog. Approved multi-item fashion category; the original keyword-only tag holds up.",
+    "_batch_file": "rollout/crossverify_results/batch_07.json"
+  },
+  {
+    "name": "HungerStation | هنقرستيشن",
+    "domain": "hungerstation.com",
+    "verdict": "CONFIRM",
+    "note": "App-download rescue (Gate 5b) solidly met: 20M+ downloads, largest Saudi delivery app. Operating entity HungerStation Co. Ltd is Riyadh-HQ'd (Saudi-founded); Delivery Hero's ownership does not relocate the operating HQ, so Gate 1 holds.",
+    "_batch_file": "rollout/crossverify_results/batch_08.json"
+  },
+  {
+    "name": "Ibrand - اي براند",
+    "domain": "ibrand.com.sa",
+    "verdict": "CONFIRM",
+    "note": "Live Salla (Saudi platform) pharmacy/beauty store in Riyadh with real cart and broad health/beauty range; approved category, no red flags across all gates.",
+    "_batch_file": "rollout/crossverify_results/batch_08.json"
+  },
+  {
+    "name": "iHome-آي هوم",
+    "domain": "ihomestore.com",
+    "verdict": "CONFIRM",
+    "note": "Live Salla home-furnishings retailer with broad multi-category catalog, SAR pricing and branches in four Saudi cities; approved home category, not narrow.",
+    "_batch_file": "rollout/crossverify_results/batch_08.json"
+  },
+  {
+    "name": "Ikaf Arabian Company",
+    "domain": "ikaf.net",
+    "verdict": "DOWNGRADE_NO",
+    "note": "Gate 2 fail. Independent search shows Ikaf is a men's-clothing (thobe) MANUFACTURER (est. 1991; factories in Saudi/India/Egypt; exports to 32 countries), i.e. manufacturing plus wholesale/export, not retail. The keyword-only tag missed this.",
+    "_batch_file": "rollout/crossverify_results/batch_08.json"
+  },
+  {
+    "name": "IKEA Alsulaiman",
+    "domain": "alsulaimangroup.com",
+    "verdict": "DOWNGRADE_NO",
+    "note": "Gate 6 fail. alsulaimangroup.com is the mixed-conglomerate parent, blending IKEA/retail with logistics, real estate, automotive leasing and contracting; mixed parents are excluded, and the IKEA retail arm would need its own row on the IKEA store domain rather than this holding page.",
+    "_batch_file": "rollout/crossverify_results/batch_08.json"
+  },
+  {
+    "name": "imtiaz",
+    "domain": "imtiaz.com.sa",
+    "verdict": "CONFIRM",
+    "note": "Rulebook explicitly names Imtiaz Al Arabia (Jarir Group) as a passing Saudi-HQ'd franchise operator; consolidated multi-brand fashion account with live e-commerce via fashion.sa.",
+    "_batch_file": "rollout/crossverify_results/batch_08.json"
+  },
+  {
+    "name": "Inrest Home",
+    "domain": "inrest.com",
+    "verdict": "CONFIRM",
+    "note": "Saudi bed & bath textiles retailer with broad range (duvets, covers, pillows, towels, bathrobes, fragrance), cart/checkout, 10 Kingdom branches and 100+ SKUs; approved home category, broad (not mattresses-only), parallels independently-verified Karaz Linen.",
+    "_batch_file": "rollout/crossverify_results/batch_08.json"
+  },
+  {
+    "name": "International Company For Furniture الشركة العالمية للأثاث",
+    "domain": "icf.sa",
+    "verdict": "DOWNGRADE_NO",
+    "note": "Gate 2 fail. Independent search shows ICF is a furniture MANUFACTURER since 1967 with a 12,000 sqm factory and a strong B2B contract business supplying office/hotel furniture to government and private sector; manufacturer plus B2B hybrid disqualifies despite a residential arm.",
+    "_batch_file": "rollout/crossverify_results/batch_08.json"
+  },
+  {
+    "name": "Jamjoom Fashion",
+    "domain": "jamjoomfashion.com",
+    "verdict": "CONFIRM",
+    "note": "Saudi-born, Jeddah-HQ'd apparel group owning four retail fashion brands (Nayomi, Mihyar, Dream, Booty Parlor), 218+ stores; consolidated all-retail parent (like Imtiaz/Cenomi) with live brand e-commerce. Vertical manufacture is for own brands, not B2B wholesale.",
+    "_batch_file": "rollout/crossverify_results/batch_08.json"
+  },
+  {
+    "name": "Jarir Bookstore",
+    "domain": "jarir.com",
+    "verdict": "CONFIRM",
+    "note": "Major, well-known Saudi retail chain (electronics/books/stationery), Tadawul-listed, large live e-commerce; airtight on all gates.",
+    "_batch_file": "rollout/crossverify_results/batch_08.json"
+  },
+  {
+    "name": "jazeerapaints",
+    "domain": "jazeerapaints.com",
+    "verdict": "DOWNGRADE_NO",
+    "note": "Gate 2/3 fail. Independent search shows Jazeera Paints is a PAINT MANUFACTURER (Riyadh 1979; 400,000 t/yr; 5 plants; 450+ paint products incl. industrial/marine): manufacturing plus construction/decorating material plus narrow low-repeat single line. Keyword-only tag missed this.",
+    "_batch_file": "rollout/crossverify_results/batch_08.json"
+  },
+  {
+    "name": "Jeddah Duty Free  السوق الحرة جدة",
+    "domain": "dutyfree-jeddah.com",
+    "verdict": "CONFIRM",
+    "note": "Operating entity JAH Arabia is a Saudi-registered JV existing solely for the Jeddah airport concession (Saudi HQ); broad multi-category duty-free (beauty/fragrance/F&B/jewelry) with live Click & Collect cart and 50+ SKUs. Detailed, specific reason.",
+    "_batch_file": "rollout/crossverify_results/batch_08.json"
+  },
+  {
+    "name": "johrh",
+    "domain": "johrh.com",
+    "verdict": "CONFIRM",
+    "note": "Independent search confirms a Saudi (Riyadh) online abaya/modest-fashion store with hundreds of styles, 30+ fabrics, COD/returns and GCC delivery; approved fashion, broad, live store.",
+    "_batch_file": "rollout/crossverify_results/batch_08.json"
+  },
+  {
+    "name": "jumla",
+    "domain": "jumla.sa",
+    "verdict": "DOWNGRADE_NO",
+    "note": "Gate 4 + Gate 6 fail. WebFetch confirms jumla.sa is a corporate holding page (Jumla Technology for Trade) with no storefront of its own; its retail brand Krabet is separately listed in this same batch and is the actual live store, so this is a holding-page duplicate.",
+    "_batch_file": "rollout/crossverify_results/batch_08.json"
+  },
+  {
+    "name": "Kabbani Trading Center",
+    "domain": "jareersweets.com",
+    "verdict": "CONFIRM",
+    "note": "Chocolate/sweets (patisserie) e-commerce with cart and an in-KSA franchise program; F&B is approved and high-repeat, and the franchise program is retail expansion, not B2B supply.",
+    "_batch_file": "rollout/crossverify_results/batch_08.json"
+  },
+  {
+    "name": "kabrita",
+    "domain": "kabrita.sa",
+    "verdict": "DOWNGRADE_NO",
+    "note": "Gate 1 fail. Independent search shows Kabrita is a DUTCH goat-milk infant-formula brand (Ausnutria); kabrita.sa is the foreign brand's local ccTLD storefront (the exact Gate 1 fail pattern) and a narrow single product line. Keyword-only tag missed this.",
+    "_batch_file": "rollout/crossverify_results/batch_08.json"
+  },
+  {
+    "name": "kadoonpro",
+    "domain": "kadoonpro.com",
+    "verdict": "CONFIRM",
+    "note": "Broad personal-care e-commerce (skin/face/body, hand/foot/nail) with a loyalty program; approved beauty, repeat consumables, live B2C store. Geography inferred Saudi (no foreign/exclusion signal); HQ not independently re-confirmed due to fetch rate limits, but no red flag.",
+    "_batch_file": "rollout/crossverify_results/batch_08.json"
+  },
+  {
+    "name": "karazlinen",
+    "domain": "karazlinen.com",
+    "verdict": "CONFIRM",
+    "note": "Independent search confirms a Saudi (pioneering Saudi brand, est. 2010) bed & bath linens retailer (sheets, duvet sets, pillow covers, bathrobes, towels), live site plus Amazon.sa, SAR delivery; approved home category, broad.",
+    "_batch_file": "rollout/crossverify_results/batch_08.json"
+  },
+  {
+    "name": "kayanee",
+    "domain": "kayanee.com",
+    "verdict": "CONFIRM",
+    "note": "Saudi PIF-backed, Riyadh-based women's activewear brand with live store and broad fashion categories (tops/bottoms/outerwear/accessories); approved fashion, broad, seasonal.",
+    "_batch_file": "rollout/crossverify_results/batch_08.json"
+  },
+  {
+    "name": "Kenz Woman",
+    "domain": "kenzwoman.com",
+    "verdict": "CONFIRM",
+    "note": "Prior held-review already resolved via web search: top Saudi online store for women's undergarments/loungewear carrying multiple brands with real shipping/coupons; approved fashion/apparel.",
+    "_batch_file": "rollout/crossverify_results/batch_08.json"
+  },
+  {
+    "name": "Kharazah | خرازة",
+    "domain": "kharazah.com",
+    "verdict": "CONFIRM",
+    "note": "WebFetch confirms a live Salla store selling luxury men's footwear (Gulf sandals, formal, casual) with cart; footwear is explicitly approved (Gates 2/3). Saudi base indicated by Salla platform, Gulf Arabic and Gulf-style products (geography implied, not explicit, but no contradicting signal).",
+    "_batch_file": "rollout/crossverify_results/batch_08.json"
+  },
+  {
+    "name": "kpopiashop",
+    "domain": "kpopiashop.com",
+    "verdict": "CONFIRM",
+    "note": "Detailed reason confirms a live, substantial multi-category pop-culture/general-merchandise store (albums, lightsticks, apparel, accessories, stationery, snacks) with SAR cart, 50+ SKUs and Saudi delivery/geo evidence; collector repeat-purchase, not narrow.",
+    "_batch_file": "rollout/crossverify_results/batch_08.json"
+  },
+  {
+    "name": "krabet",
+    "domain": "krabet.sa",
+    "verdict": "CONFIRM",
+    "note": "Real Saudi multi-category general-merchandise retail chain (16 branches plus shopping app); site was Cloudflare-blocked but independent search corroborates geography, breadth, digital channel and scale. This is the genuine retail entity of the Jumla group (vs the jumla.sa holding page).",
+    "_batch_file": "rollout/crossverify_results/batch_08.json"
+  },
+  {
+    "name": "Lagate لاقيت",
+    "domain": "lagatesa.com",
+    "verdict": "CONFIRM",
+    "note": "Independent search confirms a Riyadh-based retailer of women's abayas (everyday/winter), accessories and under-abaya sets with online store and installment payments; approved fashion, Saudi, live store.",
+    "_batch_file": "rollout/crossverify_results/batch_08.json"
+  },
+  {
+    "name": "lantanaashop",
+    "domain": "lantanaashop.com",
+    "verdict": "CONFIRM",
+    "note": "WebFetch confirms a live, substantial perfume/fragrance e-commerce (men's/women's/niche/home fragrance, international plus regional brands) with cart and VAT pricing in an Arabic/Saudi context; perfume explicitly passes Gate 3.",
+    "_batch_file": "rollout/crossverify_results/batch_08.json"
+  },
+  {
+    "name": "Laverne Group",
+    "domain": "laverne.com",
+    "verdict": "CONFIRM",
+    "note": "WebFetch confirms a Saudi perfume/beauty retailer (branches in Riyadh, Dammam, Abha; SAR pricing; Tabby/Tamara) with live cart; approved beauty/perfume, repeat consumable.",
+    "_batch_file": "rollout/crossverify_results/batch_08.json"
+  },
+  {
+    "name": "lavieenrose",
+    "domain": "lavieenrose.com.sa",
+    "verdict": "DOWNGRADE_NO",
+    "note": "Gate 1 fail. La Vie en Rose is a Canadian (Montreal-HQ'd) lingerie brand; lavieenrose.com.sa is the foreign brand's franchise-operated local ccTLD storefront (exact Gate 1 fail pattern), and as a global brand it should fold into its local operator group (Gate 6), not stand as its own account.",
+    "_batch_file": "rollout/crossverify_results/batch_08.json"
+  },
+  {
+    "name": "lazurde",
+    "domain": "lazurde.com",
+    "verdict": "DOWNGRADE_NO",
+    "note": "Gate 2 fail. L'azurde is the world's 4th-largest gold MANUFACTURER with roughly 80% of revenue from its wholesale/B2B arm (sells into 20+ countries), retail a minority; manufacturer plus dominant B2B/wholesale disqualifies under the hybrid rule despite a genuine B2C shop.",
+    "_batch_file": "rollout/crossverify_results/batch_08.json"
+  },
+  {
+    "name": "leem",
+    "domain": "leem.com",
+    "verdict": "CONFIRM",
+    "note": "WebFetch confirms a Saudi modest-fashion label (self-described Saudi label, Riyadh Fashion Week, +966 contact) with live store, iOS/Android apps and broad womenswear (dresses, kaftans, loungewear, tops, bottoms, accessories); approved fashion, Saudi HQ.",
+    "_batch_file": "rollout/crossverify_results/batch_08.json"
+  },
+  {
+    "name": "Lemon Pharmacy",
+    "domain": "lemon.sa",
+    "verdict": "CONFIRM",
+    "note": "Saudi (.sa) pharmacy with live Arabic cart and broad medicine/OTC/beauty range; retail pharmacy chain is the explicit approved exception.",
+    "_batch_file": "rollout/crossverify_results/batch_08.json"
+  },
+  {
+    "name": "Lines Ideas",
+    "domain": "linesideas.com",
+    "verdict": "DOWNGRADE_NO",
+    "note": "Gate 2 fail. Independent search shows Lines Ideas (est. 2009) is a B2B supplier to cafes and restaurants (syrups, flavors, machines, cleaning products), i.e. HORECA distribution, not consumer retail. Keyword-only tag missed the B2B model.",
+    "_batch_file": "rollout/crossverify_results/batch_08.json"
+  },
+  {
+    "name": "lodore",
+    "domain": "lodore.com",
+    "verdict": "CONFIRM",
+    "note": "Independent search confirms a Riyadh-based perfume/fragrance retailer (luxury/niche brands) with multiple Riyadh branches, iOS/Android app and online store; perfume explicitly passes Gate 3. Original reason was just Magento boilerplate, but the business checks out.",
+    "_batch_file": "rollout/crossverify_results/batch_08.json"
+  },
+  {
+    "name": "LoftByEtab",
+    "domain": "loftstore.com",
+    "verdict": "CONFIRM",
+    "note": "Curl confirmed a live Salla store (SAR pricing, checkout) for a Jeddah-HQ'd home-furnishings/accessories concept store under ETAB International (Zahran Holding). Gate 1 geography and approved home/general-merchandise category both clear.",
+    "_batch_file": "rollout/crossverify_results/batch_09.json"
+  },
+  {
+    "name": "lomar",
+    "domain": "lomar.sa",
+    "verdict": "CONFIRM",
+    "note": "Well-known Saudi (Jeddah) D2C fashion house since 2002, 14 stores plus live e-commerce selling its own thobes/abayas/accessories. Its in-house factory serves its own retail brand (vertically integrated), so it is fashion retail, not a B2B manufacturer.",
+    "_batch_file": "rollout/crossverify_results/batch_09.json"
+  },
+  {
+    "name": "loofah",
+    "domain": "loofah.sa",
+    "verdict": "CONFIRM",
+    "note": "Live Saudi perfume/home-fragrance and personal-care store (SAR, free-shipping-over-349 banner, broad beauty categories). Approved high-repeat beauty category; all gates clear.",
+    "_batch_file": "rollout/crossverify_results/batch_09.json"
+  },
+  {
+    "name": "loudy-plus",
+    "domain": "loudy-plus.com",
+    "verdict": "CONFIRM",
+    "note": "Real perfume e-commerce with a broad range (women's/men's/unisex/hair perfumes/musk/incense). Approved repeat-purchase beauty category, Saudi storefront; no red flags.",
+    "_batch_file": "rollout/crossverify_results/batch_09.json"
+  },
+  {
+    "name": "maatic",
+    "domain": "maatic.com",
+    "verdict": "DOWNGRADE_HELD",
+    "note": "Gate 1 geography: live Shopify apparel store but its config is currency USD / country US / locale en_US with zero Saudi signals (no SAR, no KSA address) and it is absent from Saudi fashion coverage, so an in-country Saudi HQ cannot be established. The original 'Yes' was a pure keyword match with no geography evidence.",
+    "_batch_file": "rollout/crossverify_results/batch_09.json"
+  },
+  {
+    "name": "maestropizza",
+    "domain": "maestropizza.sa",
+    "verdict": "CONFIRM",
+    "note": "Riyadh-HQ'd Saudi QSR pizza chain (Daily Food Co.), 140 outlets, genuine app/web ordering with basket and loyalty. F&B/QSR is high-frequency; all gates clear.",
+    "_batch_file": "rollout/crossverify_results/batch_09.json"
+  },
+  {
+    "name": "Manuel Market",
+    "domain": "manuelmarket.com",
+    "verdict": "DOWNGRADE_HELD",
+    "note": "Gate 4 digital channel: the domain returned HTTP 000 / DNS failure on three independent attempts (WebFetch and two curls), so a live cart/checkout cannot be confirmed. The Jeddah/Riyadh luxury supermarket is real, but the pass rests on web-search inference rather than a confirmed live store, exactly the flagged pattern.",
+    "_batch_file": "rollout/crossverify_results/batch_09.json"
+  },
+  {
+    "name": "Masco Saudi Arabia",
+    "domain": "mascoonline.com",
+    "verdict": "DOWNGRADE_HELD",
+    "note": "Gate 2 B2B/wholesale hybrid: described as importing/exporting stationery since 2003 serving 'individual and corporate clients,' and MASCO-brand products are stocked across Carrefour/Amazon.sa/Noon (supplying other retailers). Its own site reads D2C, but the wholesale/trading dimension means the hard B2B exclusion cannot be confidently cleared.",
+    "_batch_file": "rollout/crossverify_results/batch_09.json"
+  },
+  {
+    "name": "Masdar - مصدر",
+    "domain": "masdaronline.com",
+    "verdict": "DOWNGRADE_NO",
+    "note": "Gate 2 hard-fail: Masdar (Al Muhaidib Group) is a building/construction-materials distributor selling steel, timber, cement, plumbing, electrical, hardware and fasteners (105 branches, 80,000+ SKUs). Construction materials plus distribution are both explicitly excluded regardless of the online store.",
+    "_batch_file": "rollout/crossverify_results/batch_09.json"
+  },
+  {
+    "name": "Matajer Al Saudia",
+    "domain": "matajeralsaudia.com",
+    "verdict": "CONFIRM",
+    "note": "Real multi-branch Saudi grocery chain with weekly promotions and a live online store. Grocery/hypermarket is the highest repeat-purchase approved category; all gates clear.",
+    "_batch_file": "rollout/crossverify_results/batch_09.json"
+  },
+  {
+    "name": "Match | ماتش",
+    "domain": "matchperfumes.com",
+    "verdict": "CONFIRM",
+    "note": "Real Saudi perfume e-commerce with a full category range (women's/men's/unisex/musk/niche/gift sets/home fresheners) and genuine customer reviews. Approved repeat-purchase beauty category; no red flags.",
+    "_batch_file": "rollout/crossverify_results/batch_09.json"
+  },
+  {
+    "name": "Mehbaj",
+    "domain": "mehbaj.com",
+    "verdict": "CONFIRM",
+    "note": "Genuine specialty-food e-commerce (dried fruits/coffee/nuts/spices/seeds/pulses) with a loyalty program and physical branches. Falls under approved grocery/specialty-food with solid repeat purchase.",
+    "_batch_file": "rollout/crossverify_results/batch_09.json"
+  },
+  {
+    "name": "METRO BRAZIL",
+    "domain": "metrobrazil.com",
+    "verdict": "DOWNGRADE_NO",
+    "note": "Gate 1 hard-fail: METRO BRAZIL's global HQ is São Paulo, Brazil, with its regional HQ in Dubai CommerCity (UAE). Neither is Saudi Arabia, so the account (tagged Saudi) fails the in-country HQ requirement.",
+    "_batch_file": "rollout/crossverify_results/batch_09.json"
+  },
+  {
+    "name": "miraymano",
+    "domain": "miraymano.com",
+    "verdict": "DOWNGRADE_HELD",
+    "note": "Gate 2 marketplace concern: MIRA Y MANO self-describes as a curated multibrand platform for 'independent, ethical fashion designers' that functions as a marketplace of third-party designers rather than clearly holding first-party inventory. Marketplace/aggregator models are a general exclusion and first-party status cannot be confirmed.",
+    "_batch_file": "rollout/crossverify_results/batch_09.json"
+  },
+  {
+    "name": "mlwsocks",
+    "domain": "mlwsocks.com",
+    "verdict": "CONFIRM",
+    "note": "Despite the socks-brand name, independently confirmed as a broad Riyadh-based general-merchandise/lifestyle-gifting retailer (socks, homewear, pajamas, blankets, bags, towels, treats/candy, gifts, stationery; 20+ categories). Not narrow; Gate 3 breadth satisfied.",
+    "_batch_file": "rollout/crossverify_results/batch_09.json"
+  },
+  {
+    "name": "Modern Electronics - MEC (AL-Faisaliah Group)",
+    "domain": "mestores.com",
+    "verdict": "CONFIRM",
+    "note": "Broad multi-category consumer-electronics and general-merchandise retailer (Al-Faisaliah Group's Saudi retail arm) with a large live transactional catalog well above the SKU floor. Approved electronics category; all gates clear.",
+    "_batch_file": "rollout/crossverify_results/batch_09.json"
+  },
+  {
+    "name": "Mohammed Alkhuraiji Industrial Company",
+    "domain": "alkhuraiji.com",
+    "verdict": "DOWNGRADE_NO",
+    "note": "Gate 2 hard-fail: independently confirmed as 'Alkhuraiji Factory for Perfumes and Cosmetics,' a manufacturer/factory (est. 1982, Second Industrial City) that also offers private-label B2B production for other brands. Manufacturing plus B2B supply are excluded regardless of the D2C Salla storefront; the prior reversal to 'retail' overlooked the manufacturing hard-exclude.",
+    "_batch_file": "rollout/crossverify_results/batch_09.json"
+  },
+  {
+    "name": "Mohammed Siraj Attar & Bros",
+    "domain": "sirajattarbros.com",
+    "verdict": "CONFIRM",
+    "note": "Curl confirmed a live, substantial Salla D2C store (104 add-to-cart instances, SAR pricing) for a Jeddah men's-fabric/ghutra/shemagh retailer. Fabric/textile retail for garment-making is an explicit Gate 3 pass; the 'textile manufacturing' label reflects vertical integration behind a genuine consumer storefront, like Lomar.",
+    "_batch_file": "rollout/crossverify_results/batch_09.json"
+  },
+  {
+    "name": "mohjewelry",
+    "domain": "mohjewelry.com",
+    "verdict": "CONFIRM",
+    "note": "Live Saudi jewelry store (necklaces/bracelets/rings/earrings/bridal), EN/AR, lifetime guarantee, free shipping over 600. Jewelry is broad enough to pass Gate 3; all gates clear.",
+    "_batch_file": "rollout/crossverify_results/batch_09.json"
+  },
+  {
+    "name": "monaalshebil",
+    "domain": "monaalshebil.com",
+    "verdict": "CONFIRM",
+    "note": "Curl confirmed a robust live Shopify store with active SAR currency and a large catalog (1,600+ SAR price instances) for a Saudi women's-fashion designer (blazers/dresses/abayas/suits) with return policy and stockist network. Approved fashion category, real scale.",
+    "_batch_file": "rollout/crossverify_results/batch_09.json"
+  },
+  {
+    "name": "Motory",
+    "domain": "motory.com",
+    "verdict": "CONFIRM",
+    "note": "Automotive is normally a Gate 2 hard-fail, but Gate 5b app-rescue applies: Motory's cars-marketplace app is a leading Saudi auto app with 100K+ installs (corroborated on Aptoide), above the 50k threshold, and HQ is confirmed Jeddah. Qualifies via the app-download path.",
+    "_batch_file": "rollout/crossverify_results/batch_09.json"
+  },
+  {
+    "name": "Munch Bakery منش بيكري",
+    "domain": "munchbakery.com",
+    "verdict": "CONFIRM",
+    "note": "The marketing homepage has no cart, but the brand runs a genuine POS-integrated ordering platform (order.munchbakery.com on Taker.io) with real payments, 15% VAT and loyalty, plus a multi-city Saudi branch network and delivery-app presence. F&B/bakery is high-frequency; Gate 4 satisfied via the live ordering platform.",
+    "_batch_file": "rollout/crossverify_results/batch_09.json"
+  },
+  {
+    "name": "My Little Home | بيتي الصغير",
+    "domain": "mylittlehome.com.sa",
+    "verdict": "CONFIRM",
+    "note": "Live WooCommerce store selling home textiles and decor (bedding, bath, cushions) with a confirmed Saudi address in structured data and a genuine deep catalog (100+ SKUs). Approved home category; all gates clear.",
+    "_batch_file": "rollout/crossverify_results/batch_09.json"
+  },
+  {
+    "name": "Nahda Modern Company LLC",
+    "domain": "nahda.group",
+    "verdict": "DOWNGRADE_HELD",
+    "note": "Gate 4 digital channel: nahda.group root and /store return only an empty splash/SPA shell (no cart, product or SAR signals) on independent curl, matching the prior 'Click here to enter' gate. The 20+ branch Jeddah hypermarket is clearly real (grocery, approved), but a live transactional online store cannot be confirmed and the pass leans on inference.",
+    "_batch_file": "rollout/crossverify_results/batch_09.json"
+  },
+  {
+    "name": "Nana",
+    "domain": "nana.sa",
+    "verdict": "CONFIRM",
+    "note": "Vertically-integrated Saudi quick-commerce grocery retailer operating its own dark stores (up to 2,000 SKUs each, 22,000+ products, 30+ Riyadh dark stores) with a live cart. Grocery is high-frequency; scale confirmed via both substantiality and app downloads.",
+    "_batch_file": "rollout/crossverify_results/batch_09.json"
+  },
+  {
+    "name": "NAQI نقي",
+    "domain": "naqi.sa",
+    "verdict": "DOWNGRADE_NO",
+    "note": "Gate 2 hard-fail: naqi.sa is Naqi Water Company, engaged in production/bottling of purified water plus wholesale of bottled water, soft drinks and juices. That is manufacturing plus B2B wholesale (and a narrow single beverage line under Gate 3), all excluded; the 'strong retail signal' tag was a keyword false positive.",
+    "_batch_file": "rollout/crossverify_results/batch_09.json"
+  },
+  {
+    "name": "Naseem",
+    "domain": "naseemsa.com",
+    "verdict": "DOWNGRADE_HELD",
+    "note": "Gate 1 geography: Naseem is a 'Middle East' regional flowers/cakes/gifts operator whose only listed contact is a Dubai (+971 4) landline, with both UAE and KSA in the footer, on a .sa storefront. An in-country Saudi HQ cannot be established; this matches the excluded foreign-HQ-with-.sa-storefront pattern (Ferns N Petals/desertcart).",
+    "_batch_file": "rollout/crossverify_results/batch_09.json"
+  },
+  {
+    "name": "Natural Touch ناتشورال تاتش",
+    "domain": "ntshop.sa",
+    "verdict": "CONFIRM",
+    "note": "Live Saudi beauty store with a broad assortment (skincare/haircare/body/makeup/perfume/home/massage) and active promotions. Approved repeat-purchase beauty category; no red flags.",
+    "_batch_file": "rollout/crossverify_results/batch_09.json"
+  },
+  {
+    "name": "neyam",
+    "domain": "neyam.sa",
+    "verdict": "DOWNGRADE_NO",
+    "note": "Gate 3 hard-fail: Neyam is a sleep/segmented-foam mattress brand ('redefining comfort through segmented foam'). Mattresses are an explicit confirmed narrow/low-repeat fail regardless of e-commerce quality; the generic 'retail signal' tag missed the actual product line.",
+    "_batch_file": "rollout/crossverify_results/batch_09.json"
+  },
+  {
+    "name": "nice",
+    "domain": "nice.com.sa",
+    "verdict": "CONFIRM",
+    "note": "Real Saudi home-goods e-commerce (decor/furniture/kitchen/tableware/bath/bedding) with store finder and KSA-wide shipping. Broad approved home category; all gates clear.",
+    "_batch_file": "rollout/crossverify_results/batch_09.json"
+  },
+  {
+    "name": "NICE ONE",
+    "domain": "niceonesa.com",
+    "verdict": "CONFIRM",
+    "note": "Large, well-known Saudi beauty e-commerce platform with an extremely broad catalog (makeup/perfume/health/devices/nails/gifts). Approved high-repeat beauty category, clear scale; all gates pass.",
+    "_batch_file": "rollout/crossverify_results/batch_09.json"
+  },
+  {
+    "name": "Ninja ?? نينجا",
+    "domain": "ananinja.com",
+    "verdict": "CONFIRM",
+    "note": "Riyadh-HQ'd (2022) quick-commerce retailer running its own dark-store first-party inventory across a broad grocery/convenience assortment, confirmed as a $1.5B-valuation Saudi unicorn. Grocery is approved and high-frequency; it is a direct retailer, not a third-party aggregator marketplace.",
+    "_batch_file": "rollout/crossverify_results/batch_09.json"
+  },
+  {
+    "name": "Noha Nabil",
+    "domain": "nohanabil.sa",
+    "verdict": "DOWNGRADE_HELD",
+    "note": "Live Saudi Shopify storefront (Shopify country=SA, SAR primary), but Gate 1 in-country HQ is not substantiated: founder is Kuwaiti, the brand runs parallel AED/SAR Gulf storefronts and stores (Dubai/Riyadh/Jeddah), and no Saudi corporate registration/HQ is evidenced. Store-country config only reflects the Saudi market storefront, not the operating entity's global HQ (ambiguous between in-scope Kuwait and out-of-scope UAE).",
+    "_batch_file": "rollout/crossverify_results/batch_10.json"
+  },
+  {
+    "name": "nukhbatech",
+    "domain": "nukhbatech.sa",
+    "verdict": "DOWNGRADE_HELD",
+    "note": "Real Riyadh tech store, but Gate 2 hybrid-B2B is unresolved: catalog leans on business-oriented lines (access-control, attendance devices, gate/barrier systems) alongside consumer items, and the site now returns 403 with search budget exhausted, so pure-B2C status and the inferred (never actually counted) 50-SKU scale can't be confirmed either way.",
+    "_batch_file": "rollout/crossverify_results/batch_10.json"
+  },
+  {
+    "name": "O100",
+    "domain": "o-100.com",
+    "verdict": "CONFIRM",
+    "note": "Independently verified: genuine Riyadh niche-perfume/beauty retailer (est. 2014) with physical showrooms and a live online store; approved consumable category, Saudi HQ. The original keyword-only reason holds up.",
+    "_batch_file": "rollout/crossverify_results/batch_10.json"
+  },
+  {
+    "name": "oceanpharmacy",
+    "domain": "oceanpharmacy.sa",
+    "verdict": "CONFIRM",
+    "note": "Verified live (HTTP 200) with heavy pharmacy/skin/baby/care breadth, SAR pricing and a payment/checkout flow, and 300+ السعودية references. Pharmacy is explicitly approved; Saudi geography confirmed.",
+    "_batch_file": "rollout/crossverify_results/batch_10.json"
+  },
+  {
+    "name": "Oud Elite",
+    "domain": "oudelite.com",
+    "verdict": "CONFIRM",
+    "note": "About page confirms establishment in Riyadh, Saudi Arabia (2007) with 340+ Gulf branches and live perfume/oud e-commerce (approved consumable, repeat). Independent check confirms it is NOT related to Arabian Oud, so no duplicate concern.",
+    "_batch_file": "rollout/crossverify_results/batch_10.json"
+  },
+  {
+    "name": "Panda Retail Company - Savola Group",
+    "domain": "panda.com.sa",
+    "verdict": "CONFIRM",
+    "note": "One of Saudi Arabia's largest hypermarket chains (Savola Group); grocery approved with overwhelming scale. The site's Vercel bot-detection is anti-scraping, not a dead-business signal.",
+    "_batch_file": "rollout/crossverify_results/batch_10.json"
+  },
+  {
+    "name": "Pharmaciaty",
+    "domain": "pharmaciaty.com",
+    "verdict": "CONFIRM",
+    "note": "Substantial Saudi online pharmacy (Tamer Group, Jeddah), 12,000+ products. Pharmacy explicitly approved; strong scale and clear Saudi geography.",
+    "_batch_file": "rollout/crossverify_results/batch_10.json"
+  },
+  {
+    "name": "Platinum Appliances",
+    "domain": "platinumcorp.co",
+    "verdict": "CONFIRM",
+    "note": "Verified live Saudi e-commerce store (Shop Now/cart, kingdom-wide delivery), broad home-appliance range, retailer not manufacturer, no B2B language. Approved appliances category; the weak keyword-only reason holds up.",
+    "_batch_file": "rollout/crossverify_results/batch_10.json"
+  },
+  {
+    "name": "Point Plus",
+    "domain": "pointplusksa.com",
+    "verdict": "CONFIRM",
+    "note": "Verified live Salla store (Saudi platform, SAR, checkout); games/toys retailer with Riyadh/Dammam delivery. Toys approved and multi-item, Saudi geography confirmed.",
+    "_batch_file": "rollout/crossverify_results/batch_10.json"
+  },
+  {
+    "name": "POWR",
+    "domain": "powr.sa",
+    "verdict": "DOWNGRADE_NO",
+    "note": "Gate 2 category failure: powr.sa is a Saudi esports/content-creation organization whose 'store' is single-brand fan merchandise (team T-shirts/hoodies/perfume), not a retail/eCommerce business. The ICP rulebook itself cites POWR as a prior NAICS misclassification; keeping it on a deferred 'not re-litigated' basis was not warranted.",
+    "_batch_file": "rollout/crossverify_results/batch_10.json"
+  },
+  {
+    "name": "Qaf Coffee Roasters",
+    "domain": "qafcoffee.com",
+    "verdict": "CONFIRM",
+    "note": "Verified live Salla store (Saudi, SAR, checkout); specialty coffee roaster/retailer. F&B/coffee is an approved, high-repeat consumable category.",
+    "_batch_file": "rollout/crossverify_results/batch_10.json"
+  },
+  {
+    "name": "Rasees Perfumes",
+    "domain": "rasees.net",
+    "verdict": "CONFIRM",
+    "note": "Verified live Salla store (Saudi platform, SAR, checkout); broad perfume e-commerce. Approved consumable/repeat category, Saudi operations.",
+    "_batch_file": "rollout/crossverify_results/batch_10.json"
+  },
+  {
+    "name": "rasseed",
+    "domain": "rasseed.com",
+    "verdict": "CONFIRM",
+    "note": "Qualifies via the Gate 5b app-download rescue path; the ICP rulebook explicitly lists Rasseed as a confirmed 50k+/100k+ download case that qualifies outright.",
+    "_batch_file": "rollout/crossverify_results/batch_10.json"
+  },
+  {
+    "name": "Rawan Stationery",
+    "domain": "rawanstationery.com",
+    "verdict": "CONFIRM",
+    "note": "Verified live Salla store (Saudi, SAR, checkout); stationery/gifts (approved books/stationery), Jeddah/Riyadh delivery, consumable/repeat category.",
+    "_batch_file": "rollout/crossverify_results/batch_10.json"
+  },
+  {
+    "name": "Razan Alazzouni",
+    "domain": "razanalazzouni.com",
+    "verdict": "CONFIRM",
+    "note": "Well-known Riyadh-based Saudi luxury designer; live Shopify store with a broad multi-category catalog (dresses/tops/skirts/jackets/accessories/shoes). Fashion/luxury approved, seasonal and multi-item.",
+    "_batch_file": "rollout/crossverify_results/batch_10.json"
+  },
+  {
+    "name": "rebound",
+    "domain": "rebound.net",
+    "verdict": "DOWNGRADE_HELD",
+    "note": "Gate 4 not confirmed: rebound.net currently returns Shopify HTTP 402 'Store unavailable' (a closed/frozen store), contradicting the prior 'live activewear retailer' claim, and it has a documented history of dead-Shopify findings. The rulebook's mandated dead-site domain-move search could not be run (search budget exhausted), so a live channel can't be confirmed either way.",
+    "_batch_file": "rollout/crossverify_results/batch_10.json"
+  },
+  {
+    "name": "reefperfumes",
+    "domain": "reefperfumes.com",
+    "verdict": "CONFIRM",
+    "note": "Verified live Salla store (Saudi, SAR, free shipping over 222 SAR, 3-hour delivery); broad perfume + beauty range. Approved consumable category, Saudi operations.",
+    "_batch_file": "rollout/crossverify_results/batch_10.json"
+  },
+  {
+    "name": "Richy Group",
+    "domain": "richy.sa",
+    "verdict": "CONFIRM",
+    "note": "Riyadh-HQ'd homegrown Saudi retail brand (founded 1952), consumer textiles/fabrics and apparel. Fabric/textile retail for garment-making is explicitly approved under Gate 3; geography and scale confirmed.",
+    "_batch_file": "rollout/crossverify_results/batch_10.json"
+  },
+  {
+    "name": "RIS Group",
+    "domain": "ris.co",
+    "verdict": "DOWNGRADE_NO",
+    "note": "Gate 2 hybrid-B2B failure: Jeddah-HQ'd 'furnishing solution group' mixes consumer furniture retail (RIS Living) with B2B office/hospitality project furnishing (for corporates, banks, schools) and an interior-design consultancy (RIS Interiors), with a dedicated B2B Projects page on the same site. The B2B/fit-out side disqualifies at the group level even with a genuine B2C arm.",
+    "_batch_file": "rollout/crossverify_results/batch_10.json"
+  },
+  {
+    "name": "roastinghouse",
+    "domain": "roastinghouse.sa",
+    "verdict": "CONFIRM",
+    "note": "Verified live and substantial: Riyadh-HQ'd coffee retailer (CR 1010363756), hundreds of SKUs across beans/equipment/accessories, SAR pricing, working checkout, branches in Jeddah/Khamis. Resolves the original 'thin visible text' hedge; F&B approved.",
+    "_batch_file": "rollout/crossverify_results/batch_10.json"
+  },
+  {
+    "name": "rootsfurniture",
+    "domain": "rootsfurniture.sa",
+    "verdict": "CONFIRM",
+    "note": "Al Rugaib-backed furniture/home-decor retailer, Al Khobar/Dhahran HQ; broad multi-category catalog with live cart and 50+ SKUs. Furniture/home approved, Saudi HQ established.",
+    "_batch_file": "rollout/crossverify_results/batch_10.json"
+  },
+  {
+    "name": "rubaiyat",
+    "domain": "rubaiyat.com",
+    "verdict": "CONFIRM",
+    "note": "Confirmed live Saudi luxury fashion e-commerce (cart/checkout, free-shipping threshold), broad catalog (clothing/shoes/bags/jewelry), self-identified Saudi destination with Jeddah/Riyadh same-day delivery. Fashion approved.",
+    "_batch_file": "rollout/crossverify_results/batch_10.json"
+  },
+  {
+    "name": "Saadeddinpastry",
+    "domain": "saadeddin.com",
+    "verdict": "CONFIRM",
+    "note": "Major 145-branch Saudi bakery/sweets chain (F&B approved, high-repeat). Owned checkout is evidenced by an Apple Pay JS SDK plus GA/GTM and corroborated by live aggregator ordering; the owned cart is inferred (JS SPA) but the business and its online transacting are clearly real and Saudi.",
+    "_batch_file": "rollout/crossverify_results/batch_10.json"
+  },
+  {
+    "name": "saco",
+    "domain": "saco.sa",
+    "verdict": "CONFIRM",
+    "note": "Major Saudi consumer home-improvement/general-merchandise retailer (since 1985, 32 branches, 50,000+ products, live cart, iOS/Android apps). Consumer DIY/home retail (not a construction-materials or B2B contracting supplier); overwhelming scale.",
+    "_batch_file": "rollout/crossverify_results/batch_10.json"
+  },
+  {
+    "name": "Saudi Jawahir",
+    "domain": "jawahir.sa",
+    "verdict": "DOWNGRADE_HELD",
+    "note": "Real Riyadh luxury retailer, but Gate 4 live channel is not confirmed: jawahir.sa returns a persistent Cloudflare error 1000 'DNS points to prohibited IP' (refuting the prior pass's 'transient DNS error' assumption), a live cart/checkout was never actually confirmed (the prior resolution only established the business exists), and the dead-site domain-move search couldn't be run (search budget exhausted).",
+    "_batch_file": "rollout/crossverify_results/batch_10.json"
+  },
+  {
+    "name": "SAUDI KITCHEN LINE",
+    "domain": "kitchenline.com",
+    "verdict": "CONFIRM",
+    "note": "Verified live ('Kitchen Line International') with add-to-cart and showroom presence across Jeddah/Riyadh/Makkah/Khamis Mushait. Home/kitchenware (general merchandise) approved; Saudi geography confirmed by the four-city footprint.",
+    "_batch_file": "rollout/crossverify_results/batch_10.json"
+  },
+  {
+    "name": "saudi-house",
+    "domain": "saudi-house.com",
+    "verdict": "DOWNGRADE_NO",
+    "note": "Gate 4 failure: the own site is a brochure/catalog with no native cart or checkout and redirects purchases to Noon.com and beitcom.com (third-party marketplaces). Despite being a genuine 1975 Riyadh department store, it has no owned transactional channel or app.",
+    "_batch_file": "rollout/crossverify_results/batch_10.json"
+  },
+  {
+    "name": "saudiradwa",
+    "domain": "saudiradwa.com",
+    "verdict": "DOWNGRADE_NO",
+    "note": "Gate 2 failure: Radwa is a poultry PRODUCER/factory (listed under 'Made in Saudi factories') whose model explicitly serves 'both retail consumers and food service customers' (hybrid B2B/food-service). Manufacturing plus the B2B side disqualify regardless of the D2C grocery arm.",
+    "_batch_file": "rollout/crossverify_results/batch_10.json"
+  },
+  {
+    "name": "SAVECO Online Hypermarket",
+    "domain": "",
+    "verdict": "DOWNGRADE_NO",
+    "note": "The qualifying premise is factually false: SAVECO is a Kuwait-based hypermarket (Al-Qatami Group, est. 2013), NOT 'Savola Group's online hypermarket arm' (a Saveco/Savola conflation; Panda is Savola's actual chain). No domain on file and no confirmed live e-commerce, so Gate 7 defaults OUT.",
+    "_batch_file": "rollout/crossverify_results/batch_10.json"
+  },
+  {
+    "name": "Scent",
+    "domain": "arabianoud.com",
+    "verdict": "CONFIRM",
+    "note": "Arabian Oud: Riyadh-HQ'd (1982) luxury perfume/oud house with 1,200+ stores and live e-commerce. Consumer perfume retail (approved consumable/repeat); scale exceptionally well established.",
+    "_batch_file": "rollout/crossverify_results/batch_10.json"
+  },
+  {
+    "name": "Scrub N",
+    "domain": "scrub-n.com",
+    "verdict": "CONFIRM",
+    "note": "Independently verified as a substantial apparel retailer (not a healthcare provider): medical scrubs/lab coats/uniforms, ~10,600 SKUs across 24 brands, 10 Saudi/Bahrain stores plus a live online store, Riyadh-based. Apparel approved, B2C to individual professionals; the weak keyword-only reason actually holds up strongly on scale.",
+    "_batch_file": "rollout/crossverify_results/batch_10.json"
+  },
+  {
+    "name": "Season | سيزون",
+    "domain": "season.sa",
+    "verdict": "CONFIRM",
+    "note": "Major Saudi fashion/accessories/perfume chain (~150 branches) with live e-commerce and real category pages. Fashion approved; Saudi geography and scale established.",
+    "_batch_file": "rollout/crossverify_results/batch_10.json"
+  },
+  {
+    "name": "Sedra Jewellery",
+    "domain": "sedrajewellery.com",
+    "verdict": "CONFIRM",
+    "note": "Broad fine-jewelry catalog (chains, bracelets, earrings, rings, anklets) on Saudi Zid platform passes Gate 3; 403 to my fetch is a block, not a dead site, and the specific reason is credible.",
+    "_batch_file": "rollout/crossverify_results/batch_11.json"
+  },
+  {
+    "name": "selene-official",
+    "domain": "selene-official.com",
+    "verdict": "CONFIRM",
+    "note": "Multi-category men's/women's fashion (approved Gate 2, multi-item passes Gate 3) with a return/exchange policy indicating a live transactional store.",
+    "_batch_file": "rollout/crossverify_results/batch_11.json"
+  },
+  {
+    "name": "serajah",
+    "domain": "serajah.com",
+    "verdict": "DOWNGRADE_NO",
+    "note": "Gate 4 fail: the domain now 301-redirects to expireddomains.com (parked/expired), no live store findable anywhere; it was a narrow camel-leather goods shop (Gate 3 concern) tagged on keyword-only signal.",
+    "_batch_file": "rollout/crossverify_results/batch_11.json"
+  },
+  {
+    "name": "Shafy",
+    "domain": "shafy.com.sa",
+    "verdict": "CONFIRM",
+    "note": "Health/supplement retail is an approved health-retail category and supplements are consumable/recurring, so Gate 3 low-repeat does not apply.",
+    "_batch_file": "rollout/crossverify_results/batch_11.json"
+  },
+  {
+    "name": "shareefcorner",
+    "domain": "shareefcorner.sa",
+    "verdict": "CONFIRM",
+    "note": "Verified via About page: 'exclusive distributor' is brand-agency wording, but the operation is purely B2C (SAR cart/checkout, no wholesale/reseller/bulk); est-1982 Riyadh consumer electronics/accessories retailer.",
+    "_batch_file": "rollout/crossverify_results/batch_11.json"
+  },
+  {
+    "name": "Sheta & Saif",
+    "domain": "swsg.co",
+    "verdict": "CONFIRM",
+    "note": "Leading Saudi electronics/appliance retailer, est. 1982, multiple cities; approved category and confirmed Saudi HQ.",
+    "_batch_file": "rollout/crossverify_results/batch_11.json"
+  },
+  {
+    "name": "Shub Coffee",
+    "domain": "shub.coffee",
+    "verdict": "CONFIRM",
+    "note": "Specialty-coffee and brewing-equipment retailer with 3,229 consumer reviews and real cart; strongly B2C with no wholesale/cafe-supply signal, unlike sulalat.",
+    "_batch_file": "rollout/crossverify_results/batch_11.json"
+  },
+  {
+    "name": "sif-care",
+    "domain": "sif-care.com",
+    "verdict": "CONFIRM",
+    "note": "Broad beauty/personal-care range (perfume, oral care, mother and baby, bundles), approved category, consumable/repeat.",
+    "_batch_file": "rollout/crossverify_results/batch_11.json"
+  },
+  {
+    "name": "sondos",
+    "domain": "sondos.com",
+    "verdict": "DOWNGRADE_NO",
+    "note": "Gate 2 fail: brand of Al Faris Industrial Group, a Saudi tissue MANUFACTURER, and sells to the hospitality/hotel sector in bulk (manufacturing plus hybrid B2B). Original tag mistook it for pure consumer e-commerce.",
+    "_batch_file": "rollout/crossverify_results/batch_11.json"
+  },
+  {
+    "name": "sorrah",
+    "domain": "sorrah.sa",
+    "verdict": "CONFIRM",
+    "note": "Spice and specialty-coffee F&B e-commerce, approved category, consumable/high-repeat.",
+    "_batch_file": "rollout/crossverify_results/batch_11.json"
+  },
+  {
+    "name": "Soum",
+    "domain": "soum.sa",
+    "verdict": "CONFIRM",
+    "note": "It is a used-electronics C2C marketplace, so it fails the tagged Gate 2/5a substantiality path, but it qualifies via Gate 5b app-rescue: the Soum app has 1M+ Google Play downloads (well over 50k), matching the Rasseed/ToYou/Abar precedent.",
+    "_batch_file": "rollout/crossverify_results/batch_11.json"
+  },
+  {
+    "name": "sovereign",
+    "domain": "svnksa.com",
+    "verdict": "CONFIRM",
+    "note": "Multi-brand streetwear/sneaker boutique (17+ brands), fashion/footwear approved with real priced cart.",
+    "_batch_file": "rollout/crossverify_results/batch_11.json"
+  },
+  {
+    "name": "SPEEDI | سبيدي",
+    "domain": "speedi.sa",
+    "verdict": "CONFIRM",
+    "note": "Gate 5b app-rescue: ~500k Google Play downloads for the grocery/essentials quick-delivery app, 10x the 50k threshold.",
+    "_batch_file": "rollout/crossverify_results/batch_11.json"
+  },
+  {
+    "name": "SPORT GHORNATAH",
+    "domain": "sportghornatah.com",
+    "verdict": "CONFIRM",
+    "note": "Sportswear/footwear retailer with Saudi BNPL (Tabby/Tamara), app, and multiple in-Kingdom branches; approved category.",
+    "_batch_file": "rollout/crossverify_results/batch_11.json"
+  },
+  {
+    "name": "Srya | سَرِيّا",
+    "domain": "ganache-sa.com",
+    "verdict": "CONFIRM",
+    "note": "Chocolate/cake F&B retail (Ganache) with physical branches; the secondary B2B catering is an event service, not wholesale-to-retailers distribution, so Gate 2 is not tripped.",
+    "_batch_file": "rollout/crossverify_results/batch_11.json"
+  },
+  {
+    "name": "Star Markets Trading Company Ltd.",
+    "domain": "",
+    "verdict": "DOWNGRADE_HELD",
+    "note": "Gate 4 unconfirmable: a genuinely real Saudi grocery chain (6 Jeddah + 6 Yanbu outlets), but no e-commerce domain or live cart could be confirmed across multiple searches, and the reason field itself admits no domain was identified. Real business, digital-channel gate cannot be confirmed either way.",
+    "_batch_file": "rollout/crossverify_results/batch_11.json"
+  },
+  {
+    "name": "Sulaiman Al Bassam Company",
+    "domain": "noon.com/saudi-en/al_bassam (own domain albassamest.com re-verified hijacked, showing 1xBet gambling spam)",
+    "verdict": "CONFIRM",
+    "note": "40+ year Riyadh electronics/appliance retailer; own domain is hijacked but the official Albassam shopping app is confirmed live on both iOS and Google Play plus a Noon storefront, so Gate 4 is met via the app (blocked/hijacked domain is not an automatic fail).",
+    "_batch_file": "rollout/crossverify_results/batch_11.json"
+  },
+  {
+    "name": "sulalat",
+    "domain": "sulalat.com",
+    "verdict": "DOWNGRADE_NO",
+    "note": "Gate 2 fail: self-describes as 'Saudi Arabia's main supplier for specialty coffee shops' with a dedicated wholesale page, serving both cafes (B2B) and consumers. The hybrid B2B/wholesale side disqualifies; original keyword-only tag missed it.",
+    "_batch_file": "rollout/crossverify_results/batch_11.json"
+  },
+  {
+    "name": "surprisesbox",
+    "domain": "surprisesbox.com",
+    "verdict": "CONFIRM",
+    "note": "Broad general-merchandise e-commerce across many approved sub-categories with a real cart/checkout; general merchandise is approved and no exclusion applies.",
+    "_batch_file": "rollout/crossverify_results/batch_11.json"
+  },
+  {
+    "name": "tamakun",
+    "domain": "tamakun.sa",
+    "verdict": "CONFIRM",
+    "note": "Web-confirmed substantial Riyadh multi-brand fashion/fabrics/home retailer with 200+ locations; approved category, JS-rendered site explains the empty curl.",
+    "_batch_file": "rollout/crossverify_results/batch_11.json"
+  },
+  {
+    "name": "Tamimi Group",
+    "domain": "tamimigroup.com.sa",
+    "verdict": "CONFIRM",
+    "note": "Operates Tamimi Markets, a leading Saudi supermarket chain; Cloudflare block does not fail Gate 4 given strong external confirmation of a major grocery retailer.",
+    "_batch_file": "rollout/crossverify_results/batch_11.json"
+  },
+  {
+    "name": "Tamkeen Stores",
+    "domain": "tamkeenstores.com.sa",
+    "verdict": "CONFIRM",
+    "note": "30+ year Saudi appliance/electronics retailer with a broad catalog, own online store, app, and 14+ showrooms; approved category and confirmed Saudi HQ. Fuzzy Zoho name-match is worth double-checking on write, but the account itself qualifies.",
+    "_batch_file": "rollout/crossverify_results/batch_11.json"
+  },
+  {
+    "name": "Tanatel",
+    "domain": "tanatel.com.sa",
+    "verdict": "CONFIRM",
+    "note": "Broad furniture e-commerce (bedroom/living/dining sets plus decor) with real cart; furniture is approved and the catalog is broad, not a narrow single line.",
+    "_batch_file": "rollout/crossverify_results/batch_11.json"
+  },
+  {
+    "name": "tasooma",
+    "domain": "tasooma.com",
+    "verdict": "CONFIRM",
+    "note": "Men's footwear/accessories e-commerce; footwear is explicitly approved on its own under Gate 3.",
+    "_batch_file": "rollout/crossverify_results/batch_11.json"
+  },
+  {
+    "name": "TGC",
+    "domain": "tgc-ksa.com",
+    "verdict": "CONFIRM",
+    "note": "Web-confirmed live lifestyle/beauty retailer (Rawash, Aleena brands plus womenswear); beauty/fashion approved.",
+    "_batch_file": "rollout/crossverify_results/batch_11.json"
+  },
+  {
+    "name": "The Factory Furniture",
+    "domain": "thefactoryfurniture.com",
+    "verdict": "CONFIRM",
+    "note": "Verified via site: Riyadh direct-to-consumer furniture e-commerce (sofas/chairs/tables/rugs) with SAR checkout; a consumer retailer despite the 'Factory' name, not a B2B manufacturer.",
+    "_batch_file": "rollout/crossverify_results/batch_11.json"
+  },
+  {
+    "name": "torbastudio",
+    "domain": "torbastudio.com",
+    "verdict": "CONFIRM",
+    "note": "Broad men's and women's ready-to-wear fashion including abaya, multiple seasonal collections; approved, multi-item.",
+    "_batch_file": "rollout/crossverify_results/batch_11.json"
+  },
+  {
+    "name": "Toyland",
+    "domain": "toyland.world",
+    "verdict": "CONFIRM",
+    "note": "Confirmed homegrown Saudi toy retailer since 1985 (toys is an approved general-merchandise category) with own site plus app and Noon presence.",
+    "_batch_file": "rollout/crossverify_results/batch_11.json"
+  },
+  {
+    "name": "ToYouKSA",
+    "domain": "toyou.io",
+    "verdict": "CONFIRM",
+    "note": "ToYou is explicitly one of the pre-confirmed Gate 5b app-rescue cases named in the rulebook (Rasseed/ToYou/Abar); leading Saudi super-app.",
+    "_batch_file": "rollout/crossverify_results/batch_11.json"
+  },
+  {
+    "name": "Toys_Lab",
+    "domain": "toys-lab.com",
+    "verdict": "CONFIRM",
+    "note": "Confirmed real Jeddah, Saudi toy retailer; toys are approved and the keyword retail signal indicates a live store with ample SKUs.",
+    "_batch_file": "rollout/crossverify_results/batch_11.json"
+  },
+  {
+    "name": "Two",
+    "domain": "reefi.me",
+    "verdict": "CONFIRM",
+    "note": "Domain reefi.me is a real Saudi retailer (Reefi: towels/robes plus fashion, cosmetics, perfumes) with physical stores in Dammam/Madinah/Jazan and Noon/Amazon presence; broad-enough catalog across approved categories. The account name 'Two' is a data mismatch but the domain is the qualifying entity.",
+    "_batch_file": "rollout/crossverify_results/batch_11.json"
+  },
+  {
+    "name": "twomark",
+    "domain": "twomark.com",
+    "verdict": "CONFIRM",
+    "note": "Broad beauty/perfume retailer (perfumes, hair, body care, gift sets) with SAR pricing and free-shipping threshold; approved, consumable/repeat.",
+    "_batch_file": "rollout/crossverify_results/batch_11.json"
+  },
+  {
+    "name": "United Pharmaceuticals Company",
+    "domain": "unitedpharmacy.sa",
+    "verdict": "CONFIRM",
+    "note": "Independently verified as United Pharmacy, a ~248-branch retail pharmacy chain HQ'd in Jeddah, KSA (distinct from the pharma distributor Unipharma). Approved pharmacy category with live e-commerce and app; all gates clear.",
+    "_batch_file": "rollout/crossverify_results/batch_12.json"
+  },
+  {
+    "name": "UNIVERSAL COLD STORE TRADING COMPANY LIMITED",
+    "domain": "universalcsc.com",
+    "verdict": "DOWNGRADE_NO",
+    "note": "Gate 4 and Gate 2 fail. universalcsc.com 302-redirects to primemarkets.com.sa, the rulebook's own confirmed-hijacked domain, and no live store or app is findable; independent sources describe it as a 'manufacturer, supplier & retailer' with dairy/meat factories and 140+ suppliers, a hard-excluded B2B/manufacturing hybrid.",
+    "_batch_file": "rollout/crossverify_results/batch_12.json"
+  },
+  {
+    "name": "voolaaa",
+    "domain": "voolaaa.com",
+    "verdict": "CONFIRM",
+    "note": "Saudi multi-line sleepwear/abaya/robe/bedding textile brand; approved fashion category with moderate repeat, not a single narrow durable line. Clears all gates.",
+    "_batch_file": "rollout/crossverify_results/batch_12.json"
+  },
+  {
+    "name": "Wadi Halfa",
+    "domain": "wadihalfa.sa",
+    "verdict": "CONFIRM",
+    "note": "Verified live Saudi (.sa) store selling incense charcoal, burners, oud/bakhoor and accessories across multiple categories; consumable high-repeat incense category (approved). Clears all gates.",
+    "_batch_file": "rollout/crossverify_results/batch_12.json"
+  },
+  {
+    "name": "weftrug",
+    "domain": "weftrug.com",
+    "verdict": "DOWNGRADE_NO",
+    "note": "Gate 3 fail. Independent check shows 'متجر سجاد ويفت' is a rugs/carpet-only retailer (plus carpet installation); 'flooring/carpet only' is an explicit confirmed narrow-category, low-repeat fail. Original reason was keyword-only with no semantic read.",
+    "_batch_file": "rollout/crossverify_results/batch_12.json"
+  },
+  {
+    "name": "WHITES",
+    "domain": "whites.net",
+    "verdict": "CONFIRM",
+    "note": "Riyadh-HQ'd beauty/skincare/personal-care retailer with 100+ stores and confirmed live cart across consumable categories. Clears all gates.",
+    "_batch_file": "rollout/crossverify_results/batch_12.json"
+  },
+  {
+    "name": "Wooden Coffee",
+    "domain": "wooden.sa",
+    "verdict": "CONFIRM",
+    "note": "Saudi coffee/F&B retailer with 50+ branches and confirmed live cart with SAR pricing; high-repeat consumable. Clears all gates.",
+    "_batch_file": "rollout/crossverify_results/batch_12.json"
+  },
+  {
+    "name": "zadfresh",
+    "domain": "zadfresh.com",
+    "verdict": "CONFIRM",
+    "note": "Website itself is a dead nginx default page (original 'live site' reason refuted), but it qualifies via the app path: a real Riyadh online-grocery delivery platform (30+ stores, 22+ KSA cities, 21,000+ products) with a consumer app carrying ~11k reviews, comfortably clearing the 50k+ app-download rescue (Gate 5b).",
+    "_batch_file": "rollout/crossverify_results/batch_12.json"
+  },
+  {
+    "name": "Zagzoog for home Appliances",
+    "domain": "zagzoog.com",
+    "verdict": "CONFIRM",
+    "note": "Saudi home-appliance retailer (est. 1959) with confirmed live consumer cart, SAR pricing, broad appliance catalog and branches; approved broad category. Clears all gates.",
+    "_batch_file": "rollout/crossverify_results/batch_12.json"
+  },
+  {
+    "name": "zakiopticals",
+    "domain": "zakiopticals.com.sa",
+    "verdict": "CONFIRM",
+    "note": "Optical/eyewear e-commerce with contact-lens offers (a repeat consumable); opticians are explicitly approved. Clears all gates.",
+    "_batch_file": "rollout/crossverify_results/batch_12.json"
+  },
+  {
+    "name": "zarafa | زرافة",
+    "domain": "zarafaksa.com",
+    "verdict": "CONFIRM",
+    "note": "Broad pet-supplies e-commerce (food, treats, litter, vet food); pet supplies explicitly approved and repeat-purchase. Clears all gates.",
+    "_batch_file": "rollout/crossverify_results/batch_12.json"
+  },
+  {
+    "name": "Zohoor Al Reef",
+    "domain": "zohooralreef.com",
+    "verdict": "CONFIRM",
+    "note": "Geography verified: perfume/beauty retailer HQ'd in Al Khobar, KSA (not UAE), founded 1991. Consumable repeat category. Clears all gates.",
+    "_batch_file": "rollout/crossverify_results/batch_12.json"
+  },
+  {
+    "name": "إبراق | IBRAQ",
+    "domain": "ibraqperfumes.com",
+    "verdict": "CONFIRM",
+    "note": "Saudi perfume/fragrance retailer (Ibrahim Al Qurashi legacy) on Salla with reviews, tax registration and physical stores; consumable repeat category. Clears all gates.",
+    "_batch_file": "rollout/crossverify_results/batch_12.json"
+  },
+  {
+    "name": "البدر للبصريات | AlBadr Optical",
+    "domain": "albadr-optical.com",
+    "verdict": "CONFIRM",
+    "note": "Jeddah optical chain (est. 1990) with live cart and prescription/sunglasses/contact-lens range (contacts repeat); opticians approved. Clears all gates.",
+    "_batch_file": "rollout/crossverify_results/batch_12.json"
+  },
+  {
+    "name": "برفيوم بالاس | perfume palace",
+    "domain": "perfumes-palace.com",
+    "verdict": "CONFIRM",
+    "note": "Verified Riyadh, KSA perfume retailer (est. 2008), physical plus online; consumable repeat category. Clears all gates.",
+    "_batch_file": "rollout/crossverify_results/batch_12.json"
+  },
+  {
+    "name": "بلاك نايت Black Knight",
+    "domain": "b-k.coffee",
+    "verdict": "CONFIRM",
+    "note": "Saudi specialty-coffee retailer on Zid (beans, brewing equipment, accessories); high-repeat F&B consumable. Clears all gates.",
+    "_batch_file": "rollout/crossverify_results/batch_12.json"
+  },
+  {
+    "name": "بيوتي سيكرتس",
+    "domain": "thebeautysecrets.com",
+    "verdict": "CONFIRM",
+    "note": "Geography verified: Al Safa Group's Beauty Secrets is HQ'd in Riyadh, KSA with 400+ shops and 1000+ products; approved beauty/perfume category at large scale. Clears all gates.",
+    "_batch_file": "rollout/crossverify_results/batch_12.json"
+  },
+  {
+    "name": "تجارة بلا حدود -  unlimited trade",
+    "domain": "utrade.sa",
+    "verdict": "DOWNGRADE_HELD",
+    "note": "Gate 4 unconfirmable. Real Riyadh e-commerce retailer of home/beauty/family goods, but utrade.sa does not resolve (DNS ENOTFOUND) and the on-file utradeksa.com is the rulebook's confirmed-hijacked domain; no live transactional storefront can be confirmed on either domain.",
+    "_batch_file": "rollout/crossverify_results/batch_12.json"
+  },
+  {
+    "name": "تركي للذبائح",
+    "domain": "turkieshop.com",
+    "verdict": "CONFIRM",
+    "note": "Saudi online fresh-meat grocery with live cart; meat is a high-frequency F&B staple (approved grocery/F&B). Clears all gates.",
+    "_batch_file": "rollout/crossverify_results/batch_12.json"
+  },
+  {
+    "name": "دار الأميرات | Dar Alamirat",
+    "domain": "daralamirat.com.sa",
+    "verdict": "CONFIRM",
+    "note": "Verified Riyadh, KSA beauty/personal-care online retailer on Salla with a consumer app; broad approved beauty category, repeat-purchase ('marketplace' is puffery on a single-merchant Salla store). Clears all gates.",
+    "_batch_file": "rollout/crossverify_results/batch_12.json"
+  },
+  {
+    "name": "سدر الخليج للعطور( Sedr Alkhaleej Perfumes )",
+    "domain": "sedralkhaleej.com",
+    "verdict": "CONFIRM",
+    "note": "Perfume/oud/bakhoor retailer with live cart; consumable, repeat, approved beauty category. Clears all gates.",
+    "_batch_file": "rollout/crossverify_results/batch_12.json"
+  },
+  {
+    "name": "شركة اثاث للتجزئة",
+    "domain": "zamanifurniture.com",
+    "verdict": "CONFIRM",
+    "note": "Riyadh furniture/home-decor retailer with confirmed live cart, SAR pricing and broad multi-category catalog (not a single narrow line). Clears all gates.",
+    "_batch_file": "rollout/crossverify_results/batch_12.json"
+  },
+  {
+    "name": "شركة اطياب غناتي التجارية",
+    "domain": "ghanaty.com",
+    "verdict": "CONFIRM",
+    "note": "Perfume/incense retailer with broad men's/women's/oud/body/hair range; consumable repeat, approved beauty category. Clears all gates.",
+    "_batch_file": "rollout/crossverify_results/batch_12.json"
+  },
+  {
+    "name": "شركة الجازع الطبية | Al-Jazea Medical Company",
+    "domain": "aljazeaonline.com",
+    "verdict": "CONFIRM",
+    "note": "Saudi retail pharmacy on Zid with confirmed live checkout (Apple Pay, Tamara, Qitaf/Mokafaa) and branch locator; approved pharmacy category. Clears all gates.",
+    "_batch_file": "rollout/crossverify_results/batch_12.json"
+  },
+  {
+    "name": "شركة شموع الماضي",
+    "domain": "pcandles.com",
+    "verdict": "DOWNGRADE_HELD",
+    "note": "Gate 3/Gate 5 doubt. Independent check confirms a specialized maamoul-sweets producer and self-described 'exclusive distributor' for three maamoul brands; the narrow single-line focus, producer/distributor framing, and catalog scale (50+ SKUs) cannot be confirmed. Real store but does not clearly clear every gate.",
+    "_batch_file": "rollout/crossverify_results/batch_12.json"
+  },
+  {
+    "name": "شركة عال الكيف التجارية",
+    "domain": "aalalkaif.com",
+    "verdict": "CONFIRM",
+    "note": "Coffee-roasting/spices/dates/nuts F&B retailer (est. 1957) with live online store and branches; high-repeat consumable F&B (approved). Clears all gates.",
+    "_batch_file": "rollout/crossverify_results/batch_12.json"
+  },
+  {
+    "name": "صيدليات انوفا - Innova Pharmacy",
+    "domain": "innovapharmacy.com",
+    "verdict": "CONFIRM",
+    "note": "Saudi retail pharmacy with live cart and nationwide delivery; approved pharmacy category. Clears all gates.",
+    "_batch_file": "rollout/crossverify_results/batch_12.json"
+  },
+  {
+    "name": "صيدلية الرازي",
+    "domain": "razi.sa",
+    "verdict": "CONFIRM",
+    "note": "Saudi retail pharmacy chain with broad health/personal-care/cosmetics range; approved pharmacy category, repeat. Clears all gates.",
+    "_batch_file": "rollout/crossverify_results/batch_12.json"
+  },
+  {
+    "name": "صيدلية النهدي",
+    "domain": "nahdionline.com",
+    "verdict": "CONFIRM",
+    "note": "Al-Nahdi is Saudi Arabia's largest retail pharmacy chain (Tadawul-listed, hundreds of branches, live e-commerce/app); approved category. Clears all gates.",
+    "_batch_file": "rollout/crossverify_results/batch_12.json"
+  },
+  {
+    "name": "عطور فيصل الدايل | Faisal Aldayel Perfumes",
+    "domain": "faisalaldayel.com",
+    "verdict": "CONFIRM",
+    "note": "Saudi perfume retailer on Zid with live cart, SAR pricing and multiple collections; consumable repeat, approved beauty category. Clears all gates.",
+    "_batch_file": "rollout/crossverify_results/batch_12.json"
+  },
+  {
+    "name": "محزم | محزمك المليان",
+    "domain": "mhzm.sa",
+    "verdict": "CONFIRM",
+    "note": "Verified Saudi electronics/mobile/appliance retailer (live store at store.mhzm.sa selling phones, PC builds and appliances); installment is only the payment method, not a lending-only service. Broad approved electronics category. Clears all gates.",
+    "_batch_file": "rollout/crossverify_results/batch_12.json"
+  },
+  {
+    "name": "مخازن العناية | Makhazen Alenayah",
+    "domain": "makhazenalenaya.sa",
+    "verdict": "CONFIRM",
+    "note": "Saudi beauty/personal-care retail chain (22+ branches, 252+ brands, 745k+ customers); approved category with strong scale and repeat-purchase. Clears all gates.",
+    "_batch_file": "rollout/crossverify_results/batch_12.json"
+  },
+  {
+    "name": "مفارش الحبيب | Alhabib Bedding",
+    "domain": "alhabibshop.com",
+    "verdict": "CONFIRM",
+    "note": "Direct check confirms a live Saudi bedding/home-textiles e-commerce store (Salla, working cart, SAR pricing, free-shipping/returns) with a genuinely broad catalog (14+ categories: seasonal sheets, bridal, kids/newborn, pillows, towels, bathrobes, fabrics). Passes Gate 2 (home) and Gate 3 as multi-line seasonal bedding, not the excluded mattresses-only narrow case.",
+    "_batch_file": "rollout/crossverify_results/batch_13.json"
+  },
+  {
+    "name": "مفارش العييري",
+    "domain": "aloyayri.sa",
+    "verdict": "DOWNGRADE_HELD",
+    "note": "Real live Saudi bedding retailer (Buraydah, Salla store plus iOS/Android apps), but independent checks could not confidently confirm Gate 3 breadth or Gate 5 scale: homepage is JS-rendered (blank category links on two fetches), the product sitemap returned 410 Gone, and multiple sources describe it as mattress/'comfortable sleep'-centric rather than broad soft-bedding. Genuine unresolved ambiguity on the narrow-category/scale gates.",
+    "_batch_file": "rollout/crossverify_results/batch_13.json"
+  },
+  {
+    "name": "مكتبة الجزيرة",
+    "domain": "jazeara.com",
+    "verdict": "DOWNGRADE_HELD",
+    "note": "مكتبة الجزيرة is a genuine Mecca bookstore (books = approved category, Saudi HQ), but Gate 4 cannot be confirmed: apex jazeara.com returns 403 and the storefront every source cites (book.jazeara.com) is dead/ENOTFOUND, so no currently-live transactional cart could be verified. Real business, live digital channel unconfirmable either way.",
+    "_batch_file": "rollout/crossverify_results/batch_13.json"
+  },
+  {
+    "name": "نسمو | Nasmo",
+    "domain": "nasmoltd.com",
+    "verdict": "DOWNGRADE_NO",
+    "note": "Fails Gate 1 and Gate 2: the live nasmoltd.com is a Sudan-based solar/renewable-energy equipment store (panels, inverters, batteries, e-scooters, USD pricing), not a Saudi retailer, and the Saudi 'Nasmo' entity is an F&B manufacturer with cafes/catering/solar (manufacturing + hospitality + mixed conglomerate). The original keyword-only 'retail signal' was a false positive.",
+    "_batch_file": "rollout/crossverify_results/batch_13.json"
+  },
+  {
+    "name": "وكف | wacafe",
+    "domain": "wacafe.sa",
+    "verdict": "DOWNGRADE_NO",
+    "note": "Fails Gate 5 (scale): the product sitemap lists only ~25 SKUs (mostly branded mugs and a few coffee harvests), well below the ~50 floor, and it is primarily a physical-cafe brand (Irqah/AlUla, on HungerStation) with a small attached merch shop, with no 50k+ app to rescue it. The original verdict was keyword-only and missed the scale/service issues.",
+    "_batch_file": "rollout/crossverify_results/batch_13.json"
+  },
+  {
+    "name": "َQasser Alsaraya Furniture",
+    "domain": "qsf.sa",
+    "verdict": "CONFIRM",
+    "note": "Verified as a real transactional furniture e-commerce site (online cart, SAR prices, Tamara installments, discounts, delivery or showroom pickup, live product pages for sofa sets/bedrooms), Saudi-HQ'd since 1978 with branches in Riyadh/Jeddah/Buraydah/Al Khobar. Broad home-furnishings retailer clears Gates 1-5; Gate 4 cart now confirmed rather than a browse-only brochure.",
+    "_batch_file": "rollout/crossverify_results/batch_13.json"
+  }
+]

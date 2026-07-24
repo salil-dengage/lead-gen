@@ -1,0 +1,592 @@
+[
+  {
+    "domain": "alabuo.co",
+    "name": "alabuo",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "industrial",
+    "qualification_path": "n/a",
+    "reason": "Page states the domain moved to akafi.net, which web search confirms is an industrial (\"الصناعي\") business site, not consumer retail."
+  },
+  {
+    "domain": "aani-dani.com",
+    "name": "aani-dani",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "f_and_b",
+    "qualification_path": "substantiality",
+    "reason": "Real chocolate/cake/confectionery e-commerce brand, founded Riyadh 1998, multiple product lines."
+  },
+  {
+    "domain": "alabbasi.sa",
+    "name": "alabbasi",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "fashion",
+    "qualification_path": "substantiality",
+    "reason": "Fabric/textile retailer for garment-making (a genuine consumer retail vertical in this region, e.g. for tailoring abayas/thobes), self-described as the largest luxury fabric company, free-shipping threshold."
+  },
+  {
+    "domain": "alrifaisaudi.com",
+    "name": "alrifaisaudi",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "f_and_b",
+    "qualification_path": "substantiality",
+    "reason": "Coffee and nuts specialty retailer (\"your first source for coffee and nuts\")."
+  },
+  {
+    "domain": "actan.com",
+    "name": "actan",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "fashion",
+    "qualification_path": "substantiality",
+    "reason": "[VERIFY catalog breadth] Evening-dress fashion e-commerce with active discount codes; occasion wear has real repeat-purchase demand in this region's events/wedding culture."
+  },
+  {
+    "domain": "cityflowerretail.com",
+    "name": "cityflowerretail",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "unverifiable",
+    "category_final": "n/a",
+    "qualification_path": "n/a",
+    "reason": "Zero usable content retrieved; no confirmable evidence of live operation or scale despite \"retail\" in the name."
+  },
+  {
+    "domain": "fittingroom.store",
+    "name": "fittingroom",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "digital_channel",
+    "category_final": "n/a",
+    "qualification_path": "n/a",
+    "reason": "Site hosting shows \"Payment required / DEPLOYMENT_DISABLED\" -- site is dead, likely from a lapsed hosting bill."
+  },
+  {
+    "domain": "foulard.store",
+    "name": "foulard",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "unverifiable",
+    "category_final": "n/a",
+    "qualification_path": "n/a",
+    "reason": "Cloudflare-blocked with zero usable content; no confirmable evidence of live operation or scale."
+  },
+  {
+    "domain": "foodtech-sa.com",
+    "name": "foodtech-sa",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "digital_channel",
+    "category_final": "n/a",
+    "qualification_path": "n/a",
+    "reason": "Server returns a technical error (415 Unsupported Media Type, openresty), not a functioning website."
+  },
+  {
+    "domain": "azyya.com",
+    "name": "azyya",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "unverifiable",
+    "category_final": "n/a",
+    "qualification_path": "n/a",
+    "reason": "Zero usable content retrieved; no confirmable evidence of live operation or scale."
+  },
+  {
+    "domain": "foodhouse.sa",
+    "name": "foodhouse",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "digital_channel",
+    "category_final": "n/a",
+    "qualification_path": "n/a",
+    "reason": "Hosting account suspended (Bluehost) -- site is dead."
+  },
+  {
+    "domain": "ganache-sa.com",
+    "name": "Srya | سَرِيّا",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "f_and_b",
+    "qualification_path": "substantiality",
+    "reason": "Real chocolate/cake e-commerce (Ganache) with physical branches across the Kingdom, broad product range; B2B catering is a secondary service, not the core identity."
+  },
+  {
+    "domain": "elevenz.net",
+    "name": "elevenz",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "b2b_services",
+    "qualification_path": "n/a",
+    "reason": "B2B interior design/fit-out and hotel-furniture manufacturing/supply company (project-based architectural finishing work), explicit gate-2 exclusion."
+  },
+  {
+    "domain": "gulfgroupholding.com",
+    "name": "Gulf Group",
+    "country": "Kuwait",
+    "verdict": "OUT",
+    "gate_failed": "unverifiable",
+    "category_final": "n/a",
+    "qualification_path": "n/a",
+    "reason": "Zero usable content retrieved; generic holding-company name with no confirmable retail signal."
+  },
+  {
+    "domain": "grandmartgroup.com",
+    "name": "Grand Mart Group",
+    "country": "Qatar",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "mixed_conglomerate",
+    "qualification_path": "n/a",
+    "reason": "Confirmed via web search to be a diversified conglomerate (FMCG distribution, travel/tourism, IT services, water bottling, HVAC) with no confirmed direct storefront of its own; the more retail-specific consumer brand under this umbrella appears to be \"Grand Hyper\", a related but distinct entity that would need separate evaluation if present as its own account."
+  },
+  {
+    "domain": "halacarly.com",
+    "name": "carly",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "unverifiable",
+    "category_final": "n/a",
+    "qualification_path": "n/a",
+    "reason": "Only a bare page title retrieved; no confirmable evidence of live operation or scale."
+  },
+  {
+    "domain": "hakeem.sa",
+    "name": "Hakeem Oyoun",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "health_beauty",
+    "qualification_path": "substantiality",
+    "reason": "Real optical/eyewear retail chain with 23+ branches, free/fast Riyadh delivery."
+  },
+  {
+    "domain": "gs-jewelry.com",
+    "name": "gs-jewelry",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "unverifiable",
+    "category_final": "n/a",
+    "qualification_path": "n/a",
+    "reason": "Zero content retrieved at all; no confirmable evidence of live operation or scale despite \"jewelry\" in the name."
+  },
+  {
+    "domain": "kafak.net",
+    "name": "Kafak International Company",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "digital_channel",
+    "category_final": "n/a",
+    "qualification_path": "n/a",
+    "reason": "Explicit \"Coming Soon / under construction\" placeholder page, no live storefront."
+  },
+  {
+    "domain": "kapicogroup.com",
+    "name": "KAPICO",
+    "country": "Kuwait",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive",
+    "qualification_path": "n/a",
+    "reason": "Confirmed via web search to be Kuwait's leading automotive spare-parts/aftermarket distribution and retail company (since 1950) -- explicit automotive exclusion despite being labeled \"retail\"."
+  },
+  {
+    "domain": "ksc.com.sa",
+    "name": "Khereiji Showrooms Company Limited",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "construction_materials",
+    "qualification_path": "n/a",
+    "reason": "Confirmed via web search to be Saudi Arabia's leading electrical-materials supplier/manufacturer for the CONSTRUCTION industry (cable trays, distributor for ABB/MK/Hager) -- explicit construction-materials exclusion."
+  },
+  {
+    "domain": "logicgrp.com",
+    "name": "Logic Group of Companies",
+    "country": "Qatar",
+    "verdict": "OUT",
+    "gate_failed": "unverifiable",
+    "category_final": "n/a",
+    "qualification_path": "n/a",
+    "reason": "Zero usable content retrieved; generic name suggests a B2B (tech/logistics) group with no confirmable retail signal."
+  },
+  {
+    "domain": "madarhw.com.sa",
+    "name": "Madar Hardware Co.",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "hardware",
+    "qualification_path": "n/a",
+    "reason": "Hardware store, explicit gate-2 exclusion (hardware/building materials)."
+  },
+  {
+    "domain": "ncc-qatar.com",
+    "name": "National Car Company",
+    "country": "Qatar",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive",
+    "qualification_path": "n/a",
+    "reason": "Automotive company (name is explicit), hard-excluded category."
+  },
+  {
+    "domain": "neamah.com",
+    "name": "مخابز وحلويات نعمه",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "digital_channel",
+    "category_final": "n/a",
+    "qualification_path": "n/a",
+    "reason": "Placeholder page (\"something amazing will be constructed here\"), no live storefront."
+  },
+  {
+    "domain": "nestooffers.com",
+    "name": "Nesto Hypermarket Saudi Arabia نستو هايبر ماركت السعودية",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "geography",
+    "category_final": "n/a",
+    "qualification_path": "n/a",
+    "reason": "Nesto Group is UAE-HQ'd (Sharjah/Ajman, confirmed via web search, founded 2004); \"Nesto Hypermarket Saudi Arabia\" is a local market storefront of the same global UAE chain, not an independently Saudi-HQ'd operator."
+  },
+  {
+    "domain": "otoraat.com",
+    "name": "Otoraat - عطورات",
+    "country": "Kuwait",
+    "verdict": "OUT",
+    "gate_failed": "unverifiable",
+    "category_final": "n/a",
+    "qualification_path": "n/a",
+    "reason": "Cloudflare-blocked with zero usable content beyond the suggestive perfume-related name; no confirmable evidence of live operation or scale."
+  },
+  {
+    "domain": "panda.com.sa",
+    "name": "Panda Retail Company - Savola Group",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "grocery",
+    "qualification_path": "substantiality",
+    "reason": "One of Saudi Arabia's largest hypermarket/supermarket chains (Savola Group); site returned a Vercel bot-detection checkpoint, not a dead/fake-business signal."
+  },
+  {
+    "domain": "pcandles.com",
+    "name": "شركة شموع الماضي",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "f_and_b",
+    "qualification_path": "substantiality",
+    "reason": "Despite the \"candles\" name, live content shows this is a ma'amoul/traditional-sweets retailer (exclusive agent for 3 named Ma'amoul brands), with a real VAT registration number."
+  },
+  {
+    "domain": "pharmaciaty.com",
+    "name": "Pharmaciaty",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "unverifiable",
+    "category_final": "n/a",
+    "qualification_path": "n/a",
+    "reason": "Cloudflare-blocked with zero usable content beyond the suggestive pharmacy-related name; no confirmable evidence of live operation or scale."
+  },
+  {
+    "domain": "plazahollandi.com",
+    "name": "Plaza Hollandi",
+    "country": "Qatar",
+    "verdict": "OUT",
+    "gate_failed": "unverifiable",
+    "category_final": "n/a",
+    "qualification_path": "n/a",
+    "reason": "Cloudflare-blocked with zero usable content; no confirmable evidence of live operation or scale."
+  },
+  {
+    "domain": "lightingstores.com.sa",
+    "name": "Lighting Stores | مخازن الإضاءة",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "narrow_repeat_purchase",
+    "category_final": "home_furniture",
+    "qualification_path": "n/a",
+    "reason": "Lighting/electrical-fixtures-only retailer, matches the explicitly established narrow-category exclusion (lighting fixtures)."
+  },
+  {
+    "domain": "powr.sa",
+    "name": "POWR",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "already_corrected",
+    "qualification_path": "substantiality",
+    "reason": "Already resolved earlier this session: kept as a real account with owner/history (Imran Anjum), Company_main_industry field corrected directly in Zoho after the user's original spot-check flagged a contradictory Apollo NAICS classification. Not re-litigated here."
+  },
+  {
+    "domain": "plgtrade.com",
+    "name": "PREMIUM LIMITED GROUP",
+    "country": "Qatar",
+    "verdict": "OUT",
+    "gate_failed": "unverifiable",
+    "category_final": "n/a",
+    "qualification_path": "n/a",
+    "reason": "Zero usable content retrieved; \"trade\" in the domain name and generic group name suggest B2B trading, no confirmable retail signal."
+  },
+  {
+    "domain": "partybox.sa",
+    "name": "partybox",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "unverifiable",
+    "category_final": "n/a",
+    "qualification_path": "n/a",
+    "reason": "Only a bare page title retrieved; no confirmable evidence of live operation or scale despite a plausible-sounding category."
+  },
+  {
+    "domain": "pointplusksa.com",
+    "name": "Point Plus",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "toys",
+    "qualification_path": "substantiality",
+    "reason": "Real games/entertainment retailer (Baloot/Karam tables, chess, Rummikub, puzzles), same-day delivery in Riyadh/Dammam."
+  },
+  {
+    "domain": "qafcoffee.com",
+    "name": "Qaf Coffee Roasters",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "f_and_b",
+    "qualification_path": "substantiality",
+    "reason": "Real specialty coffee roaster/retailer with e-store account system and extensive genuine customer reviews."
+  },
+  {
+    "domain": "richy.sa",
+    "name": "Richy Group",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "fashion",
+    "qualification_path": "substantiality",
+    "reason": "Confirmed via web search: founded 1952, Riyadh-HQ'd, one of the largest homegrown Saudi retail brands, luxury textiles/fabrics and apparel, 500-1000 employees. Already confirmed real earlier this session (used as a Cloudflare Radar test case)."
+  },
+  {
+    "domain": "sanar.sa",
+    "name": "sanar",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "healthcare",
+    "qualification_path": "n/a",
+    "reason": "Digital healthcare/telemedicine platform (appointment booking, health management) -- explicit healthcare exclusion, not retail."
+  },
+  {
+    "domain": "saadeddin.com.sa",
+    "name": "saadeddin",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "scale",
+    "category_final": "f_and_b",
+    "qualification_path": "n/a",
+    "reason": "\"Saadeddin Pastry\" -- no evidence beyond the name of multi-location chain scale, consistent with the madeleine.sa single-bakery precedent."
+  },
+  {
+    "domain": "sitaco.com.sa",
+    "name": "SITACO Company",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "unverifiable",
+    "category_final": "n/a",
+    "qualification_path": "n/a",
+    "reason": "Zero usable content retrieved; generic acronym name with no confirmable retail signal."
+  },
+  {
+    "domain": "smsm.sa",
+    "name": "SmSm",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "digital_channel",
+    "category_final": "n/a",
+    "qualification_path": "n/a",
+    "reason": "Explicit \"Coming Soon\" placeholder page, no live storefront."
+  },
+  {
+    "domain": "sorrah.sa",
+    "name": "sorrah",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "f_and_b",
+    "qualification_path": "substantiality",
+    "reason": "Real spice/specialty-coffee e-commerce with active seasonal promotions."
+  },
+  {
+    "domain": "sondos.com",
+    "name": "sondos",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "general_merchandise",
+    "qualification_path": "substantiality",
+    "reason": "Real household paper/tissue/soap consumables e-commerce with genuine customer reviews and real pricing."
+  },
+  {
+    "domain": "sleephigh.com",
+    "name": "Sleep High",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "narrow_repeat_purchase",
+    "category_final": "home_furniture",
+    "qualification_path": "n/a",
+    "reason": "Mattress-only retailer; despite long operating history (since 1963) and real e-commerce infrastructure, mattresses are an inherently long-replacement-cycle single product line, matching the established narrow-category exclusion pattern."
+  },
+  {
+    "domain": "sif-care.com",
+    "name": "sif-care",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "beauty",
+    "qualification_path": "substantiality",
+    "reason": "Real health/beauty e-commerce, broad category range (perfume, oral care, mother & baby care, bundles)."
+  },
+  {
+    "domain": "suzukinajeebauto.com",
+    "name": "Suzuki | Najeeb Auto",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive",
+    "qualification_path": "n/a",
+    "reason": "Automotive dealer (Suzuki), hard-excluded category."
+  },
+  {
+    "domain": "taajeer.com",
+    "name": "Taajeer Group - مجموعة تأجير",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive",
+    "qualification_path": "n/a",
+    "reason": "Taajeer (\"leasing/rental\") is a known Saudi vehicle leasing/rental company -- automotive exclusion."
+  },
+  {
+    "domain": "tamimigroup.com.sa",
+    "name": "Tamimi Group",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "grocery",
+    "qualification_path": "substantiality",
+    "reason": "Confirmed via web search: Tamimi Group operates Tamimi Markets, one of Saudi Arabia/Bahrain's leading supermarket chains (80-111+ locations, Markets/Express/Mini/Cafe formats). Curl was Cloudflare-blocked but external verification confirms a massive, legitimate grocery retail business."
+  },
+  {
+    "domain": "taqat.qa",
+    "name": "TAQAT",
+    "country": "Qatar",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "energy",
+    "qualification_path": "n/a",
+    "reason": "Name (\"طاقة\" = energy) strongly indicates an energy/utilities company, not retail."
+  },
+  {
+    "domain": "tamakun.sa",
+    "name": "tamakun",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "fashion",
+    "qualification_path": "substantiality",
+    "reason": "Confirmed via web search: substantial Riyadh-based multi-brand Saudi retailer, 200+ retail locations and 15 flagship stores across 6 MENA markets, brands spanning fabrics/fashion/tailoring (Zahi) and home goods. Site itself is a genuine JS-rendering blind spot with zero curl-visible content."
+  },
+  {
+    "domain": "sultan-center.com",
+    "name": "The Sultan Center",
+    "country": "Kuwait",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "grocery",
+    "qualification_path": "substantiality",
+    "reason": "Major, well-known Kuwaiti hypermarket chain (TSC)."
+  },
+  {
+    "domain": "toyou.io",
+    "name": "ToYouKSA",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "general_merchandise",
+    "qualification_path": "app_download_rescue",
+    "reason": "[VERIFY exact download count] Confirmed via web search to be a leading Saudi super-app (food/grocery delivery, gifting, courier) active in 60+ cities with 27,000+ merchant partners including McDonald's/Albaik/Starbucks -- scale strongly implies well past the 50k-download threshold, though an exact figure wasn't retrieved."
+  },
+  {
+    "domain": "tuhoon.com",
+    "name": "tuhoon",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "b2b_services",
+    "qualification_path": "n/a",
+    "reason": "B2B corporate Employee Assistance Program (EAP) wellness platform/software for Gulf organizations, not consumer retail."
+  },
+  {
+    "domain": "wadihalfa.sa",
+    "name": "Wadi Halfa",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "beauty",
+    "qualification_path": "substantiality",
+    "reason": "Incense/oud (bakhoor) retailer with active cashback promotion, consistent with other approved incense/perfume businesses this session."
+  },
+  {
+    "domain": "volkswagengroup-me.com",
+    "name": "Volkswagen Group Middle East",
+    "country": "Qatar",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive",
+    "qualification_path": "n/a",
+    "reason": "Automotive manufacturer/distributor, hard-excluded category."
+  },
+  {
+    "domain": "wav.sa",
+    "name": "مياه واڤ | WAV WATER",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "unverifiable",
+    "category_final": "n/a",
+    "qualification_path": "n/a",
+    "reason": "403 Forbidden with zero usable content; no confirmable evidence of live operation or scale despite a plausible high-frequency category (bottled water delivery)."
+  },
+  {
+    "domain": "zayanstudio.com",
+    "name": "zayanstudio",
+    "country": "Saudi Arabia",
+    "verdict": "OUT",
+    "gate_failed": "unverifiable",
+    "category_final": "n/a",
+    "qualification_path": "n/a",
+    "reason": "Cloudflare-blocked with zero usable content; ambiguous \"studio\" name with no confirmable retail signal."
+  },
+  {
+    "domain": "zakiopticals.com.sa",
+    "name": "zakiopticals",
+    "country": "Saudi Arabia",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "health_beauty",
+    "qualification_path": "substantiality",
+    "reason": "Real optical/eyewear e-commerce, broad brand/price/color filtering, contact lens offers."
+  }
+]

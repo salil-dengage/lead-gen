@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Almutlaq Furniture",
+    "domain": "almutlaqfurniture.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "manufacturing / B2B contract furniture (projects)",
+    "qualification_path": "n/a",
+    "reason": "Confirms prior OUT. This is a B2B contract/project furniture manufacturer with its own Dammam factory, not a consumer retailer: the entire site is organized around Residential, Hospitality, Workspace, Kitchen & Door, and Educational/Health 'Projects' plus a Factory and Partners page. No product for sale, no price, no cart anywhere on the domain.",
+    "evidence": "Full nav = Home/Projects(Residential/Hospitality/Workspace/Kitchen & Door/Educational and Health)/Factory/Partners/Our Clients/Haworth/About Us/Contact Us. Body copy: 'Our Projects Department offers end-to-end solutions... furnishing residential complexes, hotels, furnished apartments, companies, and government institutions.' Full href audit of the page returned zero shop/cart/price links."
+  },
+  {
+    "name": "AlNafea Foods",
+    "domain": "alnafeafoods.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "wholesale FMCG trading, import/distribution, and food manufacturing (B2B)",
+    "qualification_path": "n/a",
+    "reason": "Reverses prior IN (grocery). The live site is a pure corporate/holding-group page for a diversified FMCG import-and-distribution business (rice, milk, tea, coffee, canned goods) plus a barley-import/animal-feed arm and a legumes-processing factory. There is no consumer storefront, price, or cart anywhere -- the nav is entirely 'about us / our companies / our investments / news / careers / contact'.",
+    "evidence": "Nav = من نحن (about)/شركاتنا (our companies)/استثماراتنا (investments)/الأخبار (news)/التوظيف (careers)/تواصل معنا (contact) only. Body text: 'تستورد ما لا يقل عن 600 ألف طن من الشعير سنوياً' (imports 600,000+ tonnes of barley/year) and describes a 3-line legume factory (fava beans, chickpeas, lentils). Full href audit found zero shop/cart links -- only CSS/JS/social/mailto/tel links."
+  },
+  {
+    "name": "Al Nahhas Pharmacie",
+    "domain": "alnahhas.com",
+    "verdict": "OUT",
+    "gate_failed": "digital_channel",
+    "category_final": "pharmacy retail chain, no confirmed e-commerce/app",
+    "qualification_path": "n/a",
+    "reason": "Reverses prior IN (health_beauty_pharmacy). WebSearch corroborates a real, substantial multi-branch pharmacy chain (Madina, Jeddah, Makkah, Khobar, Riyadh, Qatif), so this is a genuine business, not a fake one -- but the actual website is a bare WordPress brochure/portal (offers page, a CSR initiative, an online job-application form, and contact info) with zero shop/cart/product links, and WebSearch found no dedicated online-ordering system or mobile app for Al Nahhas specifically (unlike comparable chains Nahdi Online or Al Habib Pharmacy, which do have confirmed e-commerce/apps). Initial fetch also 403'd behind a JS bot-challenge; retrying with a Referer header got through to the real page, confirming the block was not evidence of anything hidden -- just a brochure site.",
+    "evidence": "Plain curl returned a 'Checking your browser...' JS-challenge 403; curl with Referer: google.com header returned HTTP 200, 14KB page titled 'الأولى - صيدلية النحاس' showing only 'عروض صيدليات النحاس / مبادرة مثقال ذرة / التقديم الإلكتروني للتوظيف' and a WordPress 'portal'. Full href audit: only about/offers/careers/contact/social links, no shop/product/cart routes. WebSearch: 'the results don't provide detailed information about their specific online ordering system or delivery app capabilities' and no Al Nahhas app found on Google Play/App Store searches."
+  },
+  {
+    "name": "AlNahla Group | مجموعة النهلة",
+    "domain": "alnahlagroup.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "diversified holding conglomerate (investment / real estate / automotive / hospitality)",
+    "qualification_path": "n/a",
+    "reason": "Confirms prior OUT. Al Nahla is a Jeddah family holding conglomerate across five verticals: Investment, Real Estate, Trade (SAMACO Marine yachts/boats, SAMACO toys), Automotive (SAMACO Automotive dealerships, Fast Auto Technique), and Hospitality/F&B projects. Corporate press/about site only, no retail cart.",
+    "evidence": "'أعمالنا: 01 الإستثمار / 02 العقار / 03 التجارة (ساماكو البحرية وساماكو للألعاب) / 04 السيارات (ساماكو للسيارات) / 05 الضيافة'. Site structure is entirely About/Leadership/Businesses/Media/Careers/Contact; no products or prices shown."
+  },
+  {
+    "name": "NANCO Group",
+    "domain": "alnakhlah.com.sa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "transportation & logistics services (B2B/institutional)",
+    "qualification_path": "n/a",
+    "reason": "Confirms prior OUT. NANCO (formerly Al Nakhla Al Ahliah) is a Riyadh-founded transportation and logistics services company: ground transport since 1969, fuel-station services from 1995, and airport services from 2012. This is a services business, not retail.",
+    "evidence": "'تأسيس مؤسسة النخلة الأهلية في الرياض والانطلاق بخدمات النقل. 1969' / 'التوسع بإطلاق خدمات محطات الوقود. 1995' / 'دخول مجال خدمات المطارات... 2012'. No product catalog or cart anywhere on the site."
+  },
+  {
+    "name": "AL NASSER",
+    "domain": "alnasser.net",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "fashion / footwear / sportswear retail",
+    "qualification_path": "substantiality",
+    "reason": "Confirms prior IN. Large, live, transactional fashion/footwear/sports-equipment retailer with a huge apparel and footwear category tree, real KWD pricing and working 'Add to cart', and 50 physical stores. The legal entity in the footer and KNet (Kuwait's national payment network) confirm genuine Kuwait HQ, matching the row's country.",
+    "evidence": "'Free Returns & Exchanges In Our 50 Stores'; real SKUs e.g. 'GULF YACHT CLUB Men Slim Fit Jogging Shorts... Regular price 4 500 KD... Add to cart' (12 add-to-cart instances, 8 KD price tags found); footer '© 2026 Faisal Al Rasheed & Partners General Trading & Contracting Group W.L.L.'; news item 'Al Nasser Hypermarket Announces Grand Opening in Salmiya'; payment methods include KNet."
+  },
+  {
+    "name": "Alomar Furniture Company شركة مفروشات العمر",
+    "domain": "alomar.com.sa",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "home / furniture retail",
+    "qualification_path": "substantiality",
+    "reason": "Confirms prior IN. Real, live furniture e-commerce operation (Next.js storefront backed by store.alomar.xyz) spanning living room, bedroom, dining room, accessories, mirrors and coffee tables, with genuine SAR pricing and branch references. Saudi-facing (.com.sa, Arabic-first).",
+    "evidence": "Embedded page-props JSON exposes live category URLs (livingroom-c-150, bedrooms-c-149, dinningroom-c-151, accessories-c-174, mirror-c-31, coffee-table-c-234) on store.alomar.xyz with real prices, e.g. \"price\":998.99, 4490.00, 11819.99, 7449.70, 6449.20; 'فروع' (branches) referenced twice in page text."
+  },
+  {
+    "name": "Al Ostoura International Company",
+    "domain": "alostoura.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "fashion / luxury multi-brand retail",
+    "qualification_path": "substantiality",
+    "reason": "Confirms prior IN, but on a different live domain. alostoura.com itself now JS-redirects to an Afternic 'domain for sale' parking page -- the original domain is dead. Per the dead-domain protocol, WebSearch was used and found the business's current live site at alostouraworld.com, which is a large, real, live luxury multi-brand fashion/jewelry/accessories e-commerce store (Alberta Ferretti, Comme des Garçons, Dries Van Noten, Etro, Common Projects, etc.) with a working cart/checkout. Kuwait-specific delivery terms confirm Kuwait HQ.",
+    "evidence": "curl alostoura.com -> JS onload redirect to /lander -> https://www.afternic.com/forsale/alostoura.com (parked-domain marketplace page). WebSearch: 'shop at their website: alostouraworld.com... Founder Najla Maatouk opened Al-Ostoura in 1985... boutique locations at Al Hamra Shopping Center... and Salhia Complex... Kuwait City.' Direct fetch of alostouraworld.com returned live catalog with real prices (e.g. 'Bloom Skirt... Sale price 149') and 'Item added to your cart. Check out'; 'Free delivery on all orders within Kuwait. Free shipping on all international orders over KWD 250.'"
+  },
+  {
+    "name": "مفارش العييري",
+    "domain": "aloyayri.sa",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "home / bedding & mattress retail",
+    "qualification_path": "substantiality",
+    "reason": "Confirms prior IN. Real, live e-commerce store for bedding, mattresses, pillows and padding with a broad multi-line catalog (not a single narrow SKU line), active discount codes, checkout, and free Kingdom-wide shipping. Bedding/pillows/mattress-protectors carry meaningfully higher repeat-purchase frequency than the confirmed narrow-fail patterns (lighting-only, flooring-only), so Gate 3 is passed.",
+    "evidence": "'تسوق الآن مع اقوى تخفيضات منتصف العام بخصم يصل حتى 60%... وشحن مجاني لجميع مناطق المملكة'. Catalog spans مفارش (19+ bedsheet sets), مراتب (11+ named mattress lines: Majesta, Golden Rest, Ortho Medical, Dream Rest Firm/Plush, Night, Sweet Rest, Deep Rest, Royal Medical, Relax Class, Comfort), لباد (multiple padding lines), مخدات (multiple pillow package lines); 'Checkout' present on page (3 occurrences)."
+  },
+  {
+    "name": "Ali Zaid Al-Quraishi & Brothers",
+    "domain": "alquraishi.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "diversified investment holding group",
+    "qualification_path": "n/a",
+    "reason": "Confirms prior OUT. AZAQ is a 100%-family-owned Saudi investment/holding group operating since 1958 across automotive & mobility, consumer goods, supply chain & logistics, industrial/tech solutions, real estate, and financial services. Pure corporate 'who we are' site, no retail storefront.",
+    "evidence": "'100% family-owned group with Saudi roots, operating since 1958... diversified business group with presence in... automotive and mobility, consumer goods, supply chain and logistics, industrial and technology solutions, real estate and financial services.' Nav = Who we are/What we do/Growing brands/Careers/News only."
+  },
+  {
+    "name": "Alraja Furniture  مفروشات الرجاء",
+    "domain": "alraja.com.sa",
+    "verdict": "OUT",
+    "gate_failed": "digital_channel",
+    "category_final": "office & home furniture, B2B quote-only",
+    "qualification_path": "n/a",
+    "reason": "Confirms prior OUT. The site runs on OpenCart with full cart/login/wishlist/order-history scaffolding, but every product in both the office-furniture and home-furniture catalogs is gated behind 'طلب عرض سعر' (Request a Quote) -- no price is shown and there is no add-to-cart anywhere. This is a B2B contract-quote system dressed in e-commerce UI, functionally equivalent to a 'contact us for pricing' site, so it fails the real-transactional-cart requirement despite having genuine SKU depth.",
+    "evidence": "Category 'مكاتب' (path 166_82_83): every listed executive/manager desk shows only 'طلب عرض سعر', zero prices or add-to-cart controls. Category 'غرفة المعيشة' / living room (path 166_82_143): 48 occurrences of 'طلب عرض سعر' and zero occurrences of 'أضف إلى السلة' or a SAR price on the page."
+  },
+  {
+    "name": "AlRashed Building Materials Co.",
+    "domain": "alrashedbm.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "building materials / construction supply (B2B)",
+    "qualification_path": "n/a",
+    "reason": "Confirms prior OUT. Explicit construction building-materials supplier (sections & profiles, sheets & plates, pipes & tubes, deformed bars, wood-based panels, wood) serving contractors through 30+ branches. Hard-fail category regardless of scale or how live the operation is.",
+    "evidence": "'Al Rashed Building Materials aims to supply & serve building materials... Products Sections & Profiles / Sheets & Plates / Pipes & Tubes / Deformed Bars / Wood based Panels / Wood / Misc. Items'; 'operating more than 30 branches all over the kingdom, in addition to central warehouses in all main regions.'"
+  },
+  {
+    "name": "Al Rashed Tires",
+    "domain": "alrashedtires.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive tires & batteries, industrial/fleet distribution (B2B)",
+    "qualification_path": "n/a",
+    "reason": "Confirms prior OUT. OTR (off-the-road)/industrial tire and battery distributor explicitly targeting Dealers/Distributors/Fleet Owners/Manufacturers/OEMs/Trading Companies via a B2B registration form. Automotive tires/batteries are an explicit hard-fail category regardless of the (largely unused) shopping-cart scaffolding present on the theme.",
+    "evidence": "'Al Rashed Tires – OTR Tires'; registration 'Choose Type' options 'DealersDistributors FleetOwnerOperator ManufacturersOEMs ServiceProviders TradingCompanyFactory'; categories 'Truck Tires, Agrifarm Tires, Forklift Tires, Earthmover Tires, Port Service, Generators, Industrial... Batteries'."
+  },
+  {
+    "name": "الرشيد Alrasheed",
+    "domain": "alrasheedsweet.com",
+    "verdict": "OUT",
+    "gate_failed": "digital_channel",
+    "category_final": "grocery / supermarket (domain dead, no live site found)",
+    "qualification_path": "n/a",
+    "reason": "The domain does not resolve at all (repeated failures, both bare and www variants, across multiple retries). Following the dead-domain protocol, WebSearch confirmed a real Riyadh supermarket chain ('Aswaq Al Rasheed' / اسواق الرشيد, 126K Snapchat and 56K Instagram followers) so the underlying business is genuine, but no live official transactional website could be found anywhere -- they appear to rely on third-party deal-flyer aggregators (ClicFlyer, D4D Online) rather than an owned site. A same-named Google Play app exists but its package name ('com.itsquad.dokanjomla') is a generic multi-tenant grocery-app-builder template, and no install-count evidence (toward the 50k+ app-rescue bar) could be found, so app-download rescue is not confirmed either.",
+    "evidence": "curl to alrasheedsweet.com and www.alrasheedsweet.com both failed (proxy CONNECT 502 / DNS resolution failure) across 3+ retries; agent-proxy status log independently shows the same host repeatedly failing CONNECT. WebSearch: 'Al Rasheed Markets offers catalogues and flyers... on the ClicFlyer app and website... I wasn't able to locate a dedicated official website exclusively for Al Rasheed Markets' online shopping platform.' Google Play listing 'Aswaq Al Rasheed' (id=com.itsquad.dokanjomla) found but no download/install figures surfaced in search."
+  },
+  {
+    "name": "Al Rawabi Group of Companies W.L.L",
+    "domain": "alrawabigroup.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "grocery / hypermarket",
+    "qualification_path": "substantiality",
+    "reason": "Confirms prior IN. Al Rawabi Group's own corporate site (Doha, Qatar, since 1980) directly links its 'Retail' vertical to Rawabi Hypermarket, which is a large, live, transactional online grocery/hypermarket delivery platform with an enormous real SKU catalog and genuine QAR pricing -- the group also runs a Tasveek grocery-delivery app on iOS/Android. Qatar HQ is explicit, matching the row's country.",
+    "evidence": "alrawabigroup.com links directly to /retail, https://rawabihypermarket.com/, https://tasveek.com/, and App Store/Google Play listings for 'Tasveek Grocery Food & More'. rawabihypermarket.com loaded live: 'Rawabi Hypermarket - Qatar's Trusted Retailer Online', Express/Scheduled delivery, a huge grocery/fresh/frozen/bakery/deli/clothing category tree, 128 occurrences of 'QAR' pricing and a working checkout. Group site: 'Pioneering the Future of Qatar Since 1980... over 3,500 employees from 25 nations... 10 business verticals'."
+  },
+  {
+    "name": "ALRAYA الراية",
+    "domain": "alraya.com.sa",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "grocery / supermarket retail",
+    "qualification_path": "substantiality",
+    "reason": "Confirms prior IN. Long-established (since 1991) Jeddah-headquartered supermarket chain expanded across all of western Saudi Arabia (Jizan to Tabuk). The bare domain hit a proxy CONNECT error, but the www subdomain loaded live as a real single-page app titled 'Alraya Supermarkets', and its JS bundle's embedded privacy-policy text explicitly references 'shopping cart', 'purchase preferences', a loyalty program with 'reward points, redemption', and 'delivery' -- confirming a genuine transactional digital platform rather than brochureware. Saudi HQ (Jeddah) matches the row's country.",
+    "evidence": "www.alraya.com.sa returned HTTP 200, <title>Alraya Supermarkets</title>. App JS bundle text: 'Items added or left in your shopping cart, purchase preferences, favorite products...'; 'Loyalty program data: Membership details, reward points, redemption...'; also 115 occurrences of 'store', 107 of 'location', 5 of 'delivery'. WebSearch: 'In 1991, Al Raya first branch opened on 70th Street... became a pioneer supermarket in the Kingdom... Today Al Raya stores are all over the West from Jizan in the South to Tabuk in the North'; 259K Instagram followers; 699 employees."
+  },
+  {
+    "name": "H. M. Al Rugaib & Sons Trading Co. - شركة حمد محمد الرقيب و أولاده التجارية",
+    "domain": "alrugaibfurniture.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "home / furniture retail",
+    "qualification_path": "substantiality",
+    "reason": "Confirms prior IN. Large, live, real luxury furniture/home-decor e-commerce store carrying recognizable third-party brands (Ashley Furniture, Roots Furniture, Rae Essence) with genuine 'Add to cart' and real SAR sale pricing across an extensive multi-room catalog. Explicitly Saudi Arabia-facing.",
+    "evidence": "Title 'Al Rugaib Furniture | Luxury Furniture & Home Decor Saudi Arabia'; huge category tree (Living Room, Dining Room, Bedroom, Outdoor, Office, Tables, Bedding, Lighting & Accessories); real listing 'Christi Ivory Sofa Set Magnussen... Sale price 9,703.00... Regular price 13,481.45... Add to cart'; 'Free shipping on orders of 1500 SAR and above.'"
+  },
+  {
+    "name": "ALSAIF Trading Agencies Co.",
+    "domain": "alsaifco.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "wholesale distribution of housewares & electrical appliances (B2B)",
+    "qualification_path": "n/a",
+    "reason": "Reverses prior IN (home_furniture_appliance). Al Saif is a since-1962 housewares/electrical-appliance brand distributor whose own site explicitly tells consumers to buy through third-party channels ('أماكن الشراء: المتاجر الإلكترونية / المتاجر المتخصصة / الهايبرماركت / خدمة الجملة' -- e-stores, specialty stores, hypermarkets, wholesale service) rather than from Al Saif directly; they state they distribute through 1,300+ distributors. alsaifco.com itself has zero cart/price content -- just catalogs/PDFs and a 'join as distributor' page. A secondary alsaifco.sa (Zid-platform) subsite exists, but it is only a loyalty-points-redemption micro-store, not a general product storefront.",
+    "evidence": "'نوزع أفضل الأواني المنزلية والأجهزة الكهربائية... وزّعنا منتجاتنا على أكثر من 1300 موزع'; nav = من نحن/الموزعين/الكتالوجات/تواصل معنا only, zero 'cart/price/السلة/ريال' hits in a full-page grep; 'أماكن الشراء: المتاجر الإلكترونية، المتاجر المتخصصة، الهايبرماركت، خدمة الجملة'. alsaifco.sa page text in full: 'السيف للتوكيلات التجارية | جودة وأصالة من عام 1962م / استبدل نقاطك بمكافآت' (redeem your points for rewards) -- a loyalty-rewards micro-store, not a housewares/appliance catalog for sale."
+  }
+]

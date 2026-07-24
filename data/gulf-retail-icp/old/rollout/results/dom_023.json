@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Nasser Bin Khaled Automobiles (NBK Auto)",
+    "domain": "mercedes-benz.com.qa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive",
+    "qualification_path": "n/a",
+    "reason": "Automotive dealer/distributor, not a qualifying retail category. Nasser Bin Khaled Automobiles is Qatar's exclusive Mercedes-Benz distributor (passenger cars, AMG, Maybach, trucks) - a hard-fail Gate 2 category (automotive dealers/distributors), independent of geography or scale.",
+    "evidence": "curl -L https://mercedes-benz.com.qa failed on two attempts (TLS 'Connection reset by peer'). WebSearch corroborates a real, substantial business: official site www.mercedes-benz.com.qa / mercedes-benz-mena.com/qatar; HQ at Qatar Decoration Roundabout, Salwa Road, Doha; established 1957 by Sheikh Nasser Bin Khaled Al-Thani; 'Qatar's exclusive distributor of Mercedes-Benz,' also runs mbcvqatar.com for trucks. Doha HQ matches row country Qatar (Gate 1 passes) but Gate 2 fails on category (automotive)."
+  },
+  {
+    "name": "Mercedes-Benz Commercial Vehicles | Kuwait",
+    "domain": "mercedesbenzkuwait.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive",
+    "qualification_path": "n/a",
+    "reason": "Automotive (commercial vehicle) dealer/distributor. Mercedes-Benz/Daimler Trucks commercial vehicles (trucks, vans, buses) distributor for Kuwait, operated by Al Mulla Automobiles Co. Hard-fail Gate 2 category.",
+    "evidence": "curl -L https://mercedesbenzkuwait.com failed on two attempts ('CONNECT tunnel failed, response 502'). WebSearch confirms the real business: Al Mulla Automobiles Co's Mercedes-Benz Commercial Vehicles Division, 3S (Sales/Service/Spare Parts) facility at East Ahmadi, Kuwait, contact cv-support@mercedesbenzkuwait.com. Kuwait HQ (Al Mulla Group) matches row country (Gate 1 passes); Gate 2 fails on category (automotive)."
+  },
+  {
+    "name": "Merch and Partners Co WLL",
+    "domain": "merch.com.qa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "trading_distribution",
+    "qualification_path": "n/a",
+    "reason": "Primarily a brand distribution/marketing agency (B2B trading of perfumery, cosmetics, and FMCG brands into Qatar), not a direct retail business. Hard-fail Gate 2 category (wholesale/trading/distribution), consistent with prior verdict.",
+    "evidence": "curl -L https://merch.com.qa returned HTTP 403, a Cloudflare 'Just a moment...' bot-challenge page (WebFetch on the same URL also returned 403). WebSearch corroborates from multiple independent sources (TradeAtlas, Qatar business directories, LinkedIn): 'MERCH was established in 1978 in Doha, Qatar with its line of business in the presentation, exclusive distribution, and marketing of perfumeries, cosmetics, skin care, fast-moving consumer goods, fashion, and retail development... currently 3 Retail Shops.' Doha HQ matches row country Qatar (Gate 1 passes) but the company's core, sourced identity across independent listings is distribution/agency, not retail (Gate 2 fails)."
+  },
+  {
+    "name": "Meshkati Trading Company",
+    "domain": "meshkati.sa",
+    "verdict": "OUT",
+    "gate_failed": "narrow_repeat_purchase",
+    "category_final": "lighting_electrical",
+    "qualification_path": "n/a",
+    "reason": "Live, real, functioning e-commerce store (cart, wishlist, compare, SAR pricing) but the catalog is narrowly a single vertical - lighting and electrical fixtures/accessories - the exact confirmed Gate 3 narrow-category fail pattern, even though the underlying home-goods category itself clears Gate 2.",
+    "evidence": "curl -L https://meshkati.sa returned HTTP 200 (86.8KB). Page title: 'مشكاتي - كل ماتبحث عنه في عالم الإنارة' (Meshkati - everything you need in the world of lighting). Full nav is entirely lighting/electrical: chandeliers, LED downlights, hidden/strip LED lighting, track lighting, decorative wall/ceiling/floor lamps, switches and sockets, wiring accessories, garden/outdoor lighting and posts, plus adjacent smart-home devices (cameras, locks). Real SAR-priced products with 'أضف إلى السلة' (Add to Cart) confirm a genuine live transactional store, but the entire business is a single narrow product vertical (lighting/electrical), matching the explicitly confirmed Gate 3 fail pattern."
+  },
+  {
+    "name": "Modern Electronics - MEC (AL-Faisaliah Group)",
+    "domain": "mestores.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "electronics",
+    "qualification_path": "substantiality",
+    "reason": "Broad, multi-category consumer electronics and general-merchandise retailer with a large, real, live transactional catalog well above the 50-SKU floor. Passes all 5 gates.",
+    "evidence": "curl -L https://mestores.com returned HTTP 200 but requires JavaScript to render the storefront (SPA). robots.txt lists live sitemaps at /media/sitemap/en_sa_new.xml and ar_sa_new.xml; the English sitemap contains 2,083 URLs spanning mobile devices & accessories (incl. Samsung), tablets, digital/gift cards (Apple, PlayStation, Amazon), gaming accessories, and more - confirms a large, real, active e-commerce catalog. Al-Faisaliah Group is a well-known Saudi Arabia-headquartered conglomerate, matching row country (Gate 1)."
+  },
+  {
+    "name": "Jiad Modern Motors",
+    "domain": "mg-sa.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive",
+    "qualification_path": "n/a",
+    "reason": "MG automotive dealer/distributor site for Saudi Arabia. Hard-fail Gate 2 category (automotive).",
+    "evidence": "curl -L https://mg-sa.com returned HTTP 200 (29.3KB). Page confirmed: 'Official Website | MG Saudi Arabia' with full MG car model lineup (MG HS, HS Hybrid+, ZS, RX9, GT, 7, 3, Cyberster, One, 5, 8 PHEV, 4 EV), SAR pricing, 'Test Drive' and dealer/service-network content - a car manufacturer/dealer site, not a retail storefront."
+  },
+  {
+    "name": "MG Kuwait",
+    "domain": "mgkuwait.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive",
+    "qualification_path": "n/a",
+    "reason": "MG automotive dealer/distributor site for Kuwait. Hard-fail Gate 2 category (automotive).",
+    "evidence": "curl -L https://mgkuwait.com returned HTTP 200 (28.9KB). Page confirmed: 'Official Website | MG Kuwait' with the identical MG car model lineup, dealer/service-network content, and test-drive booking as the Saudi MG site."
+  },
+  {
+    "name": "M. H. Al Mana Group of Companies",
+    "domain": "mhalmanagroup.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "diversified_conglomerate",
+    "qualification_path": "n/a",
+    "reason": "Diversified holding conglomerate spanning automotive, real estate, construction, F&B, retail, and education - not itself a single qualifying retail business. Fails Gate 2 (also independently fails Gate 4: the corporate domain is a dead placeholder).",
+    "evidence": "curl -L https://mhalmanagroup.com returned HTTP 200 but the entire page content is: 'Coming Soon! We're working on it! This site is currently under construction.' WebSearch confirms M.H. Al Mana Group is a Doha, Qatar family conglomerate founded 1952, operating 30+ businesses across 10+ sectors (automotive, real estate, construction, F&B, retail, education), a ~QAR 15B portfolio, 5,000+ employees - a diversified holding entity, not a single-category retail operator. Doha HQ matches row country Qatar (Gate 1 passes) but Gate 2 fails."
+  },
+  {
+    "name": "Marketing Home Group",
+    "domain": "mhg-int.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "building_materials",
+    "qualification_path": "n/a",
+    "reason": "Building-materials and construction-supplies trading conglomerate (ceramics/tiles, sanitary ware, lighting fixtures, construction adhesives/tools, HVAC engineering) operating multi-brand showrooms - the Gate 2 hard-fail 'building materials/construction' category, despite the corporate site having e-commerce/cart trappings. This reverses the prior IN/ecommerce verdict, which appears to have keyed off the presence of a cart without recognizing the underlying product category.",
+    "evidence": "curl -L https://mhg-int.com returned HTTP 200: 'MHG Trading CJSC - Innovative Building Solutions... a prominent trading group that oversees a diverse range of brands within the residential and commercial sectors... building materials, lighting, sanitary ware, water solutions, and furniture sectors,' HQ at 3533 Old Al Kharj Road, Riyadh. The Brands page (https://mhg-int.com/en/brands/, HTTP 200) lists flagship entities: Ceramic Home (tiles/ceramics), Lighting Stores, Hatch Sanitary ('Redefining Elegance...in Sanitary Solutions'), Build Station ('One-Stop Destination for Premium Building Solutions'), Hatch Products, Hypnotek (smart home), Fixer (adhesives/spacers/tools 'trusted by contractors and engineers'), and Ice Bear (HVAC/engineering) across 44 branches in the GCC and Europe - a textbook building-materials/construction trading group matching the Gate 2 hard-fail examples (sanitary ware, ceramics, tiles) verbatim."
+  },
+  {
+    "name": "Masdar Hardware مصدر لمواد النجارة",
+    "domain": "mhw.com.sa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "building_materials",
+    "qualification_path": "n/a",
+    "reason": "Major building and construction materials distributor (steel, timber, plumbing, electrical, hardware, carpentry supplies). Hard-fail Gate 2 category (building materials/construction).",
+    "evidence": "curl -L https://mhw.com.sa failed on two attempts (TLS 'Connection reset by peer'). WebSearch confirms: Masdar, part of Al-Muhaidib Group, founded 1970/71, headquartered in Riyadh, operates 105 branches across 29 Saudi cities with 80,000+ SKUs of steel, timber, plumbing, electrical, tools, hardware, chemicals & fasteners, historically known as a leader in carpentry-materials supply - explicitly a building-materials distributor, consistent with prior verdict."
+  },
+  {
+    "name": "Midas Furniture",
+    "domain": "midasfurniture.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "home_furniture_appliance",
+    "qualification_path": "substantiality",
+    "reason": "Large, real, live home & office furniture and home-goods e-commerce retailer with a broad multi-category catalog and confirmed Kuwait HQ. Passes all 5 gates.",
+    "evidence": "curl -L https://midasfurniture.com returned HTTP 200 (87KB); homepage shows an extensive category nav (living room, bedroom, dining, mattresses, office furniture, kitchen/dining, bathroom, lighting, decor, wall art, rugs) plus cart/wishlist/sign-in and an active 'Holiday Sale.' The /about-us page (HTTP 200) confirms the legal entity 'Midas International General Trading & Contracting Co. W.L.L.', founded 1993, market leader in Kuwait since the late 1990s, HQ in Salmiya, Kuwait, 11-16 showrooms across Kuwait/Jordan/Qatar/Saudi Arabia/Dubai, and 2,000+ employees - confirms Kuwait HQ matches row country (Gate 1) and substantial real operations (Gate 5)."
+  },
+  {
+    "name": "Mimar",
+    "domain": "mimar.com.sa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "building_materials",
+    "qualification_path": "n/a",
+    "reason": "Construction tools and materials trading company serving builders/contractors. Hard-fail Gate 2 category (building materials/construction trading).",
+    "evidence": "curl -L https://mimar.com.sa failed on two attempts (TLS 'Connection reset by peer'). WebSearch confirms: 'Mimar For Construction Tools & Trading' supplies power tools, fire-safety materials, and fixation solutions 'for builders and contractors,' headquartered in Jeddah with showrooms in Jeddah, Riyadh, and Dammam - a B2B construction-supplies trading company, consistent with prior verdict."
+  },
+  {
+    "name": "Alwazn Almithaly الوزن المثالي",
+    "domain": "mithaly.sa",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "health_beauty_pharmacy",
+    "qualification_path": "substantiality",
+    "reason": "Real, large, live online supplement and sports-nutrition store - a consumable, recurring-purchase health/pharmacy-adjacent category. Passes all 5 gates.",
+    "evidence": "curl -L https://mithaly.sa returned HTTP 200; homepage confirms 'Mithaly KSA | Alwazn Almithaly KSA | Online Supplement & Nutrition Store' with Shop/Cart/Login/Categories/Offers navigation. sitemap-en.xml (HTTP 200) contains 4,314 URLs including dozens of real product categories (whey protein, whey isolate, whey hydrolysate, casein, egg protein, vegan protein, creatine monohydrate/blends/kre-alkalyn, mass gainers, pre-workout, intra-workout, etc.) - confirms a large, active, real transactional catalog well above the 50-SKU floor."
+  },
+  {
+    "name": "Mitsubishi Motors Kuwait",
+    "domain": "mitsubishi-motors.com.kw",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive",
+    "qualification_path": "n/a",
+    "reason": "Mitsubishi automotive dealer/distributor site for Kuwait (Al Mulla Group). Hard-fail Gate 2 category (automotive).",
+    "evidence": "curl -L https://mitsubishi-motors.com.kw returned HTTP 200 (41.3KB): full Mitsubishi car lineup (Outlander, Destinator, Eclipse Cross, ASX, Montero Sport, L200, XForce, Xpander, Xpander Cross, Mirage, Attrage) with KWD pricing, dealer locator, test-drive booking, and reference to 'AlMulla's All-New Mobile App' - a car manufacturer/dealer site."
+  },
+  {
+    "name": "Mobile 2000",
+    "domain": "mobile2000.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "electronics",
+    "qualification_path": "substantiality",
+    "reason": "Real, live, broad multi-category consumer-electronics retailer (smartphones, tablets, wearables, accessories, home appliances, gaming) with a functioning cart, BNPL, and real live-priced products. Passes all 5 gates.",
+    "evidence": "curl -L https://mobile2000.com returned HTTP 200 (279KB). Homepage confirms nav categories New Arrivals / Smart Phones / Apple Store / Smart Watches / Accessories / Mobile Protection / Home Appliance / Gaming Zone, an active cart ('Your cart is empty... Continue shopping'), Buy-Now-Pay-Later options (Tabby/Tamara-style 'Taly | Deema'), and a live-priced 'Deal of the Day' product (Apple iPhone 17 Pro Max 256GB, 455.000 KD) plus a Kuwait phone number (+9651852000) - confirms a genuine, active Kuwait-based transactional storefront."
+  },
+  {
+    "name": "شركة تقنيات الزراعة الحديثة",
+    "domain": "modernagritec.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "b2b_project_services",
+    "qualification_path": "n/a",
+    "reason": "B2B agricultural greenhouse/hydroponics installation and landscape-design project-services firm, not a retail business, and has no functioning online store. Hard-fail Gate 2 category (B2B services/project firm).",
+    "evidence": "curl -L https://modernagritec.com returned HTTP 200: content is entirely project-based services - home and large-scale greenhouse construction, barley-fodder growing rooms, hydroponic systems (Dutch-bucket, NFT pipe, wall, and vertical systems), and landscaping design with soft-scape/hard-scape studies - presented as completed project case studies (dimensions, materials, structures), not consumer products for sale. The site's own 'المتجر' (Store) nav link resolves to HTTP 404, confirming there is no functioning e-commerce store at all."
+  },
+  {
+    "name": "Morad Yousuf Behbehani",
+    "domain": "moradbehbehani.com",
+    "verdict": "OUT",
+    "gate_failed": "digital_channel",
+    "category_final": "fashion_luxury",
+    "qualification_path": "n/a",
+    "reason": "Real, large, long-established luxury watch/jewelry retail group that would clear Gates 1-3, but no confirmed transactional online store was found - the site functions as a brand/boutique locator (brand showcase pages, mall-store pages), not a shop with cart/checkout, and no consumer app was found either. Fails Gate 4. This reverses the prior IN/fashion verdict.",
+    "evidence": "curl -L https://moradbehbehani.com returned HTTP 200 but is an empty Angular single-page-app shell with no server-rendered body content; a legacy indexed product URL (/Watches-Jewellery/Cartier.aspx) redirects into the same empty shell (confirmed via both curl and WebFetch). WebSearch confirms the underlying business is real and substantial: Morad Yousuf Behbehani Group, founded 1935, a Forbes Top-100 Arab Family Business, 'leading Luxury Retailer in Kuwait' representing 100+ brands (Cartier, Omega, IWC, Samsonite, etc.) via physical boutiques (Al Kout Mall, Marina Mall, Salhia Complex). However, every indexed page title found is informational/boutique-locator in style ('Watches and Jewellery' service page, 'Cartier Watches and Jewellery Boutiques, Behbehani', 'Behbehani Luxury Watches Store, Al Kout Mall', 'Kuwait Limited Editions') with no shop/cart/checkout branding anywhere - in direct contrast to a separate, related Behbehani-family business at behbehaniwatchworld.com.kw which explicitly and repeatedly brands itself 'Online Shopping in Kuwait.' A targeted WebSearch for cart/checkout evidence on moradbehbehani.com itself returned nothing, and no mobile app was found for the group."
+  },
+  {
+    "name": "MOTOCARE",
+    "domain": "motocare.sa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive",
+    "qualification_path": "n/a",
+    "reason": "Registered brand of a tire sales & service center chain (automotive). Hard-fail Gate 2 category (automotive/tires); would also independently match the explicit Gate 3 'tires/batteries only' narrow-fail pattern.",
+    "evidence": "curl -L https://motocare.sa failed on two attempts ('CONNECT tunnel failed, response 502'). WebSearch confirms motocare.sa (aliased with motocare.com.sa / moto-care.sa) is 'a registered quick service centre brand name of Fares Al Toruk Automotive Co,' part of Saudi Bugshan Group, HQ in Jeddah - a retail tire sales and service operation (Bridgestone/Maxxis tires, lubes, wheel alignment, battery service, with a 'Motocare Locate' Google Play app for booking services)."
+  }
+]

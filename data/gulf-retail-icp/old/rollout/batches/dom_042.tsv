@@ -1,0 +1,19 @@
+source	country	name	domain	prior_verdict	prior_category
+gap_sweep		bashirco	bashirco.com.sa	OUT	ecommerce_unverified
+gap_sweep		sedrajewellery	sedrajewellery.com	OUT	ecommerce_unverified
+gap_sweep		matjarpanda	matjarpanda.com	OUT	ecommerce_unverified
+gap_sweep		72hairsa	72hairsa.com	OUT	ecommerce_unverified
+gap_sweep		nasreenalissalaw	nasreenalissalaw.com	OUT	ecommerce_unverified
+gap_sweep		nohanabil	nohanabil.sa	OUT	ecommerce_unverified
+gap_sweep		rkcollection	rkcollection.sa	OUT	ecommerce_unverified
+gap_sweep		enhancecg	enhancecg.com	OUT	ecommerce_unverified
+gap_sweep		dnalifestyle	dnalifestyle.sa	OUT	ecommerce_unverified
+gap_sweep		saudimarts	saudimarts.com	OUT	ecommerce_unverified
+gap_sweep		petite	petite.sa	OUT	ecommerce_unverified
+gap_sweep		wasmamansour	wasmamansour.com.sa	OUT	ecommerce_unverified
+gap_sweep		bombsa	bombsa.com	OUT	ecommerce_unverified
+gap_sweep		greenlifeksa	greenlifeksa.com	OUT	ecommerce_unverified
+gap_sweep		razanalazzouni	razanalazzouni.com	OUT	ecommerce_unverified
+gap_sweep		inrest	inrest.com	OUT	ecommerce_unverified
+gap_sweep		souqvana	souqvana.store	OUT	ecommerce_unverified
+gap_sweep		zenitan	zenitan.com	OUT	ecommerce_unverified

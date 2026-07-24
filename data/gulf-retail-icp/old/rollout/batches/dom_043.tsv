@@ -1,0 +1,19 @@
+source	country	name	domain	prior_verdict	prior_category
+gap_sweep		maatic	maatic.com	OUT	ecommerce_unverified
+gap_sweep		alshamasy	alshamasy.com	OUT	ecommerce_unverified
+gap_sweep		surprisesbox	surprisesbox.com	OUT	ecommerce_unverified
+gap_sweep		kadasa	kadasa.com.sa	OUT	ecommerce_unverified
+gap_sweep		stevemadden	stevemadden.sa	OUT	franchise
+gap_sweep		serajah	serajah.com	OUT	ecommerce_unverified
+gap_sweep		abreezgroup	abreezgroup.com	OUT	ecommerce_unverified
+gap_sweep		tomorna	tomorna.com	OUT	ecommerce_unverified
+gap_sweep		novamart	novamart.digital	OUT	ecommerce_unverified
+gap_sweep		asqgrp	asqgrp.com	OUT	ecommerce_unverified
+gap_sweep		loofah	loofah.sa	OUT	ecommerce_unverified
+gap_sweep		camicissima	camicissima.sa	OUT	franchise
+gap_sweep		menbur	menbur.sa	OUT	franchise
+gap_sweep		houseofcenmar	houseofcenmar.com	OUT	ecommerce_unverified
+gap_sweep		miraymano	miraymano.com	OUT	ecommerce_unverified
+gap_sweep		loudy-plus	loudy-plus.com	OUT	ecommerce_unverified
+gap_sweep		watheerglo	watheerglo.com	OUT	ecommerce_unverified
+gap_sweep		deshdashtii	deshdashtii.com	OUT	ecommerce_unverified

@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Alhussaini Trading Co.",
+    "domain": "alhussainitrading.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "luxury watches / jewelry / leather goods retail",
+    "qualification_path": "substantiality",
+    "reason": "Live Saudi Arabia e-commerce site (+966126526000, SAR pricing) selling luxury watches (Omega, Breitling, Longines, Grand Seiko, Charriol) plus jewelry, leather goods, accessories and writing instruments (Montblanc). Hundreds of distinct SKUs across 6 categories, working Add-to-Cart, Apple Pay/Google Pay/mada, 'Over 50 Years' operating history. Approved luxury category, multi-item/seasonal (not narrow), clearly real transactional infrastructure and scale. Confirms prior IN.",
+    "evidence": "Title 'Luxury Watches | Swiss Watches | Al-Hussaini Trading'. Sample SKUs with SAR pricing: 'Professional Endurance Pro 44' SAR14,775; 'Constellation co-axial Master Chronometer' SAR66,100. Add to Cart buttons present throughout; phone +966126526000."
+  },
+  {
+    "name": "Ali Alghanim & Sons Group",
+    "domain": "ali-alghanim.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "diversified holding conglomerate (non-retail): automotive, general trading, contracting, education, real estate, F&B, investment",
+    "qualification_path": "n/a",
+    "reason": "Corporate holding site for a Kuwait conglomerate (HQ Al Shuwaikh Industrial Area, Kuwait -- confirms geography). Lists 7 'Business Sectors': Automotive, General Trading, Contracting, Educational Services, Real Estate, Food & Beverage, Investment. No product catalog, pricing or cart anywhere on the domain -- purely an 'About us' style corporate page. Automotive/contracting/real estate/investment/general-trading are explicit Gate 2 hard-fail lines and dominate the identity; no approved-category retail storefront is reachable on this domain. Confirms prior OUT.",
+    "evidence": "'Ali Al-Ghanim & Sons Group Head Office, Al Shuwaikh Industrial Area... Kuwait'. Nav/menu only exposes About/Business-Sectors/Careers/Contact -- no shop, no products, no cart."
+  },
+  {
+    "name": "Ali Alghanim and Sons Automotive Company",
+    "domain": "alialghanimsons.com.kw",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive dealership",
+    "qualification_path": "n/a",
+    "reason": "Official multi-brand car dealership for BMW, MINI, Rolls-Royce, Range Rover, Defender, McLaren, Geely and BMW Motorrad in Kuwait, with full vehicle inventory and KD pricing, service booking, parts and body-shop. Automotive dealers are an explicit Gate 2 hard fail regardless of how real/live the operation is. Confirms prior OUT.",
+    "evidence": "Title 'Home | Ali Alghanim and Sons Automotive Company - Kuwait'. Featured vehicles with pricing e.g. 'BMW 740i M Sport... 45,500 KD', 'Range Rover 3.0 SE... 48,950 KD'."
+  },
+  {
+    "name": "Ali Bin Ali Group",
+    "domain": "alibinali.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "diversified holding conglomerate (retail/distribution + hospitality, travel, logistics, contracting, mall management, medical distribution, printing)",
+    "qualification_path": "n/a",
+    "reason": "Genuinely Doha, Qatar-HQ'd since 1945 (geography confirmed) and does operate real approved-category retail arms (Monoprix hypermarkets -- 6 Qatar stores, Galeries Lafayette Doha department store, Ali Bin Ali Luxury, ABA Fashion, consumer electronics distribution). However alibinali.com itself is a pure corporate 'About us / Business Streams / Media Room / Careers / Contact' site -- no cart, no products, no linked owned online store anywhere on the domain, and the group's business-stream list mixes that retail activity with multiple explicit Gate 2 hard-fail lines (Mall Management = real estate/landlord; International Travel & Tourism = hospitality/travel; Logistics and Contracting & Property Management = B2B/construction services; Medical = B2B equipment distribution; Printing Press = manufacturing), so the entity as presented on this domain is not cleanly one of the approved categories. WebSearch further confirms Monoprix Qatar's online orders are fulfilled via the third-party Snoonu delivery marketplace rather than an owned D2C storefront or app, so no owned transactional channel is confirmed either. Re-verification overturns prior IN.",
+    "evidence": "alibinali.com internal links are only about-us/business-streams/{luxury,hospitality,beverages,travel,logistics,fashion,printing,medical,contracting,sports,production,ict,mall-management,fmcg,department-stores,hypermarkets,manufacturing,electronics}/media/careers/contact -- no cart or products found anywhere. WebSearch: 'Snoonu... integrates seamlessly with Monoprix, providing customers with a user-friendly interface to browse, select, and purchase... for delivery' (Monoprix Qatar subsidiary of Ali Bin Ali Holding sells online via third-party Snoonu, not owned infrastructure)."
+  },
+  {
+    "name": "Alireza Holding",
+    "domain": "alirezaholding.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "brand distribution/agency + insurance brokerage (non-retail)",
+    "qualification_path": "n/a",
+    "reason": "Jeddah, Saudi Arabia-HQ'd (geography confirmed) but self-described business sectors are Retail, Branding and Insurance, where 'Retail' explicitly means importing and distributing global brands (Fitbit, JBL, Sennheiser, Moshi, ICON, Yosi Samra) 'through our distribution network' to the Saudi market -- brand-agency/wholesale distribution language, not a direct-to-consumer storefront. No product catalog, pricing or cart on the domain. Wholesale/brand-distribution and insurance brokerage are explicit Gate 2 hard-fail categories. Confirms prior OUT.",
+    "evidence": "'Our Businesses: Retail, Branding, Insurance'. 'bringing top international brands to the Saudi market... through our distribution network' (client testimonial from Yosi Samra CEO). Address references 'Jeddah, Saudi Arabia'. No cart/products anywhere on site."
+  },
+  {
+    "name": "Alissa Automotive Co. Ltd.",
+    "domain": "alissa-cars.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive dealership",
+    "qualification_path": "n/a",
+    "reason": "Company name and domain unambiguously denote an automotive dealership (Alissa is a known Saudi car dealer group). Automotive is an explicit Gate 2 hard fail regardless of how real/live the operation is, so this fails categorically irrespective of the domain's current reachability. Domain was in fact unreachable at check time (proxy CONNECT tunnel failed, 502) and, per protocol, automotive naming makes a dead-domain WebSearch unnecessary since Gate 2 already disqualifies it. Confirms prior OUT.",
+    "evidence": "Company name 'Alissa Automotive Co. Ltd.'; domain alissa-cars.com. curl -v: 'CONNECT tunnel failed, response 502' (site unreachable at check time)."
+  },
+  {
+    "name": "Abdul Latif Jameel Enterprises",
+    "domain": "alj-enterprises.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "diversified investment holding (non-retail): automotive aftermarket, logistics, health/water, real estate, environmental services, investments",
+    "qualification_path": "n/a",
+    "reason": "Self-described 'Diversified Investment Arm of Abdul Latif Jameel in Saudi Arabia', begun 1945 in Jeddah (geography confirmed). Portfolio businesses are Automotive Aftermarket, Logistics and Transportation, Health (water/desalination via Almar Water Solutions), Land and Real Estate, Environmental Services and Investments -- none are approved Gate 2 retail categories (investment holding, real estate, logistics and automotive-aftermarket are explicit hard fails). No product catalog or cart; site is corporate/investor-relations content only. Confirms prior OUT.",
+    "evidence": "'Abdul Latif Jameel Enterprises is the Diversified Investment Arm of Abdul Latif Jameel in Saudi Arabia'. 'Our Businesses: Automotive Aftermarket, Logistics and Transportation, Health, Land and Real Estate, Environmental Services' plus 'Investments'."
+  },
+  {
+    "name": "شركة الجازع الطبية | Al-Jazea Medical Company",
+    "domain": "aljazeaonline.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "pharmacy / health retail",
+    "qualification_path": "substantiality",
+    "reason": "صيدلية الجازع ('Al-Jazea Pharmacy') is a real, live Zid-platform Saudi e-commerce pharmacy. Meta description: 'we aim with Al-Jazea pharmacies to be your permanent destination for better health and care through our branches'. Embedded checkout config confirms real payment/loyalty infrastructure: Apple Pay enabled, Tamara buy-now-pay-later enabled, Qitaf and Mokafaa (Saudi loyalty-point networks) integrations, single-page checkout enabled -- not a demo store. Homepage also surfaces a customer points-redemption widget and a dedicated multi-branch locator page. Saudi phone numbers present (+966 mobile and a 920 toll-free line). Pharmacy is an approved, high-repeat-frequency category. Confirms prior IN.",
+    "evidence": "og:site_name 'صيدلية الجازع'; checkout JSON contains is_apple_pay_enabled:true, tamara_pu[rchase]..., is_qitaf_enabled, is_mokafaa_enabled, is_single_page_checkout_enabled:true. Phone numbers found: 966920003344, 966505050505. CSS classes reference a '.JZA-branch-*' branches page (map/name/email per branch)."
+  },
+  {
+    "name": "Al Jazeera Perfumes",
+    "domain": "aljazeeraperfumes.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "perfume / beauty retail",
+    "qualification_path": "substantiality",
+    "reason": "Root domain auto-redirects by visitor geo (observed redirects to europe/france subdomains), so WebSearch was used to confirm true HQ: founded 1998 in Doha, Qatar, headquartered in Doha (geography confirmed). This is a genuine custom-built (Laravel API backend + Angular frontend) multi-region e-commerce operation -- dedicated qatar/uae/ksa/gcc/mena/international/europe/france subdomains all independently resolve live (HTTP 200). Physical retail presence corroborated (Villaggio Mall Qatar store listing, plus a flagship boutique at 97 Avenue des Champs-Elysees, Paris), and the brand is recognised by World Branding Awards and profiled on Fragrantica as 'one of the finest and most exclusive libraries of perfume oils in the Middle East'. Perfume/beauty is an approved, consumable/repeat-purchase category. Confirms prior IN.",
+    "evidence": "WebSearch: 'Al Jazeera Perfumes was founded in 1998 in Doha, Qatar... headquartered in Doha'; 'Al-Jazeera's only boutique located outside the Gulf countries is in Paris'. curl: api-qatar.aljazeeraperfumes.com serves a custom Laravel app (not a template/demo); qatar/uae/ksa/gcc/mena/international subdomains each return HTTP 200. villaggioqatar.com lists an 'Al Jazeera Perfumes' store directory entry."
+  },
+  {
+    "name": "Aljazierah Home Appliances",
+    "domain": "aljazierahstore.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "electronics / home appliances retail (air conditioners, freezers, water coolers, water heaters)",
+    "qualification_path": "substantiality",
+    "reason": "Live Salla-platform Saudi Arabia e-commerce store (شركة الجزيرة للأجهزة المنزلية) selling desert/evaporative and split/window air conditioners, horizontal freezers, water coolers and water heaters, with a Saudi VAT registration number. Individually fetched product pages show distinct real SKUs at distinct real SAR prices (not a shared demo price), e.g. three different desert-cooler horsepower variants at SAR 1,151.36 / 1,251.20 / 1,551.36. The site's sitemap lists 88 product-slug URLs plus separate category pages, comfortably over the 50-SKU substantiality floor. This spans several appliance types (not one narrow SKU line like 'lighting only'), analogous to the approved 'broad multi-category electronics/appliances' pattern. Re-verification overturns prior OUT/non_retail -- the original pass appears to have missed the live Salla storefront (page requires JS / was likely under-read).",
+    "evidence": "Product pages (title + price): 'مكيف صحراوي الجزيرة 1/4 حصان قش' price 1151.36; 'مكيف صحراوي الجزيرة 1/3 حصان قش' price 1251.2; 'مكيف صحراوي الجزيرة 1/2 حصان قش' price 1551.36. VAT Account Number 310099420700003. sitemap-2.xml -> 88 <loc> product URLs; platform confirmed as Salla (Saudi e-commerce SaaS) via multiple 'salla' references in page source."
+  },
+  {
+    "name": "aljazirah ford",
+    "domain": "aljazirahford.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive dealership",
+    "qualification_path": "n/a",
+    "reason": "Official Ford Saudi Arabia dealer site (Al Jazirah Vehicle Agencies). Automotive is an explicit Gate 2 hard fail regardless of how real/live the operation is. Confirms prior OUT.",
+    "evidence": "Title 'فورد السعودية | توكيلات الجزيرة للسيارات - الوكيل الرسمي' (Ford Saudi Arabia | Al Jazirah Vehicle Agencies - Official Agent). Nav includes vehicle price request, test-drive booking, service appointment, genuine parts pricing."
+  },
+  {
+    "name": "Abdul Latif Jameel Electronics",
+    "domain": "alje.com",
+    "verdict": "IN",
+    "gate_failed": "none",
+    "category_final": "consumer electronics & appliances retail",
+    "qualification_path": "substantiality",
+    "reason": "Fully live Saudi Arabia e-commerce site with a real functioning cart ('your cart is currently empty' state confirmed) and an extensive multi-category catalog: split/window ACs, refrigerators, freezers, ovens, dishwashers, washers/dryers, built-in appliances, microwaves, water coolers, vacuum cleaners, LED/Smart/Ultra-HD/QLED TVs, Android/iPhone smartphones, laptops and monitors. Real SAR pricing with monthly installment options throughout, physical showrooms in 5 Saudi cities (Jeddah, Riyadh x2, Makkah, Madinah, Tabuk) plus a TEKA brand shop, Saudi commercial registration (4030031963) and VAT number (300144357810003). Confirms prior IN.",
+    "evidence": "CR No. 4030031963, VAT No. 300144357810003. Showrooms listed: Jeddah/Tahlia St, Riyadh/Khalid Ibn Al Walid St, Riyadh/Laban St, Makkah/Mansour St, Madinah/Ad Duwaikhilah St, Tabuk/Qasmin St. Sample SKUs: Toshiba side-by-side fridge SR 7,779; Sharp mini-bar fridge SR 549 (was SR 1,229)."
+  },
+  {
+    "name": "Aljedaie Office Furniture | الجديعي للأثاث المكتبي",
+    "domain": "aljedaieoffice.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "B2B office/commercial furniture & fit-out (not consumer home furniture)",
+    "qualification_path": "n/a",
+    "reason": "Initial curl returned a spurious 415 (server rejects gzip/--compressed requests); retried without --compressed and got a full 200 page. Meta description: 'specialists in furnishing commercial and administrative buildings' (Saudi phone +966502905024). Product range is Chairs, Sofa Sets, Workstations, Executive Office, Modern Office, Meeting Tables, Reception -- i.e. commercial/contract office furniture -- plus a 'Submit a project' flow typical of B2B interior fit-out sales, not consumer home furniture retail. Confirms prior OUT.",
+    "evidence": "Products: Chairs, Sofa Sets, Workstations, Executive Office, Modern Office, Meeting Tables, Reception. Nav includes 'Projects' / 'Submit a project'. Cart present ('Your shopping cart is empty!') but entire catalog is commercial/office-fitout furniture, not consumer home furniture."
+  },
+  {
+    "name": "Al Jeri Investment",
+    "domain": "aljeriinvestment.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "investment holding (non-retail): transport & logistics, petroleum, automotive, energy, food & beverages, real estate",
+    "qualification_path": "n/a",
+    "reason": "Riyadh, Saudi Arabia-HQ'd (geography confirmed via P.O. Box, Al-Olaya Street, Riyadh address). Self-described strategic investment holding with portfolio sectors Transport & Logistics, Petroleum, Automotive, Energy, Food and Beverages, and Real Estate -- an investor-relations/CSR corporate site with no product catalog, pricing or cart, and no direct-to-consumer retail operation reachable on the domain. Investment holding, real estate, logistics, petroleum and automotive are explicit Gate 2 hard-fail categories. Confirms prior OUT.",
+    "evidence": "'Portfolio: Transport & Logistics, Petroleum, Automotive, Energy, Food and Beverages, Real Estate'. Address 'P.O. Box 34586, Al-Olaya Street Al Ghadeer District, Riyadh - 13311 Saudi Arabia'. No products/cart anywhere on site; content is investor relations, CSR, sustainability, news."
+  },
+  {
+    "name": "AlJomaih Automotive Company",
+    "domain": "aljomaihauto.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "automotive dealership",
+    "qualification_path": "n/a",
+    "reason": "Company name and domain unambiguously denote an automotive dealership (AlJomaih is a known Saudi vehicle dealer group). Automotive is an explicit Gate 2 hard fail regardless of how real/live the operation is, so a WebSearch corroboration was unnecessary despite the Cloudflare block. Confirms prior OUT.",
+    "evidence": "Company name 'AlJomaih Automotive Company'; domain aljomaihauto.com. Fetch returned Cloudflare 'Attention Required' 403 challenge page at check time (inconclusive on Gate 4 but immaterial given the categorical Gate 2 automotive exclusion)."
+  },
+  {
+    "name": "Alkhair Company | شركة الخير",
+    "domain": "alkhair.sa",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "coffee & food manufacturing (brand owner, non-retail)",
+    "qualification_path": "n/a",
+    "reason": "Saudi Arabia-HQ'd heritage brand (geography confirmed) but self-described as a coffee/food producer and importer since 1966, having built 'the nation's first coffee production facility'. It owns packaged consumer brands (Bunna, Valita, Mersal) sold through third-party retail channels, not through a direct-to-consumer storefront -- no cart, pricing or store locator anywhere on the domain. Manufacturing is an explicit Gate 2 hard fail regardless of how real/live the operation is. Confirms prior OUT.",
+    "evidence": "'a pioneer in the coffee industry and food imports since 1966'. 'the establishment of the nation's first coffee production facility, which has been operating successfully for over twenty years'. Brand portfolio: Bunna, Valita, Mersal. No cart/e-commerce present."
+  },
+  {
+    "name": "AlKhalid Group",
+    "domain": "alkhalidgroup.com",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "diversified holding conglomerate (non-retail): automotive, oil & gas, industrial, engineering & contracting; retail (home furnishing) is one of 5 sectors with no storefront on this domain",
+    "qualification_path": "n/a",
+    "reason": "Kuwait-HQ'd, 60+ year family conglomerate (geography confirmed) self-described as 'a diversified holding entity with 12 core businesses operating across five main sectors: Automotive, Retail, Oil & Gas, Industrial & Engineering & Contracting'. Retail is described only in one sentence ('exquisite and unique international brands in home furnishing lifestyle') with no linked storefront, catalog, pricing or cart anywhere on this domain, while Automotive/Oil & Gas/Industrial/Engineering & Contracting -- all explicit Gate 2 hard-fail categories -- dominate the group's identity and page content. Confirms prior OUT.",
+    "evidence": "'AlKhalid Group is a diversified holding entity with 12 core businesses operating across five main sectors, Automotive, Retail, Oil & Gas, Industrial & Engineering & Contracting'. Retail sector text: 'Exquisite and unique international brands in home furnishing lifestyle offering luxury, quality, distinction and comfort' -- no product/cart links found."
+  },
+  {
+    "name": "AL-KHONAINI GEN. TRAD. & CONT. CO.",
+    "domain": "alkhonaini.net",
+    "verdict": "OUT",
+    "gate_failed": "category",
+    "category_final": "general trading & contracting (B2B): office/commercial furniture + firefighting & safety equipment",
+    "qualification_path": "n/a",
+    "reason": "Kuwait-HQ'd (Shuwaikh Industrial, Block 1; +965 phone -- geography confirmed). Live WooCommerce-style store, but the catalog is Office Furniture (Chairs 37 products, Desks 15, Metal furniture 24, Sofas 9) and Fire Fighting & Safety equipment (extinguishers, firefighting systems), plus a 'Request quotation' B2B flow. Both office/commercial furniture and firefighting/safety equipment are explicit Gate 2 hard-fail lines (contracting/B2B trading), not consumer retail. Confirms prior OUT.",
+    "evidence": "Title 'Office Furniture in Kuwait | Al-Khonaini General Trad. & Cont. Co.'. Categories with counts: Sofa 9 products, Desks 15 products, Chairs 37 products, Metal furniture 24 products, plus Fire Fighting & Safety (Emergency Products, Fire Extinguisher, Firefighting Bundle). 'Request quotation' link present."
+  }
+]

@@ -1,0 +1,100 @@
+[
+ {
+  "name": "Line Furniture",
+  "domain": "linefurniture.net",
+  "country": "Saudi Arabia",
+  "category": "n/a",
+  "prior_qualification_reason": "Verified live broad furniture/home-decor e-commerce at line.com.sa (SAR pricing, working add-to-cart, hundreds of SKUs), Riyadh-based; approved home/furniture category, Gates 1/3/4/5 pass. Audited .net domain was dead but the relocated domain is live (Gate 4 rescue)."
+ },
+ {
+  "name": "KH Perfumes | عطور كي إتش",
+  "domain": "perfumekh.com",
+  "country": "Saudi Arabia",
+  "category": "n/a",
+  "prior_qualification_reason": "Live Saudi perfume WooCommerce store (Arabic); the former Salla store now redirects to perfumekh.com as the active site, and Instagram @khperfumes_sa is active. Perfume is an approved repeat-purchase category (Gate 2); http_code=000 was a proxy/anti-bot artifact (Gate 4)."
+ },
+ {
+  "name": "rihafbeauty",
+  "domain": "rihafbeauty.com",
+  "country": "Saudi Arabia",
+  "category": "n/a",
+  "prior_qualification_reason": "Live Shopify cosmetics store with currency=SAR and country=SA (confirmed in archived Shopify config) plus current search presence; beauty is an approved, repeat-purchase category (Gates 1/2/4). http_code=000 was a proxy artifact and the blank country is actually Saudi Arabia."
+ },
+ {
+  "name": "SPAR QATAR",
+  "domain": "sparqatar.shop",
+  "country": "Qatar",
+  "category": "n/a",
+  "prior_qualification_reason": "Real Qatari supermarket chain (6 Doha stores) run by Qatar-based licensee Al Wataniya International Holding, live at spar-qatar.com with QAR online grocery (also Snoonu/Talabat). Grocery approved, local operator HQ'd in-country (Gates 1/2/4); the record's sparqatar.shop is a dead/parked domain but the business is live."
+ },
+ {
+  "name": "Oncost Trading Company",
+  "domain": "oncost.com",
+  "country": "Kuwait",
+  "category": "n/a",
+  "prior_qualification_reason": "Kuwait's leading FMCG wholesale-to-retail chain, 22 outlets, live at oncost.com with KWD online grocery. Its substantial dedicated retail arm passes on its own merits alongside the wholesale line (corrected Gate 2, like Union Trading); Kuwait-HQ'd (Gate 1). http_code=000 was a proxy artifact."
+ },
+ {
+  "name": "Mazaya Food",
+  "domain": "onlinemazaya.com",
+  "country": "Saudi Arabia",
+  "category": "n/a",
+  "prior_qualification_reason": "Live 'Mazaya Store' online retailer (SAR; general merchandise + grocery) plus a physical hypermarket, HQ Qatif KSA. Its own dedicated consumer retail arm qualifies despite a coexisting food-distribution line (corrected Gate 2); approved category, Saudi (Gates 1/2/4)."
+ },
+ {
+  "name": "Tawseel Media Group",
+  "domain": "tawseelgroup.com",
+  "country": "Kuwait",
+  "category": "n/a",
+  "prior_qualification_reason": "Actually Kuwait's largest e-commerce retail group: flagship Taw9eel hyperstore ~80,000 items plus Sheeel, Thouqi (fashion), Tawarid, AlManzil, 1.6M+ orders in 2024, Kuwait HQ. Large-scale general-merchandise/grocery/fashion e-commerce (Gates 1/2/5); the 'construction' tag was a false keyword match (likely 'sanitary ware')."
+ },
+ {
+  "name": "wecre8",
+  "domain": "wecre8.com",
+  "country": "Saudi Arabia",
+  "category": "n/a",
+  "prior_qualification_reason": "Archived Sept-2025 snapshot shows a live Saudi fashion Shopify store ('Saudi Arabia Fashion Store... luxury clothing... KSA', Klaviyo-powered), not an agency as the name implies. Fashion is an approved category, Saudi (Gates 1/2/4); http_code=000/DNS failure was a proxy artifact (current liveness worth reconfirming)."
+ },
+ {
+  "name": "Gift Mart International",
+  "domain": "giftmart.net",
+  "country": "Saudi Arabia",
+  "category": "b2b_services",
+  "prior_qualification_reason": "Gate 2 corrected hybrid clause: runs substantial dedicated consumer retail (Gift Mart boutiques in Riyadh/Khobar and Artfeena boutiques VIA Riyadh/Diriyah under consumer brands Tejouree and Artfeena) plus a live Artfeena WooCommerce store (HyperPay payments, Aramex shipping, SAR, loyalty program), coexisting with its gift-manufacturing/B2B lines. Saudi-HQ'd; Lazurde/Algarawi pattern, not a B2B-onl"
+ },
+ {
+  "name": "INTERTEC GROUP W.L.L.",
+  "domain": "intertecqatar.com",
+  "country": "Qatar",
+  "category": "electronics",
+  "prior_qualification_reason": "SAMPLE RE-AUDIT CORRECTION (No -> Yes): Gate 2 (corrected hybrid clause): Intertec is Qatar-HQ'd and, alongside its Xiaomi/Huawei/Honor distribution arm, runs 9 dedicated consumer-electronics retail showrooms (Mi Stores, Huawei Experience Stores, Honor center in major Qatar malls) plus online shops. This is the Lazurde/Al Andalus pattern; the cross-verification applied the old, since-corrected blu"
+ },
+ {
+  "name": "Video Home & Electronic Centre",
+  "domain": "jumboqatar.com",
+  "country": "Qatar",
+  "category": "electronics",
+  "prior_qualification_reason": "Gate 2 corrected clause: Qatar-HQ'd Jumbo Electronics (founded Doha 1980) runs 13+ consumer electronics showrooms plus its OWN e-commerce (jumbosouq.com, 2-hour delivery) and the Jumbo Souq app. The exclusion applied the pre-correction 'hybrid B2B/distribution = fail' reading; coexisting distribution/MEP does not disqualify the substantial retail arm."
+ },
+ {
+  "name": "Manuel Market",
+  "domain": "manuelmarket.com",
+  "country": "Saudi Arabia",
+  "category": "grocery",
+  "prior_qualification_reason": "Gate 4 'dead/blocked is not an automatic fail': the domain DNS-fails in this environment, but web search confirms a real, current Saudi luxury supermarket chain (since 2010, multi-store Jeddah/Riyadh) with owned online grocery (manuelmarket.com/en, specific delivery fees) and a Google Play app (com.manuelmarket.app). Grocery, all gates pass."
+ },
+ {
+  "name": "miraymano",
+  "domain": "miraymano.com",
+  "country": "Saudi Arabia",
+  "category": "fashion",
+  "prior_qualification_reason": "SAMPLE RE-AUDIT CORRECTION (Held -> Yes): The marketplace concern resolves on inspection: miraymano.com is a single-merchant Shopify store with unified SAR checkout, its own delivery plus 1-hour in-store pickup, an own-branded collection, and 53+ curated multi-brand fashion/perfume SKUs, i.e. a first-party curated boutique (approved fashion/department-store model), Riyadh/Saudi; passes Gates 1-5."
+ },
+ {
+  "name": "RIS Group",
+  "domain": "ris.co",
+  "country": "Saudi Arabia",
+  "category": "home_furniture",
+  "prior_qualification_reason": "SAMPLE RE-AUDIT CORRECTION (No -> Yes): Corrected-Gate-2 miss (Lazurde pattern): ris.co is a live SAR furniture/home e-commerce store (add-to-cart/checkout confirmed) and RIS Living runs dedicated showrooms in Jeddah and Riyadh; furniture/home is an approved category, and the separate B2B/fit-out projects line no longer disqualifies the substantial dedicated retail arm."
+ }
+]

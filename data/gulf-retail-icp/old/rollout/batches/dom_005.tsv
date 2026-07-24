@@ -1,0 +1,19 @@
+source	country	name	domain	prior_verdict	prior_category
+original	Saudi Arabia	Mohammed Alkhuraiji Industrial Company	alkhuraiji.com	OUT	perfume / cosmetics / healthcare products manufacturing
+original	Saudi Arabia	ALMAHA OPTICAL	almahaopt.com	IN	health_beauty_pharmacy
+original	Kuwait	AlMailem Group	almailemgroup.com	OUT	non_retail
+held_review	Saudi Arabia	Almajal Alarabi Holding	almajalholding.com.sa	OUT	diversified_trading
+original	Saudi Arabia	Almajdouie Holding	almajdouie.com	OUT	non_retail
+original	Saudi Arabia	Almajdouie Motors	almajdouiemotors.com	OUT	non_retail
+original	Saudi Arabia	Al Majed Oud.co	almajed4oud.com	IN	beauty / perfume & personal-care retail
+original	Saudi Arabia	ALMAKTABA	almaktaba.com.sa	IN	sporting_toys_books
+held_review	Qatar	Al Mana	almana.com	IN	fashion
+held_review	Qatar	Almana Group	almanagroup.com	OUT	fashion
+original	Saudi Arabia	Almanea Co.	almanea.sa	IN	specialty_retail
+held_review	Saudi Arabia	Al-Moallem Group	almoallem-h.com	HELD	food_service_qsr
+original	Saudi Arabia	المذاق العربي	almthaqalarabi.com	IN	grocery
+original	Saudi Arabia	Al Mujtama Pharmacy	almujtama.com.sa	IN	health_beauty_pharmacy
+original	Saudi Arabia	Al Mulhim Auto Services Holding Co. L.t.d.	almulhimauto.com	OUT	non_retail
+original	Kuwait	Al Mulla Group	almullagroup.com	OUT	non_retail
+original	Saudi Arabia	Al Musbah Group	almusbah.com	IN	grocery
+original	Saudi Arabia	Almutlaq Company	almutlaqco.com.sa	IN	home_furniture_appliance
