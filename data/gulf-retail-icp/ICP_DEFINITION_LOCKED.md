@@ -233,6 +233,28 @@ consistently re-applied during the recent re-verification pass, still valid as s
 
 ## Changelog vs. the 2026-07-23 morning "locked" version
 
+- **2026-07-24, fourth round: 405 Leads tagged for manual mass-conversion; Zoho has no API-level
+  Convert-Lead action.** This MCP server's Zoho toolset has no equivalent of Zoho's native "Convert
+  Lead" button — only generic CRUD, which cannot atomically create a Contact + link an Account +
+  close a Lead the way Zoho's own conversion flow does. Rather than hand-roll a create-Contact-then-
+  delete-Lead approximation, the user asked for a tag-and-manual-mass-convert workflow instead:
+  identify the correct leads, tag them, make the correct target Account visible on each one, and let
+  the user mass-convert via Zoho's own UI. Built from the two prior scoping agents' confirmed-match
+  output (446 + 7 = 453 leads with a `matched_account_id` pointing at a Yes account), minus 1 lead
+  for Al-Dawaa (untouched per standing instruction) and minus 47 for ALshaya Group (pending user
+  decision, see below) = 405 eligible. For the 58 leads matched to one of the 13 just-consolidated
+  duplicate accounts, `matched_account_id`/`matched_account_name` were remapped to the canonical
+  record before writing. Created a new tag `Gulf_Retail_ICP_Convert` (Leads module). **First write
+  attempt used a `Lead_Notes` field that does not exist on this Zoho org's Leads module** — Zoho's
+  API silently drops unrecognized keys rather than erroring, so all 405 calls returned `SUCCESS` with
+  the tag correctly applied but the intended note text nowhere on the record. Caught by direct
+  re-query (not trusting the SUCCESS response), root-caused via `getFields`, corrected to the real
+  field (`Description`, which also has the useful property of auto-carrying into the Contact's own
+  Description field on conversion), and re-sent. Independently verified by re-querying all 405 lead
+  IDs directly (not sampled) after the fix: 405/405 confirmed with the correct tag and Description
+  text. **Lesson**: never assume a custom-sounding field name exists on a standard Zoho module without
+  checking `getFields` first — an unrecognized field key is silently accepted and dropped, not
+  rejected, so the write response gives no signal that anything was wrong.
 - **2026-07-24, third round: Leads/Contacts cleanup for Yes accounts surfaced 16 duplicate-Zoho-
   account cases; 13 resolved by consolidation, not merge.** Scoping every Yes account's Leads and
   Contacts (targeted per-domain/per-name COQL queries, not brute-force pagination) to convert
