@@ -179,6 +179,27 @@ consistently re-applied during the recent re-verification pass, still valid as s
 
 ## Changelog vs. the 2026-07-23 morning "locked" version
 
+- **2026-07-23, later same day — adversarial second-look found 25 more of the 110 never-cross-checked
+  Yes flips did not hold up (user-caught error).** After the duplicate merge brought the count to 433,
+  the user still judged it implausible and pushed back a third time. Investigation found the real
+  mechanism: 110 of the 433 Yes accounts (the 93 full-audit FLIP_YES calls plus 17 sample-audit
+  flips) had each been approved by exactly ONE agent, in a task explicitly framed as "find misses,
+  don't rubber-stamp" — a one-directional incentive with no adversarial second look, unlike the
+  original 323 accounts which went through a dedicated 14-batch cross-verify pass earlier in the
+  project. Ran 8 batches of skeptical re-verification on those 110, this time with agents explicitly
+  briefed to try to DISQUALIFY each account (re-checking SKU counts, geography, and app-download
+  claims from scratch rather than trusting the prior note, defaulting to downgrade on any doubt).
+  Result: 85 CONFIRM, 8 DOWNGRADE_NO, 17 DOWNGRADE_HELD — a 22.7% failure rate under skeptical
+  re-check, confirming the one-directional-incentive hypothesis. Common failure patterns: inflated
+  SKU counts (aamaad claimed "167 product-card elements," independently recounted at 19, all one
+  product line), frozen/password-gated storefronts mistaken for live ones (rebound.net returns
+  HTTP 402, tomorna.com is password-gated), unconfirmed app-download figures accepted at face value
+  (Sahseh's Gate 5b rescue rested on stale/unverifiable numbers with real UAE-vs-Saudi geography
+  doubt), thin B2C storefronts on fundamentally B2B businesses (Arabian Furniture & Design is a
+  Herman Miller office-fit-out dealer, not a consumer retailer), and marketplace/aggregator models
+  missed on first pass (Yuehlia's own about-page describes a multi-vendor marketplace). Final
+  corrected count: **408 Yes** (was 433, was 453 before the duplicate merge). See
+  `rollout/adversarial_consolidation_report.json` for the full verdict log.
 - **2026-07-23, later same day — 20 duplicate accounts found and merged out of the Yes list
   (user-caught error).** After the full-audit consolidation reported 453 Yes accounts, the user
   directly challenged the count as implausible. Investigation confirmed the concern: because the

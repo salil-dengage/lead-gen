@@ -1,0 +1,45 @@
+{
+  "total_verdicts": 110,
+  "matched": 110,
+  "unmatched": 0,
+  "confirms": 85,
+  "downgrade_no": [
+    "nukhbatech",
+    "aamaad",
+    "KH Perfumes | عطور كي إتش",
+    "Gift Mart International",
+    "sondos",
+    "RojoCoral Boutique | Children's Fashion & Accessories",
+    "rebound",
+    "Arabian Furniture & Design"
+  ],
+  "downgrade_held": [
+    "aDawliah Electronics",
+    "ALMAKTABA",
+    "مفارش العييري",
+    "Muntazah Holding",
+    "cascadesco",
+    "Maraya",
+    "rihafbeauty",
+    "Sleep High",
+    "Raha",
+    "tomorna",
+    "Dar Al Hadaya",
+    "GUTHMI Group",
+    "صحصح | Sahseh",
+    "Bahamdoon Trading Company",
+    "ALKAFFARY GROUP",
+    "Yuehlia | يوليا",
+    "Toys Brand Trading Co. LLC"
+  ],
+  "before": {
+    "Yes": 433,
+    "Held": 73,
+    "No": 759
+  },
+  "after": {
+    "Yes": 408,
+    "Held": 90,
+    "No": 767
+  }
+}
