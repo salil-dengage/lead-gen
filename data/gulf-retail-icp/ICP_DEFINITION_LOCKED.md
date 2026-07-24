@@ -129,6 +129,16 @@ Passes via **either** path:
   not just a bonus signal — confirmed cases: Rasseed, ToYou, Abar). Below 50k does not rescue an
   otherwise-failing account (confirmed case: Al Sadhan's branded app has only ~10K downloads, not
   enough to rescue its dead website).
+  - **This explicitly includes marketplace/delivery aggregators, overriding the Exclusions clause
+    below for confirmed 50k+ cases (user-directed 2026-07-24).** The Exclusions clause's "regardless
+    of size" language and this override appear to conflict on paper; when both apply to the same
+    account, Gate 5b wins. Confirmed cases actually holding Yes on this basis: **ToYou/ToYouKSA**
+    (60+ cities, 27,000+ merchant partners), **HungerStation** (20M+ downloads, largest Saudi
+    delivery app), **Snoonu** (Qatar's flagship super-app, 1M+ installs), and **Nana** (a distinct,
+    stronger case — vertically-integrated quick-commerce grocery retailer running its own dark-store
+    inventory, not merely a third-party marketplace, so it does not need the override to qualify).
+    Do not re-flag these as an exclusion violation in a future audit; this is resolved, not an
+    oversight.
 
 ### Gate 6 — Duplicate-consolidation
 Conglomerates operating many franchise storefronts get **one consolidated account**, not one per
