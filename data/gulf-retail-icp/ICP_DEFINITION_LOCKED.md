@@ -179,6 +179,31 @@ consistently re-applied during the recent re-verification pass, still valid as s
 
 ## Changelog vs. the 2026-07-23 morning "locked" version
 
+- **2026-07-23, later same day — 20 duplicate accounts found and merged out of the Yes list
+  (user-caught error).** After the full-audit consolidation reported 453 Yes accounts, the user
+  directly challenged the count as implausible. Investigation confirmed the concern: because the
+  full audit ran as 33 independent parallel batches, each verifier only ever saw its own ~24
+  accounts and never the other ~429 Yes rows, so the same real-world company could be (and was)
+  flipped to Yes twice under different CRM name/domain variants, or as both a parent holding
+  company and its own named retail subsidiary. A full entity-resolution pass across all 453 Yes
+  rows at once (the structural fix — one pass that can actually see the whole list) found 20
+  confirmed duplicate pairs, including plain name/transliteration variants (Nahdi /
+  صيدلية النهدي, Toyland / TOYLAND KSA, ALMAKTABA / Maktab), domain-TLD variants of the same
+  brand (ALMAHA OPTICAL .com / .com.sa), and parent-holding-company-plus-named-subsidiary pairs
+  where the parent's own qualifying reason named the subsidiary that was *also* already its own
+  row (MAZ HOLDING / Bed Quarter Company, The Blue Group - Qatar / Blue Salon, RCIT Holding Co. /
+  rubaiyat, UniPharma / Adam Medical Company, and others). Each pair was merged by keeping the row
+  with an existing Zoho account match where available, otherwise the specific operating retail
+  brand over its holding/parent entity; the dropped row's tag was set to No with a
+  `duplicate_consolidation` reason pointing to the kept row. Final corrected count: **433 Yes**
+  (was 453). One additional pair (A Market ماركت / Abdullah Al-Othaim Markets) was investigated
+  but left unmerged pending a direct Zoho lookup: both already have existing but *different* Zoho
+  account IDs and the names suggest possibly-distinct Al-Othaim family branches, so collapsing
+  them without checking the actual Zoho records risked destroying legitimate distinct data.
+  Separately, 7 of the 20 merged pairs revealed that Zoho itself already carries both sides as
+  separate existing account records (different account IDs for the same real company) — a
+  pre-existing CRM data-quality issue, not one this project introduced, worth flagging for the
+  CRM dedup step. See `rollout/yes_duplicate_merge_log.json` for the full merge log.
 - **2026-07-23, later same day — full re-audit of the entire excluded (No/Held) pool completed.**
   Triggered by the Gate 2 fix below plus a direct user challenge ("are you sure there are only 9
   mistakes?"). A 144-account stratified random sample of the 935-account excluded pool was audited
