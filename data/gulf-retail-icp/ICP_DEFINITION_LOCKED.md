@@ -233,6 +233,33 @@ consistently re-applied during the recent re-verification pass, still valid as s
 
 ## Changelog vs. the 2026-07-23 morning "locked" version
 
+- **2026-07-24, third round: Leads/Contacts cleanup for Yes accounts surfaced 16 duplicate-Zoho-
+  account cases; 13 resolved by consolidation, not merge.** Scoping every Yes account's Leads and
+  Contacts (targeted per-domain/per-name COQL queries, not brute-force pagination) to convert
+  eligible leads and re-link stray contacts turned up 16 Yes accounts split across two Zoho Account
+  records each: a newer record (created/matched during this session's Yes rollout, holding the
+  Qualify-Qualified status) and an older, separate record for the same real company (holding the
+  actual historical Contacts, sometimes years of them) that the rollout never matched due to a name
+  variant. The user explicitly rejected using Zoho's native account-merge tool and asked for "any
+  other way" — resolved instead with the same non-destructive pattern already used for the 7
+  Account-level dupes in Task #25: move the qualification data (Account_Progress, Account_Notes,
+  and any enrichment field empty on the old record) onto the **old** record since it holds the real
+  contact history, and leave a `[DUPLICATE ...]` pointer note on the **new** record instead of
+  deleting or merging it. Applied to 13 of the 16: Panda Retail Company, eXtra, Zohoor, NICE ONE,
+  Ahmed Abdulwahed Co., Al Majed Oud.co, Alyasra Fashion, L'azurde, ToYou, Nahdi Medical Co.,
+  Hussein Bakry Gazzaz & Co, Imtiaz Al Arabia, Kenz. All 26 writes (13 old + 13 new) independently
+  re-verified by direct re-query, not trusted from the write response alone (per the standing lesson
+  below). `master_final_rows.json`'s `zoho_account_id` for these 13 companies was repointed from the
+  now-redundant new record to the canonical old record. The other 3 of the 16 did NOT fit this
+  pattern and were deliberately excluded: **Al Meera Group / ALMEERA CONSUMER GOODS COMPANY QSC**
+  needed the *opposite* fix — the existing duplicate-flag note (written earlier in Task #25) already
+  named the *new* record as canonical, the reverse of the general rule here; only the one orphaned
+  contact (Raafat Abbas) was re-linked to the new record, no account-side note changed. **Al-Dawaa
+  Medical Services Co.** is under a standing user instruction to not be touched at all, in any way,
+  for the remainder of this cleanup. **ALshaya Group** is a genuine 5-way split (Shaya Turkey,
+  M. H. Alshaya, Al Shaya Group, Victoria's Secret, The Keeper — 47 matching leads total) with no
+  obvious single canonical record and is pending explicit user direction before any of its accounts,
+  contacts, or leads are touched.
 - **2026-07-24, second round: field-mapping bug + widespread No/Held write failures found and
   fixed via full independent audit.** After the first round of fixes above, the user asked a
   direct, skeptical question: are all No accounts really Disqualified, are Held accounts really

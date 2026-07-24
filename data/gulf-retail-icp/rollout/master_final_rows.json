@@ -1340,8 +1340,8 @@
     "reason": "Direct fetch returned HTTP 403 (Cloudflare challenge), so WebSearch was used per protocol and strongly corroborates the business. Al Majed for Oud Company is a Saudi Joint Stock Company HQ'd in Riyadh (As Sahafah district), est. 1956, Tadawul-listed (IPO approved June 2024), with ~1,000 developed brands/products and 300 sales platforms across KSA, Kuwait, UAE, Bahrain, Oman and Qatar. Perfume/oud is an approved, consumable, repeat-purchase Gate 2/3 category. WebSearch explicitly confirms a live online store selling perfumes, oils, oud products, incense, and beauty items with regional shipping - satisfying Gate 4 and Gate 5 (substantiality) even though direct fetch was blocked. || CROSS-VERIFICATION (independent 2nd pass): Al Majed for Oud, a Riyadh-HQ'd Saudi joint-stock oud/perfume retailer (est. 1956, Tadawul-listed, ~1,000 products, ~300 outlets) with a live regional online store. Approved consumable category; this is the surviving account of the #18/#19 duplicate pair.",
     "source": "original_sweep+crossverified+crm_scale_filter_pass",
     "zoho_status": "existing",
-    "zoho_account_id": "3978798000012340248",
-    "zoho_match_type": "name_corrected"
+    "zoho_account_id": "3978798000084746780",
+    "zoho_match_type": "consolidated_duplicate_2026-07-24 (was name_corrected, pointed at redundant new record 3978798000012340248; corrected to canonical old record 3978798000084746780 which holds real contact history)"
   },
   {
     "name": "ALMAKTABA",
@@ -2040,8 +2040,8 @@
     "reason": "Alyasra Fashion, the fashion division of the Kuwaiti Yousef A. Al Sager holding group (Kuwait City HQ since 1958; Fashion division est. 1993), is a genuine, large multi-brand fashion retailer (Gate 1 pass) with 220+ stores across the GCC, 30+ international brands (Kenzo, Marc Jacobs, Banana Republic, DKNY, ECCO, etc.) spanning apparel, footwear, watches/jewelry and fragrance, and 50,000+ sqm of retail space (Gate 2/3/5 pass, broad multi-category, substantial scale). Its Ontime watches/jewelry/accessories chain runs a genuine transactional web store (ontime.com/kw/en) and its own 'Ontime Online Shopping' consumer app (Gate 4 pass). || CROSS-VERIFICATION (independent 2nd pass): Qualifies as the Alyasra Fashion division (Kuwait HQ since 1958, 220+ stores, 30+ brands) whose Ontime chain runs a live transactional web store plus its own app. Per Gate 6 the group's separate food-distribution arm doesn't affect the clean, retail-qualifying fashion subsidiary.",
     "source": "original_sweep+crossverified+crm_scale_filter_pass",
     "zoho_status": "existing",
-    "zoho_account_id": "3978798000165720044",
-    "zoho_match_type": "fuzzy_name"
+    "zoho_account_id": "3978798000015823202",
+    "zoho_match_type": "consolidated_duplicate_2026-07-24 (was fuzzy_name, pointed at redundant new record 3978798000165720044; corrected to canonical old record 3978798000015823202 which holds real contact history)"
   },
   {
     "name": "AlYemni Group - مجموعة اليمني",
@@ -3818,8 +3818,8 @@
     "reason": "Major, well-known, publicly traded Saudi electronics retailer (eXtra / United Electronics Co.) with a large live transactional Arabic/English e-commerce site. || CROSS-VERIFICATION (independent 2nd pass): eXtra / United Electronics Co., a Tadawul-listed Saudi electronics retailer with a large live transactional store. Well-established approved-category retailer, no gate fails.",
     "source": "original_sweep+crossverified+crm_scale_filter_pass",
     "zoho_status": "existing",
-    "zoho_account_id": "3978798000014369032",
-    "zoho_match_type": "domain"
+    "zoho_account_id": "3978798000084746775",
+    "zoho_match_type": "consolidated_duplicate_2026-07-24 (was domain, pointed at redundant new record 3978798000014369032; corrected to canonical old record 3978798000084746775 which holds real contact history)"
   },
   {
     "name": "Extreme Sports",
@@ -5190,8 +5190,8 @@
     "reason": "Live site (HTTP 200) is a genuine, substantial perfume/beauty/personal-care e-commerce retailer: essential oils, luxury/daily/hair/niche perfumes, musk, body care (butter, oils, spray, scrub), deodorant, hand cream, shower gel, gift sets, skincare, home fragrance (room/car fresheners, candles). Real live cart with discounted SAR pricing across dozens of SKUs visible in the homepage snippet alone. Saudi commercial registration and tax ID confirmed directly on-page (CR prefix consistent with Eastern Province/Dammam registration; VAT number in the standard 15-digit Saudi format beginning with 3). || CROSS-VERIFICATION (independent 2nd pass): Geography verified: perfume/beauty retailer HQ'd in Al Khobar, KSA (not UAE), founded 1991. Consumable repeat category. Clears all gates.",
     "source": "original_sweep+crossverified+crm_scale_filter_pass",
     "zoho_status": "existing",
-    "zoho_account_id": "3978798000164024001",
-    "zoho_match_type": "duplicate_caught_on_create"
+    "zoho_account_id": "3978798000084746813",
+    "zoho_match_type": "consolidated_duplicate_2026-07-24 (was duplicate_caught_on_create, pointed at redundant new record 3978798000164024001; corrected to canonical old record 3978798000084746813 which holds real contact history)"
   },
   {
     "name": "Yalla Toys",
@@ -7164,8 +7164,8 @@
     "reason": "Gazzaz, founded 1942 and headquartered in Makkah, Saudi Arabia (Gate 1 pass), is described as the largest Saudi retail group for luxury perfumes, clothes and beauty (Gate 2/3 pass: perfume/beauty is a consumable, high-repeat-purchase category). Its site gazzaz.com.sa is a fully live, transactional e-commerce store with a large real catalog well beyond the 50-SKU floor (Gate 4/5 pass). || CROSS-VERIFICATION (independent 2nd pass): Makkah-HQ'd Saudi perfume/beauty/luxury retailer since 1942 with a live transactional store and a large catalog. Consumable beauty and perfume is a repeat-purchase approved category.",
     "source": "original_sweep+crossverified+crm_scale_filter_pass",
     "zoho_status": "existing",
-    "zoho_account_id": "3978798000084747935",
-    "zoho_match_type": "fuzzy_name"
+    "zoho_account_id": "3978798000084746787",
+    "zoho_match_type": "consolidated_duplicate_2026-07-24 (was fuzzy_name, pointed at redundant new record 3978798000084747935; corrected to canonical old record 3978798000084746787 which holds real contact history)"
   },
   {
     "name": "GRAND HYPER MARKET",
@@ -9446,8 +9446,8 @@
     "reason": "Confirmed via web search: Imtiaz's brands (Nichii, Etam, Parfois, Kitschen, Diamantine, Dalydress, Shana) sell through a real e-commerce platform (fashion.sa) with region-wide delivery. Imtiaz Al Arabia, part of Jarir Group (confirmed via web search), Riyadh-HQ'd fashion retail franchise operator: 8+ international brands (Nichii, Shana, Double Agent, Gingersnaps etc.), 100+ stores, 600+ employees. Consolidated franchise-operator account, same treatment as Cenomi Retail. || CROSS-VERIFICATION (independent 2nd pass): Rulebook explicitly names Imtiaz Al Arabia (Jarir Group) as a passing Saudi-HQ'd franchise operator; consolidated multi-brand fashion account with live e-commerce via fashion.sa.",
     "source": "original_sweep+crossverified+crm_scale_filter_pass",
     "zoho_status": "existing",
-    "zoho_account_id": "3978798000138824061",
-    "zoho_match_type": "duplicate_caught_on_create"
+    "zoho_account_id": "3978798000084747831",
+    "zoho_match_type": "consolidated_duplicate_2026-07-24 (was duplicate_caught_on_create, pointed at redundant new record 3978798000138824061; corrected to canonical old record 3978798000084747831 which holds real contact history)"
   },
   {
     "name": "INTERTEC GROUP W.L.L.",
@@ -9614,8 +9614,8 @@
     "reason": "CORRECTED (Gate 2 hybrid-B2B rule was mis-applied -- user caught this): L'azurde is the world's 4th-largest gold manufacturer with a large wholesale/export arm, but it ALSO runs a genuinely large, dedicated consumer retail operation: 70 retail stores across Saudi Arabia and Egypt, and FOUR distinct branded e-commerce lines (L'azurde, Miss L', Instyle, Waves) confirmed live at lazurde.com/en-sa with real 'Shop Collection' flows, category browsing (necklaces/rings/bracelets/earrings/anklets), a store locator, and Tabby/Tamara installment checkout. The retail arm stands entirely on its own merits per the corrected Gate 2 reading: a coexisting B2B/manufacturing line does not disqualify a company that also runs a real, substantial retailer. Category: jewelry, approved, broad.",
     "source": "original_sweep+crossverified+gate2_hybrid_rule_correction+crm_scale_filter_pass",
     "zoho_status": "existing",
-    "zoho_account_id": "3978798000030304454",
-    "zoho_match_type": "domain"
+    "zoho_account_id": "3978798000030769746",
+    "zoho_match_type": "consolidated_duplicate_2026-07-24 (was domain, pointed at redundant new record 3978798000030304454; corrected to canonical old record 3978798000030769746 which holds real contact history)"
   },
   {
     "name": "leem",
@@ -9838,8 +9838,8 @@
     "reason": "Large, well-known Saudi beauty e-commerce platform (self-described #1 makeup site in the Kingdom), extremely broad catalog across makeup/perfume/health/devices/nails/gifts. || CROSS-VERIFICATION (independent 2nd pass): Large, well-known Saudi beauty e-commerce platform with an extremely broad catalog (makeup/perfume/health/devices/nails/gifts). Approved high-repeat beauty category, clear scale; all gates pass.",
     "source": "original_sweep+crossverified+crm_scale_filter_pass",
     "zoho_status": "existing",
-    "zoho_account_id": "3978798000024620158",
-    "zoho_match_type": "domain"
+    "zoho_account_id": "3978798000084746862",
+    "zoho_match_type": "consolidated_duplicate_2026-07-24 (was domain, pointed at redundant new record 3978798000024620158; corrected to canonical old record 3978798000084746862 which holds real contact history)"
   },
   {
     "name": "oceanpharmacy",
@@ -10930,8 +10930,8 @@
     "reason": "One of Saudi Arabia's largest hypermarket/supermarket chains (Savola Group); site returned a Vercel bot-detection checkpoint, not a dead/fake-business signal. || CROSS-VERIFICATION (independent 2nd pass): One of Saudi Arabia's largest hypermarket chains (Savola Group); grocery approved with overwhelming scale. The site's Vercel bot-detection is anti-scraping, not a dead-business signal.",
     "source": "original_sweep+crossverified+crm_scale_filter_pass",
     "zoho_status": "existing",
-    "zoho_account_id": "3978798000008419077",
-    "zoho_match_type": "fuzzy_name"
+    "zoho_account_id": "3978798000084746764",
+    "zoho_match_type": "consolidated_duplicate_2026-07-24 (was fuzzy_name, pointed at redundant new record 3978798000008419077; corrected to canonical old record 3978798000084746764 which holds real contact history)"
   },
   {
     "name": "شركة شموع الماضي",
@@ -11280,8 +11280,8 @@
     "reason": "Confirmed via web search to be a leading Saudi super-app (food/grocery delivery, gifting, courier) active in 60+ cities with 27,000+ merchant partners including McDonald's/Albaik/Starbucks -- scale strongly implies well past the 50k-download threshold, though a second search still could not surface an exact figure (paywalled analytics) -- accepting the strong circumstantial scale evidence as sufficient. || CROSS-VERIFICATION (independent 2nd pass): ToYou is explicitly one of the pre-confirmed Gate 5b app-rescue cases named in the rulebook (Rasseed/ToYou/Abar); leading Saudi super-app.",
     "source": "original_sweep+crossverified+crm_scale_filter_pass",
     "zoho_status": "existing",
-    "zoho_account_id": "3978798000033427477",
-    "zoho_match_type": "duplicate_caught_on_create"
+    "zoho_account_id": "3978798000002651246",
+    "zoho_match_type": "consolidated_duplicate_2026-07-24 (was duplicate_caught_on_create, pointed at redundant new record 3978798000033427477; corrected to canonical old record 3978798000002651246 which holds real contact history)"
   },
   {
     "name": "tuhoon",
@@ -11448,8 +11448,8 @@
     "reason": "Well-known, large Saudi oud/perfume retail chain with many physical branches. || CROSS-VERIFICATION (independent 2nd pass): Gate 6 (Duplicate-consolidation): this is the same company as entry #19 Al Majed Oud (almajed4oud.com), founded 1956 in Riyadh. It carries no domain of its own and must consolidate into that single account rather than stand as a separate Yes row.",
     "source": "original_sweep+crossverified",
     "zoho_status": "existing",
-    "zoho_account_id": "3978798000012340248",
-    "zoho_match_type": "fuzzy_name"
+    "zoho_account_id": "3978798000084746780",
+    "zoho_match_type": "consolidated_duplicate_2026-07-24 (was fuzzy_name, pointed at redundant new record 3978798000012340248; corrected to canonical old record 3978798000084746780 which holds real contact history)"
   },
   {
     "name": "Al Nasser Kuwait",
@@ -11882,8 +11882,8 @@
     "reason": "[DUPLICATE - CONSOLIDATED] Same underlying company as 'Nahdi' (nahdi.sa), which remains tagged Yes. Folded in to avoid double-counting; cleaner official brand domain (nahdi.sa) vs online subdomain variant. Original reason: Al-Nahdi Medical Company, Saudi Arabia's largest retail pharmacy chain, Tadawul-listed, hundreds of branches. || CROSS-VERIFICATION (independent 2nd pass): Al-Nahdi is Saudi Arabia's largest retail pharmacy chain (Tadawul-listed, hundreds of branches, live e-commerce/app); approved category. Clears all gates.",
     "source": "original_sweep+crossverified+dedup_merge",
     "zoho_status": "existing",
-    "zoho_account_id": "3978798000165730061",
-    "zoho_match_type": "duplicate_caught_on_create"
+    "zoho_account_id": "3978798000025008853",
+    "zoho_match_type": "consolidated_duplicate_2026-07-24 (was duplicate_caught_on_create, pointed at redundant new record 3978798000165730061; corrected to canonical old record 3978798000025008853 which holds real contact history)"
   },
   {
     "name": "كهرباء الجنوب للإنارة",
@@ -13590,8 +13590,8 @@
     "reason": "RESOLVED: confirmed via web search -- top Saudi online store for women's undergarments/loungewear, multiple real brands carried, real shipping policy, active ongoing coupon/discount ecosystem indicating real ongoing commerce. Category: fashion/apparel, approved. || CROSS-VERIFICATION (independent 2nd pass): Prior held-review already resolved via web search: top Saudi online store for women's undergarments/loungewear carrying multiple brands with real shipping/coupons; approved fashion/apparel.",
     "source": "original_sweep+held_review+crossverified+crm_scale_filter_pass",
     "zoho_status": "existing",
-    "zoho_account_id": "3978798000138833077",
-    "zoho_match_type": "domain"
+    "zoho_account_id": "3978798000084747890",
+    "zoho_match_type": "consolidated_duplicate_2026-07-24 (was domain, pointed at redundant new record 3978798000138833077; corrected to canonical old record 3978798000084747890 which holds real contact history)"
   },
   {
     "name": "Kitchen Zone مطابخ زون",
@@ -16334,8 +16334,8 @@
     "reason": "[FULL-AUDIT FLIP_YES] The 500 'dead' call was a transient/bot error: nahdi.sa is live and Nahdi is Saudi Arabia's largest retail pharmacy chain (Jeddah-HQ'd, 1,151 stores, live online pharmacy). Retail pharmacy chains are the explicit approved exception, so this is a clear qualifier. || ADVERSARIAL-CONFIRM: Jeddah-HQ'd Nahdi Medical Company, largest retail pharmacy chain in MENA (1,150+ pharmacies, Tadawul-listed ticker 4164) with a live online pharmacy; retail pharmacy chains are the explicit Gate 2 approved exception. Clear qualifier.",
     "source": "gap1_apollo_keyword+full_audit_flip+crm_scale_filter_pass",
     "zoho_status": "existing",
-    "zoho_account_id": "3978798000165730061",
-    "zoho_match_type": "name_corrected"
+    "zoho_account_id": "3978798000025008853",
+    "zoho_match_type": "consolidated_duplicate_2026-07-24 (was name_corrected, pointed at redundant new record 3978798000165730061; corrected to canonical old record 3978798000025008853 which holds real contact history)"
   },
   {
     "name": "Mogahwi Stationery & Office Equipment",
@@ -17132,8 +17132,8 @@
     "reason": "RESOLVED: confirmed via web search -- the biggest multi-brand distributor/retailer of smart lifestyle electronics in KSA, 40+ brands, 52 consumer-facing showrooms, ~900 employees, operating since the 1960s. Same 'distributor label but genuine consumer retail chain' pattern already established as passing for Al Andalus Trading Establishment. Category: electronics, approved. || CROSS-VERIFICATION (independent 2nd pass): Independent check resolves the distributor label: this is a genuine 54-showroom Saudi consumer-electronics retail chain (Jeddah HQ, founded 1960) with a tracked B2C e-commerce store and app, sales almost entirely in Saudi Arabia. Approved category, real channel, real scale.",
     "source": "gap1_apollo_keyword+held_review+crossverified+crm_scale_filter_pass",
     "zoho_status": "existing",
-    "zoho_account_id": "3978798000084746876",
-    "zoho_match_type": "duplicate_caught_on_create"
+    "zoho_account_id": "3978798000084746818",
+    "zoho_match_type": "consolidated_duplicate_2026-07-24 (was duplicate_caught_on_create, pointed at redundant new record 3978798000084746876; corrected to canonical old record 3978798000084746818 which holds real contact history)"
   },
   {
     "name": "Karma cosmetics company",
