@@ -1,0 +1,40 @@
+{
+  "date": "2026-07-24",
+  "summary": "No/Held pool duplicate-detection and quality-pattern check, mirroring the Yes-list dedup pass.",
+  "methodology": [
+    "Domain-root exact-match clustering across all 1265 rows.",
+    "Fuzzy name-token clustering (stopword-stripped, document-frequency-filtered to avoid generic-word false positives) across all 1265 rows.",
+    "Systematic sweep of all rows whose reason text makes a claim about another row current tag (from the earlier duplicate-merge and adversarial-recheck rounds), verified against actual current state.",
+    "Verification of 57 No-tagged accounts that were excluded solely on a bare Apollo NAICS code with zero semantic check (never swept into the earlier 33-batch full audit), via 4 parallel agents applying the full gate ruleset with live-fetch + web-search corroboration."
+  ],
+  "fixes_applied": [
+    {
+      "type": "stale_duplicate_tag_sync",
+      "count": 5,
+      "detail": "Dropped-duplicate rows whose text claimed the kept row remains tagged Yes, but the kept row had since been downgraded by the adversarial-recheck or CRM/scale-filter rounds. 3 were real inconsistencies (Held on one side, No on the other for the same company).",
+      "names": [
+        "Toyland",
+        "aDawliah Electronic Appliances Holding",
+        "Maktab",
+        "ajlanbros",
+        "بيوتي سيكرتس"
+      ]
+    },
+    {
+      "type": "contradiction_resolved",
+      "count": 2,
+      "detail": "Ahmad A. Abed Holding vs Ahmad A. Abed shared one Zoho ID with opposite verdicts from two verification passes; synced to the better-evidenced (Held) verdict. Aldawaa pharmacies (Held) was the same 900+-branch chain already captured cleanly as Yes under Al-Dawaa Medical Services Co.; resolved as duplicate (No)."
+    },
+    {
+      "type": "duplicate_merged",
+      "count": 1,
+      "detail": "Naqi water | نقي للمياه merged into NAQI نقي (both Held, same company, more complete evidence kept)."
+    },
+    {
+      "type": "naics_only_reverification",
+      "count": 57,
+      "detail": "57 No-tagged accounts re-verified against the full gate ruleset with live-fetch/web-search evidence, replacing the bare non-retail-NAICS-only stub reason. 5 flipped to Yes (Kadoon Company via K.Cosmetics; Alyasra Foods via Makani Foods; Abu Khalifa Trading via Keakado.com; شركة صقر الجزيرة via jzfstore.com; WISTER, a 14-branch Jeddah QSR chain blocked by a domain typo). 52 confirmed No with real evidence."
+    }
+  ],
+  "net_effect": "Yes 292 -> 297, No 868 -> 863 (net across all fixes), Held 105 (net unchanged across fixes, composition changed)."
+}
