@@ -1339,9 +1339,9 @@
     "gate_failed": "none",
     "reason": "Direct fetch returned HTTP 403 (Cloudflare challenge), so WebSearch was used per protocol and strongly corroborates the business. Al Majed for Oud Company is a Saudi Joint Stock Company HQ'd in Riyadh (As Sahafah district), est. 1956, Tadawul-listed (IPO approved June 2024), with ~1,000 developed brands/products and 300 sales platforms across KSA, Kuwait, UAE, Bahrain, Oman and Qatar. Perfume/oud is an approved, consumable, repeat-purchase Gate 2/3 category. WebSearch explicitly confirms a live online store selling perfumes, oils, oud products, incense, and beauty items with regional shipping - satisfying Gate 4 and Gate 5 (substantiality) even though direct fetch was blocked. || CROSS-VERIFICATION (independent 2nd pass): Al Majed for Oud, a Riyadh-HQ'd Saudi joint-stock oud/perfume retailer (est. 1956, Tadawul-listed, ~1,000 products, ~300 outlets) with a live regional online store. Approved consumable category; this is the surviving account of the #18/#19 duplicate pair.",
     "source": "original_sweep+crossverified+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000012340248",
+    "zoho_match_type": "name_corrected"
   },
   {
     "name": "ALMAKTABA",
@@ -1577,9 +1577,9 @@
     "gate_failed": "none",
     "reason": "Confirms prior IN. Large, live, transactional fashion/footwear/sports-equipment retailer with a huge apparel and footwear category tree, real KWD pricing and working 'Add to cart', and 50 physical stores. The legal entity in the footer and KNet (Kuwait's national payment network) confirm genuine Kuwait HQ, matching the row's country. || CROSS-VERIFICATION (independent 2nd pass): Large live Kuwait fashion/footwear/sports retailer, real KWD pricing and working cart; KNet and the footer legal entity confirm Kuwait HQ, 50 stores. Clears all gates.",
     "source": "original_sweep+crossverified+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000084745770",
+    "zoho_match_type": "domain"
   },
   {
     "name": "Alomar Furniture Company شركة مفروشات العمر",
@@ -2963,9 +2963,9 @@
     "gate_failed": "none",
     "reason": "Confirmed genuine, large-scale Qatar luxury fashion/accessories e-commerce retailer with real QAR pricing across designer apparel, jewelry, footwear, bags and fragrance, a full cart/wishlist system and its own app. Passes all gates comfortably. || CROSS-VERIFICATION (independent 2nd pass): Well-known Qatari luxury department store (a Doha institution, not a hair salon); broad fashion/accessories/jewelry/fragrance catalog with QAR pricing, cart and app. Qatar-HQ, approved.",
     "source": "original_sweep+crossverified+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000084748771",
+    "zoho_match_type": "domain"
   },
   {
     "name": "Blue Sky Company",
@@ -10999,9 +10999,9 @@
     "gate_failed": "none",
     "reason": "Already resolved earlier this session: kept as a real account with owner/history (Imran Anjum), Company_main_industry field corrected directly in Zoho after the user's original spot-check flagged a contradictory Apollo NAICS classification. Not re-litigated here. || CROSS-VERIFICATION (independent 2nd pass): Gate 2 category failure: powr.sa is a Saudi esports/content-creation organization whose 'store' is single-brand fan merchandise (team T-shirts/hoodies/perfume), not a retail/eCommerce business. The ICP rulebook itself cites POWR as a prior NAICS misclassification; keeping it on a deferred 'not re-litigated' basis was not warranted.",
     "source": "original_sweep+crossverified",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000084743178",
+    "zoho_match_type": "domain"
   },
   {
     "name": "PREMIUM LIMITED GROUP",
@@ -11811,9 +11811,9 @@
     "gate_failed": "scale",
     "reason": "[FULL-AUDIT FLIP_HELD] The 'single small shop' scale reason is disproven: it is a multi-branch sweets chain (Riyadh x2, Jeddah). However it is a Syria-origin brand (Damascus, 1957) expanded into KSA, the Saudi entity's HQ/ownership is unclear (Gate 1), and its Saudi site nabeelnafiseh-sa.com is dead-redirected. Genuinely unresolved on geography and a live own transactional channel.",
     "source": "original_sweep+full_audit_flip",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000165730057",
+    "zoho_match_type": "name_exact"
   },
   {
     "name": "شركة التسهيلات للتسويق (سهل)",
@@ -11839,9 +11839,9 @@
     "gate_failed": "unverifiable",
     "reason": "[FULL-AUDIT FLIP_HELD] The 'business not found' reason is disproven: this operates 'اي مارت / A-mart', a real Makkah supermarket (grocery, approved category, Saudi). But its own Linktree shows a single Makkah location with no store link, the 'iMart' app is a dead white-label (1 rating, last updated 2020), and a-mart.sa returns 503. No confirmed live e-commerce or multi-store/app scale, so genuinely unresolved.",
     "source": "original_sweep+full_audit_flip",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000165730058",
+    "zoho_match_type": "name_exact"
   },
   {
     "name": "صيدليات باب الشفاء",
@@ -11853,9 +11853,9 @@
     "gate_failed": "unverifiable",
     "reason": "[FULL-AUDIT FLIP_HELD] The 'could not confirm exists' reason is disproven: a real Saudi pharmacy chain since 2007 (Al-Qurayyat, Al-Jouf), active Instagram, pharmacy is an approved category. But babalshefa.com now redirects to a domain-for-sale page and the alternate ksa.ph returns 503, so a currently-live transactional channel cannot be confirmed. Genuinely unresolved.",
     "source": "original_sweep+full_audit_flip",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000165730059",
+    "zoho_match_type": "name_exact"
   },
   {
     "name": "صيدلية",
@@ -11993,9 +11993,9 @@
     "gate_failed": "",
     "reason": "[CRM/SCALE FILTER - HELD] CRM/Digital/Marketing function confirmed (1 relevant LinkedIn hits), but LinkedIn/Instagram scale could not be reliably verified: a precise LinkedIn company-URL lookup and/or Instagram handle search either found no page or found only unrelated companies (rejected via domain cross-check). No confirmed 50+ employee LinkedIn page or 50,000+ follower Instagram found. Needs manual verification.",
     "source": "original_sweep+crossverified+full_audit_flip+crm_scale_filter_downgrade",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000017886732",
+    "zoho_match_type": "name_exact"
   },
   {
     "name": "Sameh Mall",
