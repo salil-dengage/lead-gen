@@ -1,0 +1,100 @@
+[
+ {
+  "name": "KDD",
+  "domain": "kddc.com",
+  "country": "Kuwait",
+  "category": "n/a",
+  "prior_qualification_reason": "Beyond dairy/ice-cream manufacturing, KDD runs its own dedicated consumer retail arm: a live B2C store at eshop.kddc.com (100+ SKUs, KWD cart/checkout, free shipping), the DUKKAN convenience-store chain across Kuwait, and branded 'Gate-Shop' ice-cream parlors. Corrected Gate 2 hybrid pattern (Lazurde/Aljazierah): qualifies on the retail arm's own merits."
+ },
+ {
+  "name": "Starlink Qatar",
+  "domain": "starlinkworld.com",
+  "country": "Qatar",
+  "category": "n/a",
+  "prior_qualification_reason": "Misclassified on NAICS. Starlink is Qatar's largest consumer electronics retailer (17+ Starlink Digital stores) with a live e-commerce store at starlink.qa (QAR, working cart/checkout, hundreds of SKUs); HQ Qatar (Ooredoo Group). Batch domain starlinkworld.com is the corporate site, retail runs at starlink.qa."
+ },
+ {
+  "name": "United Matbouli Group",
+  "domain": "umg.sa",
+  "country": "Saudi Arabia",
+  "category": "n/a",
+  "prior_qualification_reason": "Lazurde pattern. UMG is the sole Samsung distributor in KSA and, per multiple sources, the largest distributor AND retailer of consumer electronics/appliances, running roughly 9 to 10 consumer showrooms plus a reported online store at umg.sa (site is live but bot-protected, returns 403). Substantial dedicated retail arm; Jeddah HQ."
+ },
+ {
+  "name": "NTC \"Najd Telecom Company\"",
+  "domain": "najdtelecom.com",
+  "country": "Saudi Arabia",
+  "category": "n/a",
+  "prior_qualification_reason": "SAMPLE RE-AUDIT CORRECTION (No -> Yes): Excluded on a pure name-pattern guess, but najdtelecom.com is a live SAR mobile-phone e-commerce store (add-to-cart/checkout, Tabby/Tamara BNPL) and NTC runs 24 physical retail stores across Saudi Arabia; approved broad-electronics category, Saudi-HQ'd (Riyadh), passes Gates 1-5."
+ },
+ {
+  "name": "Dar Al Hadaya",
+  "domain": "drupaledi.com",
+  "country": "Saudi Arabia",
+  "category": "n/a",
+  "prior_qualification_reason": "Recorded domain drupaledi.com is a dead Drupal dev domain (DNS fails), and the 'furniture manufacturing' reason is wrong: the real business is Dar Al Hadaya, an established Saudi home-accessories and soft-furnishings retailer since 1969 operating a live online store at al-hadaya.com with customer accounts and first-order offers. Live cart confirmation was WAF-blocked (429) but retailer identity an"
+ },
+ {
+  "name": "foamco.sa",
+  "domain": "abulessafactory.com",
+  "country": "Saudi Arabia",
+  "category": "n/a",
+  "prior_qualification_reason": "Recorded domain abulessafactory.com is dead (DNS fails), but the business (Abu Lessa foam/mattress factory, est. 2013) trades live at foamco.com.sa as a broad home-furniture retailer: ~180+ SKUs across 11+ categories (dining, bedroom, living, lighting, decor), SAR pricing and cart, made in and shipping across Saudi Arabia. Manufacturer plus substantial retail, not mattresses-only."
+ },
+ {
+  "name": "GUTHMI Group",
+  "domain": "guthmi.net",
+  "country": "Saudi Arabia",
+  "category": "n/a",
+  "prior_qualification_reason": "Excluded on textile-manufacturing NAICS, but Al Guthmi is a fabric/textile retailer since 1942 with 24+ showrooms across Saudi Arabia selling upholstery, curtains and fabrics, plus an online 'Guthmi Store' at guthmi.net. Fabric/textile retail is an explicit Gate 3 pass and the multi-showroom footprint is substantial. Live-cart confirmation was WAF-blocked (403); flip rests on the documented retail"
+ },
+ {
+  "name": "4Sale International Co.",
+  "domain": "q84sale.com",
+  "country": "Kuwait",
+  "category": "n/a",
+  "prior_qualification_reason": "SAMPLE RE-AUDIT CORRECTION (No -> Yes): Gate 5b (app-rescue): q84sale/4Sale is Kuwait's largest online marketplace, HQ'd in Kuwait, with 2.5M+ confirmed app downloads, which qualifies outright and overrides category. The original 'non-retail NAICS only' call ignored the app-rescue path."
+ },
+ {
+  "name": "IIPH - International Islamic Publishing House",
+  "domain": "iiph.com",
+  "country": "Saudi Arabia",
+  "category": "n/a",
+  "prior_qualification_reason": "Saudi-HQ'd (Riyadh, +966) publisher that also runs a genuine consumer D2C online bookstore: hundreds of titles across many categories in 15+ languages, working cart/checkout, PayPal, shipping. Books are an approved category and the consumer e-commerce arm qualifies it under the corrected Gate 2; the name-pattern exclusion was wrong."
+ },
+ {
+  "name": "Takween Bookstore & Publishing House",
+  "domain": "takweenkw.com",
+  "country": "Kuwait",
+  "category": "n/a",
+  "prior_qualification_reason": "A live Kuwait-based consumer bookstore and publisher with a full e-commerce store (cart/checkout, user accounts, wishlists, promotions), ~150+ books across 40+ categories plus branded merchandise. Books/stationery is an approved category; the name-pattern auto-exclusion was wrong."
+ },
+ {
+  "name": "صحصح | Sahseh",
+  "domain": "sahseh.co",
+  "country": "Saudi Arabia",
+  "category": "coupon_aggregator",
+  "prior_qualification_reason": "SAMPLE RE-AUDIT CORRECTION (No -> Yes): Gate 5b carve-out: Saudi-HQ'd voucher/cashback app ('first Saudi app of its kind'; developer 'Sahseh for Marketing Services Co. S.P.C'; Apple /sa/ storefront) with 1M+ Google Play installs. Voucher apps with 50k+ downloads qualify outright (Rasseed precedent), overriding the aggregator-category exclusion; the 'com.uae.coupons' package is just a legacy ID."
+ },
+ {
+  "name": "Bahamdoon Trading Company",
+  "domain": "bahamdoon.com",
+  "country": "Saudi Arabia",
+  "category": "electronics",
+  "prior_qualification_reason": "A live Saudi B2C online store built on Salla selling office furniture, stationery, paper and computer supplies, with real customer reviews/transactions (Riyadh buyer confirmed), KSA-wide shipping and physical branches. Approved categories (stationery/furniture/electronics) and a genuine consumer storefront; the 'Trading Company' name-pattern exclusion doesn't hold (office-supplies orientation note"
+ },
+ {
+  "name": "AL-ASFOUR FURNITURE Co. Ltd.",
+  "domain": "alasfour.sa",
+  "country": "Saudi Arabia",
+  "category": "n/a",
+  "prior_qualification_reason": "Saudi (Eastern Province, est. 1968) furniture company with a manufacturing plant PLUS three multi-floor consumer showrooms (Safwa 3,500sqm, Khobar 2,500sqm, Dammam) selling home furniture, curtains, carpets and home accessories to residential customers, and a first-pass scan found cart/checkout signals. Textbook Lazurde pattern (manufacturer + substantial dedicated consumer retail); the exclusion "
+ },
+ {
+  "name": "AL Nasaem Cosmetics Company LLC",
+  "domain": "alnasaem.com",
+  "country": "Kuwait",
+  "category": "building_materials",
+  "prior_qualification_reason": "A Kuwait cosmetics/beauty retailer with a live e-commerce store (cart/checkout, loyalty program) and a physical location at Luxury Mall Salmiya, spanning makeup, skincare, haircare, perfume and beauty tools (large SKU count). Cosmetics is an approved category; the 'building_materials' keyword tag was a clear misclassification."
+ }
+]

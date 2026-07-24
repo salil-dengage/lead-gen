@@ -1,0 +1,100 @@
+[
+ {
+  "name": "kaifalshiuokh",
+  "domain": "kaifalshiuokh.com",
+  "country": "Saudi Arabia",
+  "category": "building_materials",
+  "prior_qualification_reason": "Kaif Al Shuyoukh is a Riyadh, Saudi Arabia Arabic/Saudi coffee roaster-retailer with its own online store, home delivery and a Google Play app, widely distributed. Coffee is an approved, high-repeat F&B category; the 'building_materials' tag was wrong. SKU breadth is moderate but geography, category and a genuine D2C channel all qualify."
+ },
+ {
+  "name": "Kiffa Roaster",
+  "domain": "kiffa.sa",
+  "country": "Saudi Arabia",
+  "category": "building_materials",
+  "prior_qualification_reason": "Kiffa is a Saudi (Madinah) specialty coffee roaster with a live online store (single origins, blends, capsules, instant, Turkish coffee, gift cards) plus a physical cafe. Coffee is an approved, repeat-purchase F&B category; the 'building_materials' tag was a false keyword hit."
+ },
+ {
+  "name": "osanoptics",
+  "domain": "osanoptics.com",
+  "country": "Saudi Arabia",
+  "category": "automotive",
+  "prior_qualification_reason": "SAMPLE RE-AUDIT CORRECTION (No -> Yes): Gate 2 misclassification: the 'automotive' keyword tag is flatly wrong. Osan is a Saudi eyewear/optician brand (sunglasses/prescription frames) with physical stores in 6 Saudi cities and a live osanoptics.com store showing SAR pricing and add-to-cart. Opticians are an explicitly approved category, no other gate fails; should qualify."
+ },
+ {
+  "name": "Raha",
+  "domain": "shopraha.com",
+  "country": "Kuwait",
+  "category": "realestate_facility",
+  "prior_qualification_reason": "The 'realestate_facility' tag was a false positive from the parent's 'Warehousing' name. Raha is a genuine Kuwait-HQ'd pure-play automated e-grocery (founded 2020, $6.7M seed, ~25,000 grocery SKUs, live iOS + Android apps). Grocery is approved and Kuwait HQ + scale/app qualify it; the site is only temporarily under maintenance."
+ },
+ {
+  "name": "sulindastore",
+  "domain": "sulindastore.com",
+  "country": "Saudi Arabia",
+  "category": "building_materials",
+  "prior_qualification_reason": "The 'building_materials' tag is a keyword false positive. SuLinda is a Saudi health-retail brand selling food supplements, vitamins, collagen, protein and sports nutrition across many categories, with 3 KSA stores, a live online store, and distribution through major KSA pharmacy chains. Approved health-retail category, Saudi HQ, real digital channel and scale."
+ },
+ {
+  "name": "sulalat",
+  "domain": "sulalat.com",
+  "country": "Saudi Arabia",
+  "category": "n/a",
+  "prior_qualification_reason": "SAMPLE RE-AUDIT CORRECTION (No -> Yes): Corrected Gate 2: beyond its wholesale page, sulalat.com is a full live Shopify consumer store (44+ products on the homepage, add-to-cart, SAR pricing, checkout) selling beans/equipment/chocolate/tea to 'coffee lovers', plus a physical Riyadh cafe. A substantial dedicated consumer retail arm (Riyadh HQ, F&B, high-repeat) that qualifies on its own merits, lik"
+ },
+ {
+  "name": "Ubuy Inc",
+  "domain": "ubuy.com",
+  "country": "Kuwait",
+  "category": "automotive",
+  "prior_qualification_reason": "The 'automotive' tag is a wrong keyword match. Ubuy is a Kuwait-City-HQ'd (founded 2012) cross-border e-commerce platform with 100M+ products and a 1M+ download app, qualifying outright via the Gate 5b app-download path; general merchandise, Kuwait HQ confirmed."
+ },
+ {
+  "name": "werecle",
+  "domain": "werecle.com",
+  "country": "Saudi Arabia",
+  "category": "wholesale_distribution",
+  "prior_qualification_reason": "The 'wholesale_distribution' tag is wrong. werecle.com is CLE, a self-described homegrown Saudi (Riyadh) luxury retailer for watches, fine jewelry and accessories (30+ official brands) with a live online store and a physical gallery at Via Riyadh. Approved jewelry/luxury category, Saudi HQ."
+ },
+ {
+  "name": "Wahag Medical Company",
+  "domain": "wahagco.com",
+  "country": "Saudi Arabia",
+  "category": "building_materials",
+  "prior_qualification_reason": "The 'building_materials' tag is wrong. Wahag is a Saudi cosmetics/health distributor (B2B) that also runs dedicated consumer beauty stores: ucarestore.com (You Care) is a live SAR storefront (skincare, haircare, makeup; La Roche-Posay, Vichy, Catrice) plus a Salla store. Hybrid B2B/B2C where the retail arm qualifies on its own merits (approved beauty/personal-care, Saudi HQ)."
+ },
+ {
+  "name": "Froyo Cafe",
+  "domain": "froyo.com.kw",
+  "country": "Kuwait",
+  "category": "f_and_b",
+  "prior_qualification_reason": "SAMPLE RE-AUDIT CORRECTION (No -> Yes): Gate 2 (F&B, approved) with Gates 4/5 met: the 'no multi-location scale' reason is factually false. Froyo is a Kuwait-HQ'd frozen-yogurt/dessert QSR chain of 7 branches with 400+ staff and its own online-ordering platform (order.froyo.com.kw) plus delivery, a qualifying omnichannel F&B retailer."
+ },
+ {
+  "name": "rebound",
+  "domain": "rebound.net",
+  "country": "Saudi Arabia",
+  "category": "n/a",
+  "prior_qualification_reason": "Live activewear/gym-wear e-commerce (men's and women's) operating in Riyadh with 1-2 day local delivery; Rebound Holdings is Riyadh-HQ'd. Server currently responds (rate-limited, not the 402 'store unavailable' of a frozen shop), so the prior 'dead Shopify' exclusion was a sloppy/transient dead-site call. Approved apparel category, Saudi HQ."
+ },
+ {
+  "name": "tomorna",
+  "domain": "tomorna.com",
+  "country": "Saudi Arabia",
+  "category": "n/a",
+  "prior_qualification_reason": "Live Saudi B2C premium-dates store (SAR pricing, free shipping over 250 SAR, many date varieties plus derivatives) with a SEPARATE dedicated wholesale-buyer login. Excluded on the explicitly corrected-away 'B2B arm alone disqualifies' reading; the substantial dedicated consumer grocery/F&B operation passes on its own merits (directly parallels the Go Fresh PASS example)."
+ },
+ {
+  "name": "Ajlan & Bros",
+  "domain": "ajstore.com",
+  "country": "Saudi Arabia",
+  "category": "n/a",
+  "prior_qualification_reason": "Riyadh-HQ'd (since 1979); ajstore.com is its live consumer e-commerce for men's clothing (thobes, ghutra, yashmagh, ready-made wear) with free delivery over 199 SAR. Apparel is approved; the manufacturing/wholesale lines coexist per the corrected Gate 2, and the NAICS-only exclusion (holding/mfg/real-estate codes) improperly ignored the dedicated retail storefront."
+ },
+ {
+  "name": "Golden Cala",
+  "domain": "goldencala.com",
+  "country": "Saudi Arabia",
+  "category": "n/a",
+  "prior_qualification_reason": "Jeddah-HQ'd; runs its own D2C e-commerce (goldencala.com) selling contact lenses (LensMe and others), makeup and oral care -- approved beauty/cosmetics/optician category with repeat-purchase consumables. Its import/distribution arm (supplying Nahdi, Magrabi, Faces, etc.) is a separate fact per the corrected Gate 2; the wholesale-NAICS-only exclusion was improper."
+ }
+]

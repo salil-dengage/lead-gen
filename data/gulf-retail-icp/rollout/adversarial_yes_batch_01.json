@@ -1,0 +1,100 @@
+[
+ {
+  "name": "Future Communications Company",
+  "domain": "fcc-kuwait.com",
+  "country": "Kuwait",
+  "category": "electronics",
+  "prior_qualification_reason": "Gate 2 corrected hybrid clause: FCC runs a substantial dedicated consumer retail arm - future.com.kw is a live transactional electronics store (add-to-cart and checkout in KWD) plus 15 physical multi-brand outlets and the Soooq consumer marketplace - so the coexisting B2B IT-solutions unit does not disqualify (same pattern as Lazurde/Union Trading); Kuwait HQ, electronics retail and scale all pass"
+ },
+ {
+  "name": "Muntazah Holding",
+  "domain": "muntazaholding.com",
+  "country": "Saudi Arabia",
+  "category": "diversified_holding_conglomerate",
+  "prior_qualification_reason": "Muntazah Markets is a substantial Saudi (Eastern Province, +966 13) grocery supermarket chain with online ordering; its main consumer app 'أسواق المنتزه' shows 50K+ Google Play installs, meeting Gate 5b for outright qualification, and grocery is the highest-frequency approved Gate 2 category - the holding-page 'no cart' technicality does not disqualify the underlying retail business."
+ },
+ {
+  "name": "Matjar Panda",
+  "domain": "matjarpanda.com",
+  "country": "Saudi Arabia",
+  "category": "pet supplies / pet food retail (not an approved ICP category)",
+  "prior_qualification_reason": "Gate 2 misapplied: pet supplies IS an approved category (line 32, general merchandise). Confirmed live/substantial Saudi pet retailer with 100,000+ app installs (4.3 stars), 'largest selection of pet supplies in KSA,' free shipping and COD, so it qualifies on category and scale (also independently via Gate 5b)."
+ },
+ {
+  "name": "Petite Store",
+  "domain": "petite.sa",
+  "country": "Saudi Arabia",
+  "category": "pet supplies / pet food retail (not an approved ICP category)",
+  "prior_qualification_reason": "Gate 2 misapplied: pet supplies IS approved (line 32). petite.sa/petite-store.com is a live Shopify store with 250+ products (page-1 limit maxed), cart/checkout, SAR pricing and same-day Riyadh delivery, so it qualifies on category and scale."
+ },
+ {
+  "name": "nukhbatech",
+  "domain": "nukhbatech.sa",
+  "country": "Saudi Arabia",
+  "category": "electronics / security & smart-home systems retail",
+  "prior_qualification_reason": "Genuine Riyadh-HQ'd (Gate 1 pass), live PrestaShop store (homepage returns HTTP 200 with 36 priced SAR products; only blocks bot UAs) selling consumer electronics/security -- multi-brand CCTV (Hikvision/EZVIZ/Dahua), dash cams, DVRs, smart home, networking. Approved electronics category, broad (not narrow), clears the ~50-SKU floor; the coexisting business-oriented lines do not disqualify a dedica"
+ },
+ {
+  "name": "cascadesco",
+  "domain": "cascadesco.com",
+  "country": "Kuwait",
+  "category": "home decor/luxury gifts",
+  "prior_qualification_reason": "Gate 1 misapplied: the operating entity (Cascades/GiftsGate) is Kuwait-HQ'd and Kuwait is IN the SA/Kuwait/Qatar scope, so Kuwait HQ is not a disqualifier. Verified live 250+ SKU home-decor/gifts store transacting in SAR (approved home/general-merchandise category) with physical Kuwait branches; should qualify as a Kuwait account, ideally deduped to the Kuwait entity (cascadeskw.com) per Gate 6."
+ },
+ {
+  "name": "twinkle",
+  "domain": "twinkle.sa",
+  "country": "Saudi Arabia",
+  "category": "party supplies/event decor & balloons",
+  "prior_qualification_reason": "Gate 2 misread: mytwinkle.com is a real live Riyadh Shopify store with 250+ SKUs of party supplies/balloons/tableware/decor, which is consumer general-merchandise/toys-adjacent product retail (an approved category, not an event service), with genuine checkout and recurring-occasion repeat purchase."
+ },
+ {
+  "name": "Ghaya Pharmacies Limited",
+  "domain": "ghaya-pharmacy.com",
+  "country": "Saudi Arabia",
+  "category": "n/a",
+  "prior_qualification_reason": "Gate 4 'DEAD' is wrong: 20+ year Saudi pharmacy chain runs a live transactional online store at ghayaonline.com (Salla, free KSA-wide delivery) plus iOS/Android apps. Retail pharmacy chains are the explicit approved-category exception under Gate 2."
+ },
+ {
+  "name": "Ghasham International RP Tech",
+  "domain": "ghasham.com",
+  "country": "Qatar",
+  "category": "n/a",
+  "prior_qualification_reason": "Gate 4 'DEAD' is wrong: bare domain 000 but www.ghasham.com is live and its retail store rptech.qa is fully transactional (QAR pricing, 47 add-to-cart, checkout, extensive smartphone catalog). Samsung authorized dealer, ~32 retail outlets, Qatar HQ, electronics = approved (Gates 1/2/5 all pass)."
+ },
+ {
+  "name": "2d2c2m",
+  "domain": "2d2c2m.com",
+  "country": "Saudi Arabia",
+  "category": "n/a",
+  "prior_qualification_reason": "Gate 4 'DEAD' is wrong: 2d2c2m.com is a live Saudi fashion/streetwear store (caps, tees, shirts, hoodies, jackets, dresses) with 45 distinct products on /collections/all, SAR pricing and working cart/checkout. Apparel = approved, multi-item, substantial (Gates 2/3/5 pass)."
+ },
+ {
+  "name": "aamaad",
+  "domain": "aamaad.store",
+  "country": "Saudi Arabia",
+  "category": "n/a",
+  "prior_qualification_reason": "Gate 4 'DEAD' is wrong: aamaad.store is a live Saudi Zid storefront (SAR, +966, active social) selling planners, notebooks and stationery/organizational tools = approved books/stationery category. Homepage shows 43 add-to-cart buttons and 167 product-card elements, evidencing a substantial catalog (Gate 5a)."
+ },
+ {
+  "name": "bymaha",
+  "domain": "bymaha.shop",
+  "country": "Saudi Arabia",
+  "category": "n/a",
+  "prior_qualification_reason": "SAMPLE RE-AUDIT CORRECTION (No -> Yes): Stated reason (dead/http 000) is wrong: bymaha.shop is a live Zid store (By Maha, modest/high fashion) transacting in SAR with dominant Riyadh/Saudi Arabia signals, and its product sitemap shows 69 SKUs, above the ~50 floor. Fashion category, Saudi HQ, live checkout; all gates pass."
+ },
+ {
+  "name": "Maraya",
+  "domain": "maraya.sa",
+  "country": "Saudi Arabia",
+  "category": "n/a",
+  "prior_qualification_reason": "Real Saudi luxury-Arab-fashion e-commerce operating at shop.maraya.sa (approved fashion category, with customer service/returns/personal shopping and a Google Play app); apex maraya.sa returning 000 was an environment DNS false-negative, not a dead business. Gate 1/2/4 pass."
+ },
+ {
+  "name": "NESK Group of Trading Projects",
+  "domain": "nesk.com.sa",
+  "country": "Saudi Arabia",
+  "category": "n/a",
+  "prior_qualification_reason": "Large Saudi fashion retail/franchise operator, Riyadh HQ, ~260 stores (Springfield, Cortefiel, Polo, Stera); passes Gate 1/2/6 as a consolidated franchise operator (Cenomi-type) with real scale. The dead corporate domain was a false-negative, not evidence the retailer stopped operating."
+ }
+]
