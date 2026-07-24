@@ -129,6 +129,16 @@ Passes via **either** path:
   not just a bonus signal — confirmed cases: Rasseed, ToYou, Abar). Below 50k does not rescue an
   otherwise-failing account (confirmed case: Al Sadhan's branded app has only ~10K downloads, not
   enough to rescue its dead website).
+  - **This explicitly includes marketplace/delivery aggregators, overriding the Exclusions clause
+    below for confirmed 50k+ cases (user-directed 2026-07-24).** The Exclusions clause's "regardless
+    of size" language and this override appear to conflict on paper; when both apply to the same
+    account, Gate 5b wins. Confirmed cases actually holding Yes on this basis: **ToYou/ToYouKSA**
+    (60+ cities, 27,000+ merchant partners), **HungerStation** (20M+ downloads, largest Saudi
+    delivery app), **Snoonu** (Qatar's flagship super-app, 1M+ installs), and **Nana** (a distinct,
+    stronger case — vertically-integrated quick-commerce grocery retailer running its own dark-store
+    inventory, not merely a third-party marketplace, so it does not need the override to qualify).
+    Do not re-flag these as an exclusion violation in a future audit; this is resolved, not an
+    oversight.
 
 ### Gate 6 — Duplicate-consolidation
 Conglomerates operating many franchise storefronts get **one consolidated account**, not one per
@@ -223,6 +233,57 @@ consistently re-applied during the recent re-verification pass, still valid as s
 
 ## Changelog vs. the 2026-07-23 morning "locked" version
 
+- **2026-07-24, second round: field-mapping bug + widespread No/Held write failures found and
+  fixed via full independent audit.** After the first round of fixes above, the user asked a
+  direct, skeptical question: are all No accounts really Disqualified, are Held accounts really
+  tagged right, are Yes accounts really fully enriched? Rather than re-assert the earlier report,
+  ran three independent full audits (every record checked, not sampled) against live Zoho, cross-
+  referenced against the local `master_final_rows.json` ground truth. Result: **Yes pool was
+  genuinely clean (297/297)**, but **No and Held were not**:
+  (1) **Field-mapping bug, found first via a user screenshot**: all website enrichment had been
+  written to a custom `Company_website` field, but the CRM's actual working list views display the
+  standard `Website` field, which was never populated (some records also carried stale `"google.com"`
+  junk from an old import). Confirmed by checking the banking project, which correctly used
+  `Website`. Fixed by migrating all 826 accounts with a populated `Company_website` into `Website`,
+  unconditionally overwriting whatever was there before. Verified: 826/826, zero failures.
+  (2) **313 of 824 No accounts (38%) had never actually been written** despite being reported
+  complete: `Account_Progress`/`Account_Notes` were left at whatever pre-existing CRM state the
+  record had (old `Engage - *` stages, stray numeric junk in notes, or simply null) instead of
+  `Qualify - Disqualified` + the ICP reasoning. The defect rate was not random — 70% of the 446
+  oldest (pre-existing) record IDs were affected vs. 0% of the 378 newest (freshly-created) IDs,
+  pointing to the *update*-batch write silently failing for pre-existing records while the
+  *create*-batch write succeeded fully for new ones. 4 of these "defects" were actually the already-
+  documented Yes/No shared-account conflicts above (correctly excluded, not re-broken). Fixed the
+  remaining 309 by rebuilding the correct payload from `master_final_rows.json` and rewriting;
+  verified twice (once by the fix agent, once independently by re-querying all 820 expected-
+  Disqualified IDs directly) — 820/820 confirmed correct, zero exceptions.
+  (3) **32 of 104 Held accounts had the same failure mode**: the `Apollo_Gulf_Retail_Held` tag was
+  applied correctly to all 104 (that part of the original write worked), but `Account_Progress`/
+  `Account_Notes` were never written for 32 of them. Fixed and re-verified: 32/32 corrected, 104/104
+  tags confirmed still intact.
+  **Lesson for any future bulk Zoho write in this project**: report success only after an
+  independent full re-query against the live CRM, not from the write call's own "SUCCESS" response
+  or a subagent's self-report — both of those confirmed the write was *accepted*, not that the
+  *update* half of an update-or-create batch actually landed. A full post-write audit (every record,
+  not a sample) is now the standard for this kind of operation, not an optional extra step.
+- **2026-07-24, Zoho write-phase bugs found and fixed post-rollout.** After the full Zoho CRM push
+  (297 Yes / 864 No / 105 Held all written, tagged, and Apollo-listed), the user asked why the Yes
+  accounts weren't fully enriched, which surfaced two distinct write-phase bugs, both now fixed:
+  (1) **56 Yes accounts were caught as `DUPLICATE_DATA` when a create-batch tried to add them**
+  (they already existed in Zoho under that name); only their existing record ID was captured, and
+  the actual qualification write (Account_Progress, Account_Notes, Apollo enrichment fields) never
+  happened for 52 of them (4 had already been caught and fixed earlier). All 52 now written with
+  full data. (2) **4 companies have two source rows in this dataset that both resolve to the same
+  Zoho account** (Al Majed Oud.co/Al Majed for Oud, Modern Electronics MEC/Modern Electronics
+  Company, Abdul Latif Jameel Electronics/Abdul Latif Jameel Enterprises, Nahdi/صيدلية النهدي) — one
+  row tagged Yes, the other tagged No as a duplicate-consolidation marker. Because both rows got
+  written to the same physical Zoho record, whichever batch ran last won; 3 of the 4 ended up
+  showing Disqualified in Zoho despite the correct verdict being Yes (Nahdi's write order happened
+  to land correctly by chance). Fixed by writing the correct Yes progress/notes to all 3 live
+  records. Root cause for future reference: the No/Held write payload builder never cross-checked
+  whether a row's `zoho_account_id` was already claimed by a Yes row before writing — a systematic
+  scan of the full dataset for zoho_account_id collisions across different tags is the right check
+  to run before any future bulk write, not just spot-checking known-duplicate names.
 - **2026-07-24, later same day — No/Held pool quality check completed: 292 Yes → 297 Yes.** With
   the Yes list finalized via Gate 8, turned to the No (868) and Held (105) pools per the user's own
   earlier sequencing instruction ("once we finalize what's breaking, then only we go to NO and

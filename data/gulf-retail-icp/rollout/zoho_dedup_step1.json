@@ -1,0 +1,19 @@
+{
+  "date": "2026-07-24",
+  "purpose": "Step 1 (Dedup existing eComm retail accounts in Zoho, target countries): confirmed same-company duplicate Zoho Account records, found by cross-referencing the 375 pre-existing 'Gulf Retail ICP'-noted Zoho records against the final 1,266-row master dataset.",
+  "duplicate_pairs": [
+    {"kept_zoho_id": "3978798000165730030", "kept_name": "Tamimi Group", "duplicate_zoho_ids": ["3978798000017888375", "3978798000165730029"], "duplicate_names": ["Tamimi Markets", "TAMIMI GROUP OF COMPANIES"], "note": "Three separate Zoho records for the same real company (Tamimi Group, operator of Tamimi Markets, a leading Saudi/Bahrain supermarket chain)."},
+    {"kept_zoho_id": "3978798000165702100", "kept_name": "Al Rawabi Group of Companies", "duplicate_zoho_ids": ["3978798000165702099"], "duplicate_names": ["Rawabi Hypermarket"], "note": "Same real company (Qatar hypermarket chain), duplicate Zoho record with no domain on file."},
+    {"kept_zoho_id": "3978798000084746822", "kept_name": "Al Sadhan Group", "duplicate_zoho_ids": ["3978798000165720008"], "duplicate_names": ["Al Sadhan Trading Co"], "note": "Same real company; already-documented No verdict (dead website, app downloads below 50k threshold)."},
+    {"kept_zoho_id": "3978798000084746769", "kept_name": "BinDawood Holding", "duplicate_zoho_ids": ["3978798000014947049"], "duplicate_names": ["Danube"], "note": "Danube is a 99%-owned retail banner of BinDawood Holding, confirmed on BinDawood's own corporate site. Not a separate company."},
+    {"kept_zoho_id": "3978798000165720031", "kept_name": "ALMEERA CONSUMER GOODS COMPANY QSC", "duplicate_zoho_ids": ["3978798000070733009"], "duplicate_names": ["Al Meera Group"], "note": "Same real company (Qatar's largest grocery retailer, QE-listed). Duplicate Zoho record with no domain on file."},
+    {"kept_zoho_id": "3978798000165720012", "kept_name": "Sulaiman Al Bassam Company", "duplicate_zoho_ids": ["3978798000103654041"], "duplicate_names": ["Al Bassam Home Appliances"], "note": "Same real company. The duplicate record's domain field (fordeal.com) is WRONG -- that is an unrelated MENA marketplace, not this company. Real domain: albassamest.com."}
+  ],
+  "special_case_not_a_simple_merge": [
+    {"zoho_id": "3978798000084745712", "name": "Alsulaiman Group", "note": "This one Zoho record represents a mixed conglomerate whose only two retail-qualifying divisions are already independently evaluated as separate rows in the master dataset: 'IKEA Alsulaiman' (No, Gate 8 scale fail) and 'Circle K Alsulaiman' (Held, Gate 4 digital-channel ambiguity). Per Gate 6 the parent (mixed with hard-excluded logistics/real-estate/financial-services divisions) is correctly excluded; the two retail brands are correctly evaluated separately. Does not map 1:1 to a single kept account -- flagging for manual Zoho-side decision on whether to split this record into two, or leave brand-specific accounts to be created separately."}
+  ],
+  "already_resolved_within_own_dataset": [
+    {"note": "20 duplicate pairs already merged within the Yes list earlier this session -- see rollout/yes_duplicate_merge_log.json. Not repeated here."},
+    {"note": "The Nahdi/(duplicate Arabic-name) pair and Al Majed Oud/AL NASSER/Blue Salon/POWR matches found during this reconciliation had their zoho_account_id filled in directly on the existing master row rather than needing a separate merge (the row previously had no ID at all, now correctly links to the one real Zoho record)."}
+  ]
+}
