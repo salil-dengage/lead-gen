@@ -165,6 +165,50 @@ brand (e.g., Cenomi Retail, not 30 separate brand-name domains). Rule of thumb a
   unambiguous cases first; reserve manual reading and web search for genuine ambiguity — this is
   what made processing the full 1,017-account universe practical within budget.
 
+### Gate 8 — CRM/Marketing function + digital scale (LinkedIn/Instagram), user-directed
+Added 2026-07-24 in response to a direct user instruction to add two filters applied **together**
+with judgement, not as a rigid checklist. Both signals are evaluated per account:
+- **(a) CRM/Digital/Marketing function**: search for evidence of a real marketing, digital, CRM,
+  e-commerce, or customer-experience function at the company (e.g. a LinkedIn people-search for
+  relevant job titles tied to the company name). A company with **zero** such evidence, checked via
+  both a targeted and a broadened search pass, fails this leg.
+- **(b) Digital scale**: verify via a free API/search-based lookup (not Apollo credits — explicit
+  user instruction) whether the company has an active **LinkedIn company page with 50+ employees**
+  or an active **Instagram page with 50,000+ followers**. Only **one** of the two needs to clear its
+  bar — this is an OR, not an AND, between LinkedIn and Instagram.
+- **Combined rule**: an account must pass **both (a) and (b)** to qualify; failing either is
+  disqualifying, consistent with the user's framing ("if the account doesn't have any CRM/Digital/
+  Marketing functions... they will be irrelevant" AND "if the account doesn't have an active
+  LinkedIn page... and active Instagram page... they are irrelevant").
+- **Verification method matters — fuzzy name-search is not reliable enough to trust on its own.**
+  Apify's `harvestapi/linkedin-company` actor supports two modes: a fuzzy `searches` (text query)
+  mode that the actor's own schema documents as "can be inaccurate," and a precise `companies` mode
+  that looks up an exact LinkedIn URL directly. The fuzzy mode **missed large, unmistakable, publicly
+  known companies** (Panda Retail Company/Savola Group — 6,035 employees; The Sultan Center — 2,275
+  employees; Ubuy Inc — 138 employees; Union Trading Co. — 212 employees) because a bulk text search
+  over LinkedIn's own search page simply failed to surface the right result, not because the
+  companies are small. The corrected method: (1) find the exact LinkedIn company URL via a targeted
+  Google/Serper search (`site:linkedin.com/company "{name}"`), (2) look that exact URL up via the
+  actor's precise `companies` mode, (3) **still require the returned record's own `website` field to
+  domain-match the account's known domain** before trusting the employee count — the precise-URL
+  search itself produced at least one clean false match (a company-name collision matched to an
+  unrelated business) that the domain cross-check correctly caught and rejected. The same
+  domain-verification discipline applies to Instagram: trust a handle pulled directly from the
+  company's own site HTML automatically; for a handle found via search instead, only trust its
+  follower count if the profile's own bio or external link corroborates the same domain/brand.
+  Absence of a domain-verified match is treated as **unresolved**, not as proof of small size —
+  routed to Held for manual review rather than silently downgraded to No.
+- **The marketing-function search (leg a) has the same false-negative risk** — an overly narrow
+  query (exact-phrase site-restricted search combined with a job-title OR-list in one clause) missed
+  real, named marketing/creative staff at real companies (Matjar Panda, a furniture retailer) that a
+  broadened two-query pass (drop the site: restriction; separate the company-name match from the
+  role-keyword match) found immediately. Zero hits on a narrow query is not sufficient evidence of
+  "no marketing function" without a second, broader pass.
+- Net effect on the Yes list: of 408 accounts screened, **292 passed both legs, 104 confirmed-failed
+  (moved to No), and 12 remain genuinely unresolved** on one leg despite two rounds of
+  precision re-verification (moved to Held for manual review, not auto-excluded). See the
+  2026-07-24 changelog entry below for the full breakdown and root-cause detail.
+
 ## Soft signals (do not gate inclusion/exclusion, but should affect tiering/prioritization — not
 consistently re-applied during the recent re-verification pass, still valid as standing guidance)
 
@@ -179,6 +223,51 @@ consistently re-applied during the recent re-verification pass, still valid as s
 
 ## Changelog vs. the 2026-07-23 morning "locked" version
 
+- **2026-07-24 — CRM/Marketing-function + LinkedIn/Instagram scale filter applied (Gate 8,
+  user-directed): 408 Yes → 292 Yes, 104 No, 12 Held.** The user judged 408 "still too many YES"
+  and, after four hypotheses were offered, specified the exact fix: add two filters applied together
+  with judgement (CRM/Digital/Marketing function evidence, AND a 50+ employee LinkedIn page OR
+  50,000+ follower Instagram page), explicitly ruling out spending Apollo credits and directing the
+  use of free APIs (ScrapingDog/Apify) plus Google search instead. Built a from-scratch verification
+  pipeline: Apify `harvestapi/linkedin-company` (bulk fuzzy search) + `apify/instagram-profile-scraper`
+  for the initial pass, Serper (Google SERP API) for marketing-function evidence and Instagram handle
+  discovery. First pass: 261 KEEP / 80 No / 55 Held / 12 Held(reverse). Before trusting that result,
+  manually sampled the downgrades and caught a real data-quality bug: unvalidated name-only fuzzy
+  matching produced false company matches (e.g. "CRYSTALS" matched to an unrelated academic journal
+  "Crystals MDPI"; "Petite Store" — already adversarially CONFIRMED with real evidence in the prior
+  round — matched to a French carpentry company; "goldentech" matched to an unrelated US company).
+  Fixed by requiring the matched LinkedIn/Instagram record's own website/bio to domain-verify against
+  the account's known domain before trusting any employee/follower count. Re-running with the fix
+  corrected those specific false positives, but then manual review of the resulting Held bucket
+  surfaced a second, larger problem: Apify's bulk fuzzy `searches` mode (its own schema warns this
+  "can be inaccurate") was **missing large, unmistakable, publicly known Gulf retailers** — Panda
+  Retail Company/Savola Group (6,035 employees), The Sultan Center (2,275 employees), Ubuy Inc (138
+  employees), Union Trading Co. (212 employees) — not because they're small, but because the bulk
+  text search simply failed to find the right LinkedIn page. Built a second, precision pass: find the
+  exact LinkedIn company URL via targeted Google search (`site:linkedin.com/company "{name}"`), look
+  that exact URL up via Apify's precise `companies` mode, then still domain-verify the result before
+  trusting it (this precision pass produced its own false match — "Tasweeq - Toys R Us KSA" initially
+  matched an unrelated Dubai marketing agency — caught and rejected by the same domain check, then
+  resolved correctly with a cleaner query to 499 employees, domain-verified). This precision pass
+  alone moved 45 accounts (25 Held→Yes with real domain-verified scale, e.g. Panda/Sultan
+  Center/Ubuy/Union Trading/Laverne Group at 2,183 employees; 18 Held→No now confirmed genuinely
+  small rather than merely unknown; 2 No→Held on newly-found real scale data). A third pass applied
+  the same precision-URL technique to Instagram for the remaining Held accounts (recovering Manuel
+  Market at 124,259 followers, ToYouKSA at 54,616, Alif Stores at 51,452) and a broadened
+  marketing-function search for the remaining zero-evidence accounts (recovering Matjar Panda and a
+  furniture retailer, both already confirmed large on Instagram, once real named marketing/creative
+  staff were found via a less-restrictive query). Also caught and fixed a genuine classification-logic
+  bug along the way: the case "no marketing evidence + confirmed-small real data on the other leg"
+  was falling through to the Held bucket instead of a confirmed No (affected 7 accounts, e.g. an
+  Instagram account with a confirmed 307 followers had been sitting in Held instead of No). Final
+  result after three verification passes: **292 Yes** (was 408), **104 No** (confirmed via real
+  data, not absence of data), **12 Held** (7 with real marketing evidence but genuinely unconfirmable
+  scale after two precision passes; 5 with confirmed large scale but no findable marketing function —
+  both are genuine ambiguity, not a data-pipeline gap, and are left for manual review rather than
+  forced either way). See `Gate 8` above for the full method writeup, and the scratchpad's
+  `stage_final_classified.json` for the complete per-account evidence trail (LinkedIn/Instagram match
+  status, employee/follower counts, marketing-function hits) behind every Yes/No/Held call in this
+  round.
 - **2026-07-23, later same day — adversarial second-look found 25 more of the 110 never-cross-checked
   Yes flips did not hold up (user-caught error).** After the duplicate merge brought the count to 433,
   the user still judged it implausible and pushed back a third time. Investigation found the real
