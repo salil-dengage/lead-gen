@@ -233,6 +233,24 @@ consistently re-applied during the recent re-verification pass, still valid as s
 
 ## Changelog vs. the 2026-07-23 morning "locked" version
 
+- **2026-07-24, Zoho write-phase bugs found and fixed post-rollout.** After the full Zoho CRM push
+  (297 Yes / 864 No / 105 Held all written, tagged, and Apollo-listed), the user asked why the Yes
+  accounts weren't fully enriched, which surfaced two distinct write-phase bugs, both now fixed:
+  (1) **56 Yes accounts were caught as `DUPLICATE_DATA` when a create-batch tried to add them**
+  (they already existed in Zoho under that name); only their existing record ID was captured, and
+  the actual qualification write (Account_Progress, Account_Notes, Apollo enrichment fields) never
+  happened for 52 of them (4 had already been caught and fixed earlier). All 52 now written with
+  full data. (2) **4 companies have two source rows in this dataset that both resolve to the same
+  Zoho account** (Al Majed Oud.co/Al Majed for Oud, Modern Electronics MEC/Modern Electronics
+  Company, Abdul Latif Jameel Electronics/Abdul Latif Jameel Enterprises, Nahdi/صيدلية النهدي) — one
+  row tagged Yes, the other tagged No as a duplicate-consolidation marker. Because both rows got
+  written to the same physical Zoho record, whichever batch ran last won; 3 of the 4 ended up
+  showing Disqualified in Zoho despite the correct verdict being Yes (Nahdi's write order happened
+  to land correctly by chance). Fixed by writing the correct Yes progress/notes to all 3 live
+  records. Root cause for future reference: the No/Held write payload builder never cross-checked
+  whether a row's `zoho_account_id` was already claimed by a Yes row before writing — a systematic
+  scan of the full dataset for zoho_account_id collisions across different tags is the right check
+  to run before any future bulk write, not just spot-checking known-duplicate names.
 - **2026-07-24, later same day — No/Held pool quality check completed: 292 Yes → 297 Yes.** With
   the Yes list finalized via Gate 8, turned to the No (868) and Held (105) pools per the user's own
   earlier sequencing instruction ("once we finalize what's breaking, then only we go to NO and
