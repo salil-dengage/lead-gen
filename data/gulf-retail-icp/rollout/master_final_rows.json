@@ -289,9 +289,9 @@
     "gate_failed": "none",
     "reason": "The corporate site's 'Products' menu leads directly to the company's live transactional storefront at al-asasyahonline.com, which lists roughly 25 appliance/electronics subcategories (split/window/portable/cassette AC, refrigerators, freezers, TVs, audio, car electronics, washers/dryers, cooking ranges, and 9+ small-appliance types) with a working cart, checkout, account login and wishlist -- a broad multi-category retailer well past the 50-SKU floor. This flips the prior OUT verdict. || CROSS-VERIFICATION (independent 2nd pass): Corporate site leads to a live transactional storefront at al-asasyahonline.com with roughly 25 appliance/electronics subcategories, working cart, checkout, account, and wishlist. Broad multi-category retailer comfortably above the SKU floor.",
     "source": "original_sweep+crossverified+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000165882172",
+    "zoho_match_type": "created_this_session"
   },
   {
     "name": "Al-Dawaa Medical Services Co.",
@@ -681,9 +681,9 @@
     "gate_failed": "none",
     "reason": "Real, long-established (est. 1990, Jeddah), multi-branch Saudi optical retail chain with a fully live, functioning e-commerce storefront (cart/checkout) and broad category breadth spanning prescription eyewear, sunglasses, and contact lenses (a high-repeat consumable) across men/women/kids lines. Reverses prior OUT verdict. || CROSS-VERIFICATION (independent 2nd pass): Jeddah optical chain (est. 1990) with live cart and prescription/sunglasses/contact-lens range (contacts repeat); opticians approved. Clears all gates.",
     "source": "original_sweep+crossverified+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000084747949",
+    "zoho_match_type": "duplicate_caught_on_create"
   },
   {
     "name": "Al-Bahar Group",
@@ -947,9 +947,9 @@
     "gate_failed": "none",
     "reason": "Re-verification overturns prior OUT/non_retail. This is a genuine, substantial, live Saudi home-textiles e-commerce retailer (Salla platform): working cart, active discount codes, free-shipping and 7-day return policy, VAT-registered ('علامة سعودية رائدة منذ 1427هـ' -- leading Saudi brand since 1427H), own mobile app, Saudi contact number. Category falls under the Gate 2 'home' bucket. Sitemap confirms ~1,767 unique product SKUs (3,534 URLs across ar/en) spanning multiple sub-lines (hotel bedding, bridal sets, baby/kids bedding, pillows, mattresses) sold as explicitly seasonal 'summer and winter collections' -- the same multi-item/seasonal repeat-purchase pattern that passes fashion under Gate 3, distinguishing it from the narrow single-SKU-type fail examples (flooring, lighting). Prior 'non_retail' tag looks like it may have conflated this small bedding brand with the unrelated, much larger Al-Habib Hospital Group name; this domain's actual content is unambiguously a bedding retailer. || CROSS-VERIFICATION (independent 2nd pass): Direct check confirms a live Saudi bedding/home-textiles e-commerce store (Salla, working cart, SAR pricing, free-shipping/returns) with a genuinely broad catalog (14+ categories: seasonal sheets, bridal, kids/newborn, pillows, towels, bathrobes, fabrics). Passes Gate 2 (home) and Gate 3 as multi-line seasonal bedding, not the excluded mattresses-only narrow case.",
     "source": "original_sweep+crossverified+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000084747227",
+    "zoho_match_type": "duplicate_caught_on_create"
   },
   {
     "name": "Al Hamad Automobiles",
@@ -1129,9 +1129,9 @@
     "gate_failed": "none",
     "reason": "CORRECTED (Gate 2 hybrid-B2B rule was mis-applied): confirmed via web search -- Aljazierah Store, established 1968 Riyadh, operates 31 showrooms across the Kingdom plus a dedicated 64-employee e-commerce team running a live consumer online-shopping platform (aljazierahstore.com). It ALSO runs 9 factories and a distributor network, but the 31-showroom retail chain plus dedicated e-commerce operation is itself a genuine, large consumer retail business, evaluated on its own merits per the corrected Gate 2 reading. Category: electronics/appliances, approved.",
     "source": "original_sweep+crossverified+gate2_hybrid_rule_correction+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000165882175",
+    "zoho_match_type": "created_this_session"
   },
   {
     "name": "aljazirah ford",
@@ -1255,9 +1255,9 @@
     "gate_failed": "",
     "reason": "[FULL-AUDIT FLIP_YES] Corrected Gate 2 (Lazurde/Aljazierah pattern): although also a perfume/cosmetics manufacturer, it runs its own substantial dedicated D2C storefront. Live Salla store with SAR cart/checkout, buy-1-get-1, reviews, free shipping, and ~370 product URLs. Beauty/perfume is approved (Gate 2/3), Saudi Riyadh HQ (Gate 1), cart (Gate 4), 370 SKUs (Gate 5a). The cross-verification that reversed it applied the old blunt manufacturing-equals-exclude reading the locked ICP overturns. || ADVERSARIAL-CONFIRM: A Saudi (Riyadh) SFDA-licensed perfume/cosmetics manufacturer that also runs a genuine live D2C Salla store (SAR cart, 8+ beauty categories, BOGO, reviews, free-shipping threshold); beauty/perfume is approved and high-repeat, so it qualifies on the retail arm's own merits. Exact SKU count could not be independently pinned to the prior note's 370, but a multi-category beauty D2C store clears the substantiality floor in practice.",
     "source": "original_sweep+crossverified+full_audit_flip+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000165882176",
+    "zoho_match_type": "created_this_session"
   },
   {
     "name": "ALMAHA OPTICAL",
@@ -1829,9 +1829,9 @@
     "gate_failed": "none",
     "reason": "Live general-merchandise retailer with real stores in Doha malls plus a functioning e-commerce cart. Re-verification overturns the prior OUT/diversified_trading call, which does not match the live site's actual retail operation. || CROSS-VERIFICATION (independent 2nd pass): Independently confirmed Doha-founded (1988) broad general-merchandise retailer (household, electronics, toys, furniture, cosmetics) with physical showrooms + live online shop. The prior OUT/'diversified_trading' call was wrong; it is genuine consumer retail.",
     "source": "original_sweep+crossverified+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000165882177",
+    "zoho_match_type": "created_this_session"
   },
   {
     "name": "Marzooq S. Al Shamlan Holding",
@@ -1941,9 +1941,9 @@
     "gate_failed": "",
     "reason": "[FULL-AUDIT FLIP_YES] Gate 3 pass: not a single narrow line but a multi-category home-textiles retailer (bedroom textiles, summer/winter bedspreads, pillows, mattress toppers, plus bathroom textiles, bathrobes, prayer mats, shawls, fragrances; 8 categories), live Salla store since 1981 with shipping/tracking and promo codes. Bed linens/towels refresh seasonally and are heavily gifted, so the flooring/carpet-only analogy is inapt; broad soft-goods scale satisfies Gate 5a. || ADVERSARIAL-CONFIRM: Live Saudi Salla store (SAR) with an independently-confirmed 8-category assortment extending well beyond bed linens (hotel linens, robes, fragrances, prayer rugs, bathroom accessories, ~50-100+ SKUs); broad, seasonally-refreshed/gifted home textiles clear Gate 3.",
     "source": "original_sweep+full_audit_flip+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000084747280",
+    "zoho_match_type": "duplicate_caught_on_create"
   },
   {
     "name": "ALTAWKILAT",
@@ -2151,9 +2151,9 @@
     "gate_failed": "none",
     "reason": "Saudi-HQ'd (Riyadh, founded 2022) quick-commerce retailer operating its own network of dark stores (first-party inventory, not a third-party marketplace), confirmed by WebSearch as a $1.5B-valuation unicorn active in Saudi Arabia, Bahrain, Qatar and Kuwait, preparing a Tadawul IPO by 2027. The live site/app sells a broad grocery, fresh food, beverage, beauty, household, electronics, fashion, baby, pet, toy and pharmacy assortment through a real cart, matching the grocery/convenience approved category with clear substantiality. This overturns the prior 'marketplace_delivery' OUT label: Ninja is a direct dark-store retailer of its own inventory, not an aggregator marketplace of independent third-party sellers (unlike e.g. Amazon KSA in this same batch). || CROSS-VERIFICATION (independent 2nd pass): Riyadh-HQ'd (2022) quick-commerce retailer running its own dark-store first-party inventory across a broad grocery/convenience assortment, confirmed as a $1.5B-valuation Saudi unicorn. Grocery is approved and high-frequency; it is a direct retailer, not a third-party aggregator marketplace.",
     "source": "original_sweep+crossverified+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000089670093",
+    "zoho_match_type": "duplicate_caught_on_create"
   },
   {
     "name": "Al Andalus Trading Establishment Company",
@@ -2165,9 +2165,9 @@
     "gate_failed": "none",
     "reason": "CORRECTED (Gate 2 hybrid-B2B rule was mis-applied): confirmed via web search -- Al Andalus (ATC), founded 1963 Kuwait, is 'a household name... synonymous with consumer electronics,' with 7 showrooms across every Kuwait governorate including its flagship 'Centro' super-electronics-store, plus a live transactional e-commerce site (andalus.com.kw) with installment financing and free delivery. It ALSO holds sole-distributor status for Samsung/Hisense/Ariston/Ferre, but the 7-showroom consumer retail network is itself genuine and substantial. Category: electronics/appliances, approved.",
     "source": "original_sweep+crossverified+gate2_hybrid_rule_correction+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000165882180",
+    "zoho_match_type": "created_this_session"
   },
   {
     "name": "Anoosh Company",
@@ -2193,9 +2193,9 @@
     "gate_failed": "digital_channel",
     "reason": "SAMPLE RE-AUDIT CORRECTION (No -> Yes): Gate 4 re-gate: a live curl now shows anotah.com serving a real transactional womenswear store (anotah.com/en/women-dress/: 600+ product refs, KWD pricing, cart/checkout, no gambling-spam) plus a shopping app. Anotah is a genuine Kuwait-HQ'd fashion chain (est. 1998, 64+ stores); the earlier compromised-domain state no longer holds, so it qualifies. || ADVERSARIAL-CONFIRM: Anotah is a Kuwait-HQ'd fashion chain (Green Wing Group, founded Kuwait 1998) with 41+ regional stores and a broad fashion catalog (womenswear, kids/teens, bags, accessories); e-commerce reality is corroborated by the corporate profile and multiple third-party marketplaces, and the earlier domain-compromise state has resolved.",
     "source": "original_sweep+sample_reaudit+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000000253040",
+    "zoho_match_type": "duplicate_caught_on_create"
   },
   {
     "name": "Ansar Group of Companies",
@@ -2221,9 +2221,9 @@
     "gate_failed": "none",
     "reason": "Doha, Qatar-HQ'd hypermarket/general-merchandise retail chain (Ansar Group's retail arm; founding story traces to a 1980s Doha wholesale/retail outlet, formal group established 1987, later expanded to Dubai/Bahrain/Oman). The live site is a full-scale, transactional hypermarket e-commerce operation: Doha delivery-address selection, real cart/account/order-history, app download, and an enormous approved-category assortment (grocery, electronics, mobile phones, beauty, fashion, household, furnishing, baby, sports, toys, books, etc.) spanning hundreds of subcategories. This overturns the prior 'grocery'-labeled OUT verdict, which appears to have conflated this row with the separate, correctly-excluded 'Ansar Group' holding-company row in this same batch. || CROSS-VERIFICATION (independent 2nd pass): Independently confirmed Ansar Group HQ in Doha, Qatar (est. 1980/1987); UAE was later expansion, not origin. Full-scale live hypermarket/general-merchandise e-commerce with broad approved assortment.",
     "source": "original_sweep+crossverified+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000165882182",
+    "zoho_match_type": "created_this_session"
   },
   {
     "name": "Apotheca Beauty",
@@ -2249,9 +2249,9 @@
     "gate_failed": "none",
     "reason": "Riyadh, Saudi Arabia-HQ'd (founded 1982 by Sheikh Abdul Aziz Al-Jasir) luxury oriental perfume and oud house, the world's largest supplier of oriental fragrances with 1,200+ stores across 37 countries and 3,700+ employees. Live e-commerce with men's/women's/unisex fragrance and oud collections, store locator, and a mobile app; perfume/oud is a consumable, repeat-purchase approved category and scale is exceptionally well established. || CROSS-VERIFICATION (independent 2nd pass): Arabian Oud: Riyadh-HQ'd (1982) luxury perfume/oud house with 1,200+ stores and live e-commerce. Consumer perfume retail (approved consumable/repeat); scale exceptionally well established.",
     "source": "original_sweep+crossverified+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000124363063",
+    "zoho_match_type": "duplicate_caught_on_create"
   },
   {
     "name": "Araboil",
@@ -2529,9 +2529,9 @@
     "gate_failed": "none",
     "reason": "Despite the \"Trading Co.\" name, the live site is a genuine, substantial WooCommerce store selling high-end European home appliances (ovens, hobs, hoods, cookers, microwaves, coffee machines, dishwashers, laundry, refrigeration, small appliances) -- a broad multi-category assortment, not a narrow single product line. HQ confirmed Jeddah, Saudi Arabia, matching the row. Real cart/checkout and a 251-SKU catalog easily clear the substantiality floor. || CROSS-VERIFICATION (independent 2nd pass): Verification-grade original reason: live WooCommerce store, 251-SKU broad home-appliance assortment, confirmed Jeddah HQ, real cart. Clears all gates.",
     "source": "original_sweep+crossverified+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000084746877",
+    "zoho_match_type": "duplicate_caught_on_create"
   },
   {
     "name": "بلاك نايت Black Knight",
@@ -3481,9 +3481,9 @@
     "gate_failed": "",
     "reason": "[FULL-AUDIT FLIP_YES] Gate 1 resolved toward Saudi: despite the 'Emirates' brand identity, the operating entity is Saudi-HQ (Riyadh, est. 2015 per Dealroom, consistent with the Saudi ZATCA VAT/CR the original found on the storefront), matching the Saudi row; category (perfume/oud) is approved and it runs a live SAR e-commerce store with cart and loyalty. || ADVERSARIAL-CONFIRM: Despite the 'Emirates' brand name (heritage positioning), the operating entity is confirmed Saudi-HQ'd in Riyadh across multiple corporate sources (SignalHire 'Riyadh...SA' with an explicit 'not the UAE' note, Dealroom, LinkedIn) plus a Saudi VAT/CR and SAR checkout; perfume/oud is an approved high-repeat category and the company is substantial (100-200 employees, wide range).",
     "source": "original_sweep+crossverified+full_audit_flip+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000084747202",
+    "zoho_match_type": "duplicate_caught_on_create"
   },
   {
     "name": "DKHOUN دخون",
@@ -3607,9 +3607,9 @@
     "gate_failed": "digital_channel",
     "reason": "The domain dropsgroup.com is a corporate/investor-relations microsite (About Us, Investors, Careers, Partners) with no cart or product listings, so Gate 4 fails for this specific domain. However Drops is a substantial, real Kuwaiti grocery/general-merchandise delivery business, and its consumer app shows 100K+ downloads on Google Play -- comfortably over the 50,000 threshold -- so it qualifies via the app-download rescue path regardless of the corporate domain's lack of a storefront. || CROSS-VERIFICATION (independent 2nd pass): App-download rescue holds: Google Play shows 300K+ installs (well over Gate 5b's 50k), Kuwait's largest hypermarket app, Kuwait HQ. Corporate domain lacks a store but the app path qualifies it.",
     "source": "original_sweep+crossverified+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000165882186",
+    "zoho_match_type": "created_this_session"
   },
   {
     "name": "drslounge",
@@ -4391,9 +4391,9 @@
     "gate_failed": "none",
     "reason": "Large, real, live home & office furniture and home-goods e-commerce retailer with a broad multi-category catalog and confirmed Kuwait HQ. Passes all 5 gates. || CROSS-VERIFICATION (independent 2nd pass): Curl-verified live broad home & office furniture plus home-goods e-commerce (KWD, 100+ add-to-cart), Kuwait HQ, no wholesale portal. Home/furniture approved; broad enough to clear the narrow-category gate.",
     "source": "original_sweep+crossverified+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000103980206",
+    "zoho_match_type": "duplicate_caught_on_create"
   },
   {
     "name": "Mimar",
@@ -4517,9 +4517,9 @@
     "gate_failed": "none",
     "reason": "Motory is an automotive classifieds/marketplace, which would normally fail Gate 2 (automotive hard-fail category). However, per the Gate 5(b) app-download rescue rule, its primary Google Play listing confirms 100K+ downloads (well above the 50,000 threshold), which qualifies the account as IN regardless of category. Geography passes independently: HQ confirmed Jeddah, Saudi Arabia. || CROSS-VERIFICATION (independent 2nd pass): Automotive is normally a Gate 2 hard-fail, but Gate 5b app-rescue applies: Motory's cars-marketplace app is a leading Saudi auto app with 100K+ installs (corroborated on Aptoide), above the 50k threshold, and HQ is confirmed Jeddah. Qualifies via the app-download path.",
     "source": "original_sweep+crossverified+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000165882188",
+    "zoho_match_type": "created_this_session"
   },
   {
     "name": "Meshaal Al Shatti and Partner General Trading",
@@ -4713,9 +4713,9 @@
     "gate_failed": "none",
     "reason": "Correction of the prior 'marketplace_delivery' label: Nana is a vertically-integrated quick-commerce grocery retailer operating its own dark-store inventory (up to 2,000 SKUs per dark store; 22,000+ products overall; 30+ dark stores in Riyadh alone), not merely a booking/aggregator marketplace. Grocery is a squarely approved, inherently high-frequency Gate 2/3 category. Scale is confirmed both via substantiality (dark-store inventory) and independently via confirmed Google Play downloads far above the app-rescue threshold. || CROSS-VERIFICATION (independent 2nd pass): Vertically-integrated Saudi quick-commerce grocery retailer operating its own dark stores (up to 2,000 SKUs each, 22,000+ products, 30+ Riyadh dark stores) with a live cart. Grocery is high-frequency; scale confirmed via both substantiality and app downloads.",
     "source": "original_sweep+crossverified+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000031473517",
+    "zoho_match_type": "duplicate_caught_on_create"
   },
   {
     "name": "Nasir Bin Abdullah & Sons",
@@ -5189,9 +5189,9 @@
     "gate_failed": "none",
     "reason": "Live site (HTTP 200) is a genuine, substantial perfume/beauty/personal-care e-commerce retailer: essential oils, luxury/daily/hair/niche perfumes, musk, body care (butter, oils, spray, scrub), deodorant, hand cream, shower gel, gift sets, skincare, home fragrance (room/car fresheners, candles). Real live cart with discounted SAR pricing across dozens of SKUs visible in the homepage snippet alone. Saudi commercial registration and tax ID confirmed directly on-page (CR prefix consistent with Eastern Province/Dammam registration; VAT number in the standard 15-digit Saudi format beginning with 3). || CROSS-VERIFICATION (independent 2nd pass): Geography verified: perfume/beauty retailer HQ'd in Al Khobar, KSA (not UAE), founded 1991. Consumable repeat category. Clears all gates.",
     "source": "original_sweep+crossverified+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000164024001",
+    "zoho_match_type": "duplicate_caught_on_create"
   },
   {
     "name": "Yalla Toys",
@@ -5511,9 +5511,9 @@
     "gate_failed": "none",
     "reason": "Live Saudi-HQ'd jewelry e-commerce store (Zid platform) with a genuine cart/checkout and a large, diverse catalog (chains, bracelets, earrings, rings, anklets, personalized-letter jewelry). || CROSS-VERIFICATION (independent 2nd pass): Broad fine-jewelry catalog (chains, bracelets, earrings, rings, anklets) on Saudi Zid platform passes Gate 3; 403 to my fetch is a block, not a dead site, and the specific reason is credible.",
     "source": "original_sweep+crossverified+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000165882191",
+    "zoho_match_type": "created_this_session"
   },
   {
     "name": "Matjar Panda",
@@ -5525,9 +5525,9 @@
     "gate_failed": "",
     "reason": "[FULL-AUDIT FLIP_YES] Gate 2 misapplied: pet supplies IS an approved category (line 32, general merchandise). Confirmed live/substantial Saudi pet retailer with 100,000+ app installs (4.3 stars), 'largest selection of pet supplies in KSA,' free shipping and COD, so it qualifies on category and scale (also independently via Gate 5b). || ADVERSARIAL-CONFIRM: Live Riyadh-based Zid store transacting in SAR with a very large multi-category pet catalog (product sitemap lists 3,000+ URLs), clearing Gate 5a independently without needing the app rescue; pet supplies is an approved general-merchandise category.",
     "source": "original_sweep+full_audit_flip+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000165925042",
+    "zoho_match_type": "created_this_session"
   },
   {
     "name": "72Hair (sold via Beauty Steps Trading Co.)",
@@ -5693,9 +5693,9 @@
     "gate_failed": "none",
     "reason": "Live Saudi-registered luxury fashion-designer e-commerce store (kaftans, dresses, tops, skirts, jackets, accessories, shoes) with a real Shopify cart, size selection and checkout, seasonal runway/resort collections, and a large catalog. || CROSS-VERIFICATION (independent 2nd pass): Well-known Riyadh-based Saudi luxury designer; live Shopify store with a broad multi-category catalog (dresses/tops/skirts/jackets/accessories/shoes). Fashion/luxury approved, seasonal and multi-item.",
     "source": "original_sweep+crossverified+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000165925043",
+    "zoho_match_type": "created_this_session"
   },
   {
     "name": "Inrest Home",
@@ -5707,9 +5707,9 @@
     "gate_failed": "none",
     "reason": "Live Saudi-HQ'd home-textiles retailer (duvets, duvet covers, pillows, mattresses, mattress protectors, towels, bathrobes, room fragrance) with a real cart/checkout, 10 physical branches across the Kingdom, and a catalog well over 100 SKUs. || CROSS-VERIFICATION (independent 2nd pass): Saudi bed & bath textiles retailer with broad range (duvets, covers, pillows, towels, bathrobes, fragrance), cart/checkout, 10 Kingdom branches and 100+ SKUs; approved home category, broad (not mattresses-only), parallels independently-verified Karaz Linen.",
     "source": "original_sweep+crossverified+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000165925044",
+    "zoho_match_type": "created_this_session"
   },
   {
     "name": "Souqvana",
@@ -6001,9 +6001,9 @@
     "gate_failed": "none",
     "reason": "Live site is the real Harvey Nichols Riyadh e-commerce store, and the local operating entity is Alfa International Company, a Saudi Arabia luxury-retail operator genuinely HQ'd in Riyadh, not a foreign Gulf group -- so it passes the franchise-operator carve-out in Gate 1. Passes category (fashion/beauty/luxury), is multi-item/seasonal + consumable beauty/fragrance (not narrow), has a real Magento cart with SAR checkout, and carries a huge multi-brand catalog (hundreds of SKUs). || CROSS-VERIFICATION (independent 2nd pass): Verified operated by Alfa International Company Ltd, a Riyadh-HQ'd Saudi franchisee (Gate 1 franchise-operator carve-out), running a live Magento department-store site with SAR checkout and hundreds of SKUs. Approved fashion/luxury/beauty.",
     "source": "original_sweep+crossverified+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000138833122",
+    "zoho_match_type": "duplicate_caught_on_create"
   },
   {
     "name": "repairlabsa",
@@ -6099,9 +6099,9 @@
     "gate_failed": "none",
     "reason": "Al-Amoudi is a genuine Saudi (Jizan-region) home-appliances retail chain with a real, extensive e-commerce catalog (large + small appliances, screens/audio, AC units), live cart/account/wishlist/order infrastructure, and 3 physical branches. Passes geography (Jizan HQ, Saudi family trading company since 1986), category (electronics/appliances), scale (dozens of subcategories, far above the 50-SKU floor), and digital channel (real transactional store, not a brochure). || CROSS-VERIFICATION (independent 2nd pass): Saudi (Jizan) home-appliances/consumer-electronics retail chain since 1986 with an extensive live catalog, cart/account/wishlist infrastructure, and physical branches. Approved category, geography confirmed, scale above the SKU floor.",
     "source": "original_sweep+crossverified+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000138833129",
+    "zoho_match_type": "duplicate_caught_on_create"
   },
   {
     "name": "abrtrd",
@@ -6169,9 +6169,9 @@
     "gate_failed": "none",
     "reason": "Real, live, substantial multi-category e-commerce store (albums, lightsticks, apparel, accessories, stationery, snacks) with genuine SAR cart/checkout and well above 50 SKUs, targeting and delivering within Saudi Arabia. Fan-merchandise retail has real repeat-purchase behavior (collectors buying multiple album versions/lightstick releases), so it is not a narrow single-product-line business, and social/geo evidence supports a Saudi Arabia base. || CROSS-VERIFICATION (independent 2nd pass): Detailed reason confirms a live, substantial multi-category pop-culture/general-merchandise store (albums, lightsticks, apparel, accessories, stationery, snacks) with SAR cart, 50+ SKUs and Saudi delivery/geo evidence; collector repeat-purchase, not narrow.",
     "source": "original_sweep+crossverified+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000138833134",
+    "zoho_match_type": "duplicate_caught_on_create"
   },
   {
     "name": "philips",
@@ -6757,9 +6757,9 @@
     "gate_failed": "none",
     "reason": "Genuine Saudi-registered electronics and home-appliance retailer with a live, full-featured transactional store; passes all 7 gates. || CROSS-VERIFICATION (independent 2nd pass): Verified via About page: 'exclusive distributor' is brand-agency wording, but the operation is purely B2C (SAR cart/checkout, no wholesale/reseller/bulk); est-1982 Riyadh consumer electronics/accessories retailer.",
     "source": "original_sweep+crossverified+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000138833180",
+    "zoho_match_type": "duplicate_caught_on_create"
   },
   {
     "name": "thealmondbeauty",
@@ -6841,9 +6841,9 @@
     "gate_failed": "none",
     "reason": "Genuine Saudi-registered specialty coffee retailer (cafes plus e-commerce) in Jeddah; real cart/checkout, broad consumable + equipment catalog past the SKU floor. || CROSS-VERIFICATION (independent 2nd pass): Jeddah specialty-coffee retailer with real cart/checkout and a broad consumable + equipment catalog past the SKU floor; F&B repeat-purchase, Saudi. Clears all gates.",
     "source": "original_sweep+crossverified+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000138833187",
+    "zoho_match_type": "duplicate_caught_on_create"
   },
   {
     "name": "tedbaker",
@@ -6939,9 +6939,9 @@
     "gate_failed": "none",
     "reason": "Saudi-based (Riyadh-linked, +966 contact) specialty-coffee and brewing-equipment retailer with an extensive live catalog, 3,229 customer reviews, and real cart/checkout -- passes all 7 gates comfortably. || CROSS-VERIFICATION (independent 2nd pass): Specialty-coffee and brewing-equipment retailer with 3,229 consumer reviews and real cart; strongly B2C with no wholesale/cafe-supply signal, unlike sulalat.",
     "source": "original_sweep+crossverified+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000138833195",
+    "zoho_match_type": "duplicate_caught_on_create"
   },
   {
     "name": "petit-bateau",
@@ -7597,9 +7597,9 @@
     "gate_failed": "",
     "reason": "[FULL-AUDIT FLIP_YES] Gate 4 'DEAD' is wrong: bare domain 000 but www.ghasham.com is live and its retail store rptech.qa is fully transactional (QAR pricing, 47 add-to-cart, checkout, extensive smartphone catalog). Samsung authorized dealer, ~32 retail outlets, Qatar HQ, electronics = approved (Gates 1/2/5 all pass). || ADVERSARIAL-CONFIRM: Doha/Qatar HQ (est. 1997) with RP Tech running 52 retail electronics branches plus a live transactional Shopify store (rptech.qa, QAR, 250 products); the substantial dedicated electronics retail arm passes on its own merits alongside the Samsung-distribution/other lines, matching the accepted Al Andalus/Union Trading hybrid pattern.",
     "source": "original_sweep+full_audit_flip+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000165925051",
+    "zoho_match_type": "created_this_session"
   },
   {
     "name": "ghudfah",
@@ -8367,9 +8367,9 @@
     "gate_failed": "",
     "reason": "[FULL-AUDIT FLIP_YES] Real Qatari supermarket chain (6 Doha stores) run by Qatar-based licensee Al Wataniya International Holding, live at spar-qatar.com with QAR online grocery (also Snoonu/Talabat). Grocery approved, local operator HQ'd in-country (Gates 1/2/4); the record's sparqatar.shop is a dead/parked domain but the business is live. || ADVERSARIAL-CONFIRM: SPAR International confirms the Qatar operator is Al Wataniya International Holding, a Doha-based licensee running 6 hypermarkets with live QAR online grocery (plus Snoonu/Talabat). Grocery approved, operator genuinely HQ'd in Qatar; dead sparqatar.shop is a valid relocation to spar-qatar.com.",
     "source": "original_sweep+full_audit_flip+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000165925052",
+    "zoho_match_type": "created_this_session"
   },
   {
     "name": "Saudi Parts Center Company",
@@ -8507,9 +8507,9 @@
     "gate_failed": "",
     "reason": "[FULL-AUDIT FLIP_YES] Actually Kuwait's largest e-commerce retail group: flagship Taw9eel hyperstore ~80,000 items plus Sheeel, Thouqi (fashion), Tawarid, AlManzil, 1.6M+ orders in 2024, Kuwait HQ. Large-scale general-merchandise/grocery/fashion e-commerce (Gates 1/2/5); the 'construction' tag was a false keyword match (likely 'sanitary ware'). || ADVERSARIAL-CONFIRM: This is Taw9eel/Tawseel Holding, Kuwait's largest online retailer (80,000+ products across groceries/electronics/fashion, 30-min delivery), Kuwait-HQ'd. Massive-scale general-merchandise e-commerce; the 'media/construction' tags were misnomers.",
     "source": "original_sweep+full_audit_flip+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000015823502",
+    "zoho_match_type": "duplicate_caught_on_create"
   },
   {
     "name": "Suzuki Barayan",
@@ -8661,9 +8661,9 @@
     "gate_failed": "none",
     "reason": "Strong signal match (price+cart+category corroboration):  1886 1886 riyadh Skip to content 1886 riyadh NEW ARRIVALS MEN MEN NEW IN READY-TO-WEAR POLOS T-SHIRTS SHIRTS SWEATSHIRTS HOODIES PANTS JEANS SHORTS JACKETS COATS SWIMWEAR ESSENTIALS SKIWEAR ARCHIVE SALE SHOP ALL ACCESSORIES BAGS FOOTWEAR SMALL LEATH || CROSS-VERIFICATION (independent 2nd pass): Live fashion store redirecting to 1886riyadh.com (Riyadh, Saudi Arabia) with SAR/QAR checkout and a broad menswear/RTW catalog (shirts, knitwear, denim, outerwear, footwear, bags); fashion approved, Saudi HQ matches the tag. Gates hold.",
     "source": "original_sweep+crossverified+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000138833075",
+    "zoho_match_type": "duplicate_caught_on_create"
   },
   {
     "name": "fashion",
@@ -8745,9 +8745,9 @@
     "gate_failed": "none",
     "reason": "Strong signal match (price+cart+category corroboration):  Lodore The store will not work correctly when cookies are disabled. JavaScript seems to be disabled in your browser. For the best experience on our site, be sure to turn on Javascript in your browser. Search Search بحث متقدم Search Toggle Nav قائمة  || CROSS-VERIFICATION (independent 2nd pass): Independent search confirms a Riyadh-based perfume/fragrance retailer (luxury/niche brands) with multiple Riyadh branches, iOS/Android app and online store; perfume explicitly passes Gate 3. Original reason was just Magento boilerplate, but the business checks out.",
     "source": "original_sweep+crossverified+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000138824132",
+    "zoho_match_type": "duplicate_caught_on_create"
   },
   {
     "name": "Lemon Pharmacy",
@@ -9151,9 +9151,9 @@
     "gate_failed": "none",
     "reason": "Real KSA vegan makeup brand e-commerce; Bestsellers, multi-category (Face/Eyes/Lips/Sets/Accessories), BNPL, physical store locator. || CROSS-VERIFICATION (independent 2nd pass): Verified live Saudi (KSA) vegan makeup brand: SAR pricing, store locator, working cart with Mada/Apple Pay/Tabby/Tamara, multi-category (face/eyes/lips/accessories/sets + skincare). Clears all gates.",
     "source": "original_sweep+crossverified+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000138833088",
+    "zoho_match_type": "duplicate_caught_on_create"
   },
   {
     "name": "deshdashtii",
@@ -9193,9 +9193,9 @@
     "gate_failed": "none",
     "reason": "Beauty/perfume e-commerce claiming largest in KSA/Gulf category; real VAT tax number and full policy set (privacy/exchange/shipping) confirm genuine registered business. || CROSS-VERIFICATION (independent 2nd pass): Verified large Saudi beauty/skincare/fragrance retailer: Saudi VAT (ZATCA format), SAR pricing, ~15 categories, live cart (checkout/cart), mobile apps and BNPL. Strong across all gates.",
     "source": "original_sweep+crossverified+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000138824080",
+    "zoho_match_type": "duplicate_caught_on_create"
   },
   {
     "name": "desertcart",
@@ -9333,9 +9333,9 @@
     "gate_failed": "none",
     "reason": "Real perfume e-commerce with active BOGO promotions, gift sets, bestsellers, multiple size variants (30ml/100ml). || CROSS-VERIFICATION (independent 2nd pass): Saudi (.sa) perfume e-commerce with real promotions, gift sets and multiple size variants. Consumable perfume is a repeat-purchase approved category.",
     "source": "original_sweep+crossverified+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000138833068",
+    "zoho_match_type": "duplicate_caught_on_create"
   },
   {
     "name": "fnp",
@@ -9445,9 +9445,9 @@
     "gate_failed": "none",
     "reason": "Confirmed via web search: Imtiaz's brands (Nichii, Etam, Parfois, Kitschen, Diamantine, Dalydress, Shana) sell through a real e-commerce platform (fashion.sa) with region-wide delivery. Imtiaz Al Arabia, part of Jarir Group (confirmed via web search), Riyadh-HQ'd fashion retail franchise operator: 8+ international brands (Nichii, Shana, Double Agent, Gingersnaps etc.), 100+ stores, 600+ employees. Consolidated franchise-operator account, same treatment as Cenomi Retail. || CROSS-VERIFICATION (independent 2nd pass): Rulebook explicitly names Imtiaz Al Arabia (Jarir Group) as a passing Saudi-HQ'd franchise operator; consolidated multi-brand fashion account with live e-commerce via fashion.sa.",
     "source": "original_sweep+crossverified+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000138824061",
+    "zoho_match_type": "duplicate_caught_on_create"
   },
   {
     "name": "INTERTEC GROUP W.L.L.",
@@ -9459,9 +9459,9 @@
     "gate_failed": "none",
     "reason": "SAMPLE RE-AUDIT CORRECTION (No -> Yes): Gate 2 (corrected hybrid clause): Intertec is Qatar-HQ'd and, alongside its Xiaomi/Huawei/Honor distribution arm, runs 9 dedicated consumer-electronics retail showrooms (Mi Stores, Huawei Experience Stores, Honor center in major Qatar malls) plus online shops. This is the Lazurde/Al Andalus pattern; the cross-verification applied the old, since-corrected blunt B2B reading. || ADVERSARIAL-CONFIRM: Qatar-HQ'd (Doha, 33 years) running 10+ consumer-electronics retail showrooms across Qatar (Mi/Xiaomi, Huawei, Honor in major malls) plus e-commerce, alongside its distribution arm. Approved electronics category, substantial retail arm (Lazurde/Al Andalus hybrid pattern).",
     "source": "original_sweep+crossverified+sample_reaudit+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000165925060",
+    "zoho_match_type": "created_this_session"
   },
   {
     "name": "Jamjoom Fashion",
@@ -9487,9 +9487,9 @@
     "gate_failed": "",
     "reason": "[FULL-AUDIT FLIP_YES] Gate 2 corrected clause: Qatar-HQ'd Jumbo Electronics (founded Doha 1980) runs 13+ consumer electronics showrooms plus its OWN e-commerce (jumbosouq.com, 2-hour delivery) and the Jumbo Souq app. The exclusion applied the pre-correction 'hybrid B2B/distribution = fail' reading; coexisting distribution/MEP does not disqualify the substantial retail arm. || ADVERSARIAL-CONFIRM: Operating entity is Video Home & Electronic Centre WLL, founded Doha 1980 by Qatari founders and genuinely Qatar-HQ'd (distinct from the UAE Jumbo Group), running 13+ electronics showrooms (Jumbo Electronics, LG, Harman House) plus own e-commerce (jumbosouq.com) and app. Approved category, substantial retail arm despite distribution/MEP lines.",
     "source": "original_sweep+crossverified+full_audit_flip+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000165925061",
+    "zoho_match_type": "created_this_session"
   },
   {
     "name": "Kana Group",
@@ -9571,9 +9571,9 @@
     "gate_failed": "none",
     "reason": "Kitchenware/home-goods retailer with real cart/wishlist plus physical showrooms across 4 Saudi cities (Jeddah, Riyadh, Mecca, Khamis Mushait). || CROSS-VERIFICATION (independent 2nd pass): Verified live ('Kitchen Line International') with add-to-cart and showroom presence across Jeddah/Riyadh/Makkah/Khamis Mushait. Home/kitchenware (general merchandise) approved; Saudi geography confirmed by the four-city footprint.",
     "source": "original_sweep+crossverified+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000165897062",
+    "zoho_match_type": "created_this_session"
   },
   {
     "name": "Laverne Group",
@@ -9627,9 +9627,9 @@
     "gate_failed": "none",
     "reason": "Real fashion e-commerce, 349+18 items across two collections alone, region-aware storefront (Saudi Arabia selected), active seasonal sale. || CROSS-VERIFICATION (independent 2nd pass): WebFetch confirms a Saudi modest-fashion label (self-described Saudi label, Riyadh Fashion Week, +966 contact) with live store, iOS/Android apps and broad womenswear (dresses, kaftans, loungewear, tops, bottoms, accessories); approved fashion, Saudi HQ.",
     "source": "original_sweep+crossverified+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000138833076",
+    "zoho_match_type": "duplicate_caught_on_create"
   },
   {
     "name": "Adyaf Gulf Co. Ltd.",
@@ -9725,9 +9725,9 @@
     "gate_failed": "none",
     "reason": "SAMPLE RE-AUDIT CORRECTION (Held -> Yes): The marketplace concern resolves on inspection: miraymano.com is a single-merchant Shopify store with unified SAR checkout, its own delivery plus 1-hour in-store pickup, an own-branded collection, and 53+ curated multi-brand fashion/perfume SKUs, i.e. a first-party curated boutique (approved fashion/department-store model), Riyadh/Saudi; passes Gates 1-5. || ADVERSARIAL-CONFIRM: Curated multi-brand fashion boutique born and HQ'd in Riyadh (founded 2017) with a verified physical store (address/hours/reviews) plus a live Shopify store (abayas, bags, jewelry, perfume) with unified SAR checkout and own delivery. First-party curated department-store model, not an excluded aggregator; small but genuine omnichannel retailer.",
     "source": "original_sweep+crossverified+sample_reaudit+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000138833060",
+    "zoho_match_type": "duplicate_caught_on_create"
   },
   {
     "name": "marhbastore",
@@ -9809,9 +9809,9 @@
     "gate_failed": "none",
     "reason": "Real Saudi women's fashion designer e-commerce (blazers/dresses/abayas/suits) with return policy, stockist network, and a preloved resale program. || CROSS-VERIFICATION (independent 2nd pass): Curl confirmed a robust live Shopify store with active SAR currency and a large catalog (1,600+ SAR price instances) for a Saudi women's-fashion designer (blazers/dresses/abayas/suits) with return policy and stockist network. Approved fashion category, real scale.",
     "source": "original_sweep+crossverified+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000138824097",
+    "zoho_match_type": "duplicate_caught_on_create"
   },
   {
     "name": "nice",
@@ -10033,9 +10033,9 @@
     "gate_failed": "none",
     "reason": "Established furniture/home-furnishings retailer since 1943, real cart, broad multi-room category range (living room/bedroom/kitchen/bathroom) plus customization services. || CROSS-VERIFICATION (independent 2nd pass): Live Odoo shop (rankoussi.com/shop/cart) spanning furniture, fabrics, home textiles, towels and decor across many rooms, Doha/Qatar; broad home retail with furniture and fabric/textile both approved. Gates hold.",
     "source": "original_sweep+crossverified+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000165897066",
+    "zoho_match_type": "created_this_session"
   },
   {
     "name": "RIS Group",
@@ -10047,9 +10047,9 @@
     "gate_failed": "none",
     "reason": "SAMPLE RE-AUDIT CORRECTION (No -> Yes): Corrected-Gate-2 miss (Lazurde pattern): ris.co is a live SAR furniture/home e-commerce store (add-to-cart/checkout confirmed) and RIS Living runs dedicated showrooms in Jeddah and Riyadh; furniture/home is an approved category, and the separate B2B/fit-out projects line no longer disqualifies the substantial dedicated retail arm. || ADVERSARIAL-CONFIRM: ris.co is a live broad Saudi furniture/home-decor e-commerce store (catalog spanning 11+ pages, working cart, free delivery over 1200 SAR) with a Jeddah showroom, established 2002, Saudi-HQ'd. Approved category; substantial dedicated retail arm despite a coexisting interior-design/B2B line (Lazurde pattern).",
     "source": "original_sweep+crossverified+sample_reaudit+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000084747342",
+    "zoho_match_type": "duplicate_caught_on_create"
   },
   {
     "name": "selene-official",
@@ -10215,9 +10215,9 @@
     "gate_failed": "none",
     "reason": "Real furniture e-commerce, very broad catalog (bedroom/living/dining room sets plus lighting/carpets/decor/mattresses), real cart, active sales. || CROSS-VERIFICATION (independent 2nd pass): Broad furniture e-commerce (bedroom/living/dining sets plus decor) with real cart; furniture is approved and the catalog is broad, not a narrow single line.",
     "source": "original_sweep+crossverified+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000165897068",
+    "zoho_match_type": "created_this_session"
   },
   {
     "name": "Techno Blue WLL",
@@ -10243,9 +10243,9 @@
     "gate_failed": "none",
     "reason": "Real, professionally organized furniture/home-decor e-commerce with very broad catalog across living/dining/bedroom/lighting/decor/outdoor. || CROSS-VERIFICATION (independent 2nd pass): Geography resolved: independent check confirms That's Living Group's corporate HQ is in Doha, Qatar (Al Markhiya St, +974), with a broad luxury furniture/home-decor e-commerce catalog. The original row cited no HQ, but Gate 1 now holds.",
     "source": "original_sweep+crossverified+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000165897069",
+    "zoho_match_type": "created_this_session"
   },
   {
     "name": "SPORT GHORNATAH",
@@ -10299,9 +10299,9 @@
     "gate_failed": "none",
     "reason": "Real furniture e-commerce (sofa specialist plus chairs/tables/carpets) with loyalty membership program and active sales. || CROSS-VERIFICATION (independent 2nd pass): Verified via site: Riyadh direct-to-consumer furniture e-commerce (sofas/chairs/tables/rugs) with SAR checkout; a consumer retailer despite the 'Factory' name, not a B2B manufacturer.",
     "source": "original_sweep+crossverified+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000165897070",
+    "zoho_match_type": "created_this_session"
   },
   {
     "name": "The Beauty Station | Nail Station KW",
@@ -10425,9 +10425,9 @@
     "gate_failed": "none",
     "reason": "Re-checked: site confirms 35+ years retail experience, 10+ international brands, 550+ employees -- real substantial scale. Clean multi-brand retail franchise conglomerate (Fashion & Accessories, Perfumes & Cosmetics, Sports, Home, Confectionery), self-described as \"one of the leading retailers in the region\", no hard-excluded divisions mixed in. Same treatment as Imtiaz/Cenomi. || CROSS-VERIFICATION (independent 2nd pass): Explicitly whitelisted in the rulebook (Gate 6) as a clean multi-brand retail conglomerate; Qatar, 35+ years, 10+ brands (fashion, perfumes/cosmetics, sports, home, confectionery), no hard-excluded divisions. Qualifies at parent level.",
     "source": "original_sweep+crossverified+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000165897071",
+    "zoho_match_type": "created_this_session"
   },
   {
     "name": "Union Trading Co.",
@@ -10565,9 +10565,9 @@
     "gate_failed": "none",
     "reason": "Real chocolate/cake/confectionery e-commerce brand, founded Riyadh 1998, multiple product lines. || CROSS-VERIFICATION (independent 2nd pass): Approved confectionery/F&B (chocolate/cake), stated Riyadh HQ, founded 1998, no red flags. Live site returned 503 to automated fetch (bot-block, not dead, confirmed by the identical 503 on a known-live chain), so per the ICP blocked-is-not-fail rule it passes; SKU-level scale was not independently re-verifiable this pass due to search-budget exhaustion.",
     "source": "original_sweep+crossverified+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000138824105",
+    "zoho_match_type": "duplicate_caught_on_create"
   },
   {
     "name": "alabbasi",
@@ -10593,9 +10593,9 @@
     "gate_failed": "none",
     "reason": "SAMPLE RE-AUDIT CORRECTION (Held -> Yes): Gate 1 resolves to PASS: Al Rifai Saudi is run by Gulf Trading Holding Company (Riyadh-HQ'd, 120+ outlets since 1998, in-country roasting), a local operator running a franchise brand (Cenomi/Jarir precedent); nuts/coffee is high-repeat F&B and the original pass already confirmed a live cart/checkout, so the geography Hold was over-conservative. || ADVERSARIAL-CONFIRM: Operated by Gulf Trading Holding Company, genuinely Riyadh-HQ'd (D&B/SaudiYP), running the Al Rifai franchise with ~120 KSA outlets since 1998 -- the Cenomi/Jarir franchise-operator pattern that passes Gate 1. Nuts/coffee is high-repeat F&B; live branded store.",
     "source": "original_sweep+crossverified+sample_reaudit+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000138824088",
+    "zoho_match_type": "duplicate_caught_on_create"
   },
   {
     "name": "actan",
@@ -11279,9 +11279,9 @@
     "gate_failed": "none",
     "reason": "Confirmed via web search to be a leading Saudi super-app (food/grocery delivery, gifting, courier) active in 60+ cities with 27,000+ merchant partners including McDonald's/Albaik/Starbucks -- scale strongly implies well past the 50k-download threshold, though a second search still could not surface an exact figure (paywalled analytics) -- accepting the strong circumstantial scale evidence as sufficient. || CROSS-VERIFICATION (independent 2nd pass): ToYou is explicitly one of the pre-confirmed Gate 5b app-rescue cases named in the rulebook (Rasseed/ToYou/Abar); leading Saudi super-app.",
     "source": "original_sweep+crossverified+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000033427477",
+    "zoho_match_type": "duplicate_caught_on_create"
   },
   {
     "name": "tuhoon",
@@ -11307,9 +11307,9 @@
     "gate_failed": "none",
     "reason": "Incense/oud (bakhoor) retailer with active cashback promotion, consistent with other approved incense/perfume businesses this session. || CROSS-VERIFICATION (independent 2nd pass): Verified live Saudi (.sa) store selling incense charcoal, burners, oud/bakhoor and accessories across multiple categories; consumable high-repeat incense category (approved). Clears all gates.",
     "source": "original_sweep+crossverified+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000165897075",
+    "zoho_match_type": "created_this_session"
   },
   {
     "name": "Volkswagen Group Middle East",
@@ -11377,9 +11377,9 @@
     "gate_failed": "",
     "reason": "[FULL-AUDIT FLIP_YES] Reason 'B2B distribution, not a retail pharmacy chain' is factually wrong. AAW (Ali Abdulwahab Al Mutawa, Kuwait) operates Al Mutawa Pharmacies, a leading retail pharmacy chain of 30+ branches with an e-commerce platform, mobile app and home delivery; retail pharmacy chains are the explicit Gate 2 exception. Qualifies via that retail arm (should be mapped/deduped to the Al Mutawa Pharmacies entity). || ADVERSARIAL-CONFIRM: AAW (Ali Abdulwahab Al Mutawa, Kuwait) operates Al Mutawa Pharmacies, a 30+ branch Kuwait retail pharmacy chain (almutawaph.com.kw) with a live iOS/Android e-commerce app and delivery. Retail pharmacy is the Gate 2 exception; Kuwait is in-scope. Should be mapped/deduped to the Al Mutawa Pharmacies entity.",
     "source": "original_sweep+full_audit_flip+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000165897076",
+    "zoho_match_type": "created_this_session"
   },
   {
     "name": "Abdullatif Alissa Group Holding Co.",
@@ -11951,9 +11951,9 @@
     "gate_failed": "",
     "reason": "[FULL-AUDIT FLIP_YES] Live Qatar e-commerce retailer (alifstores.com): working cart/wishlist, QAR pricing, ~8-10 categories (books, electronics, toys, stationery, gaming, lifestyle), iOS/Android apps, Doha + Vendome Mall showrooms, licensed by Qatar Ministry of Commerce. Approved category (books/stationery/general merchandise), Qatar HQ, real scale. The scale/category hold is resolved. || ADVERSARIAL-CONFIRM: Qatar's biggest bookstore/lifestyle retailer (founded 2019, Doha): alifstores.com carries 25,000+ products (books/electronics/toys/stationery), a 4,000 sqm Doha flagship plus a Place Vendome store, and iOS/Android apps. Approved category, Qatar HQ, very large scale.",
     "source": "original_sweep+full_audit_flip+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000014961599",
+    "zoho_match_type": "duplicate_caught_on_create"
   },
   {
     "name": "Modern Electronics Company",
@@ -12105,9 +12105,9 @@
     "gate_failed": "none",
     "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords || CROSS-VERIFICATION (independent 2nd pass): Qualifies via Gate 5b app-rescue (not the claimed substantiality): independently confirmed 196K+ Google Play downloads for Saudi's #1 abaya app (Maroof/Ministry of Commerce registered), so even as a multi-brand marketplace it qualifies outright.",
     "source": "original_sweep+crossverified+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000138824117",
+    "zoho_match_type": "duplicate_caught_on_create"
   },
   {
     "name": "darent",
@@ -12357,9 +12357,9 @@
     "gate_failed": "none",
     "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords || CROSS-VERIFICATION (independent 2nd pass): Independent search confirms a Saudi (pioneering Saudi brand, est. 2010) bed & bath linens retailer (sheets, duvet sets, pillow covers, bathrobes, towels), live site plus Amazon.sa, SAR delivery; approved home category, broad.",
     "source": "original_sweep+crossverified+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000138824127",
+    "zoho_match_type": "duplicate_caught_on_create"
   },
   {
     "name": "kaifalshiuokh",
@@ -12693,9 +12693,9 @@
     "gate_failed": "automotive",
     "reason": "SAMPLE RE-AUDIT CORRECTION (No -> Yes): Gate 2 misclassification: the 'automotive' keyword tag is flatly wrong. Osan is a Saudi eyewear/optician brand (sunglasses/prescription frames) with physical stores in 6 Saudi cities and a live osanoptics.com store showing SAR pricing and add-to-cart. Opticians are an explicitly approved category, no other gate fails; should qualify. || ADVERSARIAL-CONFIRM: Live Shopify optician store, 443 products (sitemap-counted), SAR, Riyadh-based (Instagram/listings). Opticians is an explicitly approved category and catalog scale alone clears Gate 5a; 'automotive' tag was wrong.",
     "source": "original_sweep+sample_reaudit+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000138833072",
+    "zoho_match_type": "duplicate_caught_on_create"
   },
   {
     "name": "Nissan Kuwait",
@@ -12945,9 +12945,9 @@
     "gate_failed": "none",
     "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords || CROSS-VERIFICATION (independent 2nd pass): It is a used-electronics C2C marketplace, so it fails the tagged Gate 2/5a substantiality path, but it qualifies via Gate 5b app-rescue: the Soum app has 1M+ Google Play downloads (well over 50k), matching the Rasseed/ToYou/Abar precedent.",
     "source": "original_sweep+crossverified+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000165897081",
+    "zoho_match_type": "created_this_session"
   },
   {
     "name": "sarinamultiple",
@@ -13099,9 +13099,9 @@
     "gate_failed": "",
     "reason": "[FULL-AUDIT FLIP_YES] The 'automotive' tag is a wrong keyword match. Ubuy is a Kuwait-City-HQ'd (founded 2012) cross-border e-commerce platform with 100M+ products and a 1M+ download app, qualifying outright via the Gate 5b app-download path; general merchandise, Kuwait HQ confirmed. || ADVERSARIAL-CONFIRM: Kuwait City HQ independently confirmed (founded 2012). Cross-border marketplace that qualifies via the Gate 5b app-download path: com.ubuy app has 1M+ installs confirmed via app-store listing, far above the 50k threshold.",
     "source": "original_sweep+full_audit_flip+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000165895143",
+    "zoho_match_type": "created_this_session"
   },
   {
     "name": "TOYOTA KUWAIT - MOHAMED NASER ALSAYER & SONS EST.CO.W.L.L",
@@ -13435,9 +13435,9 @@
     "gate_failed": "none",
     "reason": "Bottled-water delivery marketplace app, 200+ water brand partners, real scale signal comparable to ToYou; a second search confirmed an active, professionally-run service (real-time tracking, multiple payment methods, active content marketing) but still no exact download figure (paywalled analytics) -- accepting the circumstantial scale evidence as sufficient. || CROSS-VERIFICATION (independent 2nd pass): Bottled-water delivery app explicitly named as a confirmed Gate 5b app-download-rescue case in the locked ICP alongside Rasseed and ToYou, so the app path is pre-authorized regardless of the reason's hedge on an exact download figure.",
     "source": "original_sweep+crossverified+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000138824133",
+    "zoho_match_type": "duplicate_caught_on_create"
   },
   {
     "name": "ak",
@@ -13743,9 +13743,9 @@
     "gate_failed": "unverifiable",
     "reason": "RESOLVED: confirmed via web search -- established 1978, leading home-furnishings retailer, branches in Riyadh/Jeddah/Hofuf/Buraidah, live catalog/delivery-info pages, 5-year warranty, active social media. Category: furniture, approved. || CROSS-VERIFICATION (independent 2nd pass): Verified as a real transactional furniture e-commerce site (online cart, SAR prices, Tamara installments, discounts, delivery or showroom pickup, live product pages for sofa sets/bedrooms), Saudi-HQ'd since 1978 with branches in Riyadh/Jeddah/Buraydah/Al Khobar. Broad home-furnishings retailer clears Gates 1-5; Gate 4 cart now confirmed rather than a browse-only brochure.",
     "source": "original_sweep+held_review+crossverified+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000165895145",
+    "zoho_match_type": "created_this_session"
   },
   {
     "name": "ptc",
@@ -14009,9 +14009,9 @@
     "gate_failed": "unverifiable",
     "reason": "RESOLVED: confirmed via web search -- Riyadh-based online grocery delivery platform, hypermarket catalog of 14,000+ items, same-day delivery, 51-200+ employees. The original nginx-default-page finding was likely a misconfigured endpoint, not the real consumer-facing site. Category: grocery, approved. || CROSS-VERIFICATION (independent 2nd pass): Website itself is a dead nginx default page (original 'live site' reason refuted), but it qualifies via the app path: a real Riyadh online-grocery delivery platform (30+ stores, 22+ KSA cities, 21,000+ products) with a consumer app carrying ~11k reviews, comfortably clearing the 50k+ app-download rescue (Gate 5b).",
     "source": "original_sweep+held_review+crossverified+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000138824065",
+    "zoho_match_type": "duplicate_caught_on_create"
   },
   {
     "name": "Ajlan & Bros",
@@ -14149,9 +14149,9 @@
     "gate_failed": "none",
     "reason": "[NAICS-ONLY RECHECK 2026-07-24] Live fetch of kadoon.com confirms a Riyadh-founded (1999) conglomerate whose other divisions are B2B/services (Kadoon Pro B2B platform, Kadoon Wellness distribution, dental clinics, Deem Spa, training institute) -- but it also runs 'K.Cosmetics' (kcosmetics.store), which Kadoon's own About page calls one of the largest Saudi stores specialized in health and beauty. Live-fetching kcosmetics.store directly confirmed a real, extensive Arabic-language D2C storefront with SAR checkout, tiered order discounts, and dozens of subcategories across skincare, body care, hair care and nail care -- well past the 50-SKU floor, satisfying Gates 2 (via the hybrid-B2B carve-out), 3, 4 and 5. Gate 8 also clears: Kadoon Company's LinkedIn page shows 18,898 followers and 91-200 employees, and search confirms a named Co-Marketing Manager, satisfying both the digital-scale and marketing-function legs. Same hybrid-B2B pattern already confirmed IN for Lazurde/Petzone/Al Andalus.",
     "source": "gap1_apollo_keyword+naics_only_recheck",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000084747211",
+    "zoho_match_type": "duplicate_caught_on_create"
   },
   {
     "name": "Golden Cala",
@@ -14163,9 +14163,9 @@
     "gate_failed": "",
     "reason": "[FULL-AUDIT FLIP_YES] Jeddah-HQ'd; runs its own D2C e-commerce (goldencala.com) selling contact lenses (LensMe and others), makeup and oral care -- approved beauty/cosmetics/optician category with repeat-purchase consumables. Its import/distribution arm (supplying Nahdi, Magrabi, Faces, etc.) is a separate fact per the corrected Gate 2; the wholesale-NAICS-only exclusion was improper. || ADVERSARIAL-CONFIRM: Jeddah HQ confirmed (Bin Suliman Centre, founded 2012). Beyond its contact-lens distribution/manufacturing core, it runs a substantial dedicated D2C Salla store: ~170 unique products (sitemap-counted) across contact lenses, cosmetics and oral care, SAR. Approved optical/beauty category, repeat-purchase, retail arm verified above scale floor per corrected Gate 2.",
     "source": "gap1_apollo_keyword+full_audit_flip+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000084747834",
+    "zoho_match_type": "duplicate_caught_on_create"
   },
   {
     "name": "SMSA EXPRESS - UK LIMITED",
@@ -14345,9 +14345,9 @@
     "gate_failed": "none",
     "reason": "[NAICS-ONLY RECHECK 2026-07-24] Live fetch of alyasrafoods.com confirms the parent's core identity is B2B food distribution and logistics -- but its own Direct to Consumer page links out to Makani Foods (makanifoods.com), serving chefs, restaurant owners, large families, and home cooks across Kuwait, in-store and online. Live-fetching makanifoods.com directly confirmed a real, extensive D2C grocery storefront: KWD cart and checkout, a free-delivery threshold, and a broad multi-category catalog (frozen poultry, beef, lamb, seafood, bakery, dairy, pantry staples, beverages, snacks) far past the 50-SKU floor, satisfying Gates 2 (via the hybrid-B2B carve-out), 3, 4 and 5. Clears Gate 8 on both legs: LinkedIn shows 55,397 followers and 674-5,000+ employees, a dedicated E-commerce and Marketing team is documented, and Makani Foods' own Instagram (@makanikw) independently shows 118K followers.",
     "source": "gap1_apollo_keyword+naics_only_recheck",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000165895149",
+    "zoho_match_type": "created_this_session"
   },
   {
     "name": "ALJOMAIH BOTTLING PLANTS",
@@ -14401,9 +14401,9 @@
     "gate_failed": "",
     "reason": "[FULL-AUDIT FLIP_YES] Beyond dairy/ice-cream manufacturing, KDD runs its own dedicated consumer retail arm: a live B2C store at eshop.kddc.com (100+ SKUs, KWD cart/checkout, free shipping), the DUKKAN convenience-store chain across Kuwait, and branded 'Gate-Shop' ice-cream parlors. Corrected Gate 2 hybrid pattern (Lazurde/Aljazierah): qualifies on the retail arm's own merits. || ADVERSARIAL-CONFIRM: Kuwait-HQ'd dairy manufacturer (est. 1962) that also runs a genuine dedicated retail arm: live eshop.kddc.com (100+ SKUs, KWD cart) plus the DUKKAN branded convenience-store chain across Kuwait and Gate-Shop parlors. The branded store network distinguishes it from the Radwa manufacturer-only-D2C fail; corrected Gate 2 hybrid holds.",
     "source": "gap1_apollo_keyword+full_audit_flip+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000165895150",
+    "zoho_match_type": "created_this_session"
   },
   {
     "name": "Qatar Vacancies",
@@ -14429,9 +14429,9 @@
     "gate_failed": "none",
     "reason": "[NAICS-ONLY RECHECK 2026-07-24] abukhalifa.com is primarily a wholesale fresh-produce distributor/category manager, but it also operates Keakado.com, a genuinely live, transactional D2C grocery e-commerce platform confirmed by direct fetch: real QAR cart/checkout mechanics ('Your cart is empty! Subtotal QAR 0, QAR 59 more to free delivery'), 47 distinct real QAR price points (138 total priced product listings just on the homepage/featured carousels), and an extensive multi-category catalog (Fruits with 18 subcategories, Vegetables with 20+, plus Grocery, Bakery, Beverages, Personal Care, and 'Keakado Boxes') far exceeding the ~50-SKU floor. This matches the rulebook's confirmed Gate 2 hybrid-B2B carve-out precedent (same pattern as Go Fresh): a real, substantial, dedicated consumer retail/e-commerce arm coexisting with a core B2B wholesale business, not a token add-on. Gate 8 also clears: LinkedIn (linkedin.com/company/abk-trading, domain-verified - its own 'website' field is www.abukhalifa.com) lists company size 201-500 employees (self-reported 'over 600 dedicated professionals' in the About section), well above the 50-employee bar, and a named 'E-Commerce Business Development & Category Officer (Keakado.com)' role (per ZoomInfo) confirms a real digital-commerce function. Keakado's own Instagram (@keakado) has only ~5,713 followers (does not clear the 50,000 Instagram alternate bar), but LinkedIn alone already clears Gate 8(b). No duplicate exists elsewhere in the project's data files under Abu Khalifa or Keakado.",
     "source": "gap1_apollo_keyword+naics_only_recheck",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000165895151",
+    "zoho_match_type": "created_this_session"
   },
   {
     "name": "Tawar Mall",
@@ -14639,9 +14639,9 @@
     "gate_failed": "",
     "reason": "[FULL-AUDIT FLIP_YES] Misclassified on NAICS. Starlink is Qatar's largest consumer electronics retailer (17+ Starlink Digital stores) with a live e-commerce store at starlink.qa (QAR, working cart/checkout, hundreds of SKUs); HQ Qatar (Ooredoo Group). Batch domain starlinkworld.com is the corporate site, retail runs at starlink.qa. || ADVERSARIAL-CONFIRM: Qatar-HQ'd (Ooredoo Group); live transactional store at starlink.qa in QAR with 14+ electronics categories and hundreds of SKUs, plus 17+ physical stores. Approved consumer-electronics category; geography and scale independently solid.",
     "source": "gap1_apollo_keyword+full_audit_flip+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000165895152",
+    "zoho_match_type": "created_this_session"
   },
   {
     "name": "Mitsubishi Electric Saudi Ltd.",
@@ -14737,9 +14737,9 @@
     "gate_failed": "",
     "reason": "[FULL-AUDIT FLIP_YES] Lazurde pattern. UMG is the sole Samsung distributor in KSA and, per multiple sources, the largest distributor AND retailer of consumer electronics/appliances, running roughly 9 to 10 consumer showrooms plus a reported online store at umg.sa (site is live but bot-protected, returns 403). Substantial dedicated retail arm; Jeddah HQ. || ADVERSARIAL-CONFIRM: Saudi-HQ'd (Jeddah, est. 1952); independently confirmed 9 showrooms + 10 branches with explicit B2C retailing as the largest consumer-electronics/appliance retailer in KSA. Substantial dedicated retail alongside Samsung distribution (Lazurde pattern); site was bot-blocked but the retail footprint is independently verified.",
     "source": "gap1_apollo_keyword+full_audit_flip+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000165895153",
+    "zoho_match_type": "created_this_session"
   },
   {
     "name": "Mekdam Telecom",
@@ -14765,9 +14765,9 @@
     "gate_failed": "none",
     "reason": "[NAICS-ONLY RECHECK 2026-07-24] The prior 'non-retail NAICS' tag does not hold up: jzfalcon.com's own online-store link leads to jzfstore.com, a live, fully transactional e-commerce site (Zid platform: cart, checkout, coupon activation, login, favorites, SAR pricing) selling air conditioners, refrigerators (5 sub-types), freezers, washers/dryers, ovens, TVs, built-in and commercial appliances, and 10+ small-appliance categories, comfortably clearing the ~50-SKU floor. Structured data confirms a Riyadh, Saudi Arabia address, and independent web/LinkedIn search confirms the company (founded 1994) is HQ'd in Al-Nuzha, Riyadh with 100-200+ employees. The company's own industrial/contracting/manufacturing lines are a separate, coexisting business under the corrected Gate 2 hybrid clause, matching the confirmed Aljazierah Home Appliances precedent. Gate 8 also clears: RocketReach shows a real 4-person marketing department led by a named Head of Brands, and LinkedIn shows well over 50 employees.",
     "source": "gap1_apollo_keyword+naics_only_recheck",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000165945001",
+    "zoho_match_type": "created_this_session"
   },
   {
     "name": "Almuftah Group Qatar",
@@ -15255,9 +15255,9 @@
     "gate_failed": "none",
     "reason": "[NAICS-ONLY RECHECK 2026-07-24] Domain on file (wister-sa.com) returns HTTP 403 (bot-blocked nginx), but the same brand's live operating site is wister.sa, independently corroborated by Arab News, HungerStation, LinkedIn and Instagram. WISTER is a Jeddah-founded (2017/18) fast-casual burger, chicken-sandwich and ice-cream QSR chain with 14 live branches confirmed by street address across Jeddah (6), Makkah (3) and Riyadh (5), a dedicated in-app 'Advanced Ordering' channel, and an active delivery listing on HungerStation (major Saudi aggregator), confirming a real transactional digital channel. F&B/QSR is an explicitly approved Gate 2 category; Instagram (@wister_sa) carries 465,000 followers across 1,275 posts, clearing Gate 8's 50,000-follower digital-scale bar with room to spare, and LinkedIn shows 26,919 followers (employee estimates range 56 self-reported to 201-500 third-party, plausible for a 14-branch multi-city chain). Recommend correcting the CRM domain field from wister-sa.com to wister.sa.",
     "source": "gap1_apollo_keyword+naics_only_recheck",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000165895154",
+    "zoho_match_type": "created_this_session"
   },
   {
     "name": "Jamjoom General Agencies جمجوم للوكالات العامة",
@@ -15325,9 +15325,9 @@
     "gate_failed": "",
     "reason": "SAMPLE RE-AUDIT CORRECTION (No -> Yes): Gate 5b (app-rescue): q84sale/4Sale is Kuwait's largest online marketplace, HQ'd in Kuwait, with 2.5M+ confirmed app downloads, which qualifies outright and overrides category. The original 'non-retail NAICS only' call ignored the app-rescue path. || ADVERSARIAL-CONFIRM: Kuwait's flagship classifieds marketplace, Kuwait-operated; 2.5M+ app downloads independently verified (AppBrain/Play). Gate 5b app-rescue clearly met, overriding category; operating-entity geography is Kuwait.",
     "source": "gap1_apollo_keyword+sample_reaudit+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000165895155",
+    "zoho_match_type": "created_this_session"
   },
   {
     "name": "Muntajat | منتجات",
@@ -15479,9 +15479,9 @@
     "gate_failed": "",
     "reason": "[FULL-AUDIT FLIP_YES] A live Kuwait-based consumer bookstore and publisher with a full e-commerce store (cart/checkout, user accounts, wishlists, promotions), ~150+ books across 40+ categories plus branded merchandise. Books/stationery is an approved category; the name-pattern auto-exclusion was wrong. || ADVERSARIAL-CONFIRM: Kuwait-HQ'd (site explicitly states 'based in Kuwait') consumer bookstore/publisher with a live transactional store (cart/checkout, KWD, 40+ categories, 150+ titles across novels/philosophy/children's/comics). Approved books category; genuine broad-interest consumer bookstore.",
     "source": "gap1_apollo_keyword+full_audit_flip+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000165895156",
+    "zoho_match_type": "created_this_session"
   },
   {
     "name": "Sand Brush",
@@ -15549,9 +15549,9 @@
     "gate_failed": "",
     "reason": "Confirmed via web search: 20M+ downloads, 16M+ users in Saudi Arabia, \"largest delivery app in Saudi Arabia\" -- clears the 50k app-download rescue threshold by a wide margin, overriding the delivery/marketplace-adjacent NAICS classification. || CROSS-VERIFICATION (independent 2nd pass): App-download rescue (Gate 5b) solidly met: 20M+ downloads, largest Saudi delivery app. Operating entity HungerStation Co. Ltd is Riyadh-HQ'd (Saudi-founded); Delivery Hero's ownership does not relocate the operating HQ, so Gate 1 holds.",
     "source": "gap1_apollo_keyword+crossverified+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000096715003",
+    "zoho_match_type": "duplicate_caught_on_create"
   },
   {
     "name": "Snoonu",
@@ -15563,9 +15563,9 @@
     "gate_failed": "",
     "reason": "Confirmed via web search: Qatar's first and only all-in-one super-app (11 services, 4,000+ shops/services), extensive press coverage as the country's flagship delivery/services app. Exact download count not retrieved but circumstantial evidence of massive national-scale reach is strong; treated as clearing the app-download rescue threshold, consistent with ToYou/Abar/HungerStation treatment. || CROSS-VERIFICATION (independent 2nd pass): Qatar's flagship homegrown delivery super-app (Doha, 4,000+ merchants), which fits the Gate 5b marketplace/delivery carve-out; its Google Play install base is well past the 50k threshold (1M+), consistent with the ToYou/Abar precedent. Gates hold.",
     "source": "gap1_apollo_keyword+crossverified+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000015981005",
+    "zoho_match_type": "duplicate_caught_on_create"
   },
   {
     "name": "مستر مندوب | Mr Mandoob",
@@ -15675,9 +15675,9 @@
     "gate_failed": "",
     "reason": "[FULL-AUDIT FLIP_YES] Saudi (Eastern Province, est. 1968) furniture company with a manufacturing plant PLUS three multi-floor consumer showrooms (Safwa 3,500sqm, Khobar 2,500sqm, Dammam) selling home furniture, curtains, carpets and home accessories to residential customers, and a first-pass scan found cart/checkout signals. Textbook Lazurde pattern (manufacturer + substantial dedicated consumer retail); the exclusion rested only on the corrected-away 'manufacturing/B2B disqualifies' reading. Storefront bot-blocked direct re-fetch. || ADVERSARIAL-CONFIRM: Saudi-HQ'd (Safwa, Eastern Province, est. 1968); independently confirmed 3 large multi-floor furniture showrooms (3,500sqm Safwa HQ, 2,500sqm Khobar, Dammam) selling broad home/office furniture, carpets and accessories to consumers, plus a live Salla store (transactional platform). Manufacturer + substantial dedicated retail; broad furniture. Note the .com.sa is a dead server directory; the active store is the Salla site alasfour.sa.",
     "source": "gap1_apollo_keyword+crossverified+full_audit_flip+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000165895159",
+    "zoho_match_type": "created_this_session"
   },
   {
     "name": "Aleephonline",
@@ -15745,9 +15745,9 @@
     "gate_failed": "",
     "reason": "[FULL-AUDIT FLIP_YES] A Kuwait cosmetics/beauty retailer with a live e-commerce store (cart/checkout, loyalty program) and a physical location at Luxury Mall Salmiya, spanning makeup, skincare, haircare, perfume and beauty tools (large SKU count). Cosmetics is an approved category; the 'building_materials' keyword tag was a clear misclassification. || ADVERSARIAL-CONFIRM: Kuwait-HQ'd (Salmiya, est. 1988) cosmetics/beauty retailer with a live online store (many product pages) and 8+ physical stores (Salmiya, Avenue Mall, Gate Mall, and others). Cosmetics is an approved category and the multi-store consumer retail is substantial; the prior 'building_materials' tag was a clear misclassification.",
     "source": "gap1_apollo_keyword+full_audit_flip+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000165895160",
+    "zoho_match_type": "created_this_session"
   },
   {
     "name": "ALshaya Group",
@@ -15759,9 +15759,9 @@
     "gate_failed": "",
     "reason": "[FULL-AUDIT FLIP_YES] M.H. Alshaya is a Kuwait-HQ'd retail franchise operator with 3,000+ stores and 70+ brands (H&M, Mothercare, Starbucks, etc.) across fashion, footwear, F&B, beauty, pharmacy, optics and home, plus a growing online business. The 'DEAD http_code=000' was a bot-block (site is live); every division is retail-qualifying so it passes as a consolidated account per Gate 6, consistent with the rulebook already treating Alshaya as a covered group. || ADVERSARIAL-CONFIRM: M.H. Alshaya Co. is genuinely Kuwait City-HQ'd, operates 3,000+ stores across 90 all-retail brands (fashion, F&B, beauty, optics, pharmacy, home); a legitimate Gate 6 consolidated account. Geography and category are not in doubt.",
     "source": "gap1_apollo_keyword+full_audit_flip+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000014977019",
+    "zoho_match_type": "duplicate_caught_on_create"
   },
   {
     "name": "Alomary office furniture company",
@@ -15815,9 +15815,9 @@
     "gate_failed": "",
     "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords || CROSS-VERIFICATION (independent 2nd pass): Multi-city Saudi hypermarket (Jeddah, Riyadh, Makkah, Dammam, Madina and more) with a live online platform, loyalty app, and broad grocery/general-merchandise range. The prior keyword-only reason holds up on independent check; approved high-frequency category.",
     "source": "gap1_apollo_keyword+crossverified+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000165889016",
+    "zoho_match_type": "created_this_session"
   },
   {
     "name": "Beauty Booth Qatar",
@@ -15843,9 +15843,9 @@
     "gate_failed": "",
     "reason": "[FULL-AUDIT FLIP_YES] Live Kuwait-HQ'd baby/kids retailer (since 2015, Avenues Mall store plus full e-commerce with cart) carrying ~500+ SKUs across clothing, toys, decor, bath, bags, and jewelry. The 'narrow, low-repeat boutique' basis is contradicted by the broad multi-category catalog, which clears the substantiality and repeat-purchase gates. || ADVERSARIAL-CONFIRM: Independently confirmed live Kuwaiti baby/kids retailer (self-described 'Kuwaiti brand since 2015', Avenues Mall store) with ~500+ SKUs across clothing/toys/accessories, working cart in KWD; clears scale and repeat-purchase gates.",
     "source": "gap1_apollo_keyword+crossverified+full_audit_flip+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000165889017",
+    "zoho_match_type": "created_this_session"
   },
   {
     "name": "Bayt Al Aleefa",
@@ -15871,9 +15871,9 @@
     "gate_failed": "",
     "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords || CROSS-VERIFICATION (independent 2nd pass): Independently confirmed as a genuine Saudi menswear retailer (Taif, since 1971, 50+ showrooms, own online store, SEDCO-owned); approved fashion/apparel, multi-item. The keyword-only reason happened to land on a real qualifier.",
     "source": "gap1_apollo_keyword+crossverified+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000017888488",
+    "zoho_match_type": "duplicate_caught_on_create"
   },
   {
     "name": "BJ Beauty Cosmetics",
@@ -15885,9 +15885,9 @@
     "gate_failed": "",
     "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords || CROSS-VERIFICATION (independent 2nd pass): Independent check (original was keyword-only): a Kuwait consumer beauty retailer since 2018 (makeup/skincare/lashes) with physical stores, a live Shopify store and Talabat/Boutiqaat brand presence. Approved repeat-purchase category; clears the gates.",
     "source": "gap1_apollo_keyword+crossverified+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000165889019",
+    "zoho_match_type": "created_this_session"
   },
   {
     "name": "Beauty Gallery Qatar",
@@ -15955,9 +15955,9 @@
     "gate_failed": "",
     "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords || CROSS-VERIFICATION (independent 2nd pass): Verified Riyadh, KSA beauty/personal-care online retailer on Salla with a consumer app; broad approved beauty category, repeat-purchase ('marketplace' is puffery on a single-merchant Salla store). Clears all gates.",
     "source": "gap1_apollo_keyword+crossverified+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000165889020",
+    "zoho_match_type": "created_this_session"
   },
   {
     "name": "daffah",
@@ -16011,9 +16011,9 @@
     "gate_failed": "",
     "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords || CROSS-VERIFICATION (independent 2nd pass): Independently verified as United Furniture Co Ltd, Riyadh-HQ'd since 1993, with a live consumer furniture cart and multi-brand catalog. The original keyword-only tag is now substantiated on geography and channel.",
     "source": "gap1_apollo_keyword+crossverified+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000165889021",
+    "zoho_match_type": "created_this_session"
   },
   {
     "name": "Etoile Company for Perfumes and Cosmetics",
@@ -16067,9 +16067,9 @@
     "gate_failed": "",
     "reason": "[FULL-AUDIT FLIP_YES] Misfiled as 'building_materials': fantasyworldtoys.com is a live Kuwait toy retailer (est. 1996, 7 stores, full cart/checkout, thousands of SKUs). Toys are an approved general-merchandise category and the operating entity is Kuwait-HQ'd. || ADVERSARIAL-CONFIRM: Live Kuwait toy retailer with multiple stores, extensive multi-category catalog, working KWD cart/checkout and delivery/click-and-collect; approved category and Kuwait-HQ'd. Misfiled building_materials tag.",
     "source": "gap1_apollo_keyword+full_audit_flip+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000059950001",
+    "zoho_match_type": "duplicate_caught_on_create"
   },
   {
     "name": "Dimos Furniture | ديموس اثــــاث",
@@ -16207,9 +16207,9 @@
     "gate_failed": "",
     "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords || CROSS-VERIFICATION (independent 2nd pass): Independent search confirms a Riyadh-based retailer of women's abayas (everyday/winter), accessories and under-abaya sets with online store and installment payments; approved fashion, Saudi, live store.",
     "source": "gap1_apollo_keyword+crossverified+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000165889023",
+    "zoho_match_type": "created_this_session"
   },
   {
     "name": "Maya Interiors",
@@ -16277,9 +16277,9 @@
     "gate_failed": "",
     "reason": "[FULL-AUDIT FLIP_YES] Misfiled as 'building_materials': miniso.sa is a live Saudi variety/lifestyle retailer operated by MINISO Saudi Arabia (a Riyadh-HQ'd local franchise entity, storefront on Salla) with physical stores nationwide and hundreds of SKUs. Approved category, in-country operating entity (the Cenomi-style Gate 1 pass), clears scale. || ADVERSARIAL-CONFIRM: Gate 1 passes: miniso.sa is operated by Alhokair/Cenomi, a Saudi-HQ'd local franchise partner, via a Riyadh operating entity (200-500 staff) with nationwide stores and hundreds of SKUs, not a foreign-parent ccTLD storefront. One caveat: possible Gate 6 consolidation overlap if Cenomi is separately present in the Yes list.",
     "source": "gap1_apollo_keyword+full_audit_flip+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000084746888",
+    "zoho_match_type": "duplicate_caught_on_create"
   },
   {
     "name": "La Maison Dorèe",
@@ -16291,9 +16291,9 @@
     "gate_failed": "",
     "reason": "[FULL-AUDIT FLIP_YES] Misfiled as 'automotive': lamaisondoree.com is a Riyadh-HQ'd furniture and home-decor e-commerce retailer plus showroom (secure checkout, returns, broad catalog across furniture, lighting, tableware, decor), with B2B/design only a secondary line. Approved category, Saudi HQ, real digital channel. || ADVERSARIAL-CONFIRM: Riyadh-based B2C furniture/home-decor retailer with a live SAR e-commerce store (cart, returns), an expanded showroom, and a broad catalog (furniture, tableware, lighting, decor, fragrances); B2B/design is secondary. Approved category, Saudi HQ. Misfiled automotive tag.",
     "source": "gap1_apollo_keyword+full_audit_flip+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000165889025",
+    "zoho_match_type": "created_this_session"
   },
   {
     "name": "Myriad Beauty",
@@ -16347,9 +16347,9 @@
     "gate_failed": "",
     "reason": "[FULL-AUDIT FLIP_YES] Misfiled as 'automotive': mogahwi.com.kw (Almuqahwi Library Co, est. 1942) is a Kuwait stationery/art-supplies retailer with physical stores (Shuwaikh, Sharq) and a live online shop. Stationery is an approved, repeat-purchase category and the entity is Kuwait-HQ'd. || ADVERSARIAL-CONFIRM: Almuqahwi Library Co. (est. 1942), Kuwait-HQ'd stationery/office/art-supplies retailer with physical stores and a live Shopify online shop (multiple collections, global brands, checkout); approved repeat-purchase category. Misfiled automotive tag.",
     "source": "gap1_apollo_keyword+full_audit_flip+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000165889026",
+    "zoho_match_type": "created_this_session"
   },
   {
     "name": "Noon com",
@@ -16585,9 +16585,9 @@
     "gate_failed": "",
     "reason": "strong retail signal (cart/checkout/price/sale keywords), no exclusion keywords || CROSS-VERIFICATION (independent 2nd pass): Independently verified as a substantial apparel retailer (not a healthcare provider): medical scrubs/lab coats/uniforms, ~10,600 SKUs across 24 brands, 10 Saudi/Bahrain stores plus a live online store, Riyadh-based. Apparel approved, B2C to individual professionals; the weak keyword-only reason actually holds up strongly on scale.",
     "source": "gap1_apollo_keyword+crossverified+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000084747362",
+    "zoho_match_type": "duplicate_caught_on_create"
   },
   {
     "name": "ORANGE BED & BATH",
@@ -16599,9 +16599,9 @@
     "gate_failed": "",
     "reason": "[FULL-AUDIT FLIP_YES] Live B2C home-textiles/bedding/bath e-commerce store (SAR pricing, active cart, roughly 200+ SKUs, Saudi commercial registration and tax number on file). Approved home/general-merchandise category; the 'building_materials' tag is a false keyword match. || ADVERSARIAL-CONFIRM: Live Saudi B2C home-textiles store (bedding, bath, plus decor/kitchen/kids) with ~200+ SKUs, SAR pricing, working cart, free-shipping threshold and a Saudi commercial registration/tax number on file; approved home category, broader/higher-repeat than a mattresses-only line. Misfiled building_materials tag.",
     "source": "gap1_apollo_keyword+full_audit_flip+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000084746880",
+    "zoho_match_type": "duplicate_caught_on_create"
   },
   {
     "name": "Saddik & Mohamed Attar Co.",
@@ -16767,9 +16767,9 @@
     "gate_failed": "",
     "reason": "[FULL-AUDIT FLIP_YES] Official Toys R Us Saudi Arabia store operated by the Saudi franchisee Tasweeq (Marketing Services and Commercial Projects), roughly 17 stores, 20,000+ products, live e-commerce plus iOS/Android apps. Local in-country franchise operator passes Gate 1; approved toys category. The 'dead 000' reflects a DNS/fetch artifact, not a dead site. || ADVERSARIAL-CONFIRM: Geography verified: the KSA operator is the Saudi sole franchisee Tasweeq (since 1996), not UAE-HQ'd Al-Futtaim (which runs Toys R Us only in the other Gulf states); ~17 stores plus apps/e-commerce. Local-operator Gate 1 pass, toys approved.",
     "source": "gap1_apollo_keyword+full_audit_flip+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000084746871",
+    "zoho_match_type": "duplicate_caught_on_create"
   },
   {
     "name": "Usedo | يوزدو",
@@ -16795,9 +16795,9 @@
     "gate_failed": "",
     "reason": "[FULL-AUDIT FLIP_YES] Sara Group Holdings is HQ'd in Al Khobar, Saudi Arabia and operates a substantial dedicated luxury-retail arm: Paris Gallery (15 KSA stores, 11,000+ items across perfume/cosmetics/watches/jewellery/fashion, with a live consumer e-commerce platform) and JFVT franchised luxury boutiques. Qualifies on the retail arm under the corrected Gate 2, the coexisting FMCG-distribution line not being disqualifying (may warrant consolidation under the Paris Gallery brand per Gate 6). || ADVERSARIAL-CONFIRM: Geography verified: the Paris Gallery e-commerce (parisgalleryme.com) shows a Saudi Commercial Registration and Jeddah HQ, and SARA Group Holdings is Al Khobar-HQ'd; substantial luxury retail arm (15 KSA stores, 11,000 items) qualifies under corrected Gate 2 despite the coexisting FMCG-distribution line.",
     "source": "gap1_apollo_keyword+full_audit_flip+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000084746782",
+    "zoho_match_type": "duplicate_caught_on_create"
   },
   {
     "name": "Yuehlia | يوليا",
@@ -16851,9 +16851,9 @@
     "gate_failed": "",
     "reason": "[FULL-AUDIT FLIP_YES] Live Saudi B2C home/office furniture e-commerce store (SAR pricing from 141 to 14,749 SAR, working cart, hundreds of SKUs across bedroom/living/dining/office/rugs/outdoor, multiple branches). Approved furniture/home category; not construction materials as tagged. || ADVERSARIAL-CONFIRM: Riyadh-HQ'd Saudi furniture retailer with a live consumer e-commerce store, broad catalog (hundreds of SKUs across bedroom/living/dining/office/rugs/outdoor, SAR 141-14,749) and multiple branches; approved home/furniture category, not narrow, scale met.",
     "source": "gap1_apollo_keyword+full_audit_flip+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000163175007",
+    "zoho_match_type": "duplicate_caught_on_create"
   },
   {
     "name": "Tech & Toys",
@@ -16879,9 +16879,9 @@
     "gate_failed": "",
     "reason": "RESOLVED: confirmed via web search -- Aal Alkaif, established 1957, coffee roasting/spices/dates/nuts/herbs retailer, live online store with multiple real product/branch pages found (متجرعال الكيف, فروعنا). Category: grocery/specialty F&B, approved, high repeat-purchase. || CROSS-VERIFICATION (independent 2nd pass): Coffee-roasting/spices/dates/nuts F&B retailer (est. 1957) with live online store and branches; high-repeat consumable F&B (approved). Clears all gates.",
     "source": "gap1_apollo_keyword+held_review+crossverified+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000084744822",
+    "zoho_match_type": "duplicate_caught_on_create"
   },
   {
     "name": "Alfuhod",
@@ -16907,9 +16907,9 @@
     "gate_failed": "",
     "reason": "CORRECTED (Gate 2 hybrid-B2B rule was mis-applied, re-confirming the original Held-review call this session): confirmed via web search -- Algarawi Group, Riyadh-HQ'd since the early 1970s, has been the exclusive Tommy Hilfiger agent in Saudi Arabia since 2013, operating standalone Podium stores plus its own flagship retail destination 'Algarawi Gallery' in Jeddah (opened 2022) -- a genuine, dominant, four-decade retail identity. It also markets brands 'in retail and wholesale, along with real estate and gastronomy,' but the retail identity (exclusive brand agent, like the already-established Cenomi/Alshaya pattern) and its own retail gallery are substantial and real. Category: fashion, approved.",
     "source": "gap1_apollo_keyword+held_review+crossverified+gate2_hybrid_rule_correction+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000084746829",
+    "zoho_match_type": "duplicate_caught_on_create"
   },
   {
     "name": "Sulaiman Al Bassam Company",
@@ -16949,9 +16949,9 @@
     "gate_failed": "",
     "reason": "RESOLVED: confirmed via web search -- Kuwait City-HQ'd (not Saudi as originally unconfirmed) luxury designer-gown fashion outlet, live site with /outlet and /clothing pages, serves GCC region, prices in KWD. Category: fashion/luxury, approved. Country resolved to Kuwait. || CROSS-VERIFICATION (independent 2nd pass): Kuwait City-HQ'd luxury fashion retailer, live site with /clothing and /outlet pages and KWD pricing. Fashion is an approved multi-item/seasonal category; clears the gates.",
     "source": "gap1_apollo_keyword+held_review+crossverified+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000165889034",
+    "zoho_match_type": "created_this_session"
   },
   {
     "name": "Al Othaim Life",
@@ -16963,9 +16963,9 @@
     "gate_failed": "",
     "reason": "RESOLVED: confirmed via web search -- major fashion retail platform, part of Al-Othaim Group, established 2007, grown from 4 to 25 brands (Kiabi, OVS, Parfois, Piazza Italia etc.) and now 338 stores / 35 brands, recently acquired 5 brands/121 stores from Cenomi Retail for SAR219mn. The 'Unveiling Soon' page hit by curl was almost certainly a specific sub-brand/relaunch page, not evidence the whole 338-store company hasn't launched. Category: fashion, approved. || CROSS-VERIFICATION (independent 2nd pass): Major Saudi fashion group (Al Othaim), 27 brands across 370+ stores with omnichannel e-commerce on multiple online platforms. Independent check confirms the operation is fully launched, so the 'Unveiling Soon' page the original curl hit was a single sub-page, not the whole company; qualifies as a consolidated fashion-retail parent.",
     "source": "gap1_apollo_keyword+held_review+crossverified+crm_scale_filter_pass",
-    "zoho_status": "new",
-    "zoho_account_id": "",
-    "zoho_match_type": ""
+    "zoho_status": "existing",
+    "zoho_account_id": "3978798000165889035",
+    "zoho_match_type": "created_this_session"
   },
   {
     "name": "ASTRA MARKETS",
