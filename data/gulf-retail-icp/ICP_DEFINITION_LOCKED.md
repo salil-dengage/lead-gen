@@ -233,6 +233,26 @@ consistently re-applied during the recent re-verification pass, still valid as s
 
 ## Changelog vs. the 2026-07-23 morning "locked" version
 
+- **2026-07-25: ALshaya Group's 5-way legacy-account split resolved, filtered by email domain per
+  user instruction.** Investigated the 5 legacy Zoho Account records holding ALshaya Group's
+  historical Contacts (Shaya Turkey, M. H. Alshaya, Al Shaya Group, Victorias Secret, The keeper):
+  all 19 contacts across them use either an `@alshaya.com` or `@shaya.com.tr` email, confirming
+  they're all the same real company. The user's explicit instruction: consolidate only the
+  `alshaya.com` contacts into the canonical Yes-qualified record ("ALshaya Group", id
+  3978798000014977019); the 2 `@shaya.com.tr` contacts, and the "Shaya Turkey" account record they
+  sit on, must not be touched at all. Executed exactly that: moved the 13 `alshaya.com` contacts
+  (7 from Shaya Turkey, 3 from M. H. Alshaya, 1 each from Al Shaya Group/Victorias
+  Secret/The keeper) onto the canonical record; left the 2 `shaya.com.tr` contacts and the Shaya
+  Turkey account record completely unwritten; flagged the 4 now-empty legacy accounts (M. H.
+  Alshaya, Al Shaya Group, Victorias Secret, The keeper) with a `[DUPLICATE ...]` pointer note,
+  matching the established pattern — Shaya Turkey does NOT get this flag since it still legitimately
+  holds the 2 Turkey-domain contacts. Independently re-verified: all 13 moved contacts confirmed on
+  the canonical account, both `shaya.com.tr` contacts confirmed still on Shaya Turkey, Shaya Turkey's
+  own Account_Notes/Account_Progress confirmed unchanged. Of the 47 leads held back pending this
+  decision, 45 matched cleanly on the `alshaya.com` domain and were tagged; 2 (one on `@umww.com`,
+  one with no email at all) matched only by fuzzy company-name text with no domain evidence and were
+  deliberately left out per the same "only alshaya.com is allowed" rule — flagged for manual review
+  rather than guessed at.
 - **2026-07-24, fourth round: 405 Leads tagged for manual mass-conversion; Zoho has no API-level
   Convert-Lead action.** This MCP server's Zoho toolset has no equivalent of Zoho's native "Convert
   Lead" button — only generic CRUD, which cannot atomically create a Contact + link an Account +
