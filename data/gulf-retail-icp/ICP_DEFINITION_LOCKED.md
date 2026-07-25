@@ -233,6 +233,53 @@ consistently re-applied during the recent re-verification pass, still valid as s
 
 ## Changelog vs. the 2026-07-23 morning "locked" version
 
+- **2026-07-25, second round: relevance re-investigation of all 450 `Gulf_Retail_ICP_Convert`-tagged
+  leads plus all 279 Contacts on the 297 Yes accounts; re-tagged leads by disposition; flagged
+  stale contacts; populated the empty Apollo target-account list.** The user asked for a second pass
+  beyond linkage-correctness: which of the 450 tagged leads are genuinely worth converting (right
+  role, not historically dead), and does the same apply to existing Contacts. Pulled full field data
+  for all 450 leads (Designation, Lead_Status, Email_Opt_Out, Unsubscribed_Mode) and all 279 Contacts
+  found on the 297 Yes accounts (Title, Still_an_Employee, Email_Opt_Out, Unsubscribed_Mode) via
+  batched COQL. Built a rule-based classifier: Lead_Status in {Not Qualified, Bad Data, Junk Lead,
+  Not Interested} (or Contact Still_an_Employee=false) = historically dead; Designation/Title
+  keyword-matched against the Gate 8 marketing/digital/CRM/ecommerce/customer-experience vocabulary
+  for role relevance, with individual judgment applied to every ambiguous title (executives,
+  generic/garbled titles, ~85 records total) rather than defaulting either direction. Cross-checked
+  the "real" leads' emails against existing Contact emails and found 19 were already Contacts under a
+  different record — reclassified those as duplicates rather than convert-candidates.
+  Result: of 450 leads, 226 are real net-new convert candidates, 123 are historically dead, 82 are
+  the wrong function, 19 are duplicates of an existing Contact. Of 279 Contacts, 146 are active and
+  relevant, 93 are the wrong function, 40 have left their company (Still_an_Employee=false).
+  Account-level rollup: only 103 of the 297 Yes accounts (35%) currently have at least one real,
+  actionable prospect (a convert-candidate Lead or an active-relevant Contact) on file; 24 have
+  records but none qualify, and 170 have nothing on file at all.
+  Per user approval, re-tagged the 224 non-convert leads in Zoho: discovered that clearing the
+  `Tag` field via a plain record update (`Tag: []`) is silently ignored by the API (same class of
+  bug as the earlier Lead_Notes issue — no error, but the write has no effect; caught via independent
+  COQL re-query, never trust a bare SUCCESS response for Tag writes), and that `postAddTags` cannot
+  accept an empty tags array either (`INVALID_DATA`) and is capped at ~4 record IDs per call (the
+  `ids` string has a 102-character limit). Worked around both: created three new tags
+  (`Gulf_Retail_Skip_Dead`, `Gulf_Retail_Skip_Role`, `Gulf_Retail_Dup_Contact`) and used
+  `updateRecords` (which has no such size cap and DOES take effect for a *non-empty* Tag value) to
+  swap each excluded lead's tag for the correct disposition tag. Independently re-verified via
+  `getTags` associated_record_count: `Gulf_Retail_ICP_Convert` now shows exactly 226, and the three
+  new tags show exactly 123/82/19. Flagged all 40 stale Contacts with a `[FLAGGED ...]` note appended
+  to Description (existing Description content preserved, not overwritten).
+  Separately, the user asked to confirm Apollo actually holds the full 297-account Yes universe
+  before converting any leads. The "Gulf Retail ICP - 297 Target Accounts" Apollo list (created in
+  the third-round work below) showed `cached_count: 0` — completely empty despite being marked done
+  earlier, the same silent-failure pattern seen elsewhere this session. Resolved all 293
+  domain-bearing Yes accounts via 4 batched `apollo_mixed_companies_search` calls (domains, not
+  enrichment — 1 credit per call regardless of match count, versus up to 1 credit per company on the
+  enrichment endpoint) and the 4 no-domain accounts via individual name searches (8 credits total,
+  user-approved in advance). 341 of the resolved entities already existed as saved Apollo accounts
+  (residue from the earlier enrichment pass) and were added directly; 5 existed only as unsaved
+  global organizations and had to be created as Apollo accounts first via `apollo_accounts_create`
+  before they could be added. 13 of the 293 domains returned zero Apollo match at all (a real,
+  unresolved gap, not a bug) and were not added. Final verified state (via a fresh, uncached
+  `apollo_labels_index` call after each write, since the list's own `cached_count` is asynchronous
+  and reads stale immediately after a write): 346 entities in the list, covering 284 of the 297 Yes
+  accounts.
 - **2026-07-25: ALshaya Group's 5-way legacy-account split resolved, filtered by email domain per
   user instruction.** Investigated the 5 legacy Zoho Account records holding ALshaya Group's
   historical Contacts (Shaya Turkey, M. H. Alshaya, Al Shaya Group, Victorias Secret, The keeper):
