@@ -651,3 +651,30 @@ consistently re-applied during the recent re-verification pass, still valid as s
   models, etc., and specific narrow-category precedents for lighting/flooring/tires/mattresses).
 - Geography (Gate 1) and the no-NAICS-only-classification rule (Gate 7) are unchanged from the
   same-day version and remain fully in force.
+
+## Contact-discovery re-run and role/function rules (logged 2026-07-25)
+
+- **The "181 accounts with zero Apollo contacts" was a filter artifact, not a data gap.** A
+  diagnostic on 12 recognizable accounts showed every one carries 40 to 367 people in Apollo
+  (Ansar Gallery 367, City Hypermarket 309, Care n Cure 229). The prior discovery search returned
+  zero because it required seniority Director-or-above AND an ICP title keyword at the same time.
+  At small and mid Gulf retailers the person who owns marketing, ecommerce, or CRM is titled
+  Manager, not Director, so the Director floor zeroed them. One account (City Hypermarket) was also
+  a stored-domain defect (saved as "http://www.cityhyper.com", which broke its lookup).
+- **Role priority ladder (user-locked): CxO, VP (or SVP), Director, Head, Sr Manager, Manager.**
+  The Manager floor replaces the earlier "Director and above only" gate for this segment.
+- **Functions (user-locked): Marketing, Digital, CRM, eComm, Retention, Growth.** Close kin
+  (brand, loyalty, omnichannel, customer experience) map into these. A contact is kept only if the
+  title matches one of these functions, even a CEO with no marketing remit is dropped.
+- **Hard rule: no "Sales" titles at all.** Any title containing "Sales" is excluded even when
+  paired with an ICP function (for example "Sales and Marketing Manager" is out). Physical-store
+  roles (Store or Branch or Outlet Manager, Showroom) are excluded unless explicitly e-commerce.
+- **Corrected re-run result:** 142 relevant contacts recovered across 80 of the 177 domained
+  zero-accounts, overwhelmingly Manager-tier. Apollo spend this pass was about 103 credits (12
+  diagnostic + 91 re-run). The remaining 97 domained accounts returned nobody at Manager-or-above
+  in the six functions (marketing lead below the Manager floor, or genuinely absent at that
+  domain), plus 4 no-domain accounts pending org-name resolution.
+- **Enforcement applied to existing lists:** removed 8 Sales-titled rows from the full outreach
+  list (362 to 354) and 2 from the active shortlist (123 to 121). In Zoho the 2 shortlisted Sales
+  contacts were pulled from the Gulf_Retail_Shortlist tag: Abdullah Bashammakh (L'azurde) kept only
+  Gulf_Retail_ICP_Convert, and Hussien Khoj (Zagzoog) was marked Gulf_Retail_NoSales.
