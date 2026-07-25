@@ -727,3 +727,47 @@ consistently re-applied during the recent re-verification pass, still valid as s
 - All 6 updates independently verified against live Zoho after write (never trusted the bare
   SUCCESS response). Mobile numbers also added to the `mobile` column in
   rollout/FINAL_outreach_shortlist_2026-07-25.csv.
+
+## WhatsApp cold-outreach CSV + VCF for the 64 mobile-verified contacts (logged 2026-07-25)
+
+- User request: from the 114 named (non-tbc) shortlist contacts, a CSV of those with a mobile number,
+  first name (corrected for personalization), title, account name, and a one-click wa.me WhatsApp
+  link carrying a personalized message, plus a matching VCF for import. Confirmed count: exactly 64
+  of 114 have a mobile on file, matching the user's own tracking exactly.
+- **Compliance flag raised and the user's explicit decision recorded.**
+  `prospecting_engine_v1.2_21July.md` Section 8 states plainly: "WhatsApp: not for cold outreach.
+  Opt-in only, post-conversion, client owns the WABA." This document is also calibrated for
+  GCC/MENA bank CxOs (its proof points are Fibabanka/Burgan/MCB) and defines no WhatsApp message
+  structure at all, only Email and LinkedIn (Section 6.9). Flagged to the user before drafting
+  anything. User's explicit answer: "proceed anyway." Built as directed.
+- **Message content approach, disclosed:** did not run the full paid multi-tool trigger-research
+  pipeline (urlscan, Firecrawl, JobsPipe, ScrapingDog, Apify) per contact, since that pipeline is
+  built and costed for bank-tier deals, not a 64-contact small/mid Gulf retail batch. Instead used
+  each contact's real, verified title, account name, and inferred retail vertical (grocery, fashion,
+  electronics, pharmacy, beauty, fragrance, jewelry, home, pets, quick-commerce, food delivery,
+  conglomerate, or a neutral generic fallback where the vertical was unclear) for honest,
+  non-fabricated specificity. No dated "recent move" trigger was invented (none were verified). No
+  customer metric used (metrics are held to touch 2 per Section 6.8, and none of these are past
+  touch 1). No client logo named at all (safer than risking an implied GCC logo, since D.engage has
+  no confirmed GCC reference per CLAUDE.md Section 4); the only proof element is one G2 accolade per
+  message, rotated from the verified pool (#1 Personalization Engine, #1 time to value, #1 ROI, top
+  5 CDP, G2 Momentum Leader, 4.6/5). Messages run 37 to 49 words, "Dear {FirstName}" opener as
+  instructed, signed "Salil", no dashes, no rule of three, no colon enumeration, no banned filler.
+  Verified zero exact-duplicate messages across all 64 and controlled phrase-repeat density within
+  the highest-contact-count accounts (Panda Retail and ALshaya Group, 8 each) via per-account
+  rotation across an expanded outcome-clause pool.
+- **Two accounts flagged as possible ICP-gate mismatches, not resolved, left for the user:** Motory
+  (email domain motory.com, title references "Digital Marketing and Monetization"; reads as an
+  automotive classifieds marketplace, both automotive and marketplace models are hard-excluded under
+  Gate 2) and Abdul Latif Jameel (3 contacts; ALJ's core identity is Toyota distribution in Saudi,
+  though these specific contacts may sit in a non-automotive retail arm, unconfirmed). Kept their
+  message copy vertical-neutral rather than guess wrong.
+- One first-name correction applied: "mona dabbah" to "Mona" (capitalization).
+- One phone-format anomaly flagged, not corrected (no independent way to verify): Fawaz Alenzi's
+  mobile (+965 1806 000) is one digit short of a standard 8-digit Kuwait mobile; the wa.me link was
+  still generated as instructed.
+- 10 of 64 have no email on file; the VCF EMAIL field is left blank for these rather than invented.
+- Deliverables: `rollout/whatsapp_outreach_64_2026-07-25.csv` (first_name, title, account_name,
+  mobile, whatsapp_link) and `rollout/whatsapp_outreach_64_2026-07-25.vcf` (64 vCards: FN, N, ORG,
+  TITLE, EMAIL where available, TEL). Both independently verified: CSV 64 rows, VCF 64 vCards, a
+  sample wa.me link URL-decodes back to the exact source message.
