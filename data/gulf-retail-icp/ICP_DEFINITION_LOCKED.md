@@ -682,3 +682,15 @@ consistently re-applied during the recent re-verification pass, still valid as s
   7 Brand/Event). In Zoho all 9 were pulled from the Gulf_Retail_Shortlist tag; contacts with a
   second tag kept Gulf_Retail_ICP_Convert, and the 3 whose only tag was the shortlist were marked
   Gulf_Retail_NoSales or Gulf_Retail_TitleExcl.
+- **All 96 recovered contacts written to Zoho as provisional records (user-directed, pre-enrichment).**
+  User: "write to zoho without enriching them right now... I am not really very confident on this
+  but I want to proceed further anyway." Created as Contacts under their correct Account_Name,
+  tagged both Gulf_Retail_Shortlist and a new apollo_retail_tbc (created this pass) to flag them as
+  provisional: Last_Name is Apollo's obfuscated form (e.g. "Sh***h"), Title is as returned by
+  Apollo, Description carries the apollo_person_id for later enrichment/reconciliation. No
+  LinkedIn/mobile/country/full name yet, all TBC pending an enrichment pass. Write verified
+  independently: 96/96 created (0 errors, 0 duplicates), 9-record spot check confirmed correct
+  account linkage, title, and both tags; apollo_retail_tbc tag count = 96 exact,
+  Gulf_Retail_Shortlist tag count = 210 = 114 prior + 96 new, exact. Mapping (zoho_contact_id to
+  apollo_person_id to account) saved to
+  rollout/apollo_retail_tbc_written_2026-07-25.csv. Live Gulf_Retail_Shortlist count is now 210.
