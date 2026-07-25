@@ -21,13 +21,11 @@ MATCH,YES,David Atalla,Founder and Managing Director,Kenz,Saudi Arabia,Saudi Ara
 MATCH,YES,Noor Shaheen,Head of Marketing,Kenz Woman,Saudi Arabia,Saudi Arabia,Head,noor@kenzwoman.com,3978798000101009746
 MATCH,YES,Melissa Palazzetti,Group Chief Marketing Officer,L'azurde,Saudi Arabia,Saudi Arabia,Chief/CxO,melissa.palazzetti@lazurde.com,3978798000166061684
 MATCH,YES,Muhammad Alsaadany,Marketing Head,Lemon Pharmacy,Saudi Arabia,Saudi Arabia,Head,m.alsaadany@lemonpharmacy.com,3978798000078266011
-MATCH,YES,Nitin Kalra,Head of Brand Licensing,Modern Electronics - MEC (AL-Faisaliah Group),Saudi Arabia,Saudi Arabia,Head,nkalra@modern-electronics.com,3978798000166061782
 MATCH,YES,Chaymaa Mohamed,Head of Digital Marketing,NICE ONE,Saudi Arabia,Saudi Arabia,Head,chaymaam@niceonesa.com,3978798000100923196
 MATCH,YES,Sami Alhelwah,Founder and CEO,Nana,Saudi Arabia,Saudi Arabia,Chief/CxO,sami@nana.sa,3978798000101728327
 MATCH,YES,Imad Siddiqui,Head of Growth and Performance,Ninja ?? نينجا,Saudi Arabia,Saudi Arabia,Head,imad@ananinja.com,3978798000097370070
 MATCH,YES,Jotaro Jostar,Director Marketing Communications,Ninja ?? نينجا,Saudi Arabia,Saudi Arabia,Director,jotaro@ananinja.com,3978798000097360916
 MATCH,YES,Mohammad Ghazawi,Digital Marketing Director,Ninja ?? نينجا,Saudi Arabia,Saudi Arabia,Director,mohammad@ananinja.com,3978798000097360949
-MATCH,YES,Patrick Semaan,Head of Brand,Ninja ?? نينجا,Saudi Arabia,Saudi Arabia,Head,patrick@ananinja.com,3978798000097370130
 MATCH,YES,Mohnad Hamadon,Marketing Director,ORANGE BED & BATH,Saudi Arabia,Saudi Arabia,Director,m.hamadon@orangebedbath.com,3978798000166061628
 MATCH,YES,Ali Al Sawaf,Head of Retail Development - Marketing Transformation,Panda Retail Company - Savola Group,Saudi Arabia,Saudi Arabia,Head,aalsawaf@panda.com.sa,3978798000093124186
 MATCH,YES,Sultan Hassan,Head of Shopper Marketing,Panda Retail Company - Savola Group,Saudi Arabia,Saudi Arabia,Head,srhassan@panda.com.sa,3978798000093118499
@@ -36,7 +34,6 @@ MATCH,YES,Mohammed Alajlan,Chief Executive Officer,Richy Group,Saudi Arabia,Saud
 MATCH,YES,Mohamed Nagah,Group Marketing Strategy Director,SARA Group KSA,Saudi Arabia,Saudi Arabia,Director,,3978798000166061712
 MATCH,YES,Toni Nasta,e-Commerce Head of Electronics,Tawseel Media Group,Kuwait,Kuwait,Head,toni@tawseelgroup.com,3978798000166059542
 MATCH,YES,mona dabbah,Marketing Director,The Sultan Center,Kuwait,Kuwait,Director,mona.dabbah@sultan-center.com,3978798000166059608
-MATCH,YES,Mustafa Zaartari,Chief Brand Officer,ToYou,Saudi Arabia,Saudi Arabia,Chief/CxO,m.zaatari@toyou.io,3978798000166061193
 MATCH,YES,Abdulwahab Alothman,CEO,Ubuy Inc,Kuwait,Kuwait,Chief/CxO,alothman@ubuy.com,3978798000166059579
 MATCH,YES,Rohit Pandit,"Chief Operating Officer, Retail, Distribution, B2B, MEP, eCommerce, Supply Chain, Service",Video Home & Electronic Centre,Qatar,Qatar,Chief/CxO,rohitpandit@jumboqatar.com,3978798000166059519
 MATCH,YES,Hesham Cpsa,Marketing Director,WHITES,Saudi Arabia,Saudi Arabia,Director,,3978798000091396599
@@ -50,7 +47,6 @@ MATCH,YES,Othman Alaqeel,Customer Experience Devlopment Dirctor,extra,Saudi Arab
 MATCH,YES,Sally Coetzee,Director of Ecommerce,extra,Saudi Arabia,Saudi Arabia,Director,coetzee.s@extra.com,3978798000090315493
 MATCH,YES,Hisham Fayad,Head Of Ecommerce,nice,Saudi Arabia,Saudi Arabia,Head,fayad.h@nice.co,3978798000166061072
 MATCH,,Harald Krahnke,Marketing Director,ABYAT,Kuwait,Kuwait,Director,harald.krahnke@abyat.com,3978798000166051314
-MATCH,,Sadeq Sadeq,Head of Brand and Corporate Awareness,ABYAT,Kuwait,Kuwait,Head,sadeq.abul@abyat.com,3978798000166061272
 MATCH,,Ahmad Oriqat,"Head of Vm and Products ( Marketing ) Footlockerme , New Balance",ALshaya Group,Kuwait,Kuwait,Head,ahmad.oriqat@alshaya.com,3978798000166051307
 MATCH,,Ahmed Husseini,Head of Content and Design | Ecommerce,ALshaya Group,Kuwait,Kuwait,Head,ahmed.husseini@alshaya.com,3978798000166051335
 MATCH,,Christopher Trusted,Head of Advertising and Media - Corporate Marketing Department,ALshaya Group,Kuwait,Kuwait,Head,chris.joubanian@alshaya.com,3978798000166051342
@@ -96,7 +92,6 @@ UNKNOWN,,Esam Al-Hasan,Vice President of Marketing,Jarir Bookstore,Saudi Arabia,
 UNKNOWN,,Mahaii Albuhairi,Marketing Director,Jarir Bookstore,Saudi Arabia,,Director,mahaii@jarirbookstore.com,3978798000163659007
 UNKNOWN,,Omar Mallisho,Group General Manager Marketing & Digital Commerce,Scent,Saudi Arabia,,General Manager,omallisho@arabianoud.com.sa,3978798000166059343
 UNKNOWN,,Hesham Attalla,Senior Director of Marketing,WHITES,Saudi Arabia,,Director,,3978798000166059399
-UNKNOWN,,Abdullah Altayawi,Brand Director,alephksa,Saudi Arabia,,Director,abdullah.altayawi@alephksa.com,3978798000163687003
 UNKNOWN,,Shahin Riaz,Head of Products (Digital - Growth - Loyalty - PDPL),eXtra (United Electronics Co.),Saudi Arabia,,Head,riaz.s@extra.com,3978798000166059357
 UNKNOWN,,Abdulelah Almuraqi,Group Marketing Director,sulalat,Saudi Arabia,,Director,abdulelah@sulalat.com,3978798000163690010
 OUT_OF_REGION,YES,Elisabetta Aiello,Vice President Marketing and Digital - Starbucks Mena and Turkey Regions,ALshaya Group,Kuwait,UAE,VP/President,elisabetta.aiello@alshaya.com,3978798000166051160
@@ -115,8 +110,6 @@ OUT_OF_REGION,,Gala Blasco,Director of Digital Trading and Marketing Creative,AL
 OUT_OF_REGION,,Norris Keefe,Head of Marketing,ALshaya Group,Kuwait,UAE,Head,keefe.norris@alshaya.com,3978798000166051111
 OUT_OF_REGION,,Pamela Karout,Head of Marketing | Wellness Division,ALshaya Group,Kuwait,UAE,Head,pamela.karout@alshaya.com,3978798000161679102
 OUT_OF_REGION,,Rob Silsbury,Vice President Marketing and Ecommerce,ALshaya Group,Kuwait,UAE,VP/President,rob.silsbury@alshaya.com,3978798000166051139
-OUT_OF_REGION,,Sayari Ghosh,Group Director Brand Strategy and Marketing - Retail,ALshaya Group,Kuwait,UAE,Director,sayari.ghosh@alshaya.com,3978798000166051104
 OUT_OF_REGION,,Lama Nasser,Head of Marketing & CRM,Alyasra Group,Kuwait,UAE,Head,l.nasser@alyasra.com,3978798000161679104
-OUT_OF_REGION,,Muhammad Omar,Brand and Marketing Director,Floward,Saudi Arabia,Egypt,Director,,3978798000166051216
 OUT_OF_REGION,,Birol Ipci,Information Technology Digital Transformation Director,Panda Retail Company - Savola Group,Saudi Arabia,Turkey,Director,bipci@panda.com.sa,3978798000093118410
 OUT_OF_REGION,,Rohan Kapoor,"Group Vice President , Digital Marketing and Loyalty",cenomiretail,Saudi Arabia,UAE,VP/President,,3978798000166051391

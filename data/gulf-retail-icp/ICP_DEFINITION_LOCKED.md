@@ -666,15 +666,19 @@ consistently re-applied during the recent re-verification pass, still valid as s
 - **Functions (user-locked): Marketing, Digital, CRM, eComm, Retention, Growth.** Close kin
   (brand, loyalty, omnichannel, customer experience) map into these. A contact is kept only if the
   title matches one of these functions, even a CEO with no marketing remit is dropped.
-- **Hard rule: no "Sales" titles at all.** Any title containing "Sales" is excluded even when
-  paired with an ICP function (for example "Sales and Marketing Manager" is out). Physical-store
-  roles (Store or Branch or Outlet Manager, Showroom) are excluded unless explicitly e-commerce.
-- **Corrected re-run result:** 142 relevant contacts recovered across 80 of the 177 domained
-  zero-accounts, overwhelmingly Manager-tier. Apollo spend this pass was about 103 credits (12
-  diagnostic + 91 re-run). The remaining 97 domained accounts returned nobody at Manager-or-above
-  in the six functions (marketing lead below the Manager floor, or genuinely absent at that
-  domain), plus 4 no-domain accounts pending org-name resolution.
-- **Enforcement applied to existing lists:** removed 8 Sales-titled rows from the full outreach
-  list (362 to 354) and 2 from the active shortlist (123 to 121). In Zoho the 2 shortlisted Sales
-  contacts were pulled from the Gulf_Retail_Shortlist tag: Abdullah Bashammakh (L'azurde) kept only
-  Gulf_Retail_ICP_Convert, and Hussien Khoj (Zagzoog) was marked Gulf_Retail_NoSales.
+- **Hard rules: no "Sales", "Brand", or "Event" titles at all.** Any title containing Sales, Brand,
+  or Event is excluded even when paired with an ICP function (for example "Sales and Marketing
+  Manager", "Brand Manager", and "Marketing & Event Manager" are all out). Brand is therefore NOT a
+  qualifying function. Physical-store roles (Store or Branch or Outlet Manager, Showroom) are
+  excluded unless explicitly e-commerce.
+- **Corrected re-run result:** 96 relevant contacts recovered across 68 of the 177 domained
+  zero-accounts, overwhelmingly Manager-tier (after the Sales, Brand, and Event exclusions; the set
+  was 142 before Brand and Event were removed). Apollo spend this pass was about 103 credits (12
+  diagnostic + 91 re-run). The remaining 109 domained accounts returned nobody at Manager-or-above
+  in the (Sales/Brand/Event-excluded) functions (marketing lead below the Manager floor, or
+  genuinely absent at that domain), plus 4 no-domain accounts pending org-name resolution.
+- **Enforcement applied to existing lists:** removed 21 banned-title rows from the full outreach
+  list (362 to 341: 8 Sales, 13 Brand/Event) and 9 from the active shortlist (123 to 114: 2 Sales,
+  7 Brand/Event). In Zoho all 9 were pulled from the Gulf_Retail_Shortlist tag; contacts with a
+  second tag kept Gulf_Retail_ICP_Convert, and the 3 whose only tag was the shortlist were marked
+  Gulf_Retail_NoSales or Gulf_Retail_TitleExcl.
