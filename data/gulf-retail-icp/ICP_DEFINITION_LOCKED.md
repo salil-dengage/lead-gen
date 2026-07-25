@@ -233,6 +233,35 @@ consistently re-applied during the recent re-verification pass, still valid as s
 
 ## Changelog vs. the 2026-07-23 morning "locked" version
 
+- **2026-07-25, fourth round: cleaned the 362-contact outreach list down to a validated 123-person
+  senior shortlist (Option D) via three explicit filters, and tagged it in Zoho.** The user pushed
+  back hard on whether all 362 outreach contacts were genuinely worth prospecting and specified three
+  filters: (1) disqualify on any notes/tasks/activities, (2) keep only CxO/VP/Director/Head/Chief
+  titles, (3) compare contact location/CRM_Country to the account's country. Applied them in
+  efficiency order (seniority first, it is the biggest zero-cost cut). **Filter 2 (seniority):**
+  362 → 123 (cut 239 Managers/Specialists/Officers/Leads/Coordinators); one genuine misfire caught
+  and fixed (a "Dirctor" misspelling my regex missed), and the FAIL bucket was re-scanned for other
+  misspelled senior titles. **Filter 1 (notes/tasks/activities):** ran against all 123 survivors,
+  Description field plus a COQL sweep of the Tasks module (2 batches, the IN clause caps at 100 ids).
+  Zero disqualifiers (no not-interested / bounced / unsubscribed / left-company). It did surface that
+  65 of the 123 already carry logged outbound activity (email/LinkedIn/WhatsApp/call), so 58 are
+  truly cold; the shortlist CSV now flags `already_in_outreach`. **Filter 3 (geography):** of the
+  123, 84 exact country match, 3 in-Gulf-different-country, 15 unknown (no CRM_Country on record), 21
+  out-of-region (Egypt/UAE/Lebanon/Turkey). The out-of-region label mostly reflects where a person's
+  LinkedIn/nationality sits, not that they work elsewhere; 11 of the 21 are already in live outreach
+  and are the actual marketing leadership (eXtra's Head of Marketing, Panda's CMO, ALshaya's UAE-based
+  VPs), and only 2 of the 21 are the sole senior contact at their account. Presented four cut options
+  (A strict-geo 84 / B 87 / C 102 / D 123). **User chose D: seniority + clean-record as hard cuts,
+  geography kept as a visible column rather than a delete.** Operationalized D by tagging all 123
+  Contacts with a new `Gulf_Retail_Shortlist` tag (id 3978798000166128001), merging rather than
+  overwriting so existing tags (Gulf_Retail_ICP_Convert on 75, Fashion & Lifestyle on 1) were
+  preserved (updateRecords replaces the Tag array, so current tags were read first and re-supplied).
+  Independently verified via getTags: `Gulf_Retail_Shortlist` = exactly 123, `Fashion & Lifestyle`
+  still 9 (not wiped). Deliverables: `rollout/FINAL_outreach_shortlist_2026-07-25.csv` (123 rows,
+  columns geo_bucket + already_in_outreach + seniority so a human can eyeball geography per contact).
+  The 123 span 63 accounts. Apollo credits for an employment-freshness recheck were offered and held
+  at the user's redirect (the three Zoho-field filters replaced that idea).
+
 - **2026-07-25, third round: audited the user's manual conversion of all 226 tagged leads, found and
   fixed 76 broken conversions, then rebuilt the final master outreach contact list.** The user
   converted all 226 `Gulf_Retail_ICP_Convert` leads via Zoho's native UI and asked for a full
