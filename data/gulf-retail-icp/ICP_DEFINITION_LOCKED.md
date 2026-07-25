@@ -694,3 +694,36 @@ consistently re-applied during the recent re-verification pass, still valid as s
   Gulf_Retail_Shortlist tag count = 210 = 114 prior + 96 new, exact. Mapping (zoho_contact_id to
   apollo_person_id to account) saved to
   rollout/apollo_retail_tbc_written_2026-07-25.csv. Live Gulf_Retail_Shortlist count is now 210.
+
+## CxO/VP mobile enrichment, standard reveal only (logged 2026-07-25)
+
+- User request: enrich the CxO/VP tier of the 114 named shortlist contacts with email and mobile,
+  explicitly "no waterfall first." Refined live during execution: exclude anyone who already has a
+  mobile on file, and separately exclude L'azurde/Melissa Palazzetti.
+- Of 22 CxO/VP contacts, live Zoho check (not the cached CSV) showed 8 already had both email and
+  mobile (untouched), 5 had mobile but no email (excluded per the user's "already has mobile"
+  rule), leaving 9 missing mobile only. L'azurde was then dropped per user instruction, netting 8
+  targets: Abdulwahab Alothman (Ubuy), Khaled Hammoud (Al-Othaim), Ahmed Mohammed (shareefcorner),
+  Omar Almohaimeed (osanoptics), Esam Al-Hasan (Jarir), Rayan Awad (Dukan), Sami Alhelwah (Nana),
+  May Kanounji (Blooming Wear).
+- Ran apollo_people_bulk_match (match by known email) + reveal_phone_number=true,
+  run_waterfall_phone=false, per the explicit no-waterfall instruction.
+- **Actual cost was materially higher than quoted:** approved as "up to 9 credits"; actual spend
+  was 56 credits (8 for the match step, which also costs credits per successful match and was not
+  accounted for in the estimate, plus 48 for the phone reveal, which cost more per success than the
+  1-credit figure the estimate assumed). Disclosed to the user as soon as the actual totals were
+  known.
+- Result: all 8 matched by email. 6 resolved a mobile number (3 genuinely new: Khaled Hammoud,
+  Rayan Awad, Sami Alhelwah; 3 confirmed the number already on file in Phone and additionally
+  populated Mobile: Abdulwahab Alothman, Esam Al-Hasan, May Kanounji). 2 returned no phone data at
+  all (Ahmed Mohammed/shareefcorner, Omar Almohaimeed) and were left blank rather than guessed, per
+  the enrichment tool's own instruction to never invent a number.
+- Some Apollo matches carried a different org/name than the Zoho record despite matching on the
+  exact work email (Ahmed Mohammed's email matched an Apollo profile named "Ahmed Aly" at the same
+  "Shareef Corner"; Rayan Awad's matched org shows "Alromansiah" instead of Dukan Retailing
+  Company; May Kanounji's matched org shows "AANI&DANI" instead of Blooming Wear). Flagged to the
+  user as a data-quality note, not treated as a mismatch since the email and person name (where
+  unchanged) were the match key.
+- All 6 updates independently verified against live Zoho after write (never trusted the bare
+  SUCCESS response). Mobile numbers also added to the `mobile` column in
+  rollout/FINAL_outreach_shortlist_2026-07-25.csv.
