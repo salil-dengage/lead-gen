@@ -233,6 +233,62 @@ consistently re-applied during the recent re-verification pass, still valid as s
 
 ## Changelog vs. the 2026-07-23 morning "locked" version
 
+- **2026-07-25, third round: audited the user's manual conversion of all 226 tagged leads, found and
+  fixed 76 broken conversions, then rebuilt the final master outreach contact list.** The user
+  converted all 226 `Gulf_Retail_ICP_Convert` leads via Zoho's native UI and asked for a full
+  correctness check before finalizing who to reach out to. Pulled all 226 converted records
+  (`getRecords` with `converted=both`, since both COQL and default `getRecords` silently exclude
+  converted Leads) and cross-checked each `Converted_Account.id` against the lead's original
+  `matched_account_id`. Result: 150 landed correctly, 75 landed on the wrong account, 1 landed on no
+  account at all (`Converted_Account: null`).
+  Investigated every mismatch against live Zoho Account data (`Created_Time`, `Account_Progress`,
+  `Tag`, notes) rather than assuming the original `matched_account_id` was right. Found three
+  categories: **(a) 70 duplicate-account routings** (69 mechanical + 1 judgment call): Zoho's
+  conversion matches Leads to Accounts on literal `Company` text, so it routed to old pre-2026 junk
+  shell records (`Account_Progress: Engage - Not Contacted`, `Account_Notes` a bare placeholder number
+  like "5000", `Website: google.com`, no tags) or to brand-new accounts auto-created that instant,
+  instead of the real Apollo-enriched, `Apollo_Gulf_Retail`-tagged, ICP-qualified record, across 42
+  distinct account pairs (name variants: hyphens, spacing, trade name vs. legal name, e.g. "Cenomi
+  Retail" landing separately from the qualified "Cenomi" record, 12 contacts; "Alsaif Gallery" vs.
+  "alsaifgallery", 4 contacts; and 38 more pairs at 1 to 3 contacts each). One of the 70, Ahmed Clmp
+  (Loyalty Marketing Manager, "Cenomi Group"), had landed on an Account explicitly Disqualified in the
+  ICP audit as the real-estate/mall holding entity distinct from the qualified retail operator; user
+  approved folding him into the qualified Cenomi record given his role. **(b) 3 leads falsely
+  duplicate-matched onto one unrelated pre-existing UK Contact** ("Luke Chinery" /
+  "russellandbromley", an unrelated shoe retailer, likely matched via a shared placeholder `Mobile: 0`
+  value): the real Contact's Title, Website, and LinkedIn-profile fields had been silently overwritten
+  with the last-converted lead's data (Romany Makram, L'azurde). Name and Email were untouched.
+  **(c) 2 individual misroutes**: Mohamed Khawaja's lead said "Floward" but his email is
+  `@alshaya.com`; per the standing alshaya.com-domain rule he belongs on ALshaya Group, not Floward.
+  Syed Salman's lead ("Imtiaz Super Store") resolved to the Pakistani Imtiaz Super Market chain
+  (`imtiaz.com.pk`, an existing customer account, "Customer: Onboarding"), unrelated to the Gulf
+  "Imtiaz Al Arabia" (Jarir Group) target; a fuzzy-match error from the original 450-lead
+  categorization, not a conversion bug.
+  Presented all of this to the user before writing anything; got approval to execute the full batch
+  plus the Ahmed Clmp call. Fixed: re-pointed 72 Contacts' `Account_Name` to the correct canonical
+  account (70 approved relinks + Alekhya Kotti's previously-null link); added a new `[DUPLICATE ...]`
+  pointer note to 37 of the 42 duplicate/shell accounts (the other 5 already carried one from earlier
+  cleanup); explicitly excluded 2 real, independently-qualified accounts (Cenomi Group, Floward) from
+  ever receiving a duplicate note, since they are not duplicates of anything; cleared the injected
+  Title/Website/LinkedIn fields on the Luke Chinery contact and left an explanatory Description
+  (the wrongly-applied `Gulf_Retail_ICP_Convert` tag could not be removed via API, same `Tag: []`
+  no-op bug as before, so it is flagged in the Description instead); created 3 fresh Contacts for
+  Nutsa Dolidze, Pablito Llubit, and Romany Makram on their correct accounts (Cenomi, Tamimi Group,
+  L'azurde); left Syed Salman untouched and excluded him from the outreach list (wrong company). Every
+  write independently re-verified by direct re-query, not trusted from the SUCCESS response alone; a
+  script-level bug that briefly included Syed Salman in the relink/note batches was caught and fixed
+  before any write was sent.
+  Rebuilt the final master outreach list: the 146 pre-existing `ACTIVE_RELEVANT` Contacts plus the
+  225 legitimate newly-converted Contacts (226 minus Syed Salman), deduped by email (0 cross-set
+  collisions) and by name+account for same-person duplicates missed by email dedup (5 pairs found:
+  Abdulilah AlRediny, Amgad Sanad, Heba Rady, Geevarghese George collapsed to one row each; Celine
+  Gergess left as two flagged rows, differing phone and title, genuine ambiguity not auto-merged).
+  Final count: **367 real people to reach out to, covering 103 of the 297 Yes accounts (35%)**,
+  matching the pre-conversion estimate exactly. 194 Yes accounts still have zero actionable contact on
+  file, a genuine research gap, not a conversion defect. Exported
+  `rollout/FINAL_outreach_contacts_2026-07-25.csv` (367 rows) and
+  `rollout/uncovered_yes_accounts_2026-07-25.csv` (194 rows).
+
 - **2026-07-25, second round: relevance re-investigation of all 450 `Gulf_Retail_ICP_Convert`-tagged
   leads plus all 279 Contacts on the 297 Yes accounts; re-tagged leads by disposition; flagged
   stale contacts; populated the empty Apollo target-account list.** The user asked for a second pass
