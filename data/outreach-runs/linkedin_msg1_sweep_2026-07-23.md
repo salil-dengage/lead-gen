@@ -1,4 +1,4 @@
-# LinkedIn Message 1 sweep — new connections (cross-batch), 2026-07-23
+# LinkedIn Message 1 sweep · new connections (cross-batch), 2026-07-23
 
 Salil shared his "Recently added" connection snapshot. Cross-referenced all 35 connections against the
 pending connection-request list of EVERY batch (1 to 6), per the standing rule. Result below.
