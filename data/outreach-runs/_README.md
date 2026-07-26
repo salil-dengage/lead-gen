@@ -34,6 +34,22 @@ in the reply to Salil, without being asked. Never make him ask for it. Link form
 `https://github.com/salil-dengage/lead-gen/blob/main/<path>` for files,
 `https://github.com/salil-dengage/lead-gen/commit/<hash>` for the commit.
 
+## Salil's standing rules (locked 2026-07-23, do not make him repeat these)
+
+1. **One file per batch per touch, self-contained.** Each touch file (`0M_<type>_<date>.md`) stands on its
+   own so batches never blur together: a clear header (which batch, which touch, run date) and, for EVERY
+   lead, the Zoho link and the LinkedIn link right there in the file (a "Contact links + send state" table).
+2. **Reply-check gates the touch.** Before a touch is aligned or sent, confirm in Gmail that the lead has
+   not replied. Anyone who replied stops their cadence. Record the per-lead reply-state in the file.
+3. **LinkedIn snapshot is a HARD gate before ANY send.** Do not send or stage any automated message (email
+   or LinkedIn) until Salil has shared his latest LinkedIn connection snapshot. On receiving it, sweep ALL
+   previous batches (not just the batch in hand) for NEW acceptances, and hand Salil the LinkedIn message
+   for each new connection first.
+4. **v1.2 end to end, every message.** `prospecting_engine_v1.2_21July.md` is applied in full before any
+   message is generated: freshness gate (dated trigger + current role), the five-movement voice, proof
+   placement and the multi-touch ladder, and the pre-send self-check. Deepen the stack read (Section 3
+   pipeline) before send where a named incumbent would sharpen it.
+
 ## Folder / file naming (no ambiguity)
 
 - **`batch-0N/`** = the Nth daily set of ~10 leads (one buyer per account). "Batch number" only.
