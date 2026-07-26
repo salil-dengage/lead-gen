@@ -40,7 +40,28 @@ Hi Said, bringing fully paperless account opening with e-KYC into the NBO app is
 
 ---
 
-## Already on the LinkedIn lane (no new action today; Message 3 due ~2026-07-27)
+## Due LinkedIn FOLLOW-UPS this run (Message 3, 2026-07-23)
+
+These leads accepted earlier and are mid-conversation; their Message 3 is due today. Message 3 is a
+concrete use-case ("the first journey I'd build for you", v1.2 Section 6.8) and never repeats the
+same-day email content (Section 6.9).
+
+| Lead | Account / role | Batch | Last touch | Zoho | LinkedIn | State |
+|---|---|---|---|---|---|---|
+| Ashraf Elsaghir | NBE, Head of Digital Marketing (Egypt) | b1 | Msg 2 sent 07-20 | https://crm.zoho.com/crm/tab/Contacts/3978798000164601001 | http://www.linkedin.com/in/ashraf-elsaghir-7a1b52a | send |
+| Mohamed Hamdy | Banque Misr, Head of Digital Marketing (Egypt) | b2 | Msg 2 sent 07-20 | https://crm.zoho.com/crm/tab/Contacts/3978798000164602041 | http://www.linkedin.com/in/mhaamdy | send |
+| Enrique Cuentas | CIB, Chief Digital Officer (Egypt) | b1 | Msg 2 sent 07-20 | https://crm.zoho.com/crm/tab/Contacts/3978798000164601033 | http://www.linkedin.com/in/enriquecuentas | HELD, confirm no LinkedIn reply first |
+
+### A. Ashraf Elsaghir · NBE · b1 · Message 3
+Hi Ashraf, following on, here's the first journey I'd build for NBE to make it concrete: catch a customer who opens the app, looks at something like a card or a savings option, and leaves without acting, then send a timely, personal nudge that same day off their own behaviour, not a broad campaign. That real-time, per-customer follow-through is the core of what we do. If it's worth a conversation, I'd welcome it.
+
+### B. Mohamed Hamdy · Banque Misr · b2 · Message 3
+Hi Mohamed, following on, here's the first journey I'd build for Banque Misr to make it concrete: when a BM Wallet customer tops up or makes a first payment and then goes quiet, trigger a timely, personal nudge that same day, off their own behaviour, rather than a broad campaign. That real-time, per-customer follow-through is the core of what we do, and it carries straight into onebank. If it's worth a conversation, I'd welcome it.
+
+### C. Enrique Cuentas · CIB · b1 · Message 3 · [HELD until Salil confirms no LinkedIn reply]
+Hi Enrique, following on, here's the first journey I'd build for Yomo from day one: the moment a new customer signs up but stalls before funding, trigger a timely, personal nudge that same session, off their own behaviour, so the first-fund rate climbs instead of leaking. Building that in from the start is far easier than retrofitting it. If it's worth a conversation, I'd welcome it.
+
+## LinkedIn follow-ups due 2026-07-27 (NOT today)
 Bahaa Farouk (b3), Amir Alsalous (b3), Wafa Al Harbi (b4), Mahmoud Okasha (b4), Navaid Ahmed (b4),
 Moayad Aldawood (b2). All appear in the snapshot but connected earlier and already have Msg 1 + Msg 2.
 **Adam Al Jabry (b3, Alizz) is HELD** (Alizz under acquisition by Bank Nizwa), so no LinkedIn touch either.
