@@ -9,7 +9,7 @@ pending connection-request list of EVERY batch (1 to 6), per the standing rule. 
 |---|---|---|---|---|---|
 | Nasser Alawadhi | BisB, Head of Digital Banking (Bahrain, Islamic) | b6 | Jul 23 | https://crm.zoho.com/crm/tab/Contacts/3978798000165488007 | https://bh.linkedin.com/in/nasseralawadhi |
 | Ahmed Ali | QNB Egypt, Head of Digital Channels (Egypt) | b6 | Jul 22 | https://crm.zoho.com/crm/tab/Contacts/3978798000165488009 | https://eg.linkedin.com/in/ahmmed-ali |
-| Luciano Di Pietro | KFH, Head of Digital Banking (Kuwait, Islamic) | b5 | Jul 22 | https://crm.zoho.com/crm/tab/Contacts/3978798000165418003 | http://www.linkedin.com/in/luciano-di-pietro-79307026 |
+| Luciano Di Pietro | tam Bank (KFH's digital bank), Head of tam Digital Bank Unit (Kuwait, Islamic) | b5 | Jul 22 | https://crm.zoho.com/crm/tab/Contacts/3978798000165418003 | http://www.linkedin.com/in/luciano-di-pietro-79307026 |
 | Dr. Ahmed Taqi | BBK, GM/Chief Retail Banking (Bahrain) | b5 | Jul 20 | https://crm.zoho.com/crm/tab/Contacts/3978798000165418007 | https://www.linkedin.com/in/dr-ahmed-taqi-89aba215/ |
 | Said Al Marhoobi | NBO, Head of Customer Experience (Oman) | b4 | Jul 24 | https://crm.zoho.com/crm/tab/Contacts/3978798000164601094 | http://www.linkedin.com/in/said-al-marhoobi-cccx-aa9a164a |
 
@@ -28,8 +28,9 @@ Hi Nasser, congrats on Best Islamic Digital Bank, and on the Tarabut launch. I'm
 ### 2. Ahmed Ali · QNB Egypt (Egypt) · b6
 Hi Ahmed, six titles at the 2026 Global Banking and Finance Awards is serious recognition of QNB Egypt's digital push. I'm Salil from Dengage, the Composable AI Marketing Platform behind İşbank and Fibabanka in Turkey, and G2's #1 for return on investment this year. Where that shows up daily is the channels you own, and from the outside I can't tell whether each customer gets a message shaped to their behaviour in real time. That step off one profile is the part we do. If it's worth a conversation, I'd welcome it.
 
-### 3. Luciano Di Pietro · KFH (Kuwait, Islamic) · b5
-Hi Luciano, the KFHOnline redesign and building tam as a Shari'a-compliant digital bank show real intent on the digital side. I'm Salil from Dengage, the Composable AI Marketing Platform behind Meezan and Bank Islami in Pakistan, and a top-5 CDP on G2 this year. From outside I can see the surface, not whether each customer's app activity turns into a timely, personal next step in real time. That real-time step off one live profile is the part we do. If it's worth a conversation, I'd welcome it.
+### 3. Luciano Di Pietro · tam Bank / KFH (Kuwait, Islamic) · b5
+Role corrected 2026-07-23: Head of the tam Digital Bank Unit at tam Bank, Kuwait Finance House's Shari'a-compliant digital bank (Kuwait's first). Message re-centred on tam.
+Hi Luciano, standing up tam as Kuwait's first Shari'a-compliant digital bank is a genuinely bold build, and a real thing to be leading. I'm Salil from Dengage, the Composable AI Marketing Platform behind Meezan and Bank Islami in Pakistan, and a top-5 CDP on G2 this year. From outside I can see the surface, not whether each customer's app activity turns into a timely, personal next step in real time. That real-time step off one live profile is the part we do. If it's worth a conversation, I'd welcome it.
 
 ### 4. Dr. Ahmed Taqi · BBK (Bahrain) · b5
 Hi Ahmed, running the largest-ever Al Hayrat, with the prize pool and the tiered draws, is a serious deposit and loyalty play. I'm Salil from Dengage, the Composable AI Marketing Platform behind İşbank and Akbank in Turkey, and G2's #1 for time to value this year. From outside I can't tell whether each saver gets a personal nudge to fund and stay engaged between draws, or a broad send. That per-customer step off one profile is the part we do. If it's worth a conversation, I'd welcome it.
