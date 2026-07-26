@@ -50,6 +50,14 @@ in the reply to Salil, without being asked. Never make him ask for it. Link form
    placement and the multi-touch ladder, and the pre-send self-check. Deepen the stack read (Section 3
    pipeline) before send where a named incumbent would sharpen it.
 
+5. **No touch repeats a prior touch. Check Gmail for the exact sent copy.** Before drafting any touch,
+   pull from Gmail the EXACT subject and body of every earlier touch already sent to that lead. The new
+   touch must not reuse the subject, the hook, or the angle. Touch 3 onward is a fresh use-case (rulebook
+   6.8), never a re-send of the launch hook. Learned 2026-07-26: a set of touch-3 drafts had reused the
+   touch-1 subject verbatim and would have threaded in Gmail as a bump of the first email. Record each
+   lead's prior-touch subjects in the touch file as a "do NOT repeat" table, and confirm distinctness
+   before creating any draft.
+
 ## Folder / file naming (no ambiguity)
 
 - **`batch-0N/`** = the Nth daily set of ~10 leads (one buyer per account). "Batch number" only.

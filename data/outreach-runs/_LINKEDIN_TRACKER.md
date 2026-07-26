@@ -6,56 +6,73 @@ not the day the batch's Email 1 went out). So every LinkedIn Message 1 recipient
 its own due-date.
 
 ## LinkedIn cadence
-
 - Connection request (Day 0) -> on ACCEPT, send LinkedIn **Message 1**.
 - **Each LinkedIn touch -> next = +3 Gulf working days** (Sun-Thu; skip Fri/Sat), same rule as email.
 - If the lead **replies on LinkedIn**, STOP the cadence (Salil tells me; I cannot see LinkedIn).
 - LinkedIn sends are manual: I generate pasteable text, Salil sends, then I log to Zoho.
+- Ladder per rulebook 6.8: Msg 1 intro, Msg 2 metric, Msg 3 use-case, Msg 4 permission close.
 
-## IMPORTANT: how the daily reminder uses this file (the fix for the offset gap)
-
+## IMPORTANT: how the daily reminder uses this file
 Each working day exactly one batch reminder fires. **That reminder sweeps this ENTIRE tracker for any
-lead whose next LinkedIn touch is due or overdue on the run date, across ALL batches, not just the
-batch named in the reminder.** This is because a lead's LinkedIn clock (keyed to their accept date)
-does not line up with their batch's email clock. The daily reminder is therefore the single driver
-that clears both the email leg (for its named batch) and every LinkedIn touch due that day (any
-batch). Nothing waits for its own batch's next email date.
+lead whose next LinkedIn touch is due or overdue on the run date, across ALL batches.** Nothing waits
+for its own batch's next email date. Do not skip a due lead because the reminder is named for a
+different batch.
 
-## Master table: everyone who has received LinkedIn Message 1
+## >>> DUE TOMORROW, 2026-07-27 (Mon) — the batch-05 run MUST generate these 7 Message 3s <<<
+Do NOT skip any of these. Each is a v1.2 Message 3 (use-case, "the first journey I'd build"), and must
+not repeat that lead's Msg 1 or Msg 2 content.
+
+| Lead | Account / geo | Batch | Msg 3 due |
+|---|---|---|---|
+| Moayad Aldawood | Bank Albilad, KSA | b2 | 2026-07-27 |
+| Bahaa Farouk | Suez Canal Bank, Egypt | b3 | 2026-07-27 |
+| Amir Alsalous | Bank of Sharjah, UAE | b3 | 2026-07-27 |
+| Sridhar Iyer | GIB (meem), KSA/Bahrain | b4 | 2026-07-27 |
+| Wafa Al Harbi | Sharjah Islamic, UAE | b4 | 2026-07-27 |
+| Mahmoud Okasha | AAIB, Egypt | b4 | 2026-07-27 |
+| Navaid Ahmed | Sohar International, Oman | b4 | 2026-07-27 |
+
+**HELD (do NOT send):** Adam Jabry (Alizz, b3) Msg 3 was due 07-27 but Alizz is under acquisition by
+Bank Nizwa. Held until Salil clears it.
+
+## Master table: everyone on the LinkedIn lane
 
 | Lead | Account / geo | Batch | Last LinkedIn touch | Next due | State |
 |---|---|---|---|---|---|
-| Ashraf Elsaghir | NBE, Egypt | b1 | Msg 2 sent 2026-07-20 | Msg 3 · 2026-07-23 (Thu) | Silent, no reply |
-| Enrique Cuentas | CIB, Egypt | b1 | Msg 2 sent 2026-07-20 | Msg 3 · 2026-07-23 (Thu) | Silent. HOLD Msg 3 on the 07-23 run until Salil confirms NO LinkedIn reply; if he replied, STOP cadence and mark Replied. |
-| Mohamed Hamdy | Banque Misr, Egypt | b2 | Msg 2 sent 2026-07-20 | Msg 3 · 2026-07-23 (Thu) | Silent, no reply |
-| Moayad Aldawood | Bank Albilad, KSA | b2 | Msg 2 (v1.2) sent 2026-07-22 | Msg 3 · 2026-07-27 (Mon) | Silent |
-| Bahaa Farouk | Suez Canal Bank, Egypt | b3 | Msg 2 (v1.2) sent 2026-07-22 | Msg 3 · 2026-07-27 (Mon) | Silent |
-| Adam Jabry | Alizz, Oman | b3 | Msg 2 (v1.2) sent 2026-07-22 | Msg 3 · 2026-07-27 (Mon) | Silent |
-| Amir Alsalous | Bank of Sharjah, UAE | b3 | Msg 2 (v1.2) sent 2026-07-22 | Msg 3 · 2026-07-27 (Mon) | Silent |
-| Sridhar Iyer | GIB (meem), KSA/Bahrain | b4 | Msg 2 (v1.2) sent 2026-07-22 | Msg 3 · 2026-07-27 (Mon) | Silent |
-| Wafa Al Harbi | Sharjah Islamic, UAE | b4 | Msg 2 (v1.2) sent 2026-07-22 | Msg 3 · 2026-07-27 (Mon) | Silent |
-| Mahmoud Okasha | AAIB, Egypt | b4 | Msg 2 (v1.2) sent 2026-07-22 (identity confirmed 07-22) | Msg 3 · 2026-07-27 (Mon) | Silent |
-| Navaid Ahmed | Sohar International, Oman | b4 | Msg 2 (v1.2) sent 2026-07-22 | Msg 3 · 2026-07-27 (Mon) | Silent |
+| Ashraf Elsaghir | NBE, Egypt | b1 | Msg 3 sent 2026-07-26 | Msg 4 · 2026-07-29 (Wed) | Silent |
+| Enrique Cuentas | CIB, Egypt | b1 | Msg 2 sent 2026-07-20 | Msg 3 · HELD | Held: send Msg 3 only once Salil confirms NO LinkedIn reply; if he replied, STOP and mark Replied |
+| Mohamed Hamdy | Banque Misr, Egypt | b2 | Msg 3 sent 2026-07-26 | Msg 4 · 2026-07-29 (Wed) | Silent |
+| Moayad Aldawood | Bank Albilad, KSA | b2 | Msg 2 sent 2026-07-22 | **Msg 3 · 2026-07-27 (DUE TOMORROW)** | Silent |
+| Bahaa Farouk | Suez Canal Bank, Egypt | b3 | Msg 2 sent 2026-07-22 | **Msg 3 · 2026-07-27 (DUE TOMORROW)** | Silent |
+| Adam Jabry | Alizz, Oman | b3 | Msg 2 sent 2026-07-22 | Msg 3 · 2026-07-27 HELD | HELD (Alizz acquisition) |
+| Amir Alsalous | Bank of Sharjah, UAE | b3 | Msg 2 sent 2026-07-22 | **Msg 3 · 2026-07-27 (DUE TOMORROW)** | Silent |
+| Sridhar Iyer | GIB (meem), KSA/Bahrain | b4 | Msg 2 sent 2026-07-22 | **Msg 3 · 2026-07-27 (DUE TOMORROW)** | Silent |
+| Wafa Al Harbi | Sharjah Islamic, UAE | b4 | Msg 2 sent 2026-07-22 | **Msg 3 · 2026-07-27 (DUE TOMORROW)** | Silent |
+| Mahmoud Okasha | AAIB, Egypt | b4 | Msg 2 sent 2026-07-22 | **Msg 3 · 2026-07-27 (DUE TOMORROW)** | Silent |
+| Navaid Ahmed | Sohar International, Oman | b4 | Msg 2 sent 2026-07-22 | **Msg 3 · 2026-07-27 (DUE TOMORROW)** | Silent |
+| Nasser Alawadhi | BisB, Bahrain | b6 | Msg 1 sent 2026-07-26 | Msg 2 · 2026-07-29 (Wed) | Silent (email bounced, LinkedIn primary) |
+| Ahmed Ali | QNB Egypt, Egypt | b6 | Msg 1 sent 2026-07-26 | Msg 2 · 2026-07-29 (Wed) | Silent |
+| Luciano Di Pietro | tam Bank (KFH), Kuwait | b5 | Msg 1 sent 2026-07-26 | Msg 2 · 2026-07-29 (Wed) | Silent |
+| Dr. Ahmed Taqi | BBK, Bahrain | b5 | Msg 1 sent 2026-07-26 | Msg 2 · 2026-07-29 (Wed) | Silent |
+| Said Al Marhoobi | NBO, Oman | b4 | Msg 1 sent 2026-07-26 | Msg 2 · 2026-07-29 (Wed) | Silent (confirm still at NBO) |
 
-11 leads on the LinkedIn lane. (The earlier "8 accepted" count missed the 3 already-connected leads,
-Ashraf, Mohamed Hamdy, Sridhar, who got Message 1 on Day 0 without an accept step.)
+16 leads on the LinkedIn lane. Next big sweep dates: 2026-07-27 (7 Msg 3), 2026-07-29 (Ashraf Msg 4,
+Mohamed Hamdy Msg 4, and Msg 2 for Nasser, Ahmed Ali, Luciano, Ahmed Taqi, Said).
 
 ## Screenshot review log
-- 2026-07-22: Reviewed Salil's latest "Recently added" connections screenshots, cross-referenced name
-  by name against every pending CR list below. ONE new acceptance matching a pending CR:
-  **Dr. Ahmed Taqi (BBK, b5), connected 2026-07-20** (role "Chief Retail Banking Officer, Bank of
-  Bahrain and Kuwait" confirmed current by the screenshot). His LinkedIn Msg 1 is now due/overdue and
-  must be swept on the NEXT reminder run (Thu 2026-07-23), not deferred to the 07-27 batch-05 leg (cross-batch sweep rule: any overdue LinkedIn touch goes on the next run that fires). None of batch-01/02/03/04/06's
-  pending CRs appeared as newly accepted. Specifically, none of batch-04's six pending CRs (Amgad,
-  Mohammad Alomani, Said, Nawaf, Ali, Marian) accepted, so batch-04 has no new Msg 1.
+- 2026-07-26: Salil shared the "Recently added" snapshot. Cross-referenced all 35 vs every pending CR.
+  Five NEW bank acceptances -> Message 1 generated and SENT 07-26: Nasser Alawadhi (BisB, b6), Ahmed Ali
+  (QNB Egypt, b6), Luciano Di Pietro (tam Bank, b5), Ahmed Taqi (BBK, b5), Said Al Marhoobi (NBO, b4).
+  Also SENT 07-26: Msg 3 for Ashraf (NBE) and Mohamed Hamdy (Banque Misr). Enrique Msg 3 held. All logged.
+- 2026-07-22: reviewed earlier snapshot; Ahmed Taqi accepted 07-20 (his Msg 1 sent 07-26 above).
 
 ## Correction log
-- 2026-07-20: Enrique Cuentas was previously parked "held / in conversation." That was an unverified
-  assumption (accepted + Msg 1 sent, read as "active"), not a confirmed reply. Gmail shows no email
-  reply. Resumed his cadence; Msg 2 due 2026-07-20. Pending Salil's confirmation of any LinkedIn reply.
+- 2026-07-26: Luciano Di Pietro role corrected to Head of the tam Digital Bank Unit at tam Bank (KFH's
+  Shari'a-compliant digital bank); Msg 1 re-centred on tam.
+- 2026-07-20: Enrique Cuentas was previously parked "held / in conversation." Gmail shows no email reply.
+  Resumed cadence; Msg 3 remains held pending Salil confirming no LinkedIn reply.
 
 ## Connection requests still PENDING acceptance (no Message 1 yet)
-
 When Salil reports an acceptance, Message 1 is generated then and the lead moves to the table above.
 
 - b1: Robert Kufersin (FAB), Rahab Zadjali (Bank Muscat), Maitha Shuaib (DIB), Shoaib Rizvi (Emirates
@@ -65,27 +82,11 @@ When Salil reports an acceptance, Message 1 is generated then and the lead moves
   Sami Zadjali [title VERIFY], Dongjun Choi.
 - b3: Fernando Plaza, Lama Alessa, Fadi Chalouhi, Karolina Pachucy, Aref Al-Ramli, Ines Kadri,
   Omar Batayyah.
-- b4: Amgad Samy, Mohammad Alomani, Said Al Marhoobi, Nawaf Bawazir, Ali Almousa,
-  Marian Kaisser [title VERIFY].
-- b5 (CR sent 2026-07-20, 8 profiles): Hassan Al-Omran (SNB), Hassaan Munir (Emirates Islamic),
-  Luciano Di Pietro (KFH), Abdullah Al-Tuwaijri (Boubyan), Constantinos Constantinides (QIB),
-  Eiman Al-Naemi (CBQ, https://www.linkedin.com/in/eiman-al-naemi/), Karim Morcos (Banque du Caire).
-  ACCEPTED (per 2026-07-22 screenshots): Ahmed Taqi (BBK,
-  https://www.linkedin.com/in/dr-ahmed-taqi-89aba215/), connected 2026-07-20 -> LinkedIn Msg 1
-  DUE/OVERDUE, sweep on the next reminder run (Thu 2026-07-23).
-  Email-only, no LinkedIn located: Sharif Rafei (NBF).
-  OAB: Anuj Madan SUPPRESSED (left the bank). REPLACED by Ziad Alshami (Head of CRM & Data Analytics,
-  OAB, https://www.linkedin.com/in/ziad-alshami-57a21a14, verified email, current since 2021).
-  CR + Email 1 SENT 2026-07-20, pending acceptance. So b5 CR-sent = 9 profiles now.
-
-- b6 (note-less CR SENT: 9 on 2026-07-22 + Abdulkarim/stc on 2026-07-23 = 10 of 10; v1.2 Message 1 ready
-  on accept, in batch-06/01_initial_2026-07-22.md; none accepted as of 07-22 screenshots. Atul Choudrie /
-  stc bank SUPPRESSED, left the bank Jan 2026, REPLACED by Abdulkarim Giraud (Marketing & Comms Director,
-  Email 1 + CR sent 07-23). Email bounced for Fida/CBI, Samir/ABK, Nasser/BisB, so those three
-  are LinkedIn-only): Faizal Kundil (Ajman), Fida El Samad
-  (CBI), Nader Al Khawaja (SAIB), Abdulkarim Giraud (stc bank), Mohammed Al-Emadi (QIIB), Samir Al-Yakoob
-  (ABK), Nasser Alawadhi (BisB), Ahmed Al-Waily (Bank Nizwa), Ahmed Ali (QNB Alahli), Hanan Fahmi
-  (AlexBank). All emails pattern-unverified except Abdulkarim (Apollo-verified), so LinkedIn is the primary channel for this batch.
-
-None of the batch 1-4 pending appeared as newly connected in Salil's 2026-07-20 screenshots
-(validated name by name).
+- b4: Amgad Samy, Mohammad Alomani, Nawaf Bawazir, Ali Almousa, Marian Kaisser [title VERIFY].
+  (Said Al Marhoobi accepted 07-26, now on the lane above.)
+- b5: Hassan Al-Omran (SNB), Hassaan Munir (Emirates Islamic), Abdullah Al-Tuwaijri (Boubyan),
+  Constantinos Constantinides (QIB), Eiman Al-Naemi (CBQ), Karim Morcos (Banque du Caire), Ziad Alshami
+  (OAB). (Luciano and Ahmed Taqi accepted, now on the lane above.) Sharif Rafei (NBF) email-only, DROPPED.
+- b6: Faizal Kundil (Ajman), Fida El Samad (CBI), Nader Al Khawaja (SAIB), Abdulkarim Giraud (stc),
+  Mohammed Al-Emadi (QIIB), Samir Al-Yakoob (ABK), Ahmed Al-Waily (Bank Nizwa), Hanan Fahmi (AlexBank).
+  (Nasser Alawadhi and Ahmed Ali accepted 07-26, now on the lane above.)
