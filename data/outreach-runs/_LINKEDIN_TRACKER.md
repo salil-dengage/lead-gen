@@ -18,7 +18,7 @@ lead whose next LinkedIn touch is due or overdue on the run date, across ALL bat
 for its own batch's next email date. Do not skip a due lead because the reminder is named for a
 different batch.
 
-## >>> DUE TOMORROW, 2026-07-27 (Mon) — the batch-05 run MUST generate these 7 Message 3s <<<
+## >>> DUE TOMORROW, 2026-07-27 (Mon) : the batch-05 run MUST generate these 7 Message 3s <<<
 Do NOT skip any of these. Each is a v1.2 Message 3 (use-case, "the first journey I'd build"), and must
 not repeat that lead's Msg 1 or Msg 2 content.
 
