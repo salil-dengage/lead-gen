@@ -80,7 +80,7 @@ in the reply to Salil, without being asked. Never make him ask for it. Link form
 | batch-05 | Gulf+Egypt banking | 2026-07-20 (Mon) | 10 | touch 2 SENT 2026-07-27 (7 v1.2 reset use-case emails; BBK held, Ziad LI-only, Sharif dropped; Zoho logged) | touch 3 (metric) → Thu 2026-07-30 |
 
 | batch-06 | Gulf+Egypt banking | 2026-07-22 (Wed, v1.2) | 10 | touch 1 SENT (9 emails 2026-07-22 + Abdulkarim/stc 2026-07-23 = 7 clean, 3 bounces LinkedIn-only; 10 note-less CRs sent; Zoho logged) | touch 2 → Tue 2026-07-28 |
-| batch-07 | Gulf+Egypt banking | 2026-07-27 (Mon, v1.2) | 10 | touch 1 BUILT 2026-07-27 (all-fresh accounts cross-checked vs batches 1-6; verified buyers, 3 corrections + 1 swap; 10 Gmail drafts + 10 Zoho contacts created; awaiting Salil's Day-0 send) | touch 2 → +3 working days after send |
+| batch-07 | Gulf+Egypt banking | 2026-07-27 (Mon, v1.2) | 10 | touch 1 SENT 2026-07-27 (10 emails + 10 note-less CRs; all-fresh verified accounts, 3 buyer corrections + 1 swap; Zoho logged) | touch 2 → Mon 2026-08-03 |
 
 60 leads total; batch-05 is 10 active (Anuj Madan/OAB suppressed after he left the bank, replaced by
 Ziad Alshami, verified). batch-06: all 10 LinkedIn-confirmed, all 10 emails pattern-unverified
