@@ -1,4 +1,4 @@
-# Outreach runs — index and operating rules
+# Outreach runs: index and operating rules
 
 Single source of truth for the manual Gulf+Egypt banking outreach. Read this first. Scheduled
 reminders ("routines") point here instead of repeating the rules.
@@ -77,7 +77,7 @@ in the reply to Salil, without being asked. Never make him ask for it. Link form
 | batch-02 | Gulf+Egypt banking | 2026-07-14 (Tue) | 10 | touch 2 (2026-07-19, sent) | touch 3 → Thu 2026-07-23 |
 | batch-03 | Gulf+Egypt banking | 2026-07-15 (Wed) | 10 | touch 2 (sent 2026-07-20) | touch 3 → Sun 2026-07-26 |
 | batch-04 | Gulf+Egypt banking | 2026-07-16 (Thu) | 10 | touch 2 (v1.2 SENT + Zoho logged 2026-07-22; stale 07-21 v1.1 drafts deleted; LinkedIn Msg 2 generated for the 4 accepted) | touch 3 → Wed 2026-07-29 |
-| batch-05 | Gulf+Egypt banking | 2026-07-20 (Mon) | 10 | touch 1 sent 2026-07-20 (10 emails, 9 CRs; OAB = Ziad Alshami) | touch 2 → Mon 2026-07-27 |
+| batch-05 | Gulf+Egypt banking | 2026-07-20 (Mon) | 10 | touch 2 SENT 2026-07-27 (7 v1.2 reset use-case emails; BBK held, Ziad LI-only, Sharif dropped; Zoho logged) | touch 3 (metric) → Thu 2026-07-30 |
 
 | batch-06 | Gulf+Egypt banking | 2026-07-22 (Wed, v1.2) | 10 | touch 1 SENT (9 emails 2026-07-22 + Abdulkarim/stc 2026-07-23 = 7 clean, 3 bounces LinkedIn-only; 10 note-less CRs sent; Zoho logged) | touch 2 → Tue 2026-07-28 |
 
@@ -103,7 +103,7 @@ each batch's files.
   NOT be used). The v1.2 messaging voice (Section 6: proof-led intro, warm close, no connect note,
   multi-touch ladder) governs all message content.
 - Persona-matched angle; soft single CTA.
-- **Plain text only. No HTML signature. End at "Best, Salil"** — Salil adds his own signature in
+- **Plain text only. No HTML signature. End at "Best, Salil"**. Salil adds his own signature in
   Gmail. (An embedded signature broke Gmail rendering once; see `_SEND_STYLE.md`.)
 - **Proof reference tailored per prospect** from `knowledge-base/00_CUSTOMER_MASTER.md`:
   Islamic-bank peers (Meezan, the largest Islamic bank in Pakistan; Bank Islami, Pakistan) for
@@ -195,7 +195,7 @@ Authoritative schedule to re-create:
   his Email 1 + note-less CR SENT 2026-07-23, Zoho logged. The other 6 (Faizal, Nader, Mohammed, Ahmed
   Al-Waily, Ahmed Ali, Hanan) delivered clean 07-22; Abdulkarim delivered clean 07-23.
 
-## LinkedIn follow-up lane — see `_LINKEDIN_TRACKER.md`
+## LinkedIn follow-up lane, see `_LINKEDIN_TRACKER.md`
 
 The LinkedIn channel has its own clock (Message 1 goes out the day a lead accepts, not the batch's
 email date), so it is tracked separately in **`_LINKEDIN_TRACKER.md`**. Each batch reminder now runs
