@@ -18,10 +18,11 @@ lead whose next LinkedIn touch is due or overdue on the run date, across ALL bat
 for its own batch's next email date. Do not skip a due lead because the reminder is named for a
 different batch.
 
-## >>> DONE 2026-07-27 (Mon): 7 Message 3s SENT. NEXT BIG DUE: 2026-07-30 (Msg 4) <<<
-The 7 Message 3s below were SENT by Salil 2026-07-27. Their next LinkedIn touch is Message 4 (permission
-close) on 2026-07-30. Also due before then, on 2026-07-29: Ashraf Msg 4, Mohamed Hamdy Msg 4, and Msg 2 for
-Nasser Alawadhi, Ahmed Ali, Luciano Di Pietro, Ahmed Taqi, Said Al Marhoobi.
+## >>> DONE 2026-07-29 (Wed): 4 SENT (Nasser Msg 2, Luciano Msg 2, Ashraf Msg 4, Mohamed Hamdy Msg 4). NEXT: 2026-07-30 <<<
+On 2026-07-30 (the batch-05 touch-3 run owns this sweep): Msg 4 (permission close) for Moayad, Bahaa Farouk,
+Amir, Sridhar, Wafa, Mahmoud, Navaid (their Msg 3 went 07-27); PLUS staggered from 07-29, Ahmed Taqi Msg 2 and
+Said Al Marhoobi Msg 2 (Said also pending NBO role confirm). HELD: Ahmed Ali (QNB Egypt) Msg 2 to ~2026-08-12
+(Salil multi-threading QNB via another contact).
 
 | Lead | Account / geo | Batch | Msg 3 sent | Msg 4 due |
 |---|---|---|---|---|
@@ -40,9 +41,9 @@ Bank Nizwa. Held until Salil clears it.
 
 | Lead | Account / geo | Batch | Last LinkedIn touch | Next due | State |
 |---|---|---|---|---|---|
-| Ashraf Elsaghir | NBE, Egypt | b1 | Msg 3 sent 2026-07-26 | Msg 4 · 2026-07-29 (Wed) | Silent |
+| Ashraf Elsaghir | NBE, Egypt | b1 | Msg 4 sent 2026-07-29 | sequence complete (perm. close) | Silent |
 | Enrique Cuentas | CIB, Egypt | b1 | Msg 2 sent 2026-07-20 | Msg 3 · HELD | Held: send Msg 3 only once Salil confirms NO LinkedIn reply; if he replied, STOP and mark Replied |
-| Mohamed Hamdy | Banque Misr, Egypt | b2 | Msg 3 sent 2026-07-26 | Msg 4 · 2026-07-29 (Wed) | Silent |
+| Mohamed Hamdy | Banque Misr, Egypt | b2 | Msg 4 sent 2026-07-29 | sequence complete (perm. close) | Silent |
 | Moayad Aldawood | Bank Albilad, KSA | b2 | Msg 3 sent 2026-07-27 | Msg 4 · 2026-07-30 | Silent |
 | Bahaa Farouk | Suez Canal Bank, Egypt | b3 | Msg 3 sent 2026-07-27 | Msg 4 · 2026-07-30 | Silent |
 | Adam Jabry | Alizz, Oman | b3 | Msg 2 sent 2026-07-22 | Msg 3 · HELD | HELD (Alizz acquisition) |
@@ -51,16 +52,23 @@ Bank Nizwa. Held until Salil clears it.
 | Wafa Al Harbi | Sharjah Islamic, UAE | b4 | Msg 3 sent 2026-07-27 | Msg 4 · 2026-07-30 | Silent |
 | Mahmoud Okasha | AAIB, Egypt | b4 | Msg 3 sent 2026-07-27 | Msg 4 · 2026-07-30 | Silent |
 | Navaid Ahmed | Sohar International, Oman | b4 | Msg 3 sent 2026-07-27 | Msg 4 · 2026-07-30 | Silent |
-| Nasser Alawadhi | BisB, Bahrain | b6 | Msg 1 sent 2026-07-26 | Msg 2 · 2026-07-29 (Wed) | Silent (email bounced, LinkedIn primary) |
-| Ahmed Ali | QNB Egypt, Egypt | b6 | Msg 1 sent 2026-07-26 | Msg 2 · 2026-07-29 (Wed) | Silent |
-| Luciano Di Pietro | tam Bank (KFH), Kuwait | b5 | Msg 1 sent 2026-07-26 | Msg 2 · 2026-07-29 (Wed) | Silent |
-| Dr. Ahmed Taqi | BBK, Bahrain | b5 | Msg 1 sent 2026-07-26 | Msg 2 · 2026-07-29 (Wed) | Silent |
-| Said Al Marhoobi | NBO, Oman | b4 | Msg 1 sent 2026-07-26 | Msg 2 · 2026-07-29 (Wed) | Silent (confirm still at NBO) |
+| Nasser Alawadhi | BisB, Bahrain | b6 | Msg 2 sent 2026-07-29 | Msg 3 · 2026-08-03 (Mon) | Silent (email bounced, LinkedIn primary) |
+| Ahmed Ali | QNB Egypt, Egypt | b6 | Msg 1 sent 2026-07-26 | Msg 2 · HELD to ~2026-08-12 | HELD: Salil multi-threading QNB via another contact |
+| Luciano Di Pietro | tam Bank (KFH), Kuwait | b5 | Msg 2 sent 2026-07-29 | Msg 3 · 2026-08-03 (Mon) | Silent |
+| Dr. Ahmed Taqi | BBK, Bahrain | b5 | Msg 1 sent 2026-07-26 | Msg 2 · 2026-07-30 (Thu) | REMIND 07-30 (staggered off 07-29 email) |
+| Said Al Marhoobi | NBO, Oman | b4 | Msg 1 sent 2026-07-26 | Msg 2 · 2026-07-30 (Thu) | REMIND 07-30 + confirm NBO role (coaching headline on 07-29 snapshot) |
 
 16 leads on the LinkedIn lane. Next big sweep dates: 2026-07-29 (Ashraf Msg 4, Mohamed Hamdy Msg 4, and Msg 2
 for Nasser, Ahmed Ali, Luciano, Ahmed Taqi, Said); 2026-07-30 (7 Msg 4).
 
 ## Screenshot review log
+- 2026-07-29: Salil shared the snapshot. Swept all 25 connections vs every pending CR across all batches: NO new
+  bank acceptances (all recognizable bank names already in cadence). Roles confirmed from headlines for Nasser
+  (BisB), Ahmed Ali (QNB Egypt), Luciano (Head of Digital Banking), Ahmed Taqi (Chief Retail Banking Officer,
+  BBK). Said Al Marhoobi headline reads as a coaching brand (ICF Certified Coach), no NBO mention: role confirm
+  pending before his Msg 2. Three banking connections not in our tracker (Ali AbdelMuhsin, Krishna Shah, Sulaiman
+  Al-Faifi) noted for Salil. SENT 07-29: Nasser Msg 2, Luciano Msg 2, Ashraf Msg 4, Mohamed Hamdy Msg 4. Held:
+  Ahmed Ali Msg 2 (multi-thread via another QNB contact).
 - 2026-07-27: Salil shared the snapshot again. Swept all pending CRs across every batch: NO new bank
   acceptances (every bank name already in cadence). 7 Message 3s sent (Moayad, Bahaa, Amir, Sridhar, Wafa,
   Mahmoud, Navaid).
