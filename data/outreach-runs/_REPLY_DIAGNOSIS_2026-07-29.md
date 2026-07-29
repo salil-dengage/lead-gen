@@ -147,7 +147,67 @@ there is no GCC proof, and it is peak Gulf summer.
     (d) break the comma-chain run-ons (the no-dash rule has been producing 40+ word sentences;
     short sentences are allowed), (e) stop repeating the "X, made personal" subject formula.
 
-## E. Expectation reset (honest numbers)
+## E. Addendum 2026-07-29 (same day): the full audit map, after Salil asked "every corner?"
+
+Honest scope statement. Corners CHECKED, with results; corners UNREACHABLE from this seat, with owner.
+
+### E1. Checked earlier today
+- Mailbox evidence: reply sweeps, bounce ledger per batch, OOO timeline, send timestamps (burst
+  pattern), sender-address usage, in-thread reply behaviour.
+- DNS auth for dengage.com: SPF (4 lookups, valid, -all), DKIM key (google selector), DMARC
+  (p=quarantine, one cosmetic spacing quirk), MX (Google Workspace).
+- Full copy corpus v1.1 + v1.2 (template DNA, phrase reuse, subject formulas, closes).
+
+### E2. New checks run after the question, with results
+1. **Public blocklists: CLEAN.** dengage.com is NOT listed on Spamhaus DBL or SURBL (NXDOMAIN).
+   URIBL refused the public-resolver query (127.0.0.1 sentinel = refusal, NOT a listing); confirm
+   that one manually at mxtoolbox.com/domain/dengage.com. Conclusion: this is not public
+   blacklisting; the reputation damage lives at Google (sender side) and the recipient gateways.
+2. **Recipient gateway census (MX of 18 target bank domains).** At least 8 sit behind named
+   enterprise filters: Trend Micro Email Security for NBB, BisB AND BBK (NBB and BisB share the
+   SAME tenant, nbbonline.in.tmes.trendmicro.eu, so one sender flag covers both banks, and that
+   tenant also saw our hard bounce to bisb.com); Proofpoint for NBO and AAIB; Microsoft Defender
+   for Mashreq; joud.cloud mail-protect for CBK; and CA Egypt routes through Credit Agricole's
+   CENTRAL GROUP gateway in France (mercure.credit-agricole.fr), among the most conservative bank
+   filters in Europe. The remaining ~10 run self-hosted bank MX, typically appliance-filtered with
+   silent drops and no feedback loop. Zero consumer-grade mailboxes anywhere in the ICP. Gateway
+   quarantine is precisely the mechanism that yields our observed signature (bounces arrive, OOO
+   auto-replies never do).
+3. **SpamAssassin content score of the actual v1.2 copy: 0.1 of a 5.0 threshold** (Postmark
+   spamcheck, representative batch-04 touch-3 email; the only rule hits are artifacts of testing
+   without transport headers). The words are clean. Content is formally exonerated; the failure is
+   not in the copy, consistent with Section A.
+4. **Bounce-code reclassification (correction to yesterday's read).** The Bank NXT bounce
+   (karim.wahba@banknxteg.com, 07-27) returned "550 5.7.1", which is a POLICY REJECTION (message
+   refused), not an unknown-address bounce like the 550 5.1.1 "address not found" family the other
+   bounces show. The batch-07 file recorded it as a plain bounce. It is better read as the
+   program's first direct evidence of a recipient gateway refusing us by policy. [VERIFY] the full
+   NDR text in Gmail when reconnected.
+
+### E3. Corners that exist but are UNREACHABLE from this seat (with owner and effort)
+1. **Google Postmaster Tools** (domain reputation, user-reported spam rate, delivery errors for
+   dengage.com through July). Owner: Salil, ~10 minutes. This is the single most decisive check.
+2. **DMARC aggregate (rua) reports**, already flowing to dengage@dmarc-reports.dengage.com per the
+   DMARC record. They show pass/fail and every source sending as dengage.com (including the product
+   fleet and Zoho). Owner: Salil / IT mailbox access.
+3. **Raw headers of one actually-sent cold email** (verifies DKIM d=dengage.com alignment on the
+   real path, Message-Id, and the salil@ vs salil.gupta@ alias wiring). Owner: Salil (forward one
+   sent message as attachment), or me once Gmail is reconnected.
+4. **Global auto-reply sweep** (subject "automatic reply" / "out of office" across ALL 70
+   addresses, plus sender-address history per batch). Owner: me, blocked until the Gmail connector
+   is re-authorized (it disconnected today; re-authorize in claude.ai connector settings).
+5. **Seed-list inbox placement test** (send to Gmail/M365 seed mailboxes, see where it lands).
+   Requires sending and seed inboxes; part of the Section D rebuild, not runnable from here today.
+6. **Spam-trap exposure** from pattern-guessing: unknowable directly by design; the mitigation is
+   the verified-only rule (D.2).
+
+### E4. Net effect on the diagnosis
+Nothing found exonerates the pipe, and two findings sharpen it: the content now scores formally
+clean (0.1/5.0), and the audience is confirmed to sit behind enterprise quarantine gateways,
+including one shared tenant covering two Bahrain targets and one filtered from Paris. The ranked
+fix plan in Section D stands unchanged; E3.1 (Postmaster) remains the fastest decisive check.
+
+## F. Expectation reset (honest numbers)
 
 With a warmed dedicated domain, verified-only lists, the give-first LinkedIn ladder, live calls, and
 September timing, realistic targets for THIS ICP without a GCC logo: 2 to 5 percent email reply,
