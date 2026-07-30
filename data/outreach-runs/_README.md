@@ -1,5 +1,28 @@
 # Outreach runs: index and operating rules
 
+## ⛔ ACTIVE PAUSE (set by Salil 2026-07-29, lifts Sun 2026-08-02 morning)
+
+**No new message creation on any channel, and no sends, until Sunday 2026-08-02 morning.** Salil called
+this after the zero-reply review. If a routine fires and you are reading this, check with him before
+drafting anything.
+
+- **Why:** `_REPLY_DIAGNOSIS_2026-07-29.md`. ~200 touches across 7 batches, 0 replies on either channel.
+  The evidence points at cold email from dengage.com being quarantined (15 to 50 percent hard-bounce rate
+  per batch, auto-reply cliff after week 1, ten-emails-in-two-minutes burst pattern, and every target bank
+  sitting behind an enterprise gateway: Trend Micro, Proofpoint, Defender, Credit Agricole France). DNS auth
+  is healthy and the copy scores 0.1 of 5.0 on SpamAssassin, so neither setup nor wording is the constraint.
+- **Blocking check before email resumes:** Salil reads Google Postmaster Tools (dengage.com domain
+  reputation + spam rate for July). Until he confirms, treat cold email as FROZEN and do not draft it.
+- **Hard rule from now on, pause or no pause:** never email an unverified pattern address. Pattern guesses
+  are LinkedIn-only, permanently. This makes CLAUDE.md Section 14 operational.
+- **What moved:** batch-05 touch-3 went from Thu 07-30 to **Thu 2026-08-06** (freeze-check added to its
+  prompt). Everything that was due Thu 07-30 on LinkedIn (7 Msg 4s, plus Ahmed Taqi and Said Msg 2) is
+  carried to **Sun 2026-08-02**, owned by the batch-01 touch-4 run. Nothing else was rescheduled.
+- **LinkedIn is not implicated** by the deliverability problem, so it can resume Sunday on Salil's go.
+  Said Al Marhoobi still needs his NBO role confirmed before any further touch.
+- The ranked fix plan (dedicated warmed domain, verified-only lists, give-first LinkedIn ladder, activating
+  the ~33 enriched mobiles, September resume, GCC reference strategy) is Section D of the diagnosis.
+
 Single source of truth for the manual Gulf+Egypt banking outreach. Read this first. Scheduled
 reminders ("routines") point here instead of repeating the rules.
 
