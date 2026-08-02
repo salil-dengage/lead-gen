@@ -18,28 +18,29 @@ lead whose next LinkedIn touch is due or overdue on the run date, across ALL bat
 for its own batch's next email date. Do not skip a due lead because the reminder is named for a
 different batch.
 
-## >>> PAUSED by Salil 2026-07-29. NOTHING SENDS until Sun 2026-08-02 morning. <<<
-Salil paused all outreach on 2026-07-29: no new message creation on any channel, and every routine held until
-Sunday morning. Reason: the zero-reply diagnosis (`_REPLY_DIAGNOSIS_2026-07-29.md`), pending his Google
-Postmaster Tools check on dengage.com's sender reputation.
+## >>> 2026-08-02: 9 messages DRAFTED and waiting on Salil's snapshot. Nothing sent. <<<
+The pause set 2026-07-29 lifted this morning. The batch-01 touch-4 run (2026-08-02) owns today's cross-batch
+sweep and has DRAFTED all 9 due messages in
+`batch-01/04_permission_close_2026-08-02.md`. They are NOT sent: standing rule 3 makes Salil's LinkedIn
+snapshot a hard gate, and no snapshot was received for 08-02, so the new-acceptance sweep has not run either.
 
-Everything that was due Thu 2026-07-30 was NOT sent and is carried to Sun 2026-08-02, which the batch-01
-touch-4 run owns (04:00Z, ahead of batch-03 touch-4 at 05:30Z):
-- Msg 4 (permission close): Moayad, Bahaa Farouk, Amir, Sridhar, Wafa, Mahmoud, Navaid (Msg 3 went 07-27).
-- Msg 2: Ahmed Taqi (BBK), and Said Al Marhoobi (NBO) only if his NBO role is confirmed first.
-LinkedIn is unaffected by the email deliverability problem, so the 08-02 LinkedIn leg can proceed on Salil's
-go. The batch-05 touch-3 email run was moved off 07-30 to Thu 2026-08-06 with a freeze-check in its prompt.
+Due and drafted today:
+- Msg 4 (permission close), 7: Moayad, Bahaa Farouk, Amir, Sridhar, Wafa, Mahmoud, Navaid (Msg 3 went 07-27).
+- Msg 2, 2: Ahmed Taqi (BBK), role confirmed, ready. Said Al Marhoobi (NBO) drafted but BLOCKED until his
+  NBO role is confirmed.
+LinkedIn is unaffected by the email deliverability problem, so this leg can go on Salil's snapshot alone; it
+does not wait on the Postmaster check. The batch-05 touch-3 email run sits on Thu 2026-08-06.
 HELD separately: Ahmed Ali (QNB Egypt) Msg 2 to ~2026-08-12 (Salil multi-threading QNB via another contact).
 
-| Lead | Account / geo | Batch | Msg 3 sent | Msg 4 due |
-|---|---|---|---|---|
-| Moayad Aldawood | Bank Albilad, KSA | b2 | 2026-07-27 | 2026-08-02 (moved, pause) |
-| Bahaa Farouk | Suez Canal Bank, Egypt | b3 | 2026-07-27 | 2026-08-02 (moved, pause) |
-| Amir Alsalous | Bank of Sharjah, UAE | b3 | 2026-07-27 | 2026-08-02 (moved, pause) |
-| Sridhar Iyer | GIB (meem), KSA/Bahrain | b4 | 2026-07-27 | 2026-08-02 (moved, pause) |
-| Wafa Al Harbi | Sharjah Islamic, UAE | b4 | 2026-07-27 | 2026-08-02 (moved, pause) |
-| Mahmoud Okasha | AAIB, Egypt | b4 | 2026-07-27 | 2026-08-02 (moved, pause) |
-| Navaid Ahmed | Sohar International, Oman | b4 | 2026-07-27 | 2026-08-02 (moved, pause) |
+| Lead | Account / geo | Batch | Msg 3 sent | Msg 4 due | State |
+|---|---|---|---|---|---|
+| Moayad Aldawood | Bank Albilad, KSA | b2 | 2026-07-27 | 2026-08-02 | drafted, awaiting snapshot |
+| Bahaa Farouk | Suez Canal Bank, Egypt | b3 | 2026-07-27 | 2026-08-02 | drafted, awaiting snapshot |
+| Amir Alsalous | Bank of Sharjah, UAE | b3 | 2026-07-27 | 2026-08-02 | drafted, awaiting snapshot |
+| Sridhar Iyer | GIB (meem), KSA/Bahrain | b4 | 2026-07-27 | 2026-08-02 | drafted, awaiting snapshot |
+| Wafa Al Harbi | Sharjah Islamic, UAE | b4 | 2026-07-27 | 2026-08-02 | drafted, awaiting snapshot |
+| Mahmoud Okasha | AAIB, Egypt | b4 | 2026-07-27 | 2026-08-02 | drafted, awaiting snapshot |
+| Navaid Ahmed | Sohar International, Oman | b4 | 2026-07-27 | 2026-08-02 | drafted, awaiting snapshot |
 
 **HELD (do NOT send):** Adam Jabry (Alizz, b3) Msg 3 was due 07-27 but Alizz is under acquisition by
 Bank Nizwa. Held until Salil clears it.
@@ -51,24 +52,27 @@ Bank Nizwa. Held until Salil clears it.
 | Ashraf Elsaghir | NBE, Egypt | b1 | Msg 4 sent 2026-07-29 | sequence complete (perm. close) | Silent |
 | Enrique Cuentas | CIB, Egypt | b1 | Msg 2 sent 2026-07-20 | Msg 3 · HELD | Held: send Msg 3 only once Salil confirms NO LinkedIn reply; if he replied, STOP and mark Replied |
 | Mohamed Hamdy | Banque Misr, Egypt | b2 | Msg 4 sent 2026-07-29 | sequence complete (perm. close) | Silent |
-| Moayad Aldawood | Bank Albilad, KSA | b2 | Msg 3 sent 2026-07-27 | Msg 4 · 2026-08-02 (moved, pause) | Silent |
-| Bahaa Farouk | Suez Canal Bank, Egypt | b3 | Msg 3 sent 2026-07-27 | Msg 4 · 2026-08-02 (moved, pause) | Silent |
+| Moayad Aldawood | Bank Albilad, KSA | b2 | Msg 3 sent 2026-07-27 | Msg 4 · 2026-08-02 (drafted, awaiting snapshot) | Silent |
+| Bahaa Farouk | Suez Canal Bank, Egypt | b3 | Msg 3 sent 2026-07-27 | Msg 4 · 2026-08-02 (drafted, awaiting snapshot) | Silent |
 | Adam Jabry | Alizz, Oman | b3 | Msg 2 sent 2026-07-22 | Msg 3 · HELD | HELD (Alizz acquisition) |
-| Amir Alsalous | Bank of Sharjah, UAE | b3 | Msg 3 sent 2026-07-27 | Msg 4 · 2026-08-02 (moved, pause) | Silent |
-| Sridhar Iyer | GIB (meem), KSA/Bahrain | b4 | Msg 3 sent 2026-07-27 | Msg 4 · 2026-08-02 (moved, pause) | Silent |
-| Wafa Al Harbi | Sharjah Islamic, UAE | b4 | Msg 3 sent 2026-07-27 | Msg 4 · 2026-08-02 (moved, pause) | Silent |
-| Mahmoud Okasha | AAIB, Egypt | b4 | Msg 3 sent 2026-07-27 | Msg 4 · 2026-08-02 (moved, pause) | Silent |
-| Navaid Ahmed | Sohar International, Oman | b4 | Msg 3 sent 2026-07-27 | Msg 4 · 2026-08-02 (moved, pause) | Silent |
+| Amir Alsalous | Bank of Sharjah, UAE | b3 | Msg 3 sent 2026-07-27 | Msg 4 · 2026-08-02 (drafted, awaiting snapshot) | Silent |
+| Sridhar Iyer | GIB (meem), KSA/Bahrain | b4 | Msg 3 sent 2026-07-27 | Msg 4 · 2026-08-02 (drafted, awaiting snapshot) | Silent |
+| Wafa Al Harbi | Sharjah Islamic, UAE | b4 | Msg 3 sent 2026-07-27 | Msg 4 · 2026-08-02 (drafted, awaiting snapshot) | Silent |
+| Mahmoud Okasha | AAIB, Egypt | b4 | Msg 3 sent 2026-07-27 | Msg 4 · 2026-08-02 (drafted, awaiting snapshot) | Silent |
+| Navaid Ahmed | Sohar International, Oman | b4 | Msg 3 sent 2026-07-27 | Msg 4 · 2026-08-02 (drafted, awaiting snapshot) | Silent |
 | Nasser Alawadhi | BisB, Bahrain | b6 | Msg 2 sent 2026-07-29 | Msg 3 · 2026-08-03 (Mon) | Silent (email bounced, LinkedIn primary) |
 | Ahmed Ali | QNB Egypt, Egypt | b6 | Msg 1 sent 2026-07-26 | Msg 2 · HELD to ~2026-08-12 | HELD: Salil multi-threading QNB via another contact |
 | Luciano Di Pietro | tam Bank (KFH), Kuwait | b5 | Msg 2 sent 2026-07-29 | Msg 3 · 2026-08-03 (Mon) | Silent |
-| Dr. Ahmed Taqi | BBK, Bahrain | b5 | Msg 1 sent 2026-07-26 | Msg 2 · 2026-08-02 (moved, pause) | Was due 07-30; paused by Salil 07-29 |
-| Said Al Marhoobi | NBO, Oman | b4 | Msg 1 sent 2026-07-26 | Msg 2 · 2026-08-02 (moved, pause) | Was due 07-30; paused. Still needs NBO role confirm (coaching headline, 07-29 snapshot) |
+| Dr. Ahmed Taqi | BBK, Bahrain | b5 | Msg 1 sent 2026-07-26 | Msg 2 · 2026-08-02 (drafted, awaiting snapshot) | Role CONFIRMED (Chief Retail Banking Officer). Copy ready, carried verbatim from the 07-29 draft |
+| Said Al Marhoobi | NBO, Oman | b4 | Msg 1 sent 2026-07-26 | Msg 2 · 2026-08-02 (drafted, BLOCKED) | DO NOT SEND. NBO role still unconfirmed (coaching headline, 07-29 snapshot). One profile click clears it |
 
 16 leads on the LinkedIn lane. Next big sweep dates: 2026-07-29 (Ashraf Msg 4, Mohamed Hamdy Msg 4, and Msg 2
 for Nasser, Ahmed Ali, Luciano, Ahmed Taqi, Said); 2026-07-30 (7 Msg 4).
 
 ## Screenshot review log
+- 2026-08-02: **NO snapshot received.** The batch-01 touch-4 run drafted all 9 due messages but could not run
+  the new-acceptance sweep, so any acceptance since 07-29 is still unswept and any lead who accepted in that
+  window has not been given a Msg 1. Standing rule 3 holds: nothing sends until the snapshot arrives.
 - 2026-07-29: Salil shared the snapshot. Swept all 25 connections vs every pending CR across all batches: NO new
   bank acceptances (all recognizable bank names already in cadence). Roles confirmed from headlines for Nasser
   (BisB), Ahmed Ali (QNB Egypt), Luciano (Head of Digital Banking), Ahmed Taqi (Chief Retail Banking Officer,

@@ -1,10 +1,18 @@
 # Outreach runs: index and operating rules
 
-## ⛔ ACTIVE PAUSE (set by Salil 2026-07-29, lifts Sun 2026-08-02 morning)
+## ⛔ EMAIL STILL FROZEN (pause lifted 2026-08-02; the email freeze did NOT)
 
-**No new message creation on any channel, and no sends, until Sunday 2026-08-02 morning.** Salil called
-this after the zero-reply review. If a routine fires and you are reading this, check with him before
-drafting anything.
+**The blanket pause set 2026-07-29 lifted on Sun 2026-08-02. The cold-email freeze is separate and is
+still in force**, because its release condition (Salil's Google Postmaster Tools read) has not come back.
+LinkedIn is clear to run on Salil's snapshot alone.
+
+Status as of the 2026-08-02 batch-01 touch-4 run:
+- **LinkedIn: unblocked in principle, blocked in practice.** No snapshot was received for 08-02, so the
+  9 due messages are drafted and waiting in `batch-01/04_permission_close_2026-08-02.md`.
+- **Cold email: FROZEN.** Do not send. Drafting is fine now that Salil has asked for prepared copy, but
+  nothing goes to a prospect until he reports the Postmaster numbers.
+- **Gmail connector was unauthorized on 08-02**, so no reply sweep, no bounce check, and no draft creation
+  ran. The last verified Gmail sweep is 2026-07-23, which leaves the 07-27 auto-sends unswept.
 
 - **Why:** `_REPLY_DIAGNOSIS_2026-07-29.md`. ~200 touches across 7 batches, 0 replies on either channel.
   The evidence points at cold email from dengage.com being quarantined (15 to 50 percent hard-bounce rate
@@ -96,7 +104,7 @@ in the reply to Salil, without being asked. Never make him ask for it. Link form
 
 | Batch | Industry / region | Sent (touch 1) | Leads | Latest touch done | Next touch (due) |
 |---|---|---|---|---|---|
-| batch-01 | Gulf+Egypt banking | 2026-07-13 (Mon) | 10 | touch 2 (2026-07-16) | touch 3 → Sun 2026-07-26 (moved from 07-22) |
+| batch-01 | Gulf+Egypt banking | 2026-07-13 (Mon) | 10 | touch 3 (9 use-case emails auto-sent 2026-07-27) | touch 4 (permission close) DRAFTED 2026-08-02, not sent (email frozen). **Last scheduled touch; recommendation is to close the email sequence here.** |
 | batch-02 | Gulf+Egypt banking | 2026-07-14 (Tue) | 10 | touch 2 (2026-07-19, sent) | touch 3 → Thu 2026-07-23 |
 | batch-03 | Gulf+Egypt banking | 2026-07-15 (Wed) | 10 | touch 2 (sent 2026-07-20) | touch 3 → Sun 2026-07-26 |
 | batch-04 | Gulf+Egypt banking | 2026-07-16 (Thu) | 10 | touch 2 (v1.2 SENT + Zoho logged 2026-07-22; stale 07-21 v1.1 drafts deleted; LinkedIn Msg 2 generated for the 4 accepted) | touch 3 → Wed 2026-07-29 |
