@@ -42,6 +42,44 @@ Adam Jabry (Alizz) stays held inside it.
 
 ---
 
+## 2b. batch-03 touch-4: prep done, NO outreach created
+
+The routine prompt was re-delivered after the halt. It was **not executed**, per Salil's stop. The
+read-only prep below was done so a resume does not start from zero. **No email copy was drafted and
+no drafts were created.**
+
+**9 active leads, 1 held.** Touch 3 auto-sent 2026-07-27, so touch 4 is now overdue. Adam Jabry
+(Alizz) stays HELD under the Bank Nizwa acquisition.
+
+### Already sent, do NOT repeat (batch-03)
+
+Reconstructed from `batch-03/03_followup_2026-07-23.md`. Touches 1 and 2 were pulled from Gmail on
+07-23; touch 3 is the copy that auto-sent 07-27. **Not re-verified in Gmail** (connector unauthorized).
+
+| Lead | Bank / geo | T1 subject (15 Jul) | T2 subject (19-20 Jul) | T3 subject (27 Jul) | Angles burned |
+|---|---|---|---|---|---|
+| Fernando Plaza | ADIB, UAE | The spending signal in ADIB's app | One more on ADIB's spending signal | A journey on ADIB's Open Finance data | Money Management Tracker, Open Finance holdings |
+| Lama Alessa | ANB, KSA | Segment of ONE, firing in real time | Following up on Segment of ONE | Firing ANB's strategy per customer | Segment of ONE, intent-triggered next step |
+| Fadi Chalouhi | Gulf Bank, Kuwait | Gulf Points, and the engine under it | Following up, Fadi | Recovering Gulf Bank's abandoned steps | Gulf Points loyalty, abandoned-flow recovery |
+| Bahaa Farouk | Suez Canal, Egypt | One platform, one customer view | One more on the unified platform | The Suez Canal journey after salary lands | Thndr unified platform, idle-salary activation |
+| Karolina Pachucy | Doha Bank, Qatar | After QDI opens the account | Following up on QDI onboarding | Catching a Doha Bank moment that fails | QDI onboarding, failed-action recovery |
+| Ines Kadri | ADCB Egypt | Best Consumer Digital Bank, and the next step | Following up, Ines | A journey around ADCB Egypt's cross-border | digital-bank award, cross-border moments |
+| Omar Batayyah | SABB, KSA | SAB 360°, from goals to journeys | Following up on SAB 360 | Acting on a SABB signal in the moment | SAB 360 goals, signal-triggered next step |
+| Amir Alsalous | Bank of Sharjah, UAE | Bank of Sharjah's retail build, from day one | One more on the retail build | The retail journey as Bank of Sharjah scales | retail build from day one, per-customer onboarding at scale |
+| Aref Al-Ramli | Al Hilal, UAE | Al Hilal's first mile, app-only | Following up on Al Hilal's first mile | Holding the Al Hilal customers you activated | first-mile onboarding, active-customer retention |
+
+Also burned corpus-wide and unusable at touch 4: the "I'm Salil from Dengage, the Composable AI
+Marketing Platform behind..." intro, and the close "if it's worth a conversation, I'd welcome it",
+which appears on all nine touch-3 emails.
+
+### The two OOO auto-replies (important, see the diagnosis correction)
+
+Lama Alessa and Karolina Pachucy both returned out-of-office replies on **2026-07-20**. Neither is a
+real reply, so neither stops a cadence, but they are hard proof of human-mailbox delivery on that date
+and they falsify the "auto-reply cliff after week 1" claim in the diagnosis. Both leads remain active.
+
+---
+
 ## 3. batch-01 touch-4: PREPARED, NOT SENT
 
 Full detail in `batch-01/04_permission_close_2026-08-02.md`. Summary of state:
@@ -160,6 +198,22 @@ weeks nobody has written to him. It needs no freeze lift and no tooling, just on
 
 Roughly 40 connection requests across all batches are still pending acceptance and have never received
 a Message 1. The full list is in `_LINKEDIN_TRACKER.md` under "Connection requests still PENDING".
+
+---
+
+## 7b. Correction to the diagnosis, logged 2026-08-02
+
+`_REPLY_DIAGNOSIS_2026-07-29.md` Section A1 claims zero out-of-office auto-replies in weeks 2 and 3,
+and calls that "the strongest single signal" that email stopped reaching inboxes. **That claim is
+wrong.** Two OOOs were recorded on 2026-07-20 (Lama Alessa at ANB, Karolina Pachucy at Doha Bank), in
+a file committed on 07-23, six days before the diagnosis was written.
+
+The correction is written into the diagnosis itself. In short: mail was reaching human mailboxes at
+two GCC banks a week later than claimed, the silent window shrinks from about two weeks to about one,
+and A1 is much weaker evidence than stated. The bounce ledger, the burst pattern, the gateway census,
+and the whole LinkedIn analysis are unaffected, so the fix plan stands. But the empirical case for
+"the pipe is dead" is thinner than the diagnosis asserted, which makes the Postmaster read the
+decisive test rather than a confirmation of something already proven.
 
 ---
 

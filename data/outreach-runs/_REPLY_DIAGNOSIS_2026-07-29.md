@@ -26,6 +26,34 @@ there is no GCC proof, and it is peak Gulf summer.
 - [VERIFY]: Google Postmaster Tools (domain reputation + user-reported spam rate for dengage.com)
   will confirm or refute this in 10 minutes. Salil action, highest priority.
 
+> ### ⚠️ CORRECTION to A1, logged 2026-08-02. The claim above is partly WRONG.
+>
+> **"Weeks 2 and 3: ZERO OOO auto-replies recorded anywhere" is false.**
+> `batch-03/03_followup_2026-07-23.md`, written on 07-23 and therefore available six days before this
+> diagnosis, records **two out-of-office auto-replies on 2026-07-20**: Lama Alessa (ANB, KSA) and
+> Karolina Pachucy (Doha Bank, Qatar), both responding to batch-03's touch-2 sent 07-19 and 07-20.
+> This diagnosis missed them and asserted a clean cliff after week 1.
+>
+> **What this changes.** Mail was demonstrably reaching human mailboxes at two separate GCC banks on
+> 07-20, a week later than A1 claims. The auto-reply cliff, if real, begins after 07-20, not after
+> 07-15. That cuts the silent observation window from roughly two weeks to roughly one, which
+> materially weakens what was called "the strongest single signal". A one-week OOO drought across a
+> smaller send volume is a much weaker inference than a two-week one.
+>
+> **What this does NOT change.** The bounce ledger (A2, 15 to 50 percent per batch) stands untouched
+> and is independently damning. The burst-send fingerprint (A3), the template DNA (A4), the enterprise
+> gateway census (E2.2), and the entire LinkedIn analysis (Section B, which never involved
+> deliverability) are all unaffected. The Section D fix plan does not change.
+>
+> **Net effect.** The verdict "the pipe is probably damaged" survives, but the timeline shifts and the
+> evidence is weaker than stated. The most coherent reading is now that reputation degraded
+> progressively as the bounce rate accumulated, which makes A2 the cause and A1 a lagging symptom
+> rather than the headline proof. It also makes the Postmaster read (E3.1) more decisive than ever,
+> because the empirical case is thinner than this document claimed.
+>
+> Lesson for the method: this diagnosis asserted a negative ("zero recorded anywhere") without
+> grepping the repo for it. The two OOOs were in a committed file the whole time.
+
 ### A2. The bounce ledger (the likely cause of A1)
 - batch-01: 1/10 hard bounce. batch-05: 2/10. batch-06: 3/10. batch-07: 5/10 (fifty percent).
 - Cumulative: roughly 11+ hard bounces across ~70 cold addresses, 15 to 20 percent, with the trend
