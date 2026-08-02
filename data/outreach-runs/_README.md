@@ -1,6 +1,17 @@
 # Outreach runs: index and operating rules
 
-## ⛔ EMAIL STILL FROZEN (pause lifted 2026-08-02; the email freeze did NOT)
+## 🛑 CAMPAIGN HALTED BY SALIL, 2026-08-02. ALL ROUTINES PAUSED.
+
+**Salil stopped the campaign on 2026-08-02 and paused every routine. Nothing is scheduled and nothing
+will fire.** Do not send, draft, or re-arm anything without his explicit go.
+
+**Read `_OUTSTANDING_2026-08-02.md` first.** It is the resume-here register: every paused routine and
+its trigger ID, everything left undone, the six decisions waiting on Salil, and the unactioned fix
+plan. The section below is the earlier freeze note, kept for context.
+
+---
+
+## ⛔ EMAIL FROZEN since 2026-07-29 (superseded by the full halt above)
 
 **The blanket pause set 2026-07-29 lifted on Sun 2026-08-02. The cold-email freeze is separate and is
 still in force**, because its release condition (Salil's Google Postmaster Tools read) has not come back.
